@@ -1,16 +1,234 @@
 @import "tailwindcss";
 
 :root {
-  --primary: #E32934;
-  --primaryLight: #e3293528;
+  --primary: #d40815;
+  --primaryDark: #a90610;
   --secondary: #242424;
+  --pink: #ffacb1;
+  --pingLight: #ffeaeb;
   --secondaryLight: #f2f4ff;
+  --grayLight: #dedede;
+  --font-creato: "CreatoDB";
 }
 
 @theme inline {
+  --default-font-family: var(--font-creato), sans-serif;
   --color-primary: var(--primary);
-  --color-primaryLight: var(--primaryLight);
+  --color-primaryDark: var(--primaryDark);
   --color-secondary: var(--secondary);
+  --color-pink: var(--pink);
+  --color-pingLight: var(--pingLight);
   --color-secondaryLight: var(--secondaryLight);
+  --color-grayLight: var(--grayLight);
+
+  /* Remove default rem-based breakpoints */
+  --breakpoint-*: initial;
+
+  /* Define your custom breakpoints */
+  --breakpoint-2xs: 360px;
+  --breakpoint-xs: 480px;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: initial;
+
+  /* Reset default container sizes */
+  --container-*: initial;
+
+  /* Set container max widths */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  /* Leave 2xl unbounded so it stops at xl */
 }
 
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* .splide:not(.is-overflow) .splide__pagination {
+  display: block !important;
+} */
+.splide__arrow {
+  background: var(--primary) !important;
+  border-radius: 6px !important;
+  height: 2.5em !important;
+  width: 2.5em !important;
+  opacity: 1 !important;
+  top: auto !important;
+  bottom: -5em !important;
+  transform: translateY(-100%);
+  color: white !important;
+  -webkit-border-radius: 6px !important;
+  -moz-border-radius: 6px !important;
+  -ms-border-radius: 6px !important;
+  -o-border-radius: 6px !important;
+  -webkit-transform: translateY(-100%);
+  -moz-transform: translateY(-100%);
+  -ms-transform: translateY(-100%);
+  -o-transform: translateY(-100%);
+}
+.splide__arrow--next {
+  right: 0em !important;
+}
+.splide__arrow--prev {
+  left: auto !important;
+  right: 4em !important;
+}
+.splide__arrow svg {
+  fill: white !important;
+}
+
+.testimonialarrow .splide__arrow--next {
+  right: 25% !important;
+}
+.testimonialarrow .splide__arrow--prev {
+  left: 25% !important;
+}
+.testimonialarrow .splide__pagination {
+  bottom: -3em !important;
+  padding: 0 7em !important;
+  position: absolute;
+}
+.testimonialarrow .splide__pagination__page.is-active {
+  background: var(--primary) !important;
+}
+.testimonialarrow .splide__pagination__page {
+  background: var(--secondary) !important;
+  border-radius: 10px !important;
+  opacity: 1 !important;
+  width: 60px !important;
+  height: 5px !important;
+  transform: scale(1) !important;
+  -webkit-border-radius: 10px !important;
+  -moz-border-radius: 10px !important;
+  -ms-border-radius: 10px !important;
+  -o-border-radius: 10px !important;
+}
+
+.dot .splide__pagination__page {
+  background: var(--pink) !important;
+}
+.dot .splide__pagination__page.is-active {
+  background: var(--primary) !important;
+}
+.dot .splide__pagination {
+  bottom: -2.5em !important;
+}
+.dot .splide__pagination {
+    justify-content: start !important;
+}
+
+@media only screen and (max-width: 1024px) {
+  .testimonialarrow .splide__arrow--next {
+    right: 15% !important;
+  }
+  .testimonialarrow .splide__arrow--prev {
+    left: 15% !important;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .testimonialarrow .splide__pagination__page {
+    width: 30px !important;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .splide__arrow {
+    height: 2em !important;
+    width: 2em !important;
+    bottom: -4em !important;
+  }
+
+  .splide__track {
+    padding: 0 !important;
+  }
+  .testimonialarrow .splide__arrow--next {
+    right: 5% !important;
+  }
+  .testimonialarrow .splide__arrow--prev {
+    left: 5% !important;
+  }
+  .testimonialarrow .splide__pagination {
+  bottom: -2.5em !important;
+    padding: 0 1em !important;
+  }
+}
+body {
+  overflow-x: hidden !important;
+}
+.bgimg {
+  @apply bg-no-repeat bg-cover bg-center;
+}
+.secPadding {
+  @apply md:py-12 sm:py-8 py-4;
+}
+.secSlidePadding {
+  @apply md:pt-12 sm:pt-8 pt-4 sm:pb-12 pb-14;
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0.8rem !important;
+  padding-left: 0.8rem !important;
+}
+.display1 {
+  @apply font-bold lg:text-4xl md:text-3xl text-2xl;
+}
+.display2 {
+  @apply font-bold md:text-3xl sm:text-2xl text-xl;
+}
+.display3 {
+  @apply font-bold xl:text-3xl lg:text-2xl sm:text-xl text-lg;
+}
+.display4 {
+  @apply font-bold xl:text-2xl sm:text-xl text-lg;
+}
+.display5 {
+  @apply font-bold lg:text-xl text-lg;
+}
+.display6 {
+  @apply font-bold sm:text-lg text-base;
+}
+.displayPara {
+  @apply lg:text-base sm:text-sm text-xs;
+}
+/* .contentWidth {
+  @apply max-w-4xl w-full mx-auto;
+} */
+
+.float-labels {
+  transition-property: top, font-size, line-height;
+  transition-duration: 150ms;
+  pointer-events: none;
+  transition-timing-function: linear;
+}
+.react-time-picker__wrapper {
+  border: none !important;
+  color: #2f489c !important;
+  font-weight: 500 !important;
+}
+
+@media only screen and (max-width: 500px) {
+  .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+}
+
+.rc-slider-handle {
+  width: 20px !important;
+  height: 20px !important;
+  margin-top: -7px !important;
+  background-color: #fff !important;
+  border: solid 2px var(--primary) !important;
+  opacity: 1 !important;
+}

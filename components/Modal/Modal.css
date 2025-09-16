@@ -1,0 +1,19 @@
+.custom-dialog {
+    border: none;
+    border-radius: 0;
+    padding: 0;
+    width: 60%;
+    max-width: 800px;
+    height: auto;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .custom-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .custom-dialog-body {
+    padding: 0;
+  }
+  
