@@ -19,7 +19,7 @@
     "gsap": "^3.13.0",
     "jose": "^6.0.12",
     "jsonwebtoken": "^9.0.2",
-    "jspdf": "^3.0.1",
+    "jspdf": "^3.0.2",
     "jspdf-autotable": "^5.0.2",
     "libphonenumber-js": "^1.12.10",
     "lucide-react": "^0.532.0",
