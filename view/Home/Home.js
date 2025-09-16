@@ -127,7 +127,7 @@ export default function Home({ h1, faq }) {
             : "Trusted By The Best!"
         }
       />
-      <div className="relative">
+      {/* <div className="relative">
         <div className="absolute right-0 top-0 sm:block hidden">
           <Image
             src={"/assets/icons/wm_07.svg"}
@@ -241,13 +241,14 @@ export default function Home({ h1, faq }) {
             className=""
           />
         </div>
-        <FaqsSection data={faq1} />
+        <FaqsSection data={faq1} /> */}
         {/* <Suspense fallback={<LoadFaqs />}>
         {faq && <FaqsSection data={JSON.parse(faq)} />}
         {faq && <BottomFAQSchema data={JSON.parse(faq)} />}
       </Suspense> */}
-        <StillHaveQuestions />
+        {/* <StillHaveQuestions />
       </div>
+       */}
     </>
   );
 }

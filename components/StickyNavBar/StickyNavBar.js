@@ -16,14 +16,13 @@ import useFilterStore from "@/stores/filterStore";
 import Signin from "../UserAuth/Signin";
 import Signup from "../UserAuth/Signup";
 import OtpVerification from "../UserAuth/OtpVerification";
-import ResetPassword from "../UserAuth/ResetPassword";
 import SuccessfulPasswordReset from "../UserAuth/SuccessfulPasswordReset";
 import NewPassword from "../UserAuth/NewPassword";
 import RecoverPassword from "../UserAuth/RecoverPassword";
 import ForgotPassword from "../UserAuth/ForgotPassword";
 import useUserStore from "@/stores/user-store";
-import { Icon } from "@iconify/react";
-import AvatarDropdown from "../AvatarDropdown/AvatarDropdown";
+// import { Icon } from "@iconify/react";
+// import AvatarDropdown from "../AvatarDropdown/AvatarDropdown";
 import Heading6 from "../Typography/Heading6";
 import Heading4 from "../Typography/Heading4";
 import AppModal from "../Modal/AppModal";
@@ -293,6 +292,19 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
   );
 }
 
+const TopNavBarContact = () => {
+  return (
+    <>
+      <div className="bg-white">
+        <div className="flex items-center">
+
+        </div>
+      </div>
+    </>
+  )
+}
+
+
 export function StickyNavbar() {
   const [formType, setFormType] = useState("signin");
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -307,7 +319,7 @@ export function StickyNavbar() {
   );
 
   const [navbarColorLogo, setNavbarColorLogo] = useState(
-    "/assets/images/car_solution_logo.svg"
+    "/assets/images/car_solution.svg"
   );
   const [navbarText, setNavbarText] = useState("");
   const [iconStrock, setIconStrock] = useState(`white`);
@@ -322,12 +334,12 @@ export function StickyNavbar() {
       const scrollY = window.scrollY;
       if (scrollY > 0) {
         setNavbarColor("!bg-secondary !text-white py-1 shadow-xl");
-        setNavbarColorLogo(`/assets/images/car_solution_logo.svg`);
+        setNavbarColorLogo(`/assets/images/car_solution.svg`);
         setNavbarText(`!text-white`);
         setIconStrock(`white`);
       } else {
         setNavbarColor("lg:backdrop-blur-0 bg-secondary text-white py-3");
-        setNavbarColorLogo(`/assets/images/car_solution_logo.svg`);
+        setNavbarColorLogo(`/assets/images/car_solution.svg`);
         setNavbarText(`!text-white`);
         setIconStrock(`white`);
       }
@@ -341,14 +353,7 @@ export function StickyNavbar() {
     ? vendor.first_name.charAt(0).toUpperCase()
     : "";
 
-  const translations = {
-    en: {
-      bookYourCar: "Book Your Car",
-    },
-    ar: {
-      bookYourCar: "احجز سيارتك",
-    },
-  };
+
   useEffect(() => {
     fetchAllBrandData();
     fetchCategoriesData();
@@ -374,52 +379,14 @@ export function StickyNavbar() {
   };
   return (
     <>
+      <TopNavBarContact />
       <div
         className={`${navbarColor} sticky top-0 z-50 w-full transition-all duration-300 shadow-lg`}>
         <nav
           className={`container relative lg:border-none lg:shadow-none h-max rounded-none px-4 lg:px-14`}>
-          <div className="grid lg:grid-cols-2 items-center">
-            {/* <div className="flex items-center justify-between"> */}
-            <div className="hidden lg:block">
-              {/* <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-2 lg:divide-y-0 divide-y"> */}
-              <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-4 lg:divide-y-0 divide-y">
-                {navlinks[locale]?.map(({ name, link, pageLinks, blogLinks }, index) => {
-                  const currentPath = pathname.replace(/^\/(en|ar)/, "");
-                  const isActive =
-                    link === "/"
-                      ? pathname === `/${locale}` ||
-                      pathname === `/${locale}/` ||
-                      pathname === "/"
-                      : currentPath === link;
-                  return pageLinks ? (
-                    <NavListMenu
-                      key={index}
-                      title={name}
-                      pageLinks={pageLinks}
-                      blogLinks={blogLinks}
-                    />
-                  ) : (
-                    <li
-                      key={index}
-                      className={`${navbarText} flex items-center gap-2 pr-1 py-2 font-[400] lg:divide-y-0 divide-y 
-                      ${isActive
-                          ? "font-semibold underline underline-offset-4"
-                          : "text-white"
-                        }`}>
-                      <LanguageAwareLink
-                        href={link}
-                        onClick={() => resetFilters()}
-                        className="normalFontSize text-base">
-                        {name}
-                      </LanguageAwareLink>
-                    </li>
-                  );
-                })}
-              </ul>
-            </div>
-
+          <div className="hidden lg:block">
             <div className="flex items-center justify-between">
-              <div className="xl:basis-sm xl:-ml-16">
+              <div className="">
                 <LanguageAwareLink
                   href={textToRouteUrl("/")}
                   className="cursor-pointer">
@@ -431,6 +398,42 @@ export function StickyNavbar() {
                     className={`object-contain`}
                   />
                 </LanguageAwareLink>
+              </div>
+              <div>
+                <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-4 lg:divide-y-0 divide-y">
+                  {navlinks[locale]?.map(({ name, link, pageLinks, blogLinks }, index) => {
+                    const currentPath = pathname.replace(/^\/(en|ar)/, "");
+                    const isActive =
+                      link === "/"
+                        ? pathname === `/${locale}` ||
+                        pathname === `/${locale}/` ||
+                        pathname === "/"
+                        : currentPath === link;
+                    return pageLinks ? (
+                      <NavListMenu
+                        key={index}
+                        title={name}
+                        pageLinks={pageLinks}
+                        blogLinks={blogLinks}
+                      />
+                    ) : (
+                      <li
+                        key={index}
+                        className={`${navbarText} flex items-center gap-2 pr-1 py-2 font-[400] lg:divide-y-0 divide-y 
+                      ${isActive
+                            ? "font-semibold underline underline-offset-4"
+                            : "text-white"
+                          }`}>
+                        <LanguageAwareLink
+                          href={link}
+                          onClick={() => resetFilters()}
+                          className="normalFontSize text-base">
+                          {name}
+                        </LanguageAwareLink>
+                      </li>
+                    );
+                  })}
+                </ul>
               </div>
               <div className="flex items-center gap-4">
                 {vendor?.id ? (
@@ -457,7 +460,7 @@ export function StickyNavbar() {
                   </>
                 ) : (
                   <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-4">
+                    {/* <div className="flex items-center gap-4">
                       <div
                         className={`flex items-center gap-4 ${user?.id ? "gap-4" : "gap-2"
                           }`}
@@ -481,11 +484,16 @@ export function StickyNavbar() {
                         </div>
                         <AvatarDropdown isModalOpen={isModalOpen} setIsModalOpen={setIsModalOpen} />
                       </div>
-                    </div>
-
+                    </div> */}
+                    <Link
+                      href={'/contact-us'}
+                      variant={`primary`}
+                    >
+                      {`Inquire Now`}
+                    </Link>
                     {/* Responsive NavBar */}
                     <div
-                    className="lg:hidden flex items-center"
+                      className="lg:hidden flex items-center"
                       onClick={() =>
                         showDrawer({
                           title: (
@@ -583,7 +591,7 @@ export function StickyNavbar() {
           <div className="grid lg:grid-cols-2 grid-cols-1 gap-8 h-full">
             <div className="relative border -m-6 lg:block hidden">
               <Image
-                src={`/assets/images/car_solution_logo.svg`}
+                src={`/assets/images/car_solution.svg`}
                 alt="Elena Petrova"
                 width={219}
                 height={585}

@@ -47,7 +47,7 @@ const Footer = () => {
 
   return (
     <>
-      <div className="secPadding bg-secondary text-white">
+      <div className="secPadding text-white bg-[url(/assets/images/footerbg.webp)] bgimg">
         <div className="container">
           <div className="space-y-6">
             <div>
@@ -73,7 +73,7 @@ const Footer = () => {
                 <div>
                   <LanguageAwareLink href={`${textToRouteUrl("/")}`}>
                     <Image
-                      src={`/assets/images/car_solution_logo.svg`}
+                      src={`/assets/images/car_solution.svg`}
                       alt={"logo"}
                       width={220}
                       height={120}

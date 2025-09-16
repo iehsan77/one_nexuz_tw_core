@@ -36,10 +36,10 @@ export const contactItems = [
 ];
 export const navlinks = {
   en: [
-    { name: "Home", link: "/" },
-    { name: "About Us", link: "/about-us" },
-    { name: "New", link: "/new" },
-    { name: "Used", link: "/used" },
+    // { name: "Home", link: "/" },
+    // { name: "About Us", link: "/about-us" },
+    // { name: "New", link: "/new" },
+    // { name: "Used", link: "/used" },
     {
       name: "Services",
       link: "#",

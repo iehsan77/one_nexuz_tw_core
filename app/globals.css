@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --primary: #d40815;
-  --primaryDark: #a90610;
+  --primary: #E32934;
+  --primaryLight: #E3293428;
   --secondary: #242424;
   --pink: #ffacb1;
   --pingLight: #ffeaeb;
@@ -14,7 +14,7 @@
 @theme inline {
   --default-font-family: var(--font-creato), sans-serif;
   --color-primary: var(--primary);
-  --color-primaryDark: var(--primaryDark);
+  --color-primaryLight: var(--primaryLight);
   --color-secondary: var(--secondary);
   --color-pink: var(--pink);
   --color-pingLight: var(--pingLight);
