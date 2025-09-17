@@ -118,7 +118,6 @@ export default function Home({ h1, faq }) {
             ? "خدمة تأجير السيارات الفاخرة الرائدة في دبي"
             : "Find the Best Used Cars for Sale in Houston"
         }
-        Filter={true}
       />
       <AffiliateSection
         heading={
