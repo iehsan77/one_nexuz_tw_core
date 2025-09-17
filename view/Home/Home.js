@@ -1,11 +1,7 @@
 "use client";
 import { GET } from "@/actions/actions";
 import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
-import Banner from "@/components/Banners/Banner";
-import LatestBlogs from "@/components/BlogComponents/LatestBlogs";
-import Image from "@/components/Image/Image";
 import {
-  allCarsDatadummy,
   assetsDataAr,
   assetsDataAr1,
   assetsDataEn,
@@ -14,37 +10,19 @@ import {
   assetsDatahomeAr4,
   assetsDatahomeEn3,
   assetsDatahomeEn4,
-  BodyTypeData,
-  brandLogoData,
   btnTextAr,
   btnTextEn,
   CarSolutionData,
-  featuredDatadummy,
-  GuideToBuying,
   homeTitleAr,
   homeTitleEn,
-  ServicesHomeData1,
 } from "@/mockData/dummyData";
-import { faq1 } from "@/mockData/faqDummy";
 import AffiliateSection from "@/sections/AffiliateSection";
-import AssetsSection from "@/sections/AssetsSection";
-import BodyTypeSection from "@/sections/BodyTypeSection";
-import BrandSection from "@/sections/BrandSection";
 import ContactEmarionSection from "@/sections/ContactEmarionSection";
-import FaqsSection from "@/sections/FaqsSection";
-import GuidesSection from "@/sections/GuidesSection/GuidesSection";
 import HeroSection from "@/sections/HeroSection/HeroSection";
-import OurTeamSection from "@/sections/OurTeamSection";
-import ProductAllCarsSection from "@/sections/ProductAllCarsSection";
-import ProductCardSection from "@/sections/ProductCardSection";
-import ServicesSection from "@/sections/ServicesSection";
-import ShowRoom from "@/sections/ShowRoom";
-import SocialCommunitySection from "@/sections/SocialCommunitySection";
-import StillHaveQuestions from "@/sections/StillHaveQuestions";
-import TestimonialsVideosSection from "@/sections/TestimonialsVideosSection";
+import TabsSection from "@/sections/TabSection";
 import useFilterStore from "@/stores/filterStore";
 import { endpoints } from "@/utils/endpoints";
-import React, { Suspense, useContext, useState } from "react";
+import React, { useContext, useState } from "react";
 import { useEffect } from "react";
 
 export default function Home({ h1, faq }) {
@@ -116,8 +94,12 @@ export default function Home({ h1, faq }) {
         heading={
           locale === "ar"
             ? "خدمة تأجير السيارات الفاخرة الرائدة في دبي"
-            : "Find the Best Used Cars for Sale in Houston"
+            : "All-in-One Business Setup & Corporate Solutions, ^Powered by One Nexuz"
         }
+        paragraph={[
+          "We eliminate the pain of business formation, relocation, and compliance by offering an integrated suite of corporate, wealth, and digital services, empowering you to launch faster and scale smarter in Dubai and beyond.",
+        ]}
+        btn
       />
       <AffiliateSection
         heading={
@@ -126,7 +108,16 @@ export default function Home({ h1, faq }) {
             : "Trusted By The Best!"
         }
       />
+      <TabsSection />
+      {/* <ContactEmarionSection data={CarSolutionData}
+        heading={`How Our Car Solutions Work in Simple Steps`}
+        paragraph={[
+          `Navigating the car buying and selling process has never been easier. Our streamlined approach ensures you find the right vehicle or buyer quickly and confidently.`
+        ]}
+      /> */}
+      
       {/* 
+      
       <div className="relative">
         <div className="absolute right-0 top-0 sm:block hidden">
           <Image
@@ -180,12 +171,7 @@ export default function Home({ h1, faq }) {
         </div>
       </div>
 
-      <ContactEmarionSection data={CarSolutionData}
-        heading={`How Our Car Solutions Work in Simple Steps`}
-        paragraph={[
-          `Navigating the car buying and selling process has never been easier. Our streamlined approach ensures you find the right vehicle or buyer quickly and confidently.`
-        ]}
-      />
+      
       <GuidesSection
         heading="Essential Car Buying Tips"
         paragraph={[
@@ -242,11 +228,11 @@ export default function Home({ h1, faq }) {
           />
         </div>
         <FaqsSection data={faq1} /> */}
-        {/* <Suspense fallback={<LoadFaqs />}>
+      {/* <Suspense fallback={<LoadFaqs />}>
         {faq && <FaqsSection data={JSON.parse(faq)} />}
         {faq && <BottomFAQSchema data={JSON.parse(faq)} />}
       </Suspense> */}
-        {/* <StillHaveQuestions />
+      {/* <StillHaveQuestions />
       </div>
        */}
     </>

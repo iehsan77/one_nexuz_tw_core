@@ -3,7 +3,7 @@ import Heading5 from "@/components/Typography/Heading5";
 import Paragraph from "@/components/Typography/Paragraph";
 import React from "react";
 
-const ContactEmarionSection = ({ data, heading, fourGrids, paragraph }) => {
+const CounterSection = ({ data, heading, fourGrids, paragraph }) => {
   return (
     <>
       <section className="secPadding">
@@ -53,4 +53,4 @@ const ContactEmarionSection = ({ data, heading, fourGrids, paragraph }) => {
   );
 };
 
-export default ContactEmarionSection;
+export default CounterSection;

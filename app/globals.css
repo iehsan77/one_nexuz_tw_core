@@ -2,7 +2,7 @@
 
 :root {
   --primary: #E32934;
-  --primaryLight: #E3293428;
+  --primaryLight: #E3293410;
   --secondary: #2B2A6C;
   --pink: #ffacb1;
   --pingLight: #ffeaeb;
@@ -176,7 +176,7 @@ body {
   padding-left: 0.8rem !important;
 }
 .display1 {
-  @apply font-bold lg:text-4xl md:text-3xl text-2xl;
+  @apply font-bold lg:text-5xl md:text-3xl text-2xl;
 }
 .display2 {
   @apply font-bold md:text-3xl sm:text-2xl text-xl;
@@ -194,7 +194,7 @@ body {
   @apply font-bold sm:text-lg text-base;
 }
 .displayPara {
-  @apply lg:text-base sm:text-sm text-xs;
+  @apply sm:text-sm text-xs;
 }
 /* .contentWidth {
   @apply max-w-4xl w-full mx-auto;

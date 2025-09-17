@@ -3,24 +3,31 @@ import React from "react";
 import FilterBar from "../Filter/FilterBar";
 import Paragraph from "@/components/Typography/Paragraph";
 import SearchBar from "@/components/BlogComponents/SearchBar/SearchBar";
+import Link from "@/components/Link/Link";
 
-const HeroSection = ({ className, heading, Filter, searchbar, paragraph }) => {
+const HeroSection = ({
+  className,
+  heading,
+  Filter,
+  searchbar,
+  paragraph,
+  btn
+}) => {
   return (
     <>
       <section className={`secPadding ${className} bgimg `}>
         <div className={`container`}>
-          <div className={`xs:py-44.5 py-32 px-4`}>
+          <div className={`py-24 px-4`}>
             <div className="space-y-4">
-              <div className="max-w-lg mx-auto !space-y-8">
-                <Heading1
-                  className={`!text-center !text-white`}
-                  blackHeading={heading}
-                />
+              <div className="max-w-md !space-y-8">
+                <Heading1 className={`!text-white`} blackHeading={heading} />
                 {paragraph && (
-                  <Paragraph
-                    className={`md:!text-center text-left !text-white !text-lg`}
-                    blackText2={paragraph}
-                  />
+                  <Paragraph className={`!text-white`} blackText2={paragraph} />
+                )}
+                {btn && (
+                  <Link href={"/"} variant={"primary"} className="!inline-flex">
+                    Book a Free Consultation
+                  </Link>
                 )}
               </div>
               <div className="max-w-xl w-full mx-auto xl:px-44 lg:px-20">

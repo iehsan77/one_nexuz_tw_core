@@ -35,7 +35,7 @@ const Link = ({
                   : variant === "whiteOutline"
                     ? "bg-transparent border border-white text-white hover:bg-white hover:text-primary hover:border-primary"
                     : variant === "txt"
-                      ? "!px-0 !py-0 !border-none bg-transparent text-primary hover:text-secondary"
+                      ? "!px-0 !py-0 !border-none bg-transparent hover:text-primary"
                       : variant === "black"
                         ? "!border-none bg-secondary text-primary"
                         : variant === "txtDarkbg"
