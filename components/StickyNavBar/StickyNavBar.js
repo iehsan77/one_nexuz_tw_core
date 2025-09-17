@@ -1,9 +1,9 @@
 "use client";
-import React, { useContext, useEffect, useState } from "react";
+import React, { Suspense, useContext, useEffect, useState } from "react";
 import Image from "@/components/Image/Image";
 import { usePathname, useRouter } from "next/navigation";
-import { Chevron } from "@/public/assets/icons/SVGIcons";
-import { navlinks } from "@/mockData/dummyData";
+import { Chevron, MultilangSVG } from "@/public/assets/icons/SVGIcons";
+import { navlinks, socialLinks, topHeadContent } from "@/mockData/dummyData";
 import useVendorStore from "@/stores/vendor-store";
 import { useDrawer } from "@/context/drawer-context";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
@@ -27,6 +27,7 @@ import Heading6 from "../Typography/Heading6";
 import Heading4 from "../Typography/Heading4";
 import AppModal from "../Modal/AppModal";
 import Link from "../Link/Link";
+import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 
 function NavSubListMenu({ title, link, subLinks }) {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -127,7 +128,7 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
   const resourcesItems = pageLinks.map((item, i) => (
     <div
       key={i}
-      className="flex items-start gap-4 rounded-lg hover:bg-white/10  lg:p-3 transition"
+      className="flex items-start gap-4 rounded-lg hover:bg-white/10 lg:p-3 transition"
     >
       <LanguageAwareLink
         href={textToRouteUrl(item.link || "#")}
@@ -188,6 +189,7 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
     )
   }
   );
+  
   return (
     <>
       {/* ✅ Desktop Mega Menu */}
@@ -207,7 +209,7 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
         </div>
 
         {isMenuOpen && (
-          <div className="absolute left-0 bg-secondary w-full shadow-lg px-6 py-6 rounded-xl overflow-hidden">
+          <div className="absolute left-0 bg-white text-black w-full shadow-lg px-6 py-6 rounded-xl overflow-hidden">
             {variant === "services" && (
               <div>
                 <Heading4 blackHeading={`Services`} className="text-wrap lg:block hidden mb-4" />
@@ -295,15 +297,44 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
 const TopNavBarContact = () => {
   return (
     <>
-      <div className="bg-white">
-        <div className="flex items-center">
-
+      <div className="container">
+        <div className="bg-white py-1">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              {topHeadContent?.map((item, index) => (
+                <Link
+                  target="_blank"
+                  variant={``}
+                  key={index}
+                  href={item.link}
+                  className={`!px-0 flex items-center gap-2 !text-sm`}
+                >
+                  {item.icon}
+                  {item.label}
+                </Link>
+              ))}
+            </div>
+            <div className="flex items-center justify-center gap-2 pt-1">
+              {socialLinks.map((item, index) => (
+                <div key={index} className="flex items-center sm:justify-end justify-center">
+                  <Link href={item.link} target="_blank" className={`!border-none !px-0`} >
+                    {item.icon}
+                  </Link>
+                </div>
+              ))}
+              <MultilangSVG />
+              <div className="">
+                <Suspense fallback={<div>Loading language switcher...</div>}>
+                  <LanguageSwitcher />
+                </Suspense>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </>
   )
 }
-
 
 export function StickyNavbar() {
   const [formType, setFormType] = useState("signin");
@@ -353,7 +384,14 @@ export function StickyNavbar() {
     ? vendor.first_name.charAt(0).toUpperCase()
     : "";
 
-
+  const translations = {
+    en: {
+      bookYourCar: "Book Your Car",
+    },
+    ar: {
+      bookYourCar: "احجز سيارتك",
+    },
+  };
   useEffect(() => {
     fetchAllBrandData();
     fetchCategoriesData();
@@ -379,14 +417,16 @@ export function StickyNavbar() {
   };
   return (
     <>
-      <TopNavBarContact />
+      <div className="sm:block hidden">
+        <TopNavBarContact />
+      </div>
       <div
-        className={`${navbarColor} sticky top-0 z-50 w-full transition-all duration-300 shadow-lg`}>
+        className={`${navbarColor} sticky top-0 z-40 w-full transition-all duration-300 shadow-lg`}>
         <nav
           className={`container relative lg:border-none lg:shadow-none h-max rounded-none px-4 lg:px-14`}>
-          <div className="hidden lg:block">
-            <div className="flex items-center justify-between">
-              <div className="">
+          <div className="flex items-center justify-between">
+            <div className="hidden lg:block">
+              <div className="xl:basis-sm xl:-ml-16">
                 <LanguageAwareLink
                   href={textToRouteUrl("/")}
                   className="cursor-pointer">
@@ -399,69 +439,68 @@ export function StickyNavbar() {
                   />
                 </LanguageAwareLink>
               </div>
-              <div>
-                <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-4 lg:divide-y-0 divide-y">
-                  {navlinks[locale]?.map(({ name, link, pageLinks, blogLinks }, index) => {
-                    const currentPath = pathname.replace(/^\/(en|ar)/, "");
-                    const isActive =
-                      link === "/"
-                        ? pathname === `/${locale}` ||
-                        pathname === `/${locale}/` ||
-                        pathname === "/"
-                        : currentPath === link;
-                    return pageLinks ? (
-                      <NavListMenu
-                        key={index}
-                        title={name}
-                        pageLinks={pageLinks}
-                        blogLinks={blogLinks}
-                      />
-                    ) : (
-                      <li
-                        key={index}
-                        className={`${navbarText} flex items-center gap-2 pr-1 py-2 font-[400] lg:divide-y-0 divide-y 
-                      ${isActive
-                            ? "font-semibold underline underline-offset-4"
-                            : "text-white"
-                          }`}>
-                        <LanguageAwareLink
-                          href={link}
-                          onClick={() => resetFilters()}
-                          className="normalFontSize text-base">
-                          {name}
-                        </LanguageAwareLink>
-                      </li>
-                    );
-                  })}
-                </ul>
-              </div>
-              <div className="flex items-center gap-4">
-                {vendor?.id ? (
-                  <>
-                    {vendor?.profile_image === "" ? (
-                      <LanguageAwareLink
-                        href={textToRouteUrl("/profile")}
-                        className="rounded-full h-9 w-9 font-semibold flex items-center justify-center !m-0 text-white bg-primary">
-                        {firstLetter}
-                      </LanguageAwareLink>
-                    ) : (
-                      <LanguageAwareLink
-                        href={textToRouteUrl("/profile")}
-                        className="rounded-full h-9 w-9 overflow-hidden">
-                        <Image
-                          src={vendor?.profile_image}
-                          alt={firstLetter}
-                          width={20}
-                          height={20}
-                          className="w-full h-full object-cover"
-                        />
-                      </LanguageAwareLink>
-                    )}
-                  </>
+            </div>
+            <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-4 lg:divide-y-0 divide-y">
+              {navlinks[locale]?.map(({ name, link, pageLinks, blogLinks }, index) => {
+                const currentPath = pathname.replace(/^\/(en|ar)/, "");
+                const isActive =
+                  link === "/"
+                    ? pathname === `/${locale}` ||
+                    pathname === `/${locale}/` ||
+                    pathname === "/"
+                    : currentPath === link;
+                return pageLinks ? (
+                  <NavListMenu
+                    key={index}
+                    title={name}
+                    pageLinks={pageLinks}
+                    blogLinks={blogLinks}
+                  />
                 ) : (
+                  <li
+                    key={index}
+                    className={`${navbarText} flex items-center gap-2 pr-1 py-2 font-[400] lg:divide-y-0 divide-y 
+                      ${isActive
+                        ? "font-semibold underline underline-offset-4"
+                        : "text-white"
+                      }`}>
+                    <LanguageAwareLink
+                      href={link}
+                      onClick={() => resetFilters()}
+                      className="normalFontSize text-base">
+                      {name}
+                    </LanguageAwareLink>
+                  </li>
+                );
+              })}
+            </ul>
+            <div className="flex items-center gap-4">
+              {vendor?.id ? (
+                <>
+                  {vendor?.profile_image === "" ? (
+                    <LanguageAwareLink
+                      href={textToRouteUrl("/profile")}
+                      className="rounded-full h-9 w-9 font-semibold flex items-center justify-center !m-0 text-white bg-primary">
+                      {firstLetter}
+                    </LanguageAwareLink>
+                  ) : (
+                    <LanguageAwareLink
+                      href={textToRouteUrl("/profile")}
+                      className="rounded-full h-9 w-9 overflow-hidden">
+                      <Image
+                        src={vendor?.profile_image}
+                        alt={firstLetter}
+                        width={20}
+                        height={20}
+                        className="w-full h-full object-cover"
+                      />
+                    </LanguageAwareLink>
+                  )}
+                </>
+              ) : (
+                <div className="flex items-center gap-4">
                   <div className="flex items-center gap-4">
-                    {/* <div className="flex items-center gap-4">
-                      <div
+                    {/* <div
                         className={`flex items-center gap-4 ${user?.id ? "gap-4" : "gap-2"
                           }`}
                       >
@@ -483,105 +522,106 @@ export function StickyNavbar() {
                           )}
                         </div>
                         <AvatarDropdown isModalOpen={isModalOpen} setIsModalOpen={setIsModalOpen} />
-                      </div>
-                    </div> */}
+                      </div> */}
+
                     <Link
                       href={'/contact-us'}
                       variant={`primary`}
                     >
                       {`Inquire Now`}
                     </Link>
-                    {/* Responsive NavBar */}
-                    <div
-                      className="lg:hidden flex items-center"
-                      onClick={() =>
-                        showDrawer({
-                          title: (
-                            <div className="">
-                              <div className="flex items-start gap-2">
-                                <LanguageAwareLink
-                                  href={textToRouteUrl("/")}
-                                  className="mr-auto cursor-pointer"
-                                  onClick={() => hideDrawer()}>
-                                  <Image
-                                    src={`/assets/images/car_solution.svg`}
-                                    alt="logo"
-                                    width={120}
-                                    height={64}
-                                    className={``}
-                                  />
-                                </LanguageAwareLink>
-                              </div>
-                            </div>
-                          ),
-                          direction: locale === "ar" ? "right" : "left",
-                          size: "sm",
-                          content: (
-                            <div className="">
-                              <ul className="lg:flex lg:p-1 xl:gap-6 lg:gap-2">
-                                {navlinks[locale]?.map(
-                                  ({ name, link, pageLinks, blogLinks }, index) => {
-                                    const currentPath = pathname.replace(
-                                      /^\/(en|ar)/,
-                                      ""
-                                    );
-                                    const isActive =
-                                      link === "/"
-                                        ? pathname === `/${locale}` ||
-                                        pathname === `/${locale}/` ||
-                                        pathname === "/"
-                                        : currentPath === link;
-
-                                    return pageLinks ? (
-                                      <NavListMenu
-                                        key={index}
-                                        title={name}
-                                        pageLinks={pageLinks}
-                                        blogLinks={blogLinks}
-                                      />
-                                    ) : (
-                                      <li
-                                        key={index}
-                                        className={`flex items-center gap-2 py-2 pr-4 text-black font-[400] ${isActive
-                                          ? "font-semibold underline underline-offset-4 text-black"
-                                          : ""
-                                          }`}>
-                                        <LanguageAwareLink
-                                          href={textToRouteUrl(link || "")}
-                                          className="normalFontSize"
-                                          onClick={() => {
-                                            resetFilters();
-                                            hideDrawer();
-                                          }}>
-                                          {name}
-                                        </LanguageAwareLink>
-                                      </li>
-                                    );
-                                  }
-                                )}
-                              </ul>
-                            </div>
-                          ),
-                        })
-                      }
-                    >
-                      <button className="cursor-pointer ml-auto h-6 w-6 text-inherit hover:bg-transparent focus:bg-transparent active:bg-transparent">
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="h-6 w-6"
-                          stroke={iconStrock}
-                          strokeWidth={2}>
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            d="M4 6h16M4 12h16M4 18h16"
-                          />
-                        </svg>
-                      </button>
-                    </div>
                   </div>
-                )}
-              </div>
+
+                  {/* Responsive NavBar */}
+                  <div
+                    className="lg:hidden flex items-center"
+                    onClick={() =>
+                      showDrawer({
+                        title: (
+                          <div className="">
+                            <div className="flex items-start gap-2">
+                              <LanguageAwareLink
+                                href={textToRouteUrl("/")}
+                                className="mr-auto cursor-pointer"
+                                onClick={() => hideDrawer()}>
+                                <Image
+                                  src={`/assets/images/car_solution.svg`}
+                                  alt="logo"
+                                  width={120}
+                                  height={64}
+                                  className={``}
+                                />
+                              </LanguageAwareLink>
+                            </div>
+                          </div>
+                        ),
+                        direction: locale === "ar" ? "right" : "left",
+                        size: "sm",
+                        content: (
+                          <div className="">
+                            <ul className="lg:flex lg:p-1 xl:gap-6 lg:gap-2">
+                              {navlinks[locale]?.map(
+                                ({ name, link, pageLinks, blogLinks }, index) => {
+                                  const currentPath = pathname.replace(
+                                    /^\/(en|ar)/,
+                                    ""
+                                  );
+                                  const isActive =
+                                    link === "/"
+                                      ? pathname === `/${locale}` ||
+                                      pathname === `/${locale}/` ||
+                                      pathname === "/"
+                                      : currentPath === link;
+
+                                  return pageLinks ? (
+                                    <NavListMenu
+                                      key={index}
+                                      title={name}
+                                      pageLinks={pageLinks}
+                                      blogLinks={blogLinks}
+                                    />
+                                  ) : (
+                                    <li
+                                      key={index}
+                                      className={`flex items-center gap-2 py-2 pr-4 text-black font-[400] ${isActive
+                                        ? "font-semibold underline underline-offset-4 text-black"
+                                        : ""
+                                        }`}>
+                                      <LanguageAwareLink
+                                        href={textToRouteUrl(link || "")}
+                                        className="normalFontSize"
+                                        onClick={() => {
+                                          resetFilters();
+                                          hideDrawer();
+                                        }}>
+                                        {name}
+                                      </LanguageAwareLink>
+                                    </li>
+                                  );
+                                }
+                              )}
+                            </ul>
+                          </div>
+                        ),
+                      })
+                    }
+                  >
+                    <button className="cursor-pointer ml-auto h-6 w-6 text-inherit hover:bg-transparent focus:bg-transparent active:bg-transparent">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="h-6 w-6"
+                        stroke={iconStrock}
+                        strokeWidth={2}>
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          d="M4 6h16M4 12h16M4 18h16"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </nav>
@@ -591,7 +631,7 @@ export function StickyNavbar() {
           <div className="grid lg:grid-cols-2 grid-cols-1 gap-8 h-full">
             <div className="relative border -m-6 lg:block hidden">
               <Image
-                src={`/assets/images/car_solution.svg`}
+                src={`/assets/images/car_solution_clr.svg`}
                 alt="Elena Petrova"
                 width={219}
                 height={585}

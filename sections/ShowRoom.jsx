@@ -1,26 +1,3 @@
-// import Heading2 from "@/components/Typography/Heading2";
-// import Paragraph from "@/components/Typography/Paragraph";
-// import React from "react";
-
-// const ShowRoom = ({ heading, paragraph }) => {
-//   return (
-//     <>
-//       <section className="secPadding">
-//         <div className="container">
-//         <div className="max-w-5xl w-full mx-auto">
-//           <Heading2 blackHeading={heading} className={`text-center`} />
-//           {paragraph?.map((para, ind) => (
-//             <Paragraph blackText1={para} key={ind} className="text-center" />
-//           ))}
-//         </div>
-//         </div>
-//       </section>
-//     </>
-//   );
-// };
-
-// export default ShowRoom;
-
 "use client";
 import Image from "@/components/Image/Image";
 import Heading2 from "@/components/Typography/Heading2";

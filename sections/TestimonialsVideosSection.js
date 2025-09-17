@@ -114,7 +114,7 @@ const VideoSection = ({ videoUrl, thumbnail, openModal }) => {
     return (
         <div className="relative">
             <div className="absolute right-4 bottom-4">
-                <PlayRedSVG />
+                {/* <PlayRedSVG /> */}
             </div>
             <div>
                 <video

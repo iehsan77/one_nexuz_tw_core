@@ -79,25 +79,18 @@ export default function LanguageSwitcher() {
     <div ref={dropdownRef} className="relative inline-block text-left">
       <button
         onClick={() => setOpen((prev) => !prev)}
-        className="flex items-center gap-2 rounded-md max-w-20 cursor-pointer">
-        <Image
-          src={selectedLang.icon}
-          alt={selectedLang.short}
-          width={30}
-          height={30}
-        />
+        className="flex items-center gap-1 rounded-md max-w-20 cursor-pointer text-sm">
         <span>{selectedLang.short}</span>
-        <Icon icon="mdi:chevron-down" className="w-4 h-4 text-white" />
+        <Icon icon="mdi:chevron-down" className="w-4 h-4" />
       </button>
 
       {open && (
-        <div className="absolute z-10 mt-2 min-w-32 bg-white rounded-md shadow-lg border border-gray-200">
+        <div className="absolute z-50 mt-2 right-0 min-w-32 bg-white rounded-md shadow-lg border border-gray-200">
           {languages.map((lang) => (
             <button
               key={lang.value}
               onClick={() => handleLocaleChange(lang.value)}
-              className="w-full flex items-center gap-2 px-4 py-2 text-left hover:bg-gray-100 cursor-pointer text-black">
-              <Image src={lang.icon} alt={lang.short} width={20} height={20} />
+              className="w-full flex items-center gap-2 px-4 py-2 text-left hover:bg-gray-100 cursor-pointer text-black text-sm">
               <span>{lang.label}</span>
             </button>
           ))}

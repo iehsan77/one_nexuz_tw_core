@@ -127,7 +127,8 @@ export default function Home({ h1, faq }) {
             : "Trusted By The Best!"
         }
       />
-      {/* <div className="relative">
+      {/* 
+      <div className="relative">
         <div className="absolute right-0 top-0 sm:block hidden">
           <Image
             src={"/assets/icons/wm_07.svg"}

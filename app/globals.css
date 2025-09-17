@@ -3,16 +3,14 @@
 :root {
   --primary: #E32934;
   --primaryLight: #E3293428;
-  --secondary: #242424;
+  --secondary: #2B2A6C;
   --pink: #ffacb1;
   --pingLight: #ffeaeb;
   --secondaryLight: #f2f4ff;
   --grayLight: #dedede;
-  --font-creato: "CreatoDB";
 }
 
 @theme inline {
-  --default-font-family: var(--font-creato), sans-serif;
   --color-primary: var(--primary);
   --color-primaryLight: var(--primaryLight);
   --color-secondary: var(--secondary);

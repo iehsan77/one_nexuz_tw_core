@@ -16,14 +16,14 @@ import {
   PinPointSVG,
   WASVG,
   WPSVG,
+  XSVG,
 } from "@/public/assets/icons/SVGIcons";
 
 export const contactDetail = {
-  phone: "+97143243226",
+  mobileNo: "(+971) 555-0105",
   whatApp: "+971505082378",
-  telNumber: "+971505082290",
-  email2: "hjkrentacar@gmail.com",
-  email: "mailto:hjkrentacar@gmail.com",
+  telNumber: "(+971) 555-0105",
+  email: "Info@onenexuz.com",
   location: "Hor Al Anz, Abu Hail, Dubai, United Arab Emirates",
 };
 
@@ -154,21 +154,24 @@ export const servicesData = {
   ],
 }
 export const socialLinks = [
-  { label: "Facebook", link: "http://facebook.com/", icon: <FbSVG /> },
-  { label: "Instagram", link: "http://instagram.com/", icon: <InSVG /> },
-  { label: "Whatsapp", link: "https://wa.me/", icon: <WASVG /> },
+  { label: "Facebook", link: "http://facebook.com/", icon: <FacebookSVG /> },
+  { label: "X", link: "https://x.com/", icon: <XSVG /> },
+  { label: "Instagram", link: "http://instagram.com/", icon: <InstagramSVG /> },
 ];
 export const socialFooterLinks = [
   { label: "Facebook", link: "http://facebook.com/", icon: <FacebookSVG /> },
   { label: "Instagram", link: "http://instagram.com/", icon: <InstagramSVG /> },
   { label: "LinkedIn", link: "https://linkedin/", icon: <LinkedinSVG /> },
 ];
+export const topHeadContent = [
+  { label: contactDetail.email, link: `mailto:${contactDetail.email}`, icon: <EmailSVG /> },
+  { label: contactDetail.telNumber, link: `tel:${contactDetail.telNumber}`, icon: <CallSVG /> },
+];
 /**
 |--------------------------------------------------
 | Login Journy
 |--------------------------------------------------
 */
-
 
 export const column2 = {
   title: "Sports Car",

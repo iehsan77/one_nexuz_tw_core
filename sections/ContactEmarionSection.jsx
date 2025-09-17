@@ -1,7 +1,7 @@
 import Heading4 from "@/components/Typography/Heading4";
 import Heading5 from "@/components/Typography/Heading5";
 import Paragraph from "@/components/Typography/Paragraph";
-import { RClrSVG } from "@/public/assets/icons/SVGIcons";
+// import { RClrSVG } from "@/public/assets/icons/SVGIcons";
 import React from "react";
 
 const ContactEmarionSection = ({ data, heading, fourGrids, paragraph }) => {
@@ -33,7 +33,7 @@ const ContactEmarionSection = ({ data, heading, fourGrids, paragraph }) => {
                 className="relative bg-pingLight overflow-hidden rounded-3xl"
               >
                 <div className="absolute -right-58">
-                  <RClrSVG />
+                  {/* <RClrSVG /> */}
                 </div>
                 <div className="px-4 py-6">
                   {item.icon && <div className="pb-4">{item.icon}</div>}
