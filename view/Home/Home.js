@@ -1,12 +1,19 @@
 "use client";
 import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
+import { CardsData1, CardsData2, CardsData3, CarSolutionData } from "@/mockData/dummyData";
 import AffiliateSection from "@/sections/AffiliateSection";
+import CardsSection from "@/sections/CardsSection";
+import CounterSection from "@/sections/CounterSection";
+import FeaturesCardsSection from "@/sections/FeaturesCardsSection";
 import HeroSection from "@/sections/HeroSection/HeroSection";
+import MultiCardsSection from "@/sections/MultiCardsSection";
+import SocialCommunitySection from "@/sections/SocialCommunitySection";
 import TabsSection from "@/sections/TabSection";
 import React, { useContext } from "react";
 
 export default function Home({ h1, faq }) {
   const { locale } = useContext(LanguageContext);
+
 
   return (
     <>
@@ -30,7 +37,29 @@ export default function Home({ h1, faq }) {
         }
       />
       <TabsSection />
-      
+      <CounterSection />
+      <CardsSection
+        data={CardsData1}
+        heading={`Why Partner with One Nexuz for Business Setup in Dubai?`}
+        paragraph={[
+          `Worried about rejections and wasted time? Our one-window setup gets you approved and market-ready`
+        ]}
+      />
+
+      <FeaturesCardsSection
+        data={CardsData2}
+        heading={`Here’s What Makes One Nexuz Different`}
+        paragraph={[
+          `Experience a seamless journey, One Nexuz handles every business need from setup to digital success.`
+        ]}
+      />
+      <MultiCardsSection
+        data={CardsData3}
+        heading={`Cut the Red Tape, We Handle Every Step of Your ^ UAE Business Journey`}
+        fourGrids
+      />
+      <SocialCommunitySection />
+
       {/* 
       
       <div className="relative">
@@ -130,7 +159,7 @@ export default function Home({ h1, faq }) {
           `Stay updated with the latest automotive trends, expert insights, and industry news. From new car launches to buying tips and market updates, we keep you informed and ahead of the curve.`
         ]}
       />
-      <SocialCommunitySection />
+      
 
       <div className="relative">
         <div className="absolute left-0 bottom-0 -z-10">

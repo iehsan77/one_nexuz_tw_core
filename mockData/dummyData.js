@@ -2,12 +2,23 @@ import {
   CallSVG,
   EmailSVG,
   FacebookSVG,
+  FbSVG,
+  Icon1SVG,
+  Icon2SVG,
+  Icon3SVG,
+  Icon4SVG,
+  Icon5SVG,
+  Icon6SVG,
+  Icon7SVG,
+  Icon8SVG,
+  Icon9SVG,
   InstagramSVG,
+  InSVG,
   LinkedinSVG,
   MailSVG,
   PhoneSVG,
   PinPointSVG,
-  WPSVG,
+  WASVG,
   XSVG,
 } from "@/public/assets/icons/SVGIcons";
 
@@ -147,6 +158,11 @@ export const socialLinks = [
   { label: "X", link: "https://x.com/", icon: <XSVG /> },
   { label: "Instagram", link: "http://instagram.com/", icon: <InstagramSVG /> },
 ];
+export const socialLinks2 = [
+  { label: "Facebook", link: "http://facebook.com/", icon: <FbSVG /> },
+  { label: "Instagram", link: "http://instagram.com/", icon: <InSVG /> },
+  { label: "Whatsapp", link: "https://wa.me/", icon: <WASVG /> },
+];
 export const socialFooterLinks = [
   { label: "Facebook", link: "http://facebook.com/", icon: <FacebookSVG /> },
   { label: "Instagram", link: "http://instagram.com/", icon: <InstagramSVG /> },
@@ -162,40 +178,109 @@ export const topHeadContent = [
 |--------------------------------------------------
 */
 export const btnTextEn = {
-  view_all_brands: "View All Brands",
+  inquire_now: "Inquire Now",
+  view_all: "View All",
   view_more: "View More",
   apply_now: "Apply Now",
   read_more: "Read more",
-  view_all: "View All",
-  book_now: "Book Your Car Now",
-  view_all_sports: "View All Sports",
-  view_all_suvs: "View All SUVs",
-  view_all_luxury: "View All Luxury Cars",
-  view_all_blogs: "View All Insights",
-  View_All_Guides: "View All Guides",
-  View_All_Services: "View All Services",
-  view_all_generic: "View All",
-  view_all_cars: "View All Cars",
   contact_us: "Contact Us",
+  contact_us_now: "Contact Us Now",
+  explore_now: "Explore Now",
+  read_more_guides: "Read More Guides",
+  book_your_free_consultation: "Book a Free Consultation",
+  get_free_setup_consultation: "Get Free Setup Consultation",
+  View_All_Guides: "View All Guides",
   tag: "Tags",
+  subscribe: "Subscribe",
+  one_nexus: "@OneNexus",
 };
-
 // Arabic
 export const btnTextAr = {
-  view_all_brands: "عرض جميع العلامات التجارية",
+  inquire_now: "عرض جميع العلامات التجارية",
   view_all: "عرض الكل",
   view_more: "عرض المزيد",
-  _more: "عرض المزيد",
+  apply_now: "عرض المزيد",
   read_more: "عرض المزيد",
-  book_now: "احجز سيارتك الآن",
-  view_all_sports: "عرض جميع السيارات الرياضية",
-  view_all_suvs: "عرض جميع سيارات الدفع الرباعي",
-  view_all_luxury: "عرض جميع السيارات الفاخرة",
-  view_all_blogs: "عرض جميع المدونات",
-  View_All_Guides: "عرض جميع المدونات",
-  View_All_Services: "عرض جميع المدونات",
-  view_all_generic: "عرض الكل",
-  view_all_cars: "عرض الكل",
   contact_us: "عرض الكل",
+  contact_us_now: "عرض الكل",
+  explore_now: "عرض الكل",
+  read_more_guides: "عرض المزيد",
+  book_your_free_consultation: "عرض الكل",
+  get_free_setup_consultation: "عرض الكل",
+  View_All_Guides: "عرض جميع المدونات",
   tag: "عرض الكل",
+  subscribe: "عرض الكل",
+  one_nexus: "عرض الكل",
 };
+
+/**
+|--------------------------------------------------
+| Other Section Data
+|--------------------------------------------------
+*/
+
+export const CardsData1 = [
+  {
+    title: "Start Without Setbacks",
+    description:
+      "One wrong document or mismatched activity can delay your license for weeks. With One Nexuz, every step of your Dubai business setup is handled by experts, ensuring full compliance and smooth approvals — so you begin without stress or rejection",
+  },
+  {
+    title: "Be Market-Ready in Days",
+    description:
+      "Why waste weeks on setup formalities? With One Nexuz, your business formation is fast-tracked in days — so you enter the market quicker, seize opportunities sooner, and stay ahead of competitors.",
+  },
+  {
+    title: "Save More with Full Transparency",
+    description:
+      "Hidden fees drain resources and trust. Our all-inclusive Dubai company formation packages save you AED 5,000–10,000, with every cost clear upfront — so you keep control and confidence.",
+  }
+];
+export const CardsData2 = [
+  {
+    icon: <Icon5SVG />,
+    title: "Simplified Business Setup & Services",
+  },
+  {
+    icon: <Icon6SVG />,
+    title: "Full Visa & Licensing Support",
+  },
+  {
+    icon: <Icon7SVG />,
+    title: "Transparent and Flexible pricing",
+  },
+  {
+    icon: <Icon8SVG />,
+    title: "No Delays, No Hidden Fees",
+  },
+  {
+    icon: <Icon9SVG />,
+    title: "Dedicated Account Manager",
+  },
+];
+export const CardsData3 = [
+  {
+    icon: <Icon1SVG />,
+    title: "Banking Without the Headaches",
+    description:
+      "Tired of endless paperwork and rejections? We match you with the right UAE bank, prep every document, and secure your account fast — so you can focus on running your business, not chasing signatures. With our direct banking expertise, your account opens smoothly, giving you instant access to operations.",
+  },
+  {
+    icon: <Icon2SVG />,
+    title: "Stay Compliant, Stay Stress-Free",
+    description:
+      "VAT rules in the UAE are complex and mistakes are costly. We simplify registration, manage filings, and keep your books penalty-free — protecting your business while you focus on growth. Our experts ensure you stay compliant, audit-ready, and never face avoidable penalties.",
+  },
+  {
+    icon: <Icon3SVG />,
+    title: "Workspace That Gets You Licensed",
+    description:
+      "Need an address for your trade license? Our co-working and flexi-desk solutions are affordable, flexible, and license-ready — giving you legal compliance and a professional space to grow from day one. Perfect for startups or scaling businesses, without the cost of long leases.",
+  },
+  {
+    icon: <Icon4SVG />,
+    title: "Visas Made Simple, For You & Family",
+    description:
+      " From investor visas to family sponsorship, we remove the stress of medicals, paperwork, and Emirates ID. You settle in with peace of mind — while we handle the entire visa journey. Our streamlined process ensures relocation is smooth, stress-free, and secure.",
+  },
+];

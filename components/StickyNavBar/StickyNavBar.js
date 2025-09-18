@@ -416,7 +416,7 @@ export function StickyNavbar() {
           className={`container relative lg:border-none lg:shadow-none h-max rounded-none px-4 lg:px-14`}>
           <div className="flex items-center justify-between">
             <div className="hidden lg:block">
-              <div className="xl:basis-sm xl:-ml-16">
+              <div className="">
                 <LanguageAwareLink
                   href={textToRouteUrl("/")}
                   className="cursor-pointer">
