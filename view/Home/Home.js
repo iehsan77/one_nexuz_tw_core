@@ -1,91 +1,12 @@
 "use client";
-import { GET } from "@/actions/actions";
 import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
-import {
-  assetsDataAr,
-  assetsDataAr1,
-  assetsDataEn,
-  assetsDataEn1,
-  assetsDatahomeAr3,
-  assetsDatahomeAr4,
-  assetsDatahomeEn3,
-  assetsDatahomeEn4,
-  btnTextAr,
-  btnTextEn,
-  CarSolutionData,
-  homeTitleAr,
-  homeTitleEn,
-} from "@/mockData/dummyData";
 import AffiliateSection from "@/sections/AffiliateSection";
-import ContactEmarionSection from "@/sections/ContactEmarionSection";
 import HeroSection from "@/sections/HeroSection/HeroSection";
 import TabsSection from "@/sections/TabSection";
-import useFilterStore from "@/stores/filterStore";
-import { endpoints } from "@/utils/endpoints";
-import React, { useContext, useState } from "react";
-import { useEffect } from "react";
+import React, { useContext } from "react";
 
 export default function Home({ h1, faq }) {
   const { locale } = useContext(LanguageContext);
-  const [featuredData, setFeaturedData] = useState([]);
-  const [featuredLoading, setFeaturedLoading] = useState(false);
-  const [featuredError, setFeaturedError] = useState(null);
-  const [categoryData, setCategoryData] = useState({});
-  const [categoryLoading, setCategoryLoading] = useState(false);
-  const [categoryError, setCategoryError] = useState(null);
-
-  const content = locale === "ar" ? assetsDataAr : assetsDataEn;
-  const content2 = locale === "ar" ? assetsDataAr1 : assetsDataEn1;
-  const content3 = locale === "ar" ? assetsDatahomeAr3 : assetsDatahomeEn3;
-  const content4 = locale === "ar" ? assetsDatahomeAr4 : assetsDatahomeEn4;
-  const homeTilte = locale === "ar" ? homeTitleAr : homeTitleEn;
-  const btnText = locale === "ar" ? btnTextAr : btnTextEn;
-  const { filters } = useFilterStore();
-
-  // Featured api
-  const fetchFeaturedData = async () => {
-    try {
-      setFeaturedLoading(true);
-      setFeaturedError(null);
-      const res = await GET(endpoints.HOME.GET_FEATURED);
-      if (res?.status === 200) {
-        setFeaturedLoading(false);
-        setFeaturedError(null);
-        setFeaturedData(res?.data);
-      } else {
-        setFeaturedLoading(false);
-        setFeaturedError(res?.message || "Failed to load categories");
-      }
-    } catch (err) {
-      setFeaturedLoading(false);
-      setFeaturedError(err.message || "Error loading navigation");
-    }
-  };
-
-  // Elite api
-  const fetchCategoryData = async () => {
-    try {
-      setCategoryLoading(true);
-      setCategoryError(null);
-      const res = await GET(endpoints.HOME.GET_CAR_CATEGORIES);
-      if (res?.status === 200) {
-        setCategoryLoading(false);
-        setCategoryError(null);
-        setCategoryData(res?.data);
-      } else {
-        setCategoryLoading(false);
-        setCategoryError(res?.message || "Failed to load categories");
-      }
-    } catch (err) {
-      setCategoryLoading(false);
-      setCategoryError(err.message || "Error loading navigation");
-    }
-  };
-
-  useEffect(() => {
-    fetchFeaturedData();
-    fetchCategoryData();
-  }, []);
 
   return (
     <>
@@ -109,12 +30,6 @@ export default function Home({ h1, faq }) {
         }
       />
       <TabsSection />
-      {/* <ContactEmarionSection data={CarSolutionData}
-        heading={`How Our Car Solutions Work in Simple Steps`}
-        paragraph={[
-          `Navigating the car buying and selling process has never been easier. Our streamlined approach ensures you find the right vehicle or buyer quickly and confidently.`
-        ]}
-      /> */}
       
       {/* 
       

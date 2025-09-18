@@ -13,19 +13,9 @@ import useAllBrandStore from "@/stores/AllBrandStore";
 import Paragraph from "../Typography/Paragraph";
 import useCategoryStore from "@/stores/categoryStore";
 import useFilterStore from "@/stores/filterStore";
-import Signin from "../UserAuth/Signin";
-import Signup from "../UserAuth/Signup";
-import OtpVerification from "../UserAuth/OtpVerification";
-import SuccessfulPasswordReset from "../UserAuth/SuccessfulPasswordReset";
-import NewPassword from "../UserAuth/NewPassword";
-import RecoverPassword from "../UserAuth/RecoverPassword";
-import ForgotPassword from "../UserAuth/ForgotPassword";
 import useUserStore from "@/stores/user-store";
-// import { Icon } from "@iconify/react";
-// import AvatarDropdown from "../AvatarDropdown/AvatarDropdown";
 import Heading6 from "../Typography/Heading6";
 import Heading4 from "../Typography/Heading4";
-import AppModal from "../Modal/AppModal";
 import Link from "../Link/Link";
 import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 
@@ -626,7 +616,7 @@ export function StickyNavbar() {
           </div>
         </nav>
       </div>
-      {isModalOpen && (
+      {/* {isModalOpen && (
         <AppModal isOpen={isModalOpen} setIsOpen={setIsModalOpen}>
           <div className="grid lg:grid-cols-2 grid-cols-1 gap-8 h-full">
             <div className="relative border -m-6 lg:block hidden">
@@ -703,7 +693,7 @@ export function StickyNavbar() {
             </div>
           </div>
         </AppModal>
-      )}
+      )} */}
     </>
   );
 }

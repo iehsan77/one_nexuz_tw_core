@@ -191,7 +191,7 @@ body {
   @apply font-bold lg:text-xl text-lg;
 }
 .display6 {
-  @apply font-bold sm:text-lg text-base;
+  @apply font-bold sm:text-sm text-base;
 }
 .displayPara {
   @apply sm:text-sm text-xs;
