@@ -176,22 +176,22 @@ body {
   padding-left: 0.8rem !important;
 }
 .display1 {
-  @apply font-bold lg:text-5xl md:text-3xl text-2xl;
+  @apply font-bold lg:text-5xl md:text-4xl sm:text-3xl text-2xl;
 }
 .display2 {
   @apply font-bold md:text-3xl sm:text-2xl text-xl;
 }
 .display3 {
-  @apply font-bold xl:text-3xl lg:text-2xl sm:text-xl text-lg;
+  @apply font-bold lg:text-2xl sm:text-xl text-lg;
 }
 .display4 {
-  @apply font-bold xl:text-2xl sm:text-xl text-lg;
+  @apply font-bold sm:text-xl text-lg;
 }
 .display5 {
-  @apply font-bold lg:text-xl text-lg;
+  @apply font-bold text-lg;
 }
 .display6 {
-  @apply font-bold sm:text-sm text-base;
+  @apply font-bold text-base;
 }
 .displayPara {
   @apply sm:text-sm text-xs;

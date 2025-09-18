@@ -7,6 +7,7 @@ import CounterSection from "@/sections/CounterSection";
 import FeaturesCardsSection from "@/sections/FeaturesCardsSection";
 import HeroSection from "@/sections/HeroSection/HeroSection";
 import MultiCardsSection from "@/sections/MultiCardsSection";
+import PartnersSection from "@/sections/PartnersSection";
 import SocialCommunitySection from "@/sections/SocialCommunitySection";
 import TabsSection from "@/sections/TabSection";
 import React, { useContext } from "react";
@@ -57,6 +58,10 @@ export default function Home({ h1, faq }) {
         data={CardsData3}
         heading={`Cut the Red Tape, We Handle Every Step of Your ^ UAE Business Journey`}
         fourGrids
+      />
+      
+      <PartnersSection
+        heading={`Our Partners`}
       />
       <SocialCommunitySection />
 
