@@ -1,6 +1,7 @@
 "use client";
 import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
 import { CardsData1, CardsData2, CardsData3, CarSolutionData } from "@/mockData/dummyData";
+import { faq1 } from "@/mockData/faqDummy";
 import AffiliateSection from "@/sections/AffiliateSection";
 import CardsSection from "@/sections/CardsSection";
 import CounterSection from "@/sections/CounterSection";
@@ -11,6 +12,7 @@ import PartnersSection from "@/sections/PartnersSection";
 import SocialCommunitySection from "@/sections/SocialCommunitySection";
 import TabsSection from "@/sections/TabSection";
 import AssetsSection from "@/sections/z/AssetsSection";
+import FaqsSection from "@/sections/z/FaqsSection";
 import NewsletterSection from "@/sections/z/NewsletterSection";
 import OurTeamSection from "@/sections/z/OurTeamSection";
 import SubscribeSection from "@/sections/z/SubscribeSection";
@@ -30,8 +32,8 @@ export default function Home({ h1, faq }) {
     imageH: 520,
     reverse: false,
     callNowBtn: true,
-    text: "List Your Car Now",
-    href: "/listing/listing-form",
+    text: "Book Your Free Consultation",
+    href: "/",
   };
   const assetsDataAr1 = {
     heading: "فخامة لا مثيل لها على عجلات",
@@ -46,7 +48,7 @@ export default function Home({ h1, faq }) {
     reverse: false,
     callNowBtn: true,
     text: "احجز سيارتك الآن",
-    href: "/listing/listing-form",
+    href: "/",
   };
 
   const content1 = locale === "ar" ? assetsDataAr1 : assetsDataEn1;
@@ -107,6 +109,7 @@ export default function Home({ h1, faq }) {
       reverse
       />
       <SubscribeSection />
+      <FaqsSection data={faq1} />
       <SocialCommunitySection />
       {/* 
       
@@ -215,7 +218,8 @@ export default function Home({ h1, faq }) {
             className=""
           />
         </div>
-        <FaqsSection data={faq1} /> */}
+        
+        */}
       {/* <Suspense fallback={<LoadFaqs />}>
         {faq && <FaqsSection data={JSON.parse(faq)} />}
         {faq && <BottomFAQSchema data={JSON.parse(faq)} />}

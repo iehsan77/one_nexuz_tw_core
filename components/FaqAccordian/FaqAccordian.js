@@ -11,12 +11,13 @@ export function FaqAccordian({ data }) {
   };
 
   return (
-    <div className="max-w-4xl mx-auto overflow-hidden">
-      <div className="grid lg:grid-cols-3 grid-cols-1 sm:gap-4 gap-1">
+    <div className="max-w-xl mx-auto overflow-hidden">
+      <div className="grid grid-cols-1 gap-4">
         {data?.map((item) => (
           <AccordionItem
             key={item.id}
             id={item.id}
+            number={item.number}
             title={item.question}
             content={item.answer}
             isOpen={openItemId === item.id}
@@ -28,34 +29,37 @@ export function FaqAccordian({ data }) {
   );
 }
 
-const AccordionItem = ({ id, title, content, isOpen, onClick }) => {
+const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
   return (
-    <div className="my-2">
+    <div className={`P-6 border border-gray-400 hover:cursor-pointer ${id ? "bg-primary" : ""}`}
+      onClick={() => onClick(id)}
+    >
       {/* Accordion Button */}
-      <button
-        className="border-b border-gray-400 pb-2 w-full flex justify-between items-center gap-4 text-left displayPara font-semibold"
-        onClick={() => onClick(id)}
+      <div
+        className="w-full flex justify-between items-center gap-4 p-4 text-left displayPara font-semibold"
+
       >
-        <span>{title}</span>
+        <div className="flex items-center gap-6">
+          <span className="display3">{number}</span>
+          <span>{title}</span>
+        </div>
         <span>
           <Icon
             icon="iconamoon:arrow-right-2-duotone"
             width="1.5rem"
             height="1.5rem"
-            className={`text-black transition-transform duration-300 ${
-              isOpen ? "rotate-90" : "rotate-0"
-            }`}
+            className={`text-black transition-transform duration-300 ${isOpen ? "rotate-90" : "rotate-0"
+              }`}
           />
         </span>
-      </button>
+      </div>
 
       {/* Accordion Content */}
       <div
-        className={`overflow-hidden transition-all duration-300 ease-in-out transform ${
-          isOpen
-            ? "scale-100 opacity-100 max-h-screen pt-2"
-            : "scale-50 opacity-0 max-h-0 p-0"
-        }`}
+        className={`overflow-hidden transition-all duration-300 ease-in-out transform ${isOpen
+          ? "scale-100 opacity-100 max-h-screen pl-6"
+          : "scale-50 opacity-0 max-h-0 p-0"
+          }`}
       >
         <Paragraph blackText1={content} className={`!mb-0`} />
       </div>
