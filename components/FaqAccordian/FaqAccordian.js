@@ -31,7 +31,9 @@ export function FaqAccordian({ data }) {
 
 const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
   return (
-    <div className={`P-6 border border-gray-400 hover:cursor-pointer ${id ? "bg-primary" : ""}`}
+    <div
+      className={`border border-gray-400 hover:cursor-pointer transition-colors duration-300 ${isOpen ? "bg-secondary text-white" : "bg-white"
+        }`}
       onClick={() => onClick(id)}
     >
       {/* Accordion Button */}
@@ -39,30 +41,34 @@ const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
         className="w-full flex justify-between items-center gap-4 p-4 text-left displayPara font-semibold"
 
       >
-        <div className="flex items-center gap-6">
+        <div className={`flex gap-6 ${isOpen ? "items-start" : "items-center"}`}>
           <span className="display3">{number}</span>
-          <span>{title}</span>
+          <div className="">
+            {/* Accordion Content */}
+            <span>{title}</span>
+            <div
+              className={`overflow-hidden transition-all duration-300 ease-in-out transform ${isOpen
+                ? "scale-100 opacity-100 max-h-screen pt-4"
+                : "scale-50 opacity-0 max-h-0 p-0"
+                }`}
+            >
+              <Paragraph blackText1={content} className={`!mb-0`} />
+            </div>
+          </div>
         </div>
-        <span>
+        <span className={`w-10 h-10 flex items-center justify-center ${isOpen ? "bg-white" : "bg-[#404040]"
+          }`}>
           <Icon
-            icon="iconamoon:arrow-right-2-duotone"
+            icon="mynaui:arrow-up-right"
             width="1.5rem"
             height="1.5rem"
-            className={`text-black transition-transform duration-300 ${isOpen ? "rotate-90" : "rotate-0"
+            className={`transition-transform duration-300 ${isOpen ? "rotate-180 text-[#404040]" : "rotate-0 text-white"
               }`}
           />
         </span>
       </div>
 
-      {/* Accordion Content */}
-      <div
-        className={`overflow-hidden transition-all duration-300 ease-in-out transform ${isOpen
-          ? "scale-100 opacity-100 max-h-screen pl-6"
-          : "scale-50 opacity-0 max-h-0 p-0"
-          }`}
-      >
-        <Paragraph blackText1={content} className={`!mb-0`} />
-      </div>
+
     </div>
   );
 };
