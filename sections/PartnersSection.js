@@ -65,9 +65,9 @@ export default function PartnersSection({ heading, paragraph }) {
                 {/* Tab Content */}
                 <div className="flex flex-wrap justify-center items-center gap-8 mt-6">
                     {partners[activeTab]?.length > 0 ? (
-                        partners[activeTab].map((partner) => (
+                        partners[activeTab].map((partner, ind) => (
                             <Image
-                                key={partner.name}
+                                key={ind}
                                 src={partner.logo}
                                 alt={'partner'}
                                 width={180}

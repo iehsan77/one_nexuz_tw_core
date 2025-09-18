@@ -10,6 +10,7 @@ import FormProvider from "@/components/FormFields/FormProvider";
 import Button from "@/components/Button/Button";
 import Heading4 from "@/components/Typography/Heading4";
 import RHFTextField from "@/components/FormFields/RHFTextField";
+import { SendSVG } from "@/public/assets/icons/SVGIcons";
 
 const SubscribeSection = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -74,37 +75,40 @@ const SubscribeSection = () => {
     setIsModalOpen(false);
   };
   return (
-    <section className="py-8 bg-[#FAFAFA] rounded-xl">
-      <div className="container">
-        <div className="grid grid-cols-1 gap-6">
-          <div className="">
-            <Heading4 heading={`Subscribe to our newsletter`} />
-            <Paragraph
-              blackText1={`Subscribe to our newsletter to get our newest articles instantly!`}
-            />
-          </div>
+    <section className="lg:py-20 py-14 bg-[url(/assets/images/bgimage_02.webp)] bgimg">
+      <div className="container text-center text-white">
+        <div className="">
 
-          <div className="">
+          <div className="max-w-sm mx-auto">
+            <div className="">
+              <Heading4 heading={`Get Expert Tips, UAE Business News & Free Resources ^ — Straight to Your Inbox`}
+                className={``}
+              />
+              {/* <Paragraph
+              blackText1={`Subscribe to our newsletter to get our newest articles instantly!`}
+            /> */}
+            </div>
             <FormProvider methods={methods} onSubmit={handleSubmit(onSubmit)}>
-              <div className="py-4 ">
+              <div className="flex items-center bg-white py-1">
                 <RHFTextField
-                  className=""
-                  inputClass="shadow-none bg-white/20 rounded-sm !mb-0"
+                  className="w-full"
+                  inputClass="shadow-none bg-white !mb-0 placeholder:!text-black"
                   name="email"
                   placeholder="Enter your email"
                 />
+                  <div className="flex items-center gap-1">
+                    <SendSVG />
+                    <Button
+                    loading={isSubmitting}
+                    className={``}
+                    variant={`txt`}
+                    text={"Subscribe"}
+                  />
+                  </div>
               </div>
-              <Button
-                loading={isSubmitting}
-                className={`!rounded-full !w-full`}
-                variant={`primary`}
-                text={"Subscribe"}
-              />
             </FormProvider>
+
           </div>
-          <Paragraph
-            blackText1={`By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company.`}
-          />
         </div>
       </div>
 

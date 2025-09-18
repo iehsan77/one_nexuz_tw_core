@@ -14,7 +14,7 @@ const Button = ({
   return (
     <button
       disabled={disabled}
-      className={`px-4 py-2 border-2 text-nowrap rounded-lg hover:cursor-pointer sm:text-base text-xs transition-all ease-in-out duration-300 ${className}
+      className={`px-4 py-2 border-1 text-nowrap rounded-lg hover:cursor-pointer sm:text-base text-xs transition-all ease-in-out duration-300 ${className}
         ${
           variant === "primary"
             ? "border-primaryDark !text-white bg-primary"

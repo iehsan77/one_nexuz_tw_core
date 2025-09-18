@@ -11,21 +11,23 @@ import ExpertAgentsCards from '@/components/Card/ExpertAgentsCards';
 const data = [
     {
         imageURL: "/assets/images/image_30.webp",
-        userName: "Marcus Reed",
-        role: "CEO",
-        designation: "Los Angeles, CA",
+        userName: "Khalid Al Zayani",
+        role: "PRO Services Director",
     },
     {
         imageURL: "/assets/images/image_31.webp",
-        userName: "Jessica Lane",
-        role: "Head of Sales",
-        designation: "Los Angeles, CA",
+        userName: "Mohammed Saif",
+        role: "Head of Business Setup",
     },
     {
         imageURL: "/assets/images/image_32.webp",
-        userName: "Amanda Chen",
-        role: "Lead Vehicle Specialist",
-        designation: "Los Angeles, CA",
+        userName: "Emily Carter",
+        role: "Corporate Services Manager",
+    },
+    {
+        imageURL: "/assets/images/image_33.webp",
+        userName: "David Reynolds",
+        role: "Client Relations Manager",
     },
     
 
@@ -38,17 +40,18 @@ const options = {
   perPage: 1,
   padding: "0.8rem",
   perMove: 1,
-  pagination: true,
+  pagination: false,
   gap: "15px",
   autoplay: true,
-  arrows: true,
+  arrows: false,
   autoScroll: {
     speed: 0.5,
   },
   mediaQuery: "min",
   breakpoints: {
     768: { perPage: 2 },
-    1280: { perPage: 3},
+    1024: { perPage: 3},
+    1280: { perPage: 4},
   },
 };
 
@@ -103,30 +106,30 @@ const getData = ({
 
 const OurTeamSection = ({ heading, topTitle, paragraph, bottomTitle, }) => {
     return (
-        <section className='secSlidePadding'>
+        <section className='secSlidePadding bg-primaryLight'>
             <div className='container'>
-                <div className='pb-6 max-w-4xl mx-auto'>
+                <div className='pb-6 max-w-md'>
                     <div className=''>
                         {topTitle && (
                             <Heading4
-                                className="lg:text-center text-left"
+                                className=""
                                 heading={topTitle}
                             />
                         )}
                         <Heading2
                             heading={heading}
-                            className="lg:text-center text-left !mb-2"
+                            className="!mb-2"
                         />
                         {bottomTitle && (
                             <Heading4
-                                className="lg:text-center text-left"
+                                className=""
                                 heading={bottomTitle}
                             />
                         )}
                         {paragraph?.map((para, ind) => (
                             <Paragraph
                                 key={ind}
-                                className="lg:text-center text-left"
+                                className=""
                                 blackText1={para}
                             />
                         ))}

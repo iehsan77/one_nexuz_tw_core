@@ -10,11 +10,46 @@ import MultiCardsSection from "@/sections/MultiCardsSection";
 import PartnersSection from "@/sections/PartnersSection";
 import SocialCommunitySection from "@/sections/SocialCommunitySection";
 import TabsSection from "@/sections/TabSection";
+import AssetsSection from "@/sections/z/AssetsSection";
+import NewsletterSection from "@/sections/z/NewsletterSection";
+import OurTeamSection from "@/sections/z/OurTeamSection";
+import SubscribeSection from "@/sections/z/SubscribeSection";
 import React, { useContext } from "react";
 
 export default function Home({ h1, faq }) {
   const { locale } = useContext(LanguageContext);
 
+  const assetsDataEn1 = {
+    heading: "Let’s Get You Started!",
+    paragraph: [
+      "The faster you start, the faster you grow. Let’s get your Dubai business up and running today.",
+    ],
+    imageUrl: "/assets/images/image_13.webp",
+    imageAlt: "Luxury rental car",
+    imageW: 620,
+    imageH: 520,
+    reverse: false,
+    callNowBtn: true,
+    text: "List Your Car Now",
+    href: "/listing/listing-form",
+  };
+  const assetsDataAr1 = {
+    heading: "فخامة لا مثيل لها على عجلات",
+    paragraph: [
+      "سواء كانت مناسبة بسجادة حمراء، أو عطلة نهاية أسبوع، أو رحلة عمل تلفت الأنظار، فإن مجموعتنا من السيارات الفاخرة وعالية الأداء مصممة لأولئك الذين يطلبون أكثر من مجرد وسيلة نقل.",
+      "اختر من علامات تجارية شهيرة مثل لامبورغيني، رولز رويس، بنتلي، وفيراري، مع خيارات تأجير مرنة وخدمة فاخرة من البداية إلى النهاية.",
+    ],
+    imageUrl: "/assets/images/image_13.webp",
+    imageAlt: "سيارة فاخرة للإيجار",
+    imageW: 620,
+    imageH: 520,
+    reverse: false,
+    callNowBtn: true,
+    text: "احجز سيارتك الآن",
+    href: "/listing/listing-form",
+  };
+
+  const content1 = locale === "ar" ? assetsDataAr1 : assetsDataEn1;
 
   return (
     <>
@@ -59,12 +94,20 @@ export default function Home({ h1, faq }) {
         heading={`Cut the Red Tape, We Handle Every Step of Your ^ UAE Business Journey`}
         fourGrids
       />
-      
+
       <PartnersSection
         heading={`Our Partners`}
       />
+      <OurTeamSection heading={`Meet the Visionaries Behind Your Success`}
+        paragraph={[
+          `Our dedicated leadership team brings decades of expertise and local insight to help your business thrive. Connect with the people who turn your ambitions into reality.`
+        ]}
+      />
+      <AssetsSection {...content1}
+      reverse
+      />
+      <SubscribeSection />
       <SocialCommunitySection />
-
       {/* 
       
       <div className="relative">
@@ -80,7 +123,7 @@ export default function Home({ h1, faq }) {
         <BrandSection heading={homeTilte.brands} brandData={brandLogoData} />
       </div>
       <BodyTypeSection heading={homeTilte.body_type} data={BodyTypeData} />
-      <AssetsSection {...content2} />
+      
       <ProductCardSection
         heading={homeTilte.featured}
         paragraph={[`At Car Solutions, we offer a wide selection of vehicles tailored to your lifestyle. Whether you're looking for a spacious SUV, a sleek sedan, or an eco-friendly electric car, we have you covered. Discover the perfect match for your driving needs today!`]}
@@ -135,11 +178,7 @@ export default function Home({ h1, faq }) {
         ]}
         data={ServicesHomeData1}
       />
-      <OurTeamSection heading={`Meet the Experts Behind Car Solutions`}
-        paragraph={[
-          `At Car Solutions, our team is made up of passionate automotive experts committed to helping you buy or sell with confidence. With years of industry experience, we’re here to guide you every step of the way.`
-        ]}
-      />
+      
       <AssetsSection {...content3} reverse />
       <Banner
         heading={`Drive Luxury on Your Terms with Car Solutions`}
