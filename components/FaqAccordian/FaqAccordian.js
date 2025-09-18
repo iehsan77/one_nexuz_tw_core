@@ -2,6 +2,7 @@
 import Paragraph from "@/components/Typography/Paragraph";
 import { Icon } from "@iconify/react";
 import React, { useState } from "react";
+import Heading6 from "../Typography/Heading6";
 
 export function FaqAccordian({ data }) {
   const [openItemId, setOpenItemId] = useState(null);
@@ -19,6 +20,8 @@ export function FaqAccordian({ data }) {
             id={item.id}
             number={item.number}
             title={item.question}
+            list={item.list}
+            listTitle={item.listTitle}
             content={item.answer}
             isOpen={openItemId === item.id}
             onClick={handleItemClick}
@@ -29,7 +32,7 @@ export function FaqAccordian({ data }) {
   );
 }
 
-const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
+const AccordionItem = ({ id, title, number, content, isOpen, list, listTitle, onClick }) => {
   return (
     <div
       className={`border border-gray-400 hover:cursor-pointer transition-colors duration-300 ${isOpen ? "bg-secondary text-white" : "bg-white"
@@ -38,9 +41,7 @@ const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
     >
       {/* Accordion Button */}
       <div
-        className="w-full flex justify-between items-center gap-4 p-4 text-left displayPara font-semibold"
-
-      >
+        className={`w-full flex justify-between ${isOpen ? "items-start" : "items-center"} gap-4 p-4 text-left displayPara font-semibold`}>
         <div className={`flex gap-6 ${isOpen ? "items-start" : "items-center"}`}>
           <span className="display3">{number}</span>
           <div className="">
@@ -53,6 +54,41 @@ const AccordionItem = ({ id, title, number, content, isOpen, onClick }) => {
                 }`}
             >
               <Paragraph blackText1={content} className={`!mb-0`} />
+              {/* List Section */}
+              {list?.items?.length > 0 && (
+                <div className="">
+                  {list.listTitle && (
+                    <Heading6
+                      blackHeading={list.listTitle}
+                      className="mb-2 !font-normal"
+                    />
+                  )}
+                  <ul className="space-y-1">
+                    {list.items.map((item, ind) => {
+                      const segments = item.split("^");
+                      return (
+                        <li
+                          className="text-sm list-disc ml-6 !font-normal leading-relaxed"
+                          key={ind}
+                        >
+                          {segments.map((text, index) =>
+                            index % 2 === 0 ? (
+                              text
+                            ) : (
+                              <span
+                                key={index}
+                                className="text-current"
+                              >
+                                {text}
+                              </span>
+                            )
+                          )}
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              )}
             </div>
           </div>
         </div>
