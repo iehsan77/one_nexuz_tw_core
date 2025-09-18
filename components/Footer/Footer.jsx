@@ -2,12 +2,15 @@
 import React, { useContext } from "react";
 import Paragraph from "../Typography/Paragraph";
 import {
-  allBrandData,
-  bodyTypeData,
-  categoryData,
-  column1,
-  servicesData,
-  socialFooterLinks,
+  BankingWealthData,
+  BusinessSetupData,
+  CompanyData,
+  CorporateServicesData,
+  DigitalData,
+  LogisticsRelocationData,
+  MiliionaireBillionaireData,
+  ResourcesData,
+  socialFooterLinks
 } from "@/mockData/dummyData";
 import Image from "../Image/Image";
 import Link from "../Link/Link";
@@ -16,6 +19,7 @@ import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
 import { textToRouteUrl } from "@/utils/apiHelper";
 import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
 import FooterNewsletter from "../Newsletter/FooterNewsletter";
+import Heading6 from "../Typography/Heading6";
 
 const Footer = () => {
   const { locale } = useContext(LanguageContext);
@@ -38,11 +42,15 @@ const Footer = () => {
       ? `© جميع الحقوق محفوظة HJK لتأجير السيارات ${currentYear}`
       : `© ${currentYear} Car Solutions | All rights reserved.`,
     viewAll: isArabic ? "عرض الكل" : "View More",
-    brandsTitle: locale === "ar" ? "الماركات" : "Resources",
-    bodyTypeTitle: locale === "ar" ? "نوع الهيكل" : "Buy",
-    categoriesTitle: locale === "ar" ? "الفئات" : "Sell",
-    servicesTitle: locale === "ar" ? "الفئات" : "Services",
-    quickLinks: locale === "ar" ? "الفئات" : "Quick Links"
+    BusinessSetup: locale === "ar" ? "الماركات" : "Business Setup",
+    BankingWealth: locale === "ar" ? "نوع الهيكل" : "Banking & Wealth",
+    CorporateServices: locale === "ar" ? "الفئات" : "Corporate Services",
+    MiliionaireBillionaire:
+      locale === "ar" ? "الفئات" : "Miliionaire & Billionaire",
+    Digital: locale === "ar" ? "الفئات" : "Digital",
+    LogisticsRelocation: locale === "ar" ? "الفئات" : "Logistics & Relocation",
+    Company: locale === "ar" ? "الفئات" : "Company",
+    Resources: locale === "ar" ? "الفئات" : "Resources"
   };
 
   return (
@@ -103,7 +111,6 @@ const Footer = () => {
                             className={`!px-0 flex items-center gap-2 !text-sm`}
                           >
                             {item.icon}
-                            {item.label}
                           </Link>
                         ))}
                       </div>
@@ -112,29 +119,80 @@ const Footer = () => {
                 </div>
               </div>
               <div className="col-span-3">
-                <div className="grid md:grid-cols-5 sm:grid-cols-3 grid-cols-2 gap-y-4 gap-x-4">
+                <div className="grid md:grid-cols-4 grid-cols-2 gap-y-4 gap-x-4">
                   <LinkSection
-                    title={footerContent.quickLinks}
-                    links={column1.links}
+                    title={footerContent.BusinessSetup}
+                    links={BusinessSetupData.links}
                   />
                   <LinkSection
-                    title={footerContent.brandsTitle}
-                    links={allBrandData.links}
+                    title={footerContent.CorporateServices}
+                    links={CorporateServicesData.links}
                   />
                   <LinkSection
-                    title={footerContent.bodyTypeTitle}
-                    links={bodyTypeData.links}
+                    title={footerContent.Digital}
+                    links={DigitalData.links}
                   />
                   <LinkSection
-                    title={footerContent.categoriesTitle}
-                    links={categoryData.links}
+                    title={footerContent.Company}
+                    links={CompanyData.links}
+                  />
+                </div>
+                <div className="grid md:grid-cols-4 grid-cols-2 gap-y-4 gap-x-4">
+                  <LinkSection
+                    title={footerContent.BankingWealth}
+                    links={BankingWealthData.links}
                   />
                   <LinkSection
-                    title={footerContent.servicesTitle}
-                    links={servicesData.links}
+                    title={footerContent.MiliionaireBillionaire}
+                    links={MiliionaireBillionaireData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.LogisticsRelocation}
+                    links={LogisticsRelocationData.links}
+                  />
+
+                  <LinkSection
+                    title={footerContent.Resources}
+                    links={ResourcesData.links}
                   />
                 </div>
               </div>
+              {/* <div className="col-span-3">
+                <div className="columns-2 md:columns-4 gap-6 space-y-6">
+                  <LinkSection
+                    title={footerContent.BusinessSetup}
+                    links={BusinessSetupData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.BankingWealth}
+                    links={BankingWealthData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.CorporateServices}
+                    links={CorporateServicesData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.MiliionaireBillionaire}
+                    links={MiliionaireBillionaireData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.Digital}
+                    links={DigitalData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.LogisticsRelocation}
+                    links={LogisticsRelocationData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.Company}
+                    links={CompanyData.links}
+                  />
+                  <LinkSection
+                    title={footerContent.Resources}
+                    links={ResourcesData.links}
+                  />
+                </div>
+              </div> */}
             </div>
             <div className="md:hidden flex items-center gap-4 pt-4">
               <Image
@@ -200,9 +258,9 @@ const LinkSection = ({ title, links }) => {
   return (
     <div className="">
       <div className="flex flex-col items-start">
-        <Heading5
+        <Heading6
           blackHeading={title}
-          className={`underline underline-offset-8`}
+          className={`underline underline-offset-8 !text-sm`}
         />
         <div>
           {links?.map((item, ind) => (
@@ -210,12 +268,21 @@ const LinkSection = ({ title, links }) => {
               key={ind}
               variant={`txt`}
               href={item.links}
-              className="hover:!text-primary !text-white sm:!text-sm !text-xs !py-2 justify-start !text-left"
+              className="hover:!text-primary !text-white !text-xs !py-2 justify-start !text-left"
             >
               <span>{item.title_en}</span>
             </Link>
           ))}
         </div>
+        <Link
+          variant={`txt`}
+          href={`/`}
+          icon1
+          iconClass={`!text-primary`}
+          className="hover:!text-primary !text-primary !text-xs !py-2 justify-start !text-left"
+        >
+          <span>{`View All`}</span>
+        </Link>
       </div>
     </div>
   );

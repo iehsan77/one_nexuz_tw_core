@@ -114,36 +114,70 @@ export const navlinks = {
  | Footer Section Start
  |--------------------------------------------------
  */
-export const column1 = {
+export const BusinessSetupData = {
   links: [
-    { title_en: "About Us", title_ar: "الرئيسية", links: "/about-us" },
-    { title_en: "Contact Us", title_ar: "المدونة", links: "/contact-us" },
-    { title_en: "Blog", title_ar: "الرئيسية", links: "/blog" },
-    { title_en: "Cars for Sale", title_ar: "استئجار سيارة", links: "/listing" },
-    { title_en: "Featured Cars", title_ar: "الماركات", links: "/listing" },
-    { title_en: "Brands", title_ar: "قارن سيارتك", links: "/listing", },
+    { title_en: "UAE Free Zone", title_ar: "الرئيسية", links: "/" },
+    { title_en: "UAE Mainland", title_ar: "المدونة", links: "/" },
+    { title_en: "UAE Offshore", title_ar: "الرئيسية", links: "/" },
   ],
 };
-export const allBrandData = {
+export const BankingWealthData = {
   links: [
-    { title_en: "Insights", title_ar: "الرئيسية", links: "/blog" },
-    { title_en: "Guides", title_ar: "استئجار سيارة", links: "/guide" },
-    { title_en: "Car Lease Calculator", title_ar: "الماركات", links: "/car-lease" },
-    { title_en: "Career", title_ar: "قارن سيارتك", links: "/career", },
+    { title_en: "Wealth Management Services", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Family Office Setup", title_ar: "استئجار سيارة", links: "/" },
+    { title_en: "Asset Protection", title_ar: "الماركات", links: "/" },
   ],
 }
-export const bodyTypeData = {
+export const CorporateServicesData = {
   links: [
-    { title_en: "Browse All Cars", title_ar: "الرئيسية", links: "/listing" },
-    { title_en: "Featured Listing", title_ar: "استئجار سيارة", links: "/listing" },
-    { title_en: "Used Cars for Sale", title_ar: "الماركات", links: "/listing" },
+    { title_en: "payroll management", title_ar: "الرئيسية", links: "/" },
+    { title_en: "health insurance dubai", title_ar: "استئجار سيارة", links: "/" },
+    { title_en: "business insurance", title_ar: "الماركات", links: "/" },
   ],
 }
-export const categoryData = {
+export const MiliionaireBillionaireData = {
   links: [
-    { title_en: "List Your Car", title_ar: "الرئيسية", links: "/listing/listing-form" },
+    { title_en: "Will & Trust Preparation Services", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Family Foundation & Trust", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Golden Visa UAE", title_ar: "الرئيسية", links: "/" },
   ],
 }
+export const DigitalData = {
+  links: [
+    { title_en: "Domain Name & DNS Management", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Web Hosting Services", title_ar: "المدونة", links: "/" },
+    { title_en: "Office 365 Subscription", title_ar: "الرئيسية", links: "/" },
+  ],
+};
+export const LogisticsRelocationData = {
+  links: [
+    { title_en: "Tourist Visa", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Investor Visa Processing", title_ar: "استئجار سيارة", links: "/" },
+    { title_en: "Partner Visa Services", title_ar: "الماركات", links: "/" },
+  ],
+}
+export const CompanyData = {
+  links: [
+    { title_en: "About Us", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Contact us", title_ar: "المدونة", links: "/" },
+    { title_en: "Privacy policy", title_ar: "المدونة", links: "/" },
+    { title_en: "Careers", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Team", title_ar: "الرئيسية", links: "/" },
+  ],
+}
+export const ResourcesData = {
+  links: [
+    { title_en: "Guides", title_ar: "الرئيسية", links: "/" },
+    { title_en: "Insights", title_ar: "الرئيسية", links: "/" },
+    { title_en: "FAQs", title_ar: "الرئيسية", links: "/" },
+  ],
+}
+
+/**
+|--------------------------------------------------
+| 
+|--------------------------------------------------
+*/
 export const servicesData = {
   links: [
     { title_en: "Maintenance & Servicing", title_ar: "الرئيسية", links: "/services" },
