@@ -252,7 +252,7 @@ function NavListMenu({ title, pageLinks = [], }) {
         <div className="flex items-center py-2 text-white font-[400] hover:cursor-pointer">
           <span
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="normalFontSize"
+            className="normalFontSize text-sm"
           >
             {title}
           </span>
@@ -308,7 +308,6 @@ function NavListMenu({ title, pageLinks = [], }) {
                 </div>
               </div>
             )}
-
           </div>
         )}
       </div>
