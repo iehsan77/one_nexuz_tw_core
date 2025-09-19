@@ -79,46 +79,68 @@ function NavSubListMenu({ title, link, subLinks }) {
   );
 }
 
-function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
+function NavListMenu({ title, pageLinks = [], }) {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = React.useState(false);
   const variant =
-    title?.toLowerCase() === "services"
-      ? "services"
-      : title?.toLowerCase() === "resources"
-        ? "resources"
-        : "";
+    title?.toLowerCase() === "business"
+      ? "business"
+      : title?.toLowerCase() === "corporate"
+        ? "corporate"
+        : title?.toLowerCase() === "banking"
+          ? "banking"
+          : title?.toLowerCase() === "digital"
+            ? "digital"
+            : title?.toLowerCase() === "millionaire"
+              ? "millionaire"
+              : title?.toLowerCase() === "logistics"
+                ? "logistics"
+                : "";
 
   /** ✅ Render services items */
-  const servicesItems = pageLinks.map(
-    ({ name, title, link, paragraph, target, subLinks }, key) =>
-      subLinks ? (
-        <NavSubListMenu key={key} title={name} link={link} subLinks={subLinks} />
-      ) : (
-        <div
-          key={key}
-          className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
-        >
-          <LanguageAwareLink
-            href={textToRouteUrl(link || "#")}
-            target={target}
-            className="normalFontSize w-full font-[400] text-nowrap"
-          >
-            <Heading6 blackHeading={title} className="!mb-0" />
-            <Paragraph
-              blackText1={paragraph}
-              className="text-wrap !text-xs !mb-2"
-            />
-          </LanguageAwareLink>
-        </div>
-      )
+  const servicesItems = pageLinks.map((item, key) =>
+    item.subLinks ? (
+      <NavSubListMenu
+        key={key}
+        title={item.name}
+        link={item.link}
+        subLinks={item.subLinks}
+      />
+    ) : (
+      <div
+        key={key}
+        className="w-full flex flex-col items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
+      >
+        {/* Section Title */}
+        <Heading6
+          blackHeading={item.title}
+          className="!mb-0 !font-[400] text-nowrap underline underline-offset-4"
+        />
+
+        {/* Listing Links */}
+        <ul className="space-y-2">
+          {item.listing?.map(({ link, target, list }, ind) => (
+            <li key={ind} className="">
+              <LanguageAwareLink
+                href={textToRouteUrl(link || "#")}
+                target={target}
+                className="normalFontSize font-[400] text-nowrap text-xs"
+              >
+                {list}
+              </LanguageAwareLink>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
   );
 
-  /** ✅ Render resources items (without images) */
-  const resourcesItems = pageLinks.map((item, i) => (
+  const corporateItems = pageLinks.map((item, key) => item.subLinks ? (
+    <NavSubListMenu key={key} title={item.name} link={item.link} subLinks={item.subLinks} />
+  ) : (
     <div
-      key={i}
-      className="flex items-start gap-4 rounded-lg hover:bg-white/10 lg:p-3 transition"
+      key={key}
+      className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
     >
       <LanguageAwareLink
         href={textToRouteUrl(item.link || "#")}
@@ -132,54 +154,93 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
         />
       </LanguageAwareLink>
     </div>
-  ));
-
-  /** ✅ Render blog links (with images) */
-  const blogItems = blogLinks.map((item, i) => {
-    return (
-      <div
-        key={i}
-        className="flex items-start gap-4 rounded-lg hover:bg-white/10 transition"
-      >
-        {item.imageURL && (
-          <div className="aspect-[160px/126px] rounded-lg overflow-hidden flex-shrink-0">
-            <Image
-              src={item.imageURL}
-              alt={item.title}
-              width={120}
-              height={90}
-              className="object-cover"
-            />
-          </div>
-        )}
-        <div>
-          <LanguageAwareLink
-            href={textToRouteUrl(item.link || "#")}
-            target={item.target}
-            className="normalFontSize w-full font-[400] text-nowrap"
-          >
-            <Paragraph blackText1={item.title} className="!mb-2 text-wrap !font-semibold line-clamp-2" />
-            <Paragraph
-              blackText1={item.paragraph}
-              className="text-wrap !text-xs !mb-0 line-clamp-2"
-            />
-
-          </LanguageAwareLink>
-          <Link
-            href={textToRouteUrl(item.link || "#")}
-            variant={`txt`}
-            className={`!text-white !text-xs !inline-flex`}
-            icon1
-            iconClass={`!text-white`}
-          >
-            Read More
-          </Link>
-        </div>
-      </div>
-    )
-  }
+  )
   );
-  
+  const bankingItems = pageLinks.map((item, key) => item.subLinks ? (
+    <NavSubListMenu key={key} title={item.name} link={item.link} subLinks={item.subLinks} />
+  ) : (
+    <div
+      key={key}
+      className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
+    >
+      <LanguageAwareLink
+        href={textToRouteUrl(item.link || "#")}
+        target={item.target}
+        className="normalFontSize w-full font-[400] text-nowrap"
+      >
+        <Heading6 blackHeading={item.title} className="!mb-0" />
+        <Paragraph
+          blackText1={item.paragraph}
+          className="text-wrap !text-xs !mb-2"
+        />
+      </LanguageAwareLink>
+    </div>
+  )
+  );
+  const digitalItems = pageLinks.map((item, key) => item.subLinks ? (
+    <NavSubListMenu key={key} title={item.name} link={item.link} subLinks={item.subLinks} />
+  ) : (
+    <div
+      key={key}
+      className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
+    >
+      <LanguageAwareLink
+        href={textToRouteUrl(item.link || "#")}
+        target={item.target}
+        className="normalFontSize w-full font-[400] text-nowrap"
+      >
+        <Heading6 blackHeading={item.title} className="!mb-0" />
+        <Paragraph
+          blackText1={item.paragraph}
+          className="text-wrap !text-xs !mb-2"
+        />
+      </LanguageAwareLink>
+    </div>
+  )
+  );
+  const millionaireItems = pageLinks.map((item, key) => item.subLinks ? (
+    <NavSubListMenu key={key} title={item.name} link={item.link} subLinks={item.subLinks} />
+  ) : (
+    <div
+      key={key}
+      className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
+    >
+      <LanguageAwareLink
+        href={textToRouteUrl(item.link || "#")}
+        target={item.target}
+        className="normalFontSize w-full font-[400] text-nowrap"
+      >
+        <Heading6 blackHeading={item.title} className="!mb-0" />
+        <Paragraph
+          blackText1={item.paragraph}
+          className="text-wrap !text-xs !mb-2"
+        />
+      </LanguageAwareLink>
+    </div>
+  )
+  );
+  const logisticsItems = pageLinks.map((item, key) => item.subLinks ? (
+    <NavSubListMenu key={key} title={item.name} link={item.link} subLinks={item.subLinks} />
+  ) : (
+    <div
+      key={key}
+      className="w-full flex items-start gap-3 rounded-lg hover:bg-white/10 lg:p-3 transition"
+    >
+      <LanguageAwareLink
+        href={textToRouteUrl(item.link || "#")}
+        target={item.target}
+        className="normalFontSize w-full font-[400] text-nowrap"
+      >
+        <Heading6 blackHeading={item.title} className="!mb-0" />
+        <Paragraph
+          blackText1={item.paragraph}
+          className="text-wrap !text-xs !mb-2"
+        />
+      </LanguageAwareLink>
+    </div>
+  )
+  );
+
   return (
     <>
       {/* ✅ Desktop Mega Menu */}
@@ -195,45 +256,59 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
           >
             {title}
           </span>
-          <Chevron className={isMenuOpen ? "fill-primary rotate-90" : ""} />
+          {/* <Chevron className={isMenuOpen ? "fill-primary rotate-90" : ""} /> */}
         </div>
 
         {isMenuOpen && (
           <div className="absolute left-0 bg-white text-black w-full shadow-lg px-6 py-6 rounded-xl overflow-hidden">
-            {variant === "services" && (
+            {variant === "business" && (
               <div>
-                <Heading4 blackHeading={`Services`} className="text-wrap lg:block hidden mb-4" />
-                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                <div className="columns-3 gap-4">
                   {servicesItems}
                 </div>
               </div>
             )}
-            {variant === "resources" && (
-              <div className="grid lg:grid-cols-2 grid-cols-1 gap-4">
-                {/* Left Side → Resources */}
-                <div>
-                  <Heading4 blackHeading={`Resources`} className="text-wrap lg:block hidden mb-4" />
-                  <div className="grid lg:grid-cols-2 grid-cols-1 gap-4">
-                    {resourcesItems}
-                  </div>
-                </div>
-
-                {/* Right Side → Blog Links */}
-                <div>
-                  <Heading4 blackHeading={`Featured Insights`} className="text-wrap lg:block hidden mb-4" />
-                  <div className="grid xl:grid-cols-2 grid-cols-1 gap-4">
-                    {blogItems}
-                  </div>
-                  {/* View All Button */}
-                  <Link
-                    href="/blog"
-                    className="mt-4 inline-flex px-5 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 transition"
-                  >
-                    View All Insights
-                  </Link>
+            {variant === "corporate" && (
+              <div>
+                <Heading4 blackHeading={`Corporate Services`} className="text-wrap lg:block hidden mb-4" />
+                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                  {corporateItems}
                 </div>
               </div>
             )}
+            {variant === "banking" && (
+              <div>
+                <Heading4 blackHeading={`Banking & Wealth`} className="text-wrap lg:block hidden mb-4" />
+                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                  {bankingItems}
+                </div>
+              </div>
+            )}
+            {variant === "digital" && (
+              <div>
+                <Heading4 blackHeading={`Digital Tech`} className="text-wrap lg:block hidden mb-4" />
+                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                  {digitalItems}
+                </div>
+              </div>
+            )}
+            {variant === "millionaire" && (
+              <div>
+                <Heading4 blackHeading={`Millionaire & Billionaire`} className="text-wrap lg:block hidden mb-4" />
+                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                  {millionaireItems}
+                </div>
+              </div>
+            )}
+            {variant === "logistics" && (
+              <div>
+                <Heading4 blackHeading={`Logistics & Relocation`} className="text-wrap lg:block hidden mb-4" />
+                <div className="grid xl:grid-cols-5 lg:grid-cols-3 grid-cols-1 gap-6">
+                  {logisticsItems}
+                </div>
+              </div>
+            )}
+
           </div>
         )}
       </div>
@@ -246,36 +321,36 @@ function NavListMenu({ title, pageLinks = [], blogLinks = [] }) {
           <span className="normalFontSize">{title}</span>
           <Chevron className={isMobileMenuOpen ? "fill-primary rotate-90" : ""} />
         </div>
-        {/* {isMobileMenuOpen && <div className="pl-2 !text-black">{renderItems}</div>} */}
         {isMobileMenuOpen && <div className="pl-2 !text-black">
-
           <Heading4 blackHeading={title} className="lg:block hidden mb-4" />
-
           {variant === "services" && (
             <div className="">
               {servicesItems}
             </div>
           )}
-
-          {variant === "resources" && (
+          {variant === "corporate" && (
             <div className="">
-              <div className="">
-                {resourcesItems}
-              </div>
-
-              {/* Right Side → Blog Links */}
-              <div>
-                <Heading4 blackHeading={`Featured Insights`} className="text-wrap mb-4" />
-                <div className="grid grid-cols-1">
-                  {blogItems}
-                </div>
-                <Link
-                  href="/blog"
-                  className="mt-4 inline-flex px-5 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 transition"
-                >
-                  View All Insights
-                </Link>
-              </div>
+              {corporateItems}
+            </div>
+          )}
+          {variant === "banking" && (
+            <div className="">
+              {bankingItems}
+            </div>
+          )}
+          {variant === "digital" && (
+            <div className="">
+              {digitalItems}
+            </div>
+          )}
+          {variant === "millionaire" && (
+            <div className="">
+              {millionaireItems}
+            </div>
+          )}
+          {variant === "logistics" && (
+            <div className="">
+              {logisticsItems}
             </div>
           )}
         </div>}
@@ -327,7 +402,7 @@ const TopNavBarContact = () => {
 }
 
 export function StickyNavbar() {
-  const [formType, setFormType] = useState("signin");
+  // const [formType, setFormType] = useState("signin");
   const [isModalOpen, setIsModalOpen] = useState(false);
   const { allBrandData, fetchAllBrandData } =
     useAllBrandStore();
@@ -344,7 +419,7 @@ export function StickyNavbar() {
   );
   const [navbarText, setNavbarText] = useState("");
   const [iconStrock, setIconStrock] = useState(`white`);
-  const [otpEmail, setOtpEmail] = useState(null);
+  // const [otpEmail, setOtpEmail] = useState(null);
   const { vendor } = useVendorStore();
   const { showDrawer, hideDrawer } = useDrawer();
   const pathname = usePathname();
@@ -374,14 +449,6 @@ export function StickyNavbar() {
     ? vendor.first_name.charAt(0).toUpperCase()
     : "";
 
-  const translations = {
-    en: {
-      bookYourCar: "Book Your Car",
-    },
-    ar: {
-      bookYourCar: "احجز سيارتك",
-    },
-  };
   useEffect(() => {
     fetchAllBrandData();
     fetchCategoriesData();
@@ -431,7 +498,7 @@ export function StickyNavbar() {
               </div>
             </div>
             <ul className="mt-4 mb-6 p-0 lg:mt-0 lg:mb-0 lg:flex lg:p-1 xl:gap-6 lg:gap-4 lg:divide-y-0 divide-y">
-              {navlinks[locale]?.map(({ name, link, pageLinks, blogLinks }, index) => {
+              {navlinks[locale]?.map(({ name, link, pageLinks }, index) => {
                 const currentPath = pathname.replace(/^\/(en|ar)/, "");
                 const isActive =
                   link === "/"
@@ -444,7 +511,6 @@ export function StickyNavbar() {
                     key={index}
                     title={name}
                     pageLinks={pageLinks}
-                    blogLinks={blogLinks}
                   />
                 ) : (
                   <li
@@ -551,7 +617,7 @@ export function StickyNavbar() {
                           <div className="">
                             <ul className="lg:flex lg:p-1 xl:gap-6 lg:gap-2">
                               {navlinks[locale]?.map(
-                                ({ name, link, pageLinks, blogLinks }, index) => {
+                                ({ name, link, pageLinks }, index) => {
                                   const currentPath = pathname.replace(
                                     /^\/(en|ar)/,
                                     ""
@@ -568,7 +634,6 @@ export function StickyNavbar() {
                                       key={index}
                                       title={name}
                                       pageLinks={pageLinks}
-                                      blogLinks={blogLinks}
                                     />
                                   ) : (
                                     <li

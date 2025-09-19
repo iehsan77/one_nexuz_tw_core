@@ -43,7 +43,256 @@ export const navlinks = {
     // { name: "New", link: "/new" },
     // { name: "Used", link: "/used" },
     {
-      name: "Services",
+      name: "Business",
+      link: "#",
+      pageLinks: [
+        {
+          title: "UAE Free Zone",
+          listing: [
+            {
+              list: "DIC - Dubai Internet City",
+              link: "/",
+            },
+            {
+              list: "DAFZ - Dubai Airport Free Zone",
+              link: "/",
+            },
+            {
+              list: "MFZ - Meydan Free Zone",
+              link: "/",
+            },
+            {
+              list: "JAFZA - Jebel Ali Free Zone",
+              link: "/",
+            },
+            {
+              list: "DMCC - Dubai Multi Commodities Center",
+              link: "/",
+            },
+            {
+              list: "IFZA - International Free Zone Authority",
+              link: "/",
+            },
+            {
+              list: "Dubai South - Dubai South Free Zone",
+              link: "/",
+            },
+            {
+              list: "DTEC - Dubai Technology Entrepreneur Center",
+              link: "/",
+            },
+            {
+              list: "DAZ - Dubai Auto Zone",
+              link: "/",
+            },
+            {
+              list: "DMC - Dubai Media City",
+              link: "/",
+            },
+          ]
+        },
+        {
+          title: "Abu Dhabi Free zone",
+          listing: [
+            {
+              list: "Abu Dhabi Global Market",
+              link: "/",
+            },
+            {
+              list: "Khalifa Industrial Zone Abu Dhabi",
+              link: "/",
+            },
+            {
+              list: "Twofour54 (Media & Creative)",
+              link: "/",
+            },
+            {
+              list: "Masdar City Free Zone",
+              link: "/",
+            },
+            {
+              list: "Abu Dhabi Airport Free Zone",
+              link: "/",
+            },
+          ]
+        },
+        {
+          title: "Abu Dhabi Free zone",
+          listing: [
+            {
+              list: "AMC - Ajman Media City Free Zone",
+              link: "/",
+            },
+            
+          ]
+        },
+        {
+          title: "Ajman Free Zone",
+          listing: [
+            {
+              list: "UAQ FTZ - Umm Al Quwain Free Zone",
+              link: "/",
+            },
+            
+          ]
+        },
+        {
+          title: "Umm Al Quwain Free Zone",
+          listing: [
+            {
+              list: "FCC - Fujairah Creative City",
+              link: "/",
+            },
+           
+          ]
+        },
+        {
+          title: "Fujairah Free Zone",
+          listing: [
+            {
+              list: "SPC - Sharjah Publishing City Free Zone",
+              link: "/",
+            },
+            {
+              list: "HFZA - Hamriyah Free Zone",
+              link: "/",
+            },
+            {
+              list: "SAIF - Sharjah Airport International free zone",
+              link: "/",
+            },
+            {
+              list: "SHAMS - Sharjah Media City free zone",
+              link: "/",
+            },
+          ]
+        },
+        {
+          title: "Sharjah Free Zone",
+          listing: [
+            {
+              list: "DIC - Dubai Internet City",
+              link: "/",
+            },
+            {
+              list: "DAFZ - Dubai Airport Free Zone",
+              link: "/",
+            },
+            {
+              list: "MFZ - Meydan Free Zone",
+              link: "/",
+            },
+            {
+              list: "JAFZA - Jebel Ali Free Zone",
+              link: "/",
+            },
+            {
+              list: "DMCC - Dubai Multi Commodities Center",
+              link: "/",
+            },
+            {
+              list: "IFZA - International Free Zone Authority",
+              link: "/",
+            },
+            {
+              list: "Dubai South - Dubai South Free Zone",
+              link: "/",
+            },
+            {
+              list: "DTEC - Dubai Technology Entrepreneur Center",
+              link: "/",
+            },
+            {
+              list: "DAZ - Dubai Auto Zone",
+              link: "/",
+            },
+            {
+              list: "DMC - Dubai Media City",
+              link: "/",
+            },
+          ]
+        },
+        {
+          title: "Ras Al Khaimah Free Zone",
+          listing: [
+            {
+              list: "DIC - Dubai Internet City",
+              link: "/",
+            },
+            {
+              list: "DAFZ - Dubai Airport Free Zone",
+              link: "/",
+            },
+            {
+              list: "MFZ - Meydan Free Zone",
+              link: "/",
+            },
+            {
+              list: "JAFZA - Jebel Ali Free Zone",
+              link: "/",
+            },
+            {
+              list: "DMCC - Dubai Multi Commodities Center",
+              link: "/",
+            },
+            {
+              list: "IFZA - International Free Zone Authority",
+              link: "/",
+            },
+            {
+              list: "Dubai South - Dubai South Free Zone",
+              link: "/",
+            },
+            {
+              list: "DTEC - Dubai Technology Entrepreneur Center",
+              link: "/",
+            },
+            {
+              list: "DAZ - Dubai Auto Zone",
+              link: "/",
+            },
+            {
+              list: "DMC - Dubai Media City",
+              link: "/",
+            },
+          ]
+        },
+
+      ],
+    },
+    {
+      name: "Corporate",
+      link: "#",
+      pageLinks: [
+        {
+          title: "Maintenance & Servicing",
+          lists: [
+            {
+              name: "Maintenance",
+              link: "/Maintenance",
+            },
+          ]
+        },
+        {
+          title: "Detailing & Wash",
+          link: "/services",
+        },
+        {
+          title: "Car Insurance",
+          link: "/services",
+        },
+        {
+          title: "Car Evaluation",
+          link: "/services",
+        },
+        {
+          title: "Car Finance",
+          link: "/services",
+        },
+      ],
+    },
+    {
+      name: "Banking",
       link: "#",
       pageLinks: [
         { title: "Maintenance & Servicing", paragraph: "Keep your vehicle running smoothly with expert care and routine checkups.", link: "/services" },
@@ -54,29 +303,39 @@ export const navlinks = {
       ],
     },
     {
-      name: "Resources",
-      link: "/used",
+      name: "Digital",
+      link: "#",
       pageLinks: [
-        { title: "Insights", paragraph: "Stay updated with the latest trends, news, and expert opinions in the automotive world.", link: "/services" },
-        { title: "Guides", paragraph: "Navigate buying, selling, and owning a car with step-by-step help and expert tips.", link: "/services" },
-        { title: "Car Lease Calculator", paragraph: "Estimate your monthly lease payments easily and plan your budget with confidence.", link: "/services" },
-        { title: "Careers", paragraph: "Join our passionate team and drive your future with exciting opportunities at Car Solutions.", link: "/services" },
-      ],
-      blogLinks: [
-        {
-          title: "The Future of Electric Vehicles",
-          paragraph: "Explore how electric cars are reshaping the way we drive and think about mobility.",
-          link: "/blog/market-insights",
-          imageURL: "/assets/images/image_37.webp",
-        },
-        {
-          title: "Essential Tips for Selling Your Car",
-          paragraph: "Discover smart strategies to boost your car’s resale value and sell with confidence.",
-          link: "/blog/car-buying-guide",
-          imageURL: "/assets/images/image_38.webp",
-        },
+        { title: "Maintenance & Servicing", paragraph: "Keep your vehicle running smoothly with expert care and routine checkups.", link: "/services" },
+        { title: "Detailing & Wash", paragraph: "Bring back the showroom shine with professional cleaning and detailing.", link: "/services" },
+        { title: "Car Insurance", paragraph: "Protect your vehicle with comprehensive coverage tailored to your needs.", link: "/services" },
+        { title: "Car Evaluation", paragraph: "Get an accurate, market-based valuation for your car in just minutes.", link: "/services" },
+        { title: "Car Finance", paragraph: "Drive now, pay later flexible car financing options designed to fit your budget.", link: "/services" },
       ],
     },
+    {
+      name: "Millionaire",
+      link: "#",
+      pageLinks: [
+        { title: "Maintenance & Servicing", paragraph: "Keep your vehicle running smoothly with expert care and routine checkups.", link: "/services" },
+        { title: "Detailing & Wash", paragraph: "Bring back the showroom shine with professional cleaning and detailing.", link: "/services" },
+        { title: "Car Insurance", paragraph: "Protect your vehicle with comprehensive coverage tailored to your needs.", link: "/services" },
+        { title: "Car Evaluation", paragraph: "Get an accurate, market-based valuation for your car in just minutes.", link: "/services" },
+        { title: "Car Finance", paragraph: "Drive now, pay later flexible car financing options designed to fit your budget.", link: "/services" },
+      ],
+    },
+    {
+      name: "Logistics",
+      link: "#",
+      pageLinks: [
+        { title: "Maintenance & Servicing", paragraph: "Keep your vehicle running smoothly with expert care and routine checkups.", link: "/services" },
+        { title: "Detailing & Wash", paragraph: "Bring back the showroom shine with professional cleaning and detailing.", link: "/services" },
+        { title: "Car Insurance", paragraph: "Protect your vehicle with comprehensive coverage tailored to your needs.", link: "/services" },
+        { title: "Car Evaluation", paragraph: "Get an accurate, market-based valuation for your car in just minutes.", link: "/services" },
+        { title: "Car Finance", paragraph: "Drive now, pay later flexible car financing options designed to fit your budget.", link: "/services" },
+      ],
+    },
+
 
   ],
   ar: [
