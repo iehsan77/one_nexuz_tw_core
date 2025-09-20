@@ -1,8 +1,5 @@
 "use server";
-
 import { endpoints } from "@/utils/endpoints";
-
-// import { setToken } from "@/lib/auth";
 
 export const onSignup = async (formData) => {
   "use server";

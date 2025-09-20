@@ -1,8 +1,6 @@
 "use server";
-
 import { endpoints } from "@/utils/endpoints";
 
-// import { endpoints } from "@/utils/api_constants";
 
 export const updateProfile = async (formData, token) => {
   "use server";

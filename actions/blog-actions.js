@@ -1,5 +1,4 @@
 "use server";
-
 import { endpoints } from "@/utils/endpoints";
 
 export const GetBlogs = async (body) => {
