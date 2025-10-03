@@ -1,0 +1,677 @@
+{
+  "btn": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "inquireNow": "Inquire Now",
+    "setupConsultation": "Get Free Setup Consultation",
+    "subscribe": "Subscribe",
+    "contactUsNow": "Contact Us Now",
+    "yes": "Yes",
+    "notReally": "Not Really",
+    "readMoreGuides": "Read More Guides",
+    "readMoreBlogs": "Read More Blogs",
+    "readMore": "Read more",
+    "viewAll": "View All",
+    "exploreMore": "Explore More",
+    "submit": "Submit"
+  },
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "title": "All-in-One Business Setup & Corporate Solutions, ^Powered by One Nexuz^",
+    "description": "We eliminate the pain of business formation, relocation, and compliance by offering an integrated suite of corporate, wealth, and digital services, empowering you to launch faster and scale smarter in Dubai and beyond."
+  },
+  "trusted": "Trusted By The Best!",
+  "themSelvesData": {
+    "title": "The Numbers Speak for Themselves",
+    "items": [
+      {
+        "title": "10+",
+        "description": "Years of Building & Scaling Businesses"
+      },
+      { "title": "1000+", "description": "Clients Thriving With Our Support" },
+      {
+        "title": "200+",
+        "description": "Professionals Working Behind Your Success"
+      },
+      { "title": "99%", "description": "Success Rate on License Approvals" },
+      {
+        "title": "AED 10M+",
+        "description": "Saved for Businesses via PRO Solutions"
+      }
+    ]
+  },
+  "whyPartner": {
+    "title": "Why Partner with One Nexuz for Business Setup in Dubai?",
+    "description": "Worried about rejections and wasted time? Our one-window setup gets you approved and market-ready",
+    "items": [
+      {
+        "title": "Start Without Setbacks",
+        "description": "One wrong document or mismatched activity can delay your license for weeks. With One Nexuz, every step of your Dubai business setup is handled by experts, ensuring full compliance and smooth approvals — so you begin without stress or rejection"
+      },
+      {
+        "title": "Be Market-Ready in Days",
+        "description": "Why waste weeks on setup formalities? With One Nexuz, your business formation is fast-tracked in days — so you enter the market quicker, seize opportunities sooner, and stay ahead of competitors."
+      },
+      {
+        "title": "Save More with Full Transparency",
+        "description": "Hidden fees drain resources and trust. Our all-inclusive Dubai company formation packages save you AED 5,000–10,000, with every cost clear upfront — so you keep control and confidence."
+      }
+    ]
+  },
+  "nexuzDifferent": {
+    "title": "Here’s What Makes One Nexuz Different",
+    "description": "Experience a seamless journey, One Nexuz handles every business need from setup to digital success.",
+    "items": [
+      {
+        "title": "Simplified Business Setup & Services",
+        "image": "/assets/nexuzDifferent/1.svg"
+      },
+      {
+        "title": "Full Visa & Licensing Support",
+        "image": "/assets/nexuzDifferent/2.svg"
+      },
+      {
+        "title": "Transparent and Flexible pricing",
+        "image": "/assets/nexuzDifferent/3.svg"
+      },
+      {
+        "title": "No Delays, No Hidden Fees",
+        "image": "/assets/nexuzDifferent/4.svg"
+      },
+      {
+        "title": "Dedicated Account Manager",
+        "image": "/assets/nexuzDifferent/5.svg"
+      }
+    ]
+  },
+  "uaeBusinessJourney": {
+    "title": "Cut the Red Tape, We Handle Every Step of Your ^UAE Business Journey^",
+    "items": [
+      {
+        "title": "Banking Without the Headaches",
+        "description": "Tired of endless paperwork and rejections? We match you with the right UAE bank, prep every document, and secure your account fast — so you can focus on running your business, not chasing signatures. With our direct banking expertise, your account opens smoothly, giving you instant access to operations.",
+        "image": "/assets/uaeJourney/1.svg"
+      },
+      {
+        "title": "Stay Compliant, Stay Stress-Free",
+        "description": "VAT rules in the UAE are complex and mistakes are costly. We simplify registration, manage filings, and keep your books penalty-free — protecting your business while you focus on growth. Our experts ensure you stay compliant, audit-ready, and never face avoidable penalties.",
+        "image": "/assets/uaeJourney/2.svg"
+      },
+      {
+        "title": "Workspace That Gets You Licensed",
+        "description": "Need an address for your trade license? Our co-working and flexi-desk solutions are affordable, flexible, and license-ready — giving you legal compliance and a professional space to grow from day one. Perfect for startups or scaling businesses, without the cost of long leases.",
+        "image": "/assets/uaeJourney/3.svg"
+      },
+      {
+        "title": "Visas Made Simple, For You & Family",
+        "description": " From investor visas to family sponsorship, we remove the stress of medicals, paperwork, and Emirates ID. You settle in with peace of mind — while we handle the entire visa journey. Our streamlined process ensures relocation is smooth, stress-free, and secure.",
+        "image": "/assets/uaeJourney/4.svg"
+      }
+    ]
+  },
+  "MeetVisionariesSlider": {
+    "title": "Meet the Visionaries Behind Your Success",
+    "description": "Our dedicated leadership team brings decades of expertise and local insight to help your business thrive. Connect with the people who turn your ambitions into reality.",
+    "items": [
+      {
+        "title": "Khalid Al Zayani",
+        "description": "PRO Services Director",
+        "image": "/assets/meetVisionaries/1.webp",
+        "links": [
+          { "link": "#", "icon": "ic:baseline-facebook" },
+          { "link": "#", "icon": "ant-design:linkedin-filled" },
+          { "link": "#", "icon": "mdi:twitter" },
+          { "link": "#", "icon": "pajamas:twitter" }
+        ]
+      },
+      {
+        "title": "Mohammed Saif",
+        "description": "Head of Business Setup",
+        "image": "/assets/meetVisionaries/2.webp",
+        "links": [
+          { "link": "#", "icon": "ic:baseline-facebook" },
+          { "link": "#", "icon": "ant-design:linkedin-filled" },
+          { "link": "#", "icon": "mdi:twitter" },
+          { "link": "#", "icon": "pajamas:twitter" }
+        ]
+      },
+      {
+        "title": "Emily Carter",
+        "description": "Corporate Services Manager",
+        "image": "/assets/meetVisionaries/3.webp",
+        "links": [
+          { "link": "#", "icon": "ic:baseline-facebook" },
+          { "link": "#", "icon": "ant-design:linkedin-filled" },
+          { "link": "#", "icon": "mdi:twitter" },
+          { "link": "#", "icon": "pajamas:twitter" }
+        ]
+      },
+      {
+        "title": "David Reynolds",
+        "description": "Client Relations Manager",
+        "image": "/assets/meetVisionaries/4.webp",
+        "links": [
+          { "link": "#", "icon": "ic:baseline-facebook" },
+          { "link": "#", "icon": "ant-design:linkedin-filled" },
+          { "link": "#", "icon": "mdi:twitter" },
+          { "link": "#", "icon": "pajamas:twitter" }
+        ]
+      }
+    ]
+  },
+  "GetYouStarted": {
+    "image": "/assets/getYouStarted.webp",
+    "title": "Let’s Get You Started!",
+    "description": "The faster you start, the faster you grow. Let’s get your Dubai business up and running today.",
+    "btn": "Book Your Free Consultation",
+    "url": "#"
+  },
+  "followSocialMedia": "Follow Our Journey on Social Media!",
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "How long does it take to set up a company in the UAE with One Nexuz?",
+        "answer": "Most businesses are established within 5–7 working days, depending on license type and approvals. We streamline every step so you can focus on planning your launch, not chasing paperwork."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can One Nexuz help me open a UAE corporate bank account?",
+        "answer": "Yes. We remove banking headaches by preparing every document, matching you with the right bank, and guiding you until approval — reducing rejection risks and unnecessary stress."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "What corporate services do you provide after setup?",
+        "answer": "From VAT registration and filing to license renewals and PRO services, we handle ongoing compliance so your business stays penalty-free and worry-free year after year."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Do you also support branding and digital growth?",
+        "answer": "Absolutely. Our team builds brand identity, websites, and digital marketing campaigns that help your company stand out, attract clients, and grow in the competitive UAE market."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Do you assist with relocation and family visas?",
+        "answer": "Yes. We make moving simple by handling residency visas, Emirates IDs, housing, and logistics — ensuring both you and your family settle in smoothly"
+      }
+    ]
+  },
+  "newsletter": {
+    "title": "Get Expert Tips, UAE Business News & Free Resources ^— Straight to Your Inbox^",
+    "placeholder": "Enter email"
+  },
+  "footer": {
+    "title": "Looking to transform your business?",
+    "social": "Follow Us:",
+    "footerData": [
+      {
+        "id": 1,
+        "title": "Company",
+        "items": [
+          {
+            "id": 1,
+            "title": "About Us",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Contact us",
+            "url": "#"
+          },
+          {
+            "id": 3,
+            "title": "Privacy policy",
+            "url": "#"
+          },
+          {
+            "id": 4,
+            "title": "Careers",
+            "url": "#"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Resources",
+        "items": [
+          {
+            "id": 1,
+            "title": "Guides",
+            "url": "#"
+          },
+          {
+            "id": 2,
+            "title": "Insights",
+            "url": "#"
+          }
+        ]
+      }
+    ]
+  },
+  "lookingFor": "Did you find what you're looking for?",
+  "outPartners": {
+    "title": "Our Partners",
+    "items": [
+      {
+        "id": 1,
+        "title": "Mortgage Partners",
+        "data": [
+          { "image": "/assets/mortgagePartner/1.webp" },
+          { "image": "/assets/mortgagePartner/2.webp" },
+          { "image": "/assets/mortgagePartner/3.webp" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Banking Partners",
+        "data": [
+          { "image": "/assets/bankingPartner/1.webp" },
+          { "image": "/assets/bankingPartner/2.webp" },
+          { "image": "/assets/bankingPartner/3.webp" },
+          { "image": "/assets/bankingPartner/4.webp" },
+          { "image": "/assets/bankingPartner/5.webp" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Wealth Management Partners",
+        "data": [
+          { "image": "/assets/wealthPartner/1.webp" },
+          { "image": "/assets/wealthPartner/2.webp" },
+          { "image": "/assets/wealthPartner/3.webp" },
+          { "image": "/assets/wealthPartner/4.webp" },
+          { "image": "/assets/wealthPartner/5.webp" },
+          { "image": "/assets/wealthPartner/6.webp" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Government Entities We Work Closely With",
+        "data": [
+          { "image": "/assets/governmentPartner/1.webp" },
+          { "image": "/assets/governmentPartner/2.webp" },
+          { "image": "/assets/governmentPartner/3.webp" },
+          { "image": "/assets/governmentPartner/4.webp" },
+          { "image": "/assets/governmentPartner/5.webp" }
+        ]
+      }
+    ]
+  },
+  "guide": {
+    "title": "Guides & Resources for Smarter Business Setup",
+    "description": "Explore expert guides on Dubai company formation, corporate services, relocation, and wealth management. One Nexuz brings you actionable insights to launch, grow, and scale successfully.",
+    "items": [
+      {
+        "id": 1,
+        "thumbnail_image": "/assets/guide/1.png",
+        "title": "Everything You Need to Know About the UAE Golden Visa",
+        "client": "Wade Warren"
+      },
+      {
+        "id": 2,
+        "thumbnail_image": "/assets/guide/2.png",
+        "title": "The Complete Guide to Setting Up in UAE Freezones",
+        "client": "Wade Warren"
+      },
+      {
+        "id": 3,
+        "thumbnail_image": "/assets/guide/3.png",
+        "title": "Simplify Operations with Corporate Services",
+        "client": "Wade Warren"
+      },
+      {
+        "id": 4,
+        "thumbnail_image": "/assets/guide/4.png",
+        "title": "Master Government Processes with Expert PRO Services",
+        "client": "Wade Warren"
+      }
+    ]
+  },
+  "blog": {
+    "title": "Business Knowledge, Simplified",
+    "description": "From trends to strategies, our blogs bring you knowledge that empowers growth and smarter decision-making.",
+    "items": [
+      {
+        "id": 1,
+        "thumbnail_image": "/assets/blog/1.png",
+        "title": "Mainland vs Free Zone: Which Setup is Right for You?",
+        "description": "Explore the key differences between Mainland and Free Zone company formation, and discover which suits your business best.",
+        "category": "Category"
+      },
+      {
+        "id": 2,
+        "thumbnail_image": "/assets/blog/2.png",
+        "title": "5 Common Mistakes to Avoid When Starting a Business in Dubai",
+        "description": "Learn the costly errors first-time entrepreneurs make and how to avoid them with the right consultation.",
+        "category": "Category"
+      },
+      {
+        "id": 3,
+        "thumbnail_image": "/assets/blog/3.png",
+        "title": "Partiality on or continuing in particular principles",
+        "description": "Learn the costly errors first-time entrepreneurs make and how to avoid them with the right consultation.",
+        "category": "Category"
+      },
+      {
+        "id": 4,
+        "thumbnail_image": "/assets/blog/4.png",
+        "title": "Partiality on or continuing in particular principles",
+        "description": "Learn the costly errors first-time entrepreneurs make and how to avoid them with the right consultation.",
+        "category": "Category"
+      },
+      {
+        "id": 5,
+        "thumbnail_image": "/assets/blog/5.png",
+        "title": "Partiality on or continuing in particular principles",
+        "description": "Learn the costly errors first-time entrepreneurs make and how to avoid them with the right consultation.",
+        "category": "Category"
+      }
+    ]
+  },
+  "homeOurClient": {
+    "title": "Hear It Straight From Our Clients",
+    "description": "Don’t just take our word for it — hear the results from our customers themselves.",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Seamless, super clear, and no red tape. I was up and running in under a week! The One Nexuz team handled every step — from structuring my company to opening the bank account and getting visas sorted. For a tech startup like mine, speed and precision matter, and they absolutely delivered.”",
+        "role": "Founder of an AI Startup in Abu Dhabi",
+        "image": "/assets/ourClients/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“I had no idea where to begin, but One Nexuz walked me through every step. They helped me choose the perfect Free Zone, secure an office in a great location, and even handled all the approvals and documentation. I’ve worked with consultants before — these guys are on another level.”",
+        "role": "Owner of a Wellness & Lifestyle Brand",
+        "image": "/assets/ourClients/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“One Nexuz made what could’ve been a stressful and bureaucratic nightmare feel effortless. I launched my e-commerce business in Abu Dhabi Mainland without delays, hidden fees, or confusion. Their team was always responsive, and their process was crystal clear from day one.”",
+        "role": "Founder of a Fashion E-commerce Brand",
+        "image": "/assets/ourClients/3.webp"
+      }
+    ]
+  },
+  "endToEndBusinessSetup": {
+    "title": "End-to-end business setup, corporate services, wealth, banking, relocation, and digital solutions.",
+    "items": [
+      {
+        "id": 1,
+        "data": [
+          {
+            "id": 1,
+            "title": "UAE Free Zone",
+            "description": "Choose from 40+ Free Zones and enjoy 100% ownership and 0% tax with our seamless company formation services in Dubai, UAE.",
+            "tabName": "UAE Free Zone",
+            "image": "/assets/homeSetup/1.webp",
+            "count": "1500+",
+            "cardDescription": "businesses launched across top Free Zones with stress-free approvals."
+          },
+          {
+            "id": 2,
+            "title": "UAE Mainland",
+            "description": "Tap into the UAE’s fast-growing local markets and unlock full flexibility to trade beyond the Emirates with our all-in-one business solutions.",
+            "tabName": "UAE Mainland",
+            "image": "/assets/homeSetup/2.webp",
+            "count": "900+",
+            "cardDescription": "companies registered in the Mainland with seamless licensing and compliance."
+          },
+          {
+            "id": 3,
+            "title": "UAE Offshore",
+            "description": "Hold, diversify, and protect global assets and discover lucrative tax advantages with our strategic UAE offshore company formation solutions.",
+            "tabName": "UAE Offshore",
+            "image": "/assets/homeSetup/3.webp",
+            "count": "500+",
+            "cardDescription": "offshore businesses structured with end-to-end licensing and visa processing."
+          },
+          {
+            "id": 4,
+            "title": "Business License",
+            "description": "Get matched with the best-fit UAE trade license to unlock zero-tax benefits and seamless market entry with our expert support.",
+            "tabName": "Business/Trade Licenses",
+            "image": "/assets/homeSetup/4.webp",
+            "count": "2000+",
+            "cardDescription": "trade licenses issued across Free Zone, Mainland, and niche verticals with zero delays."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "data": [
+          {
+            "id": 1,
+            "title": "Compliance Services",
+            "description": "Stay up-to-date with the UAE’s fast-evolving regulatory environment with our end-to-end compliance services.",
+            "tabName": "Compliance Services",
+            "image": "/assets/homeSetup/5.webp",
+            "count": "1000+",
+            "cardDescription": "UAE businesses stay compliant through our integrated payroll and PRO solutions."
+          },
+          {
+            "id": 2,
+            "title": "Accounting Services",
+            "description": "Gain financial clarity, minimise tax burdens, and make data-driven business decisions with our seasoned accountants.",
+            "tabName": "Accounting Services",
+            "image": "/assets/homeSetup/6.webp",
+            "count": "AED 120K+",
+            "cardDescription": "saved yearly on average through proactive accounting and VAT compliance."
+          },
+          {
+            "id": 3,
+            "title": "Insurance Advisory & Coverage",
+            "description": "Identify coverage gaps, protect your business’s interests, and retain top talent with custom-built insurance plans.",
+            "tabName": "Insurance Advisory & Coverage",
+            "image": "/assets/homeSetup/7.webp",
+            "count": "700+",
+            "cardDescription": "businesses protected with tailored insurance plans covering health, assets, and liability risks."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "data": [
+          {
+            "id": 1,
+            "title": "Wealth Management",
+            "description": "Preserve your assets, safeguard your legacy, and secure your loved one’s future with our expert wealth management solutions.",
+            "tabName": "Wealth Management",
+            "image": "/assets/homeSetup/8.webp",
+            "count": "AED 2.4B+",
+            "cardDescription": "in client wealth structured and protected across private and institutional portfolios."
+          },
+          {
+            "id": 2,
+            "title": "Bank Account Opening in the UAE",
+            "description": "Streamline your personal or business finances by tapping into our reliable network of local and global banking partners.",
+            "tabName": "Bank Account Opening in the UAE",
+            "image": "/assets/homeSetup/9.webp",
+            "count": "1400+",
+            "cardDescription": "UAE local and global bank accounts set up to simplify personal & corporate finances."
+          },
+          {
+            "id": 3,
+            "title": "Treasury Management",
+            "description": "Optimise your cash flow, uplift your bottom line, and unlock sustainable business growth with expert guidance. ",
+            "tabName": "Treasury Management",
+            "image": "/assets/homeSetup/10.webp",
+            "count": "AED 500M+",
+            "cardDescription": "in funds optimized through smart treasury strategies, mitigating financial risks."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "data": [
+          {
+            "id": 1,
+            "title": "Event Planning & Management Services",
+            "description": "Win investor confidence, boost product sales, and elevate your business reputation with our holistic event management solutions.",
+            "tabName": "Event Planning & Management Services",
+            "image": "/assets/homeSetup/11.webp",
+            "count": "300+",
+            "cardDescription": "corporate events executed flawlessly, from product launches to investor meetups."
+          },
+          {
+            "id": 2,
+            "title": "Marketing & Branding",
+            "description": "Generate buzz around your business, boost conversions, and drive leads with our strategic marketing solutions.",
+            "tabName": "Marketing & Branding",
+            "image": "/assets/homeSetup/12.webp",
+            "count": "250+",
+            "cardDescription": "brands launched and scaled, driving online visibility, stronger engagement, and measurable ROI."
+          },
+          {
+            "id": 3,
+            "title": "IT Services",
+            "description": "Future-proof your business, protect your reputation, and secure confidential data with our proactive IT support",
+            "tabName": "IT Services",
+            "image": "/assets/homeSetup/13.webp",
+            "count": "1000+",
+            "cardDescription": "businesses empowered with secured infrastructure and proactive monitoring."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "data": [
+          {
+            "id": 1,
+            "title": "Golden Visa UAE",
+            "description": "Live, work, and thrive in the UAE for 10+ years and enjoy access to local amenities with our end-to-end visa processing solutions.",
+            "tabName": "UAE Golden Visa",
+            "image": "/assets/homeSetup/14.webp",
+            "count": "300+",
+            "cardDescription": "long-term residencies secured to live, work, and thrive in the UAE."
+          },
+          {
+            "id": 2,
+            "title": "Family Office Setup",
+            "description": "Centralise governance, preserve your legacy, and amplify your wealth with our family offices across the Emirates.",
+            "tabName": "Family Office Setup",
+            "image": "/assets/homeSetup/15.webp",
+            "count": "50+",
+            "cardDescription": "Private family offices established for cross-border planning and wealth management."
+          },
+          {
+            "id": 3,
+            "title": "Will & Trust Preparation Services",
+            "description": "Streamline wealth transfers, secure guardianship for your children, and plan inheritance distribution with customised wills.",
+            "tabName": "Will & Trust Preparation Services",
+            "image": "/assets/homeSetup/16.webp",
+            "count": "100+",
+            "cardDescription": "DIFC-compliant wills and trusts created to protect wealth and secure succession."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "data": [
+          {
+            "id": 1,
+            "title": "Tourist Visa",
+            "description": "Scout business opportunities, attend global events, and validate product fits with our seamless visa processing solutions.",
+            "tabName": "Tourist Visa",
+            "image": "/assets/homeSetup/17.webp",
+            "count": "4-Hour",
+            "cardDescription": "visa turnaround for short-term UAE entry to unlock business opportunities."
+          },
+          {
+            "id": 2,
+            "title": "Investor Visa",
+            "description": "Unlock 2+ years of UAE residency with qualifying investments, diversify your portfolio, and build your wealth.",
+            "tabName": "Investor Visa",
+            "image": "/assets/homeSetup/18.webp",
+            "count": "500+",
+            "cardDescription": "investors secured UAE residency within 3 weeks to expedite time-to-market."
+          },
+          {
+            "id": 3,
+            "title": "Employment Visa",
+            "description": "Build your team from scratch, recruit top global talent, and boost employee retention with expedited employment visa processing.",
+            "tabName": "Employment Visa",
+            "image": "/assets/homeSetup/19.webp",
+            "count": "700+",
+            "cardDescription": "businesses scaled operations faster with end-to-end employment visa solutions."
+          },
+          {
+            "id": 4,
+            "title": "Partner Visa",
+            "description": "Secure your partner visa in the UAE and unlock seamless residency, business freedom, and peace of mind with our expert support.",
+            "tabName": "Partner Visa",
+            "image": "/assets/homeSetup/20.webp",
+            "count": "3-Day",
+            "cardDescription": "average processing with full legal support and seamless paperwork."
+          }
+        ]
+      }
+    ]
+  },
+  "counterSec": {
+    "sec1": {
+      "title": "From branding to backend every detail that drives results.",
+      "description": "The Ultimate Business Setup Digital Playbook: 50 Must-Know Strategies",
+      "btn": "Download Guide"
+    },
+    "sec2": {
+      "title": "Lock In Your Discount, Just Book Today",
+      "description": "Schedule your free meeting today and lock in your exclusive discount for the entire week even if your session is later.",
+      "btn": "Schedule a Meeting Now",
+      "url": "#"
+    },
+    "sec3": {
+      "title": "Limited-Time Opportunity, Act Fast — Deadline Approaching!",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    }
+  },
+  "form": {
+    "title": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Services"
+    },
+    "validation": {
+      "firstName": "First Name is required",
+      "lastName": "Last Name is required",
+      "email": "Email is required",
+      "phone": "Phone number must be valid",
+      "service": "Please select at least 1 service"
+    }
+  },
+  "serviceRightForm": {
+    "title": "Get a Free Consultation",
+    "description": "Have questions or need assistance? Reach out to our team — we’re here to help you anytime!"
+  },
+  "serviceRightCounter": {
+    "title": "Lock In Your ^Discount,^ Just ^Book Today^",
+    "description": "Schedule your free meeting today and lock in your exclusive discount for the entire week even if your session is later.",
+    "btn": "Schedule a Meeting Now",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "serviceRightCompare": {
+    "title": "Compare Free Zones",
+    "description": "Compare UAE’s 40+ free zones in seconds based on your business type, budget, and visa needs. No pressure. No guesswork. Just clarity from the start.",
+    "btn": "Compare Now"
+  },
+  "recentBlogs": {
+    "title": "^Recent Blogs^",
+    "image": "/assets/blog/1.png",
+    "subTitle": "Mainland vs Free Zone: Which Setup is Right for You?",
+    "description": "Explore the key differences between Mainland and Free Zone company formation, and discover which suits your business best.",
+    "pageName": "Business Setup",
+    "date": "08-11-2021"
+  }
+}

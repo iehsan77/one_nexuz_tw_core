@@ -1,7 +1,6 @@
 import { NextResponse } from "next/server";
 
 const PUBLIC_FILE = /\.(.*)$/;
-const locales = ["en", "ar"];
 
 export function middleware(request) {
   const { pathname, search } = request.nextUrl;
@@ -15,29 +14,22 @@ export function middleware(request) {
     return NextResponse.next();
   }
 
-  const requestHeaders = new Headers(request.headers);
-  requestHeaders.set("x-url", request.nextUrl.pathname);
-
+  // If the path already has a valid locale, let it pass
+  const locales = ["en", "ar"];
   const pathnameSegments = pathname.split("/");
   const firstSegment = pathnameSegments[1];
 
-  // If path already has locale, proceed and set custom header
   if (locales.includes(firstSegment)) {
-    return NextResponse.next({
-      request: {
-        headers: requestHeaders,
-      },
-    });
+    return NextResponse.next();
   }
 
   // Detect preferred language
   const acceptLang = request.headers.get("accept-language") || "";
   const preferredLang = acceptLang.startsWith("ar") ? "ar" : "en";
 
-  // Redirect with locale prefix
+  // Construct new URL
   const url = request.nextUrl.clone();
   url.pathname = `/${preferredLang}${pathname === "/" ? "" : pathname}`;
   url.search = search;
-
   return NextResponse.redirect(url);
 }

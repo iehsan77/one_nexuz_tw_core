@@ -1,8 +1,7 @@
 "use client";
-import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
+import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import { Icon } from "@iconify/react";
-import React, { useState, useEffect, useContext } from "react";
-import { useFormContext } from "react-hook-form";
+import { useContext } from "react";
 
 export default function MultilineInput({
   label,
@@ -18,15 +17,6 @@ export default function MultilineInput({
   ...props
 }) {
   const inputId = id || `textarea-${Math.random().toString(36)}`;
-  const { getValues } = useFormContext();
-  const [charCount, setCharCount] = useState(
-    getValues(props?.name)?.length || 0
-  );
-
-  // Update character count when value changes
-  useEffect(() => {
-    setCharCount(getValues(props?.name)?.length || 0);
-  }, [getValues, (props?.name)]);
 
   const { locale } = useContext(LanguageContext);
   const isRTL = locale === "ar";
@@ -37,8 +27,8 @@ export default function MultilineInput({
         {/* Input Container */}
         <div
           className={`relative border-b ${
-            error ? "border-red-500" : "border-gray-400"
-          } focus-within:border-secondary transition-all`}>
+            error ? "border-red-500" : "border-gray-dark"
+          } focus-within:border-primary transition-all`}>
           {/* Icon */}
           {icon && (
             <div className="absolute top-3 left-0 flex items-start pointer-events-none">
@@ -46,7 +36,7 @@ export default function MultilineInput({
                 icon={icon}
                 className={`h-5 w-5 ${
                   error ? "text-red-500" : "text-gray-400"
-                } group-focus-within:text-secondary`}
+                } group-focus-within:text-primary`}
               />
             </div>
           )}
@@ -59,16 +49,15 @@ export default function MultilineInput({
             placeholder={placeholder}
             maxLength={maxLength}
             rows={rows}
-            className={`w-full py-1 text-sm focus:outline-none peer resize-none ${
+            className={`text-gray-dark w-full py-1 text-sm focus:outline-none peer resize-none ${
               icon ? "pl-10" : "pl-2"
             } ${disabled ? "cursor-not-allowed opacity-50" : ""}`}
-            dir="ltr"
           />
 
           {/* Label */}
           <label
             htmlFor={inputId}
-            className={`text-sm absolute top-[-20px] ${
+            className={`text-sm absolute left-0 text-gray-light cursor-text truncate max-w-[calc(100%-18px)] float-labels ${
               isRTL
                 ? icon
                   ? "right-10"
@@ -76,13 +65,9 @@ export default function MultilineInput({
                 : icon
                 ? "left-10"
                 : "left-0"
-            } text-gray-400 cursor-text truncate max-w-[calc(100%-18px)] float-labels
-              ${error ? "text-red-500" : "peer-focus:text-secondary"}
-              peer-placeholder-shown:text-sm
-              peer-placeholder-shown:top-0
-              peer-focus:text-xs
-              peer-focus:top-[-20px]
-              transition-all`}>
+            } ${
+              error ? "text-red-500" : "peer-focus:text-primary"
+            } peer-placeholder-shown:text-sm peer-placeholder-shown:top-2 peer-focus:text-xs peer-focus:left-0 peer-focus:-top-5 -top-5 text-xs`}>
             {label}
           </label>
 
@@ -110,15 +95,16 @@ export default function MultilineInput({
           {error && (
             <div className="text-[10px] text-red-500 mt-1">{error}</div>
           )}
-          {/* Character Counter */}
+          {/* Character Counter
           {maxLength && (
             <div
               className={`ml-auto text-xs ${
                 charCount > maxLength ? "text-red-500" : "text-gray-400"
-              }`}>
+              }`}
+            >
               {charCount}/{maxLength}
             </div>
-          )}
+          )} */}
         </div>
 
         {/* Error Message */}

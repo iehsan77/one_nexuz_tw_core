@@ -1,4 +1,5 @@
 "use server";
+
 import { BASE_URL } from "@/constants/constants";
 import { endpoints } from "@/utils/endpoints";
 import { headers } from "next/headers";

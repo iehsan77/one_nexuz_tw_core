@@ -1,291 +1,151 @@
 "use client";
 import React, { useContext } from "react";
-import Paragraph from "../Typography/Paragraph";
-import {
-  BankingWealthData,
-  BusinessSetupData,
-  CompanyData,
-  CorporateServicesData,
-  DigitalData,
-  LogisticsRelocationData,
-  MiliionaireBillionaireData,
-  ResourcesData,
-  socialFooterLinks
-} from "@/mockData/dummyData";
-import Image from "../Image/Image";
-import Link from "../Link/Link";
-import Heading5 from "../Typography/Heading5";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
-import { textToRouteUrl } from "@/utils/apiHelper";
-import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
-import FooterNewsletter from "../Newsletter/FooterNewsletter";
-import Heading6 from "../Typography/Heading6";
+import Image from "../Image/Image";
+import Typography from "../ui/Typography";
+import Link from "next/link";
+import { Icon } from "@iconify/react";
+import ar from "@/locales/ar/common.json";
+import en from "@/locales/en/common.json";
+import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
+import { footerSocials } from "@/mock/data";
+import { navData } from "@/lib/navigation-config";
 
-const Footer = () => {
+function Footer() {
   const { locale } = useContext(LanguageContext);
-  const currentDate = new Date();
-  const currentYear = currentDate.getFullYear();
-
-  const isArabic = locale === "ar";
-
-  const footerContent = {
-    Subscribe: isArabic ? "تابعنا على" : "Subscribe",
-    placeholder: isArabic ? "تابعنا على" : "Enter your email",
-    followUs: isArabic ? "تابعنا على" : "Follow Us:",
-    newsletterh: isArabic
-      ? "تابعنا على"
-      : "Join our newsletter to stay up to date on features and releases.",
-    newsletterd: isArabic
-      ? "تابعنا على"
-      : "By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company.",
-    copyright: isArabic
-      ? `© جميع الحقوق محفوظة HJK لتأجير السيارات ${currentYear}`
-      : `© ${currentYear} Car Solutions | All rights reserved.`,
-    viewAll: isArabic ? "عرض الكل" : "View More",
-    BusinessSetup: locale === "ar" ? "الماركات" : "Business Setup",
-    BankingWealth: locale === "ar" ? "نوع الهيكل" : "Banking & Wealth",
-    CorporateServices: locale === "ar" ? "الفئات" : "Corporate Services",
-    MiliionaireBillionaire:
-      locale === "ar" ? "الفئات" : "Miliionaire & Billionaire",
-    Digital: locale === "ar" ? "الفئات" : "Digital",
-    LogisticsRelocation: locale === "ar" ? "الفئات" : "Logistics & Relocation",
-    Company: locale === "ar" ? "الفئات" : "Company",
-    Resources: locale === "ar" ? "الفئات" : "Resources"
-  };
+  const t = locale === "ar" ? ar : en;
 
   return (
-    <>
-      <div className="secPadding text-white bg-[url(/assets/images/footerbg.webp)] bgimg">
-        <div className="container">
-          <div className="space-y-6">
-            <div>
-              <Paragraph
-                blackText1={footerContent.newsletterh}
-                className={`!text-sm`}
-              />
-            </div>
-            <FooterNewsletter
-              bgtxt={footerContent.Subscribe}
-              placeholder={footerContent.placeholder}
+    <div className="py-12 bg-secondary relative mb-18 lg:mb-0">
+      <div className="absolute bottom-0">
+        <Image
+          src="/assets/backGrounds/footerBg.svg"
+          alt="logo"
+          width={153}
+          height={46}
+          className="w-auto h-auto object-contain"
+        />
+      </div>
+      <div className="container grid sm:grid-cols-4 gap-4 relative z-15">
+        {/*  */}
+        <div className="sm:col-span-1 flex flex-col gap-4">
+          <LanguageAwareLink href="/">
+            <Image
+              src="/logo/whiteLogo.svg"
+              alt="logo"
+              width={153}
+              height={46}
+              className="w-auto h-auto object-contain"
             />
-            <div>
-              <Paragraph
-                blackText1={footerContent.newsletterd}
-                className={`!text-sm`}
-              />
-            </div>
+          </LanguageAwareLink>
+          <Typography color="white" size="2xl" weight="bold">
+            {t.footer.title}
+          </Typography>
+          <LanguageAwareLink href="#" variant="rightIcon">
+            {t.btn.contactUsNow}
+          </LanguageAwareLink>
+          <Typography color="white" size="base">
+            {t.footer.social}
+          </Typography>
+          <div className="flex items-center gap-4 mb-2">
+            {footerSocials?.map((item, i) => (
+              <Link href={item?.href} key={i} className="text-white">
+                <Icon icon={item?.icon} width={22} height={22} />
+              </Link>
+            ))}
           </div>
-          <div className="pt-6">
-            <div className="grid lg:grid-cols-4 sm:grid-cols-3 grid-cols-2 gap-y-4 gap-x-4">
-              <div className="space-y-10 sm:col-span-1 col-span-2">
-                <div>
-                  <LanguageAwareLink href={`${textToRouteUrl("/")}`}>
-                    <Image
-                      src={`/assets/images/car_solution.svg`}
-                      alt={"logo"}
-                      width={220}
-                      height={120}
-                    />
+          <div>
+            <Image
+              src="/assets/qrCode.svg"
+              alt="logo"
+              width={153}
+              height={46}
+              className="w-auto h-auto object-contain"
+            />
+          </div>
+        </div>
+        {/*  */}
+        <div className="sm:col-span-3 mt-6 sm:mt-0">
+          <div className="grid grid-cols-4 gap-4">
+            <div className="col-span-4 lg:col-span-3 grid grid-cols-2 lg:grid-cols-3 gap-4 h-fit">
+              {navData?.map((item) => (
+                <div key={item?.id} className="space-y-6">
+                  <Typography
+                    color="white"
+                    weight="medium"
+                    className="border-b pb-2 w-fit">
+                    {item?.title}
+                  </Typography>
+                  {item?.tabs?.length ? (
+                    <div className="flex flex-col gap-4">
+                      {item?.tabs?.slice(0, 3)?.map((tab) => (
+                        <LanguageAwareLink key={tab?.id} href="#">
+                          <Typography as="p" size="sm" color="white">
+                            {tab?.title}
+                          </Typography>
+                        </LanguageAwareLink>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="flex flex-col gap-4">
+                      {item?.items?.slice(0, 3)?.map((i) => (
+                        <LanguageAwareLink key={i?.id} href="#">
+                          <Typography as="p" size="sm" color="white">
+                            {i?.title}
+                          </Typography>
+                        </LanguageAwareLink>
+                      ))}
+                    </div>
+                  )}
+                  <LanguageAwareLink href="#" className="">
+                    <Typography
+                      as="p"
+                      size="sm"
+                      color="primary"
+                      className="flex items-center gap-2">
+                      {t.btn.viewAll}
+                      <Icon
+                        icon={
+                          locale === "ar"
+                            ? "mingcute:left-line"
+                            : "mingcute:right-line"
+                        }
+                        width="20"
+                        height="20"
+                      />
+                    </Typography>
                   </LanguageAwareLink>
                 </div>
-                <div className="md:block hidden">
-                  <div className="space-y-10">
-                    <Image
-                      src={`/assets/images/image_73.webp`}
-                      alt={"logo"}
-                      width={84}
-                      height={84}
-                    />
-                    <div className="flex items-center sm:items-start gap-1 flex-col">
-                      <Heading5
-                        className={`!mb-0`}
-                        blackHeading={footerContent.followUs}
-                      />
-                      <div className="flex items-center gap-2">
-                        {socialFooterLinks?.map((item, index) => (
-                          <Link
-                            target="_blank"
-                            variant={`txtDarkbg`}
-                            key={index}
-                            href={item.link}
-                            className={`!px-0 flex items-center gap-2 !text-sm`}
-                          >
-                            {item.icon}
-                          </Link>
-                        ))}
-                      </div>
-                    </div>
+              ))}
+            </div>
+            {/*  */}
+            <div className="col-span-4 lg:col-span-1 grid grid-cols-2 lg:grid-cols-1 gap-4 h-fit">
+              {t.footer.footerData.map((item) => (
+                <div key={item?.id} className="space-y-6">
+                  <Typography
+                    color="white"
+                    weight="medium"
+                    className="border-b pb-2 w-fit">
+                    {item?.title}
+                  </Typography>
+                  <div className="flex flex-col gap-4">
+                    {item?.items?.map((item) => (
+                      <LanguageAwareLink key={item?.id} href="#">
+                        <Typography as="p" size="sm" color="white">
+                          {item?.title}
+                        </Typography>
+                      </LanguageAwareLink>
+                    ))}
                   </div>
                 </div>
-              </div>
-              <div className="col-span-3">
-                <div className="grid md:grid-cols-4 grid-cols-2 gap-y-4 gap-x-4">
-                  <LinkSection
-                    title={footerContent.BusinessSetup}
-                    links={BusinessSetupData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.CorporateServices}
-                    links={CorporateServicesData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.Digital}
-                    links={DigitalData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.Company}
-                    links={CompanyData.links}
-                  />
-                </div>
-                <div className="grid md:grid-cols-4 grid-cols-2 gap-y-4 gap-x-4">
-                  <LinkSection
-                    title={footerContent.BankingWealth}
-                    links={BankingWealthData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.MiliionaireBillionaire}
-                    links={MiliionaireBillionaireData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.LogisticsRelocation}
-                    links={LogisticsRelocationData.links}
-                  />
-
-                  <LinkSection
-                    title={footerContent.Resources}
-                    links={ResourcesData.links}
-                  />
-                </div>
-              </div>
-              {/* <div className="col-span-3">
-                <div className="columns-2 md:columns-4 gap-6 space-y-6">
-                  <LinkSection
-                    title={footerContent.BusinessSetup}
-                    links={BusinessSetupData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.BankingWealth}
-                    links={BankingWealthData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.CorporateServices}
-                    links={CorporateServicesData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.MiliionaireBillionaire}
-                    links={MiliionaireBillionaireData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.Digital}
-                    links={DigitalData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.LogisticsRelocation}
-                    links={LogisticsRelocationData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.Company}
-                    links={CompanyData.links}
-                  />
-                  <LinkSection
-                    title={footerContent.Resources}
-                    links={ResourcesData.links}
-                  />
-                </div>
-              </div> */}
+              ))}
             </div>
-            <div className="md:hidden flex items-center gap-4 pt-4">
-              <Image
-                src={`/assets/images/image_73.webp`}
-                alt={"logo"}
-                width={50}
-                height={50}
-              />
-              <div className="flex items-start gap-1 flex-col">
-                <Heading5
-                  className={`!mb-0 !text-left`}
-                  blackHeading={footerContent.followUs}
-                />
-                <div className="flex items-center gap-2">
-                  {socialFooterLinks?.map((item, index) => (
-                    <Link
-                      target="_blank"
-                      variant={`txtDarkbg`}
-                      key={index}
-                      href={item.link}
-                      className={`!px-0 flex items-center xs:gap-2 gap-1 xs:!text-sm !text-xs`}
-                    >
-                      {item.icon}
-                      {item.label}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="flex sm:flex-row flex-col sm:items-center items-start sm:justify-between jusctify-start pt-4 border-t xs:mt-10 mt-4">
-            <p className="">{footerContent.copyright}</p>
-            <div className="xs:space-x-4 flex gap-3">
-              <Link
-                variant={`txtDarkbg`}
-                href={`/privacy-policy`}
-                className={`!px-0 underline underline-offset-4 !text-sm`}
-              >
-                Privacy Policy
-              </Link>
-              <Link
-                variant={`txtDarkbg`}
-                href={`/terms-of-service`}
-                className={`!px-0 underline underline-offset-4 !text-sm`}
-              >
-                Terms of Service
-              </Link>
-              <Link
-                variant={`txtDarkbg`}
-                href={`/`}
-                className={`!px-0 underline underline-offset-4 !text-sm`}
-              >
-                Cookies Settings
-              </Link>
-            </div>
+            {/*  */}
           </div>
         </div>
-      </div>
-    </>
-  );
-};
-const LinkSection = ({ title, links }) => {
-  return (
-    <div className="">
-      <div className="flex flex-col items-start">
-        <Heading6
-          blackHeading={title}
-          className={`underline underline-offset-8 !text-sm`}
-        />
-        <div>
-          {links?.map((item, ind) => (
-            <Link
-              key={ind}
-              variant={`txt`}
-              href={item.links}
-              className="hover:!text-primary !text-white !text-xs !py-2 justify-start !text-left"
-            >
-              <span>{item.title_en}</span>
-            </Link>
-          ))}
-        </div>
-        <Link
-          variant={`txt`}
-          href={`/`}
-          icon1
-          iconClass={`!text-primary`}
-          className="hover:!text-primary !text-primary !text-xs !py-2 justify-start !text-left"
-        >
-          <span>{`View All`}</span>
-        </Link>
       </div>
     </div>
   );
-};
+}
 
 export default Footer;

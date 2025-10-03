@@ -4,21 +4,21 @@ import { useContext, useEffect, useRef, useState } from "react";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { Icon } from "@iconify/react";
-import { LanguageContext } from "@/app/[locale]/(MAIN)/context/LanguageContext";
 import { useDrawer } from "@/context/drawer-context";
+import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 
 const languages = [
   {
     value: "en",
-    label: "English",
-    short: "EN",
-    icon: "/assets/icons/english.svg",
+    label: "Eng",
+    short: "Eng",
+    icon: "/icons/en.svg",
   },
   {
     value: "ar",
-    label: "Arabic",
-    short: "AR",
-    icon: "/assets/icons/arabic.svg",
+    label: "العربية",
+    short: "العربية",
+    icon: "/icons/ar.svg",
   },
 ];
 
@@ -79,18 +79,36 @@ export default function LanguageSwitcher() {
     <div ref={dropdownRef} className="relative inline-block text-left">
       <button
         onClick={() => setOpen((prev) => !prev)}
-        className="flex items-center gap-1 rounded-md max-w-20 cursor-pointer text-sm">
-        <span>{selectedLang.short}</span>
-        <Icon icon="mdi:chevron-down" className="w-4 h-4" />
+        className="flex items-center gap-2 rounded-md max-w-22 bg-transparent cursor-pointer">
+        <Image
+          src={selectedLang?.icon}
+          alt={selectedLang?.short}
+          width={30}
+          height={30}
+        />
+        <span className="font-sm text-gray font-medium">
+          {selectedLang?.short}
+        </span>
+        <Icon
+          icon="mdi:chevron-down"
+          className="text-gray"
+          width="22"
+          height="22"
+        />
       </button>
 
       {open && (
-        <div className="absolute z-50 mt-2 right-0 min-w-32 bg-white rounded-md shadow-lg border border-gray-200">
-          {languages.map((lang) => (
+        <div className="absolute z-10 mt-2 w-22 bg-white overflow-hidden rounded-md shadow-lg border border-gray-200">
+          {languages?.map((lang) => (
             <button
-              key={lang.value}
               onClick={() => handleLocaleChange(lang.value)}
-              className="w-full flex items-center gap-2 px-4 py-2 text-left hover:bg-gray-100 cursor-pointer text-black text-sm">
+              key={lang.value}
+              className={`w-full px-4 py-2 font-sm text-center cursor-pointer 
+      ${
+        lang.value === locale
+          ? "bg-primary text-white font-semibold"
+          : "text-gray hover:bg-gray-100"
+      }`}>
               <span>{lang.label}</span>
             </button>
           ))}

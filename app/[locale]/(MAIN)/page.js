@@ -1,53 +1,33 @@
 import { SEOAction } from "@/actions/seo-action";
 import { isIndex } from "@/constants/constants";
 import Home from "@/view/Home/Home";
-import React from "react";
 
 export async function generateMetadata() {
   const vMetaData = await SEOAction();
-
   return {
-    title: vMetaData?.seo_title || "Dubai’s Premier Luxury Car Rental Service",
-    description:
-      vMetaData?.seo_description || "Dubai’s Premier Luxury Car Rental Service",
+    title: vMetaData?.seo_title || "",
+    description: vMetaData?.seo_description || "",
     alternates: {
-      canonical: vMetaData?.canonical_url || "https://carsolution.ae/en",
+      canonical: vMetaData?.canonical_url || "",
     },
-    openGraph: {
-      title: "Dubai’s Premier Luxury Car Rental Service",
-      description: "Dubai’s Premier Luxury Car Rental Service",
-      url: "https://carsolution.ae/en",
-      type: "website",
-      images: [
-        {
-          url: "https://carsolution.ae/assets/images/seoImg.png",
-          width: 1200,
-          height: 630,
-          alt: "Luxury Car Image",
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: "Dubai’s Premier Luxury Car Rental Service",
-      description: "Dubai’s Premier Luxury Car Rental Service",
-      images: ["https://carsolution.ae/assets/images/seoImg.png"],
-    },
+    openGraph: vMetaData?.opengraph_data,
+    twitter: vMetaData?.twitter_tag,
     robots: {
       index: isIndex,
-      nocache: true,
+      nocache: false,
+    },
+    h1: vMetaData?.h1 || "",
+    faq: vMetaData?.faq?.mainEntity || null,
+    icons: {
+      icon: "/icon.png",
     },
   };
 }
 
-const page = async () => {
-  const { h1, faq } = await generateMetadata();
-
+export default function Page() {
   return (
     <div>
-      <Home h1={h1} faq={faq} />
+      <Home />
     </div>
   );
-};
-
-export default page;
+}
