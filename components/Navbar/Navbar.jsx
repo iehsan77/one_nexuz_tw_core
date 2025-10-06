@@ -14,6 +14,7 @@ import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import { Icon } from "@iconify/react";
 import { filterNavData } from "@/helpers/filterNavData";
 import { AnimatePresence, motion } from "framer-motion";
+import ModalBtn from "@/sections/ModalBtn";
 
 function Navbar() {
   const { locale } = useContext(LanguageContext);
@@ -70,7 +71,7 @@ function Navbar() {
                   type="text"
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
-                  placeholder="Search anything"
+                  placeholder={t?.navPlaceholder}
                   className="bg-white w-full px-4 rounded-lg py-2 text-sm focus:outline-0"
                 />
 
@@ -101,21 +102,21 @@ function Navbar() {
                 <LanguageAwareLink
                   key={item?.id}
                   href={item?.url || "#"}
-                  onMouseEnter={() => {
-                    showMenu({
-                      children: item?.tabs?.length ? (
-                        <NavTabs data={item?.tabs} />
-                      ) : (
-                        <div className="container">
-                          <LinkCards data={item?.items} />
-                        </div>
-                      ),
-                      onCloseCallback: () => {
-                        setActive(null);
-                      },
-                    });
-                    setActive(item?.id);
-                  }}
+                  // onMouseEnter={() => {
+                  //   showMenu({
+                  //     children: item?.tabs?.length ? (
+                  //       <NavTabs data={item?.tabs} />
+                  //     ) : (
+                  //       <div className="container">
+                  //         <LinkCards data={item?.items} />
+                  //       </div>
+                  //     ),
+                  //     onCloseCallback: () => {
+                  //       setActive(null);
+                  //     },
+                  //   });
+                  //   setActive(item?.id);
+                  // }}
                   className={`${
                     active === item?.id
                       ? "border-primary"
@@ -137,12 +138,11 @@ function Navbar() {
               <Icon icon="lucide:search" width="20" height="20" />
             </button>
             <div className="hidden xl:block">
-              <LanguageAwareLink
-                variant="primary"
-                href="#"
-                className="py-3 !text-base text-nowrap">
-                {t.btn.inquireNow}
-              </LanguageAwareLink>
+              <ModalBtn
+                text={t.btn.inquireNow}
+                variant="solid"
+                className="!py-3"
+              />
             </div>
           </div>
         </div>

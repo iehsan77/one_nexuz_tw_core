@@ -1,19 +1,19 @@
 import { DrawerProvider } from "@/context/drawer-context";
-import { VideoPlayerProvider } from "@/context/player-context";
 import React from "react";
 import { Toaster } from "sonner";
 import { LanguageProvider } from "./[locale]/(main)/context/LanguageContext";
 import { MenuProvider } from "@/context/menu-context";
+import { CommonModalProvider } from "@/context/commonModalProvider";
 
 const Providers = ({ children }) => {
   return (
     <LanguageProvider>
       <DrawerProvider>
         <MenuProvider>
-          <VideoPlayerProvider>
+          <CommonModalProvider>
             {children}
             <Toaster richColors />
-          </VideoPlayerProvider>
+          </CommonModalProvider>
         </MenuProvider>
       </DrawerProvider>
     </LanguageProvider>

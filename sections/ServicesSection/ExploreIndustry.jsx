@@ -5,7 +5,7 @@ import React from "react";
 function ExploreIndustry({ data, locale }) {
   return (
     <div className="bg-[#F8F8F8] p-5 rounded-lg space-y-3">
-      <Typography weight="bold" size="xl">
+      <Typography weight="bold" size="xl" color="primary">
         {data?.title}
       </Typography>
       <div>

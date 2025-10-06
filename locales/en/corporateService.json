@@ -1,0 +1,287 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/corporateServices.webp",
+    "title": "Protect, Power, and Propel Your Business with Our All-in-One Corporate Services in Dubai",
+    "description": "Stuck in administrative overload, fast-approaching compliance deadlines, and financial pressures that hold back your growth? At One Nexuz, we take the burden off your shoulders with all-in-one corporate services that cover legal, compliance, IT, HR, and finance. Our expert support helps you prevent costly mistakes, streamline operations, and stay fully compliant — while giving you back the time and focus to scale your business with confidence. With One Nexuz, you eliminate inefficiency, reduce risks, and position your company for sustainable, long-term success."
+  },
+  "leftSection_1": {
+    "title": "Build Financial Transparency, Free Up Internal Resources, and Drive Your Revenue",
+    "description": "Elevate your brand presence, boost employee efficiency, eliminate mundane tasks, and redirect your team's energy toward high-impact goals by partnering with a trusted corporate services provider.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/corporateServices/left1/1.webp",
+        "title": "Mitigate Risks, Ensure Full Regulatory Compliance, and Gain Peace of Mind",
+        "subTitle": "Mitigate Risks, Ensure Full Regulatory Compliance, and Gain Peace of Mind",
+        "description": "Save AED 1,000+ in costly fines, win instant customer trust, and protect your brand reputation with AML or ISO certification, internal audits, and regular compliance checks."
+      },
+      {
+        "id": 2,
+        "image": "/assets/corporateServices/left1/2.webp",
+        "title": "Turn Tax & Reporting Into Your Business Advantage.",
+        "subTitle": "Turn Tax & Reporting Into Your Business Advantage.",
+        "description": "Avoid confusing filings and messy records. One Nexuz delivers clear books, accurate VAT & tax compliance, and audit-ready statements that build trust and prevent costly errors. With reliable reporting, you’ll make smarter decisions, boost profitability, and raise funds with confidence."
+      },
+      {
+        "id": 3,
+        "image": "/assets/corporateServices/left1/3.webp",
+        "title": "Eliminate Internal Inefficiencies, Optimise Workflows, and Scale Stress-Free",
+        "subTitle": "Eliminate Internal Inefficiencies, Optimise Workflows, and Scale Stress-Free",
+        "description": "Spot revenue leaks, minimise overheads, and maximise workplace productivity with holistic operational solutions. Boost customer loyalty, secure confidential data, and unlock your business’s scaling potential through round-the-clock support."
+      },
+      {
+        "id": 4,
+        "image": "/assets/corporateServices/left1/4.webp",
+        "title": "From Market Entry to Expansion, We Power Your Growth Journey",
+        "subTitle": "From Market Entry to Expansion, We Power Your Growth Journey",
+        "description": "Struggling with delays and missed opportunities? At One Nexuz, we help you accelerate market entry with insight-driven research and future-proof business plans. Our tailored corporate services attract investors, optimize resources, and position you to scale in fast-growing markets. With the right strategy and local expertise, you’ll enter smarter, expand wider, and unlock growth with confidence."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Protect Your Reputation. Secure Your Future",
+    "description": "Fines and compliance gaps can damage trust and stall growth. One Nexuz safeguards your reputation, keeps you audit-ready, and shields you from costly risks — giving you seamless compliance, credibility, and freedom to focus on scaling with confidence.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Legal Services",
+        "description": "Preserve business momentum, avoid costly disputes, and regulatory surprises with proactive legal governance and tailored shareholder agreements.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Compliance Services",
+        "description": "Stay up-to-date with the UAE’s regulatory requirements, run audits, and implement fixes before they snowball to protect your business reputation.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Identify coverage gaps, negotiate favourable terms, and create a conducive working environment with custom-built insurance plans.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Streamline, Optimize, and Expand Your Business with One Nexuz",
+    "description": "Tap into lucrative local markets, achieve financial transparency, and optimise internal resources with our end-to-end accounting, operational, and business solutions.",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Accounting Services",
+        "description": "Avoid fines, cashflow surprises, and compliance headaches with proactive tax structuring, payroll management, and bookkeeping solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Operational Services",
+        "description": "Eliminate repetitive tasks, reclaim 2+ hours per employee, and optimize workplace productivity with our full suite of operational and business management services.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Business Solutions",
+        "description": "Minimise the risk of cash burn, validate product ideas, and make data-driven business decisions with our comprehensive business solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/corporateServices/left4/1.webp",
+      "title": "Less Paperwork, Fewer Risks, More Time to Grow with One Nexuz",
+      "description": "Avoid hefty penalties, costly errors, and unnecessary delays. Our team ensures your business stays compliant, financially optimized, and protected with tailored insurance and operational solutions.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/corporateServices/left4/2.webp",
+      "title": "Cut the Complexity, Not the Quality- Tailored Corporate Services for Every Stage of Growth",
+      "description": "No hidden costs, no bloated service bundles, and no unnecessary add-ons. Get custom quotes tailored to your exact business needs at a price that works for you, and scale as your business grows.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Our Clear 5-Step Journey to Smarter Corporate Operations",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/corporateServices/left5/1.svg",
+        "title": "Book a Discovery Call",
+        "description": "We’ll start with a no-obligations call to assess your goals, challenges, and operational gaps."
+      },
+      {
+        "id": 2,
+        "image": "/assets/corporateServices/left5/2.svg",
+        "title": "Map Out Your Requirements ",
+        "description": "Next, our experts empower you with a clear action plan, outlining the right mix of services to unlock long-term efficiency."
+      },
+      {
+        "id": 3,
+        "image": "/assets/corporateServices/left5/3.svg",
+        "title": "Collect Your Documents ",
+        "description": "Based on your required services, we assist you in collecting, attesting, and verifying the necessary documents."
+      },
+      {
+        "id": 4,
+        "image": "/assets/corporateServices/left5/4.svg",
+        "title": "Implement & Integrate ",
+        "description": "Next, our team collaborates with your internal stakeholders to plug in the right systems, processes, and support."
+      },
+      {
+        "id": 5,
+        "image": "/assets/corporateServices/left5/5.svg",
+        "title": "Get Ongoing Business Support",
+        "description": "We don’t just stop at setup. Our experts continually track, fine-tune, and improve our services to drive limitless growth."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Choose One Nexuz as Your Corporate Services Provider in Dubai, UAE",
+    "description": "Navigate the UAE’s confusing regulatory, taxation, and legal requirements confidently with our expert business advisors, auditors, accountants, and lawyers. ",
+    "items": [
+      {
+        "title": "All-in-One Corporate Solutions",
+        "description": "Unlock limitless business potential and scale beyond the Emirates with our full suite of corporate services custom-built to your unique business needs.",
+        "image": "/assets/corporateServices/bgImage/1.webp"
+      },
+      {
+        "title": "Unmatched Local Expertise",
+        "description": "Thrive in the UAE’s fast-evolving regulatory environment with our team of seasoned business consultants, accountants, and attorneys.",
+        "image": "/assets/corporateServices/bgImage/2.webp"
+      },
+      {
+        "title": "Ensure 100% Compliance",
+        "description": "Stay ahead of the curve with in-depth audits, timely renewals, and ongoing updates on the UAE’s changing compliance requirements.",
+        "image": "/assets/corporateServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/corporateServices/grid/1.webp",
+    "title": "Power Your Business with Our End-to-End Corporate Solutions",
+    "description": "From legal and compliance support to accounting and insurance advisory, One Nexuz delivers every service you need under one roof. Focus on growth while we do all the heavy lifting.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Entering the UAE market felt overwhelming until we partnered with One Nexuz. They handled everything from compliance to sponsorship, which saved us months of delays. Today, we’re operating smoothly and focusing on scaling, not paperwork.",
+        "role": "Tech Startup Founder",
+        "image": "/assets/corporateServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "One Nexuz has transformed how we manage our operations. Their accounting and HR support gave us clear financial insights and freed up our internal team to focus on strategy. The efficiency gains have been remarkable.",
+        "role": "Manufacturing Firm CFO",
+        "image": "/assets/corporateServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Compliance used to be a constant worry, but One Nexuz made it seamless. With their legal and insurance expertise, we’ve avoided penalties and built stronger resilience. They’re more than a provider — they’re a true partner in growth.",
+        "role": "Fashion Brand Founder",
+        "image": "/assets/corporateServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Future-Proof Your Business with Our Setup, Wealth, and Branding Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Setup Services",
+        "description": "Streamline company formation in the UAE with our end-to-end business setup solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Millionaire & Billionaire",
+        "description": "Preserve your legacy, amplify your wealth, and diversify your assets with our millionaire services.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Banking & Wealth",
+        "description": "Hold, send, and transact in 40+ currencies with a trustworthy local or global UAE bank account.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Logistics & Relocation Services",
+        "description": "Live and thrive in the UAE alongside your loved ones with our seamless visa processing services.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Digital & Branding Solutions",
+        "description": "Build your online presence and elevate your visibility with our digital and branding solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/corporateServices/grid/2.webp",
+    "title": "Tired of Managing Multiple Vendors for Legal, Finance, and Operational Services?",
+    "description": "Reclaim time lost to admin roadblocks and compliance hurdles. Our all-in-one corporate services in Dubai and beyond secure your business's reputation, maximise resource efficiency, and give you the edge to thrive in competitive markets.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

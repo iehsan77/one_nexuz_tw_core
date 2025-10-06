@@ -4,6 +4,7 @@ import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
 import ar from "@/locales/ar/businessSetup.json";
 import en from "@/locales/en/businessSetup.json";
+import Loader from "@/components/Loader";
 
 export async function generateMetadata() {
   const vMetaData = await SEOAction();
@@ -31,7 +32,7 @@ export default async function Page({ params }) {
   const { locale } = await params;
   const t = locale === "ar";
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense fallback={<Loader />}>
       <ServicesPage data={t ? ar : en} locale={t} compare={true} />
     </Suspense>
   );

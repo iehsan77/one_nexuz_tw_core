@@ -1,5 +1,5 @@
 "use client";
-import React, { Suspense, useState } from "react";
+import React, { Suspense, useContext, useState } from "react";
 import Typography from "../ui/Typography";
 import { info } from "@/mock/data";
 import { Icon } from "@iconify/react";
@@ -10,8 +10,13 @@ import Image from "../Image/Image";
 import { navData } from "@/lib/navigation-config";
 import { filterNavData } from "@/helpers/filterNavData";
 import { AnimatePresence, motion } from "framer-motion";
+import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
+import ar from "@/locales/ar/common.json";
+import en from "@/locales/en/common.json";
 
 function TopNavbar() {
+  const { locale } = useContext(LanguageContext);
+  const t = locale === "ar" ? ar : en;
   const [searchHide, setSearchHide] = useState(false);
   const [query, setQuery] = useState("");
   const filteredData = filterNavData(navData, query);
@@ -55,7 +60,7 @@ function TopNavbar() {
                   type="text"
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
-                  placeholder="Search anything"
+                  placeholder={t?.navPlaceholder}
                   className="bg-white w-full px-4 rounded-lg py-2 text-sm focus:outline-0 border border-gray"
                 />
 

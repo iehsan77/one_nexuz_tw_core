@@ -35,7 +35,7 @@ function LeftSection9() {
   return (
     <div className="secPadding container">
       <div className="border p-2 rounded-lg bg-white shadow-xl border-gray-50">
-        <div className="p-4 lg:p-8 rounded-lg grid sm:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-4">
+        <div className="p-4 lg:p-8 bg-primaryLight rounded-lg grid sm:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-4">
           {/* 1 */}
           <div className="flex flex-col gap-3 lg:gap-6">
             <div className="space-y-4 flex-1">

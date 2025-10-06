@@ -1,7 +1,8 @@
 "use client";
 import { Icon } from "@iconify/react";
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import Typography from "../ui/Typography";
+import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 
 export function FaqAccordian({ data }) {
   const [openItemId, setOpenItemId] = useState(null);
@@ -38,6 +39,8 @@ const AccordionItem = ({
   list,
   onClick,
 }) => {
+  const { locale } = useContext(LanguageContext);
+  const ar = locale === "ar";
   return (
     <div
       className={`border border-gray-400 hover:cursor-pointer transition-colors duration-300 ${
@@ -76,14 +79,18 @@ const AccordionItem = ({
               {list?.items?.length > 0 && (
                 <div className="space-y-2">
                   {list.listTitle && (
-                    <Typography color="white">{list.listTitle}</Typography>
+                    <Typography color="white" className="text-start">
+                      {list.listTitle}
+                    </Typography>
                   )}
                   <ul className="space-y-1">
                     {list.items.map((item, ind) => {
                       const segments = item.split("^");
                       return (
                         <li
-                          className="list-disc ml-6 !font-normal leading-relaxed"
+                          className={`${
+                            ar ? "mr-6" : "ml-6"
+                          } list-decimal text-start !font-normal leading-relaxed`}
                           key={ind}>
                           {segments.map((text, index) =>
                             index % 2 === 0 ? (

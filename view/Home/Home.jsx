@@ -26,7 +26,7 @@ function Home() {
 
   return (
     <div>
-      <HeroHeader bgImage="/assets/header/home.webp" data={t.homeHeader} />
+      <HeroHeader data={t.homeHeader} />
       <TrustedBy title={t.trusted} />
       <EndTOEndSetup data={t.endToEndBusinessSetup} t={t} />
       <ThemSelves data={t.themSelvesData} />

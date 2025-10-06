@@ -5,7 +5,7 @@ import React from "react";
 
 function LeftSection10({ data, locale }) {
   return (
-    <div className="secPadding">
+    <div className="secPadding bg-primaryLight">
       <div className="container space-y-6">
         <Typography size="3xl" weight="bold" as="p">
           {data?.title}
@@ -14,12 +14,16 @@ function LeftSection10({ data, locale }) {
           {data?.items?.map((item) => (
             <div
               key={item?.id}
-              className="bg-white py-6 px-5 rounded-lg shadow-lg flex flex-col gap-6">
+              className="bg-white py-6 min-h-[230px] px-5 rounded-lg shadow-lg flex flex-col gap-6">
               <div className="space-y-4 flex-1">
                 <Typography as="p" weight="medium" size="lg">
                   {item?.title}
                 </Typography>
-                <Typography as="p" weight="normal" size="base">
+                <Typography
+                  as="p"
+                  weight="normal"
+                  size="base"
+                  className="!text-gray-500">
                   {item?.description}
                 </Typography>
               </div>

@@ -2,6 +2,7 @@
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/businessSetup.webp",
     "title": "Start, Structure, and Scale Your Business in the UAE Stress-Free with One Nexuz",
     "description": "Frustrated by endless paperwork, foreign regulations, and conflicting advice on where to register? At One Nexuz, our seasoned business setup consultants in Dubai empower you with clear, expert guidance, tax-efficient company formation, and the best-fit trade license. Expand into fast-growing global markets, build strategic partnerships, and amplify your revenue to position your business for limitless growth!"
   },
@@ -178,7 +179,7 @@
     ]
   },
   "leftSection_7": {
-    "image": "/assets/businessSetup/grid/1.jpg",
+    "image": "/assets/businessSetup/grid/1.webp",
     "title": "Partner with Our Experts & Save up to 20% in Setup Costs",
     "description": "Avoid hidden charges, overpriced packages, and costly delays, and save AED 1,000+ with our tailored business setup solutions and transparent packages.",
     "btn": "Get in Touch Today!",
@@ -190,20 +191,20 @@
     "items": [
       {
         "id": 1,
-        "quote": "Seamless, super clear, and no red tape. I was up and running in under a week! The team handled everything from structuring my company to opening the bank account.",
-        "role": "Founder of an AI Startup in Abu Dhabi",
+        "quote": "One Nexuz made setting up our Dubai branch unbelievably smooth. They handled every document, every approval, and even our bank account opening — all within weeks. We were operational faster than we thought possible.",
+        "role": "Fintech Startup CEO",
         "image": "/assets/businessSetup/client/1.webp"
       },
       {
         "id": 2,
-        "quote": "Professional, fast, and reliable. They saved us weeks of effort and guided us through every legal and compliance requirement.",
-        "role": "Managing Director of a FinTech Company",
+        "quote": "I wanted 100% ownership without the stress of figuring out which free zone fit my business. The One Nexuz team guided me through every option and got my license issued in record time.",
+        "role": "E-commerce Brand Founder",
         "image": "/assets/businessSetup/client/2.webp"
       },
       {
         "id": 3,
-        "quote": "Their expertise in business setup and visa services is unmatched. We expanded smoothly into the UAE market with zero stress.",
-        "role": "Co-Founder of a Real Estate Consultancy",
+        "quote": "From trade license to investor visas, everything was taken care of under one roof. One Nexuz saved us months of back-and-forth and let us focus on scaling our business.",
+        "role": "Family Office Owner",
         "image": "/assets/businessSetup/client/3.webp"
       }
     ]
@@ -234,7 +235,7 @@
     ]
   },
   "leftSection_11": {
-    "image": "/assets/businessSetup/grid/2.jpg",
+    "image": "/assets/businessSetup/grid/2.webp",
     "title": "Ready to Launch Your UAE-Based Business & Unlock Global Opportunities?",
     "description": "Kickstart your business journey and unlock exciting tax benefits, global connectivity, and seamless access to thriving markets. Partner with our expert business setup consultants in Dubai and beyond to unlock your company's full potential!",
     "btn": "Connect with Our Experts",
@@ -254,6 +255,46 @@
     ]
   },
   "faq": {
-    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience"
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "How do I set up my business in the UAE?",
+        "list": {
+          "listTitle": "You can kickstart your business in the UAE by:",
+          "items": [
+            "Identify your business activity",
+            "Choose the appropriate location",
+            "Register your business and obtain the necessary licenses",
+            "Set up your business bank account"
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can I set up in the UAE with 100% foreign ownership?",
+        "answer": "Yes, you can obtain complete strategic ownership of your business in the UAE Free Zone and select areas of the UAE Mainland."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "How long does it take to set up a business in the UAE?",
+        "answer": "Generally, it takes 1-14 business days to launch your business in the UAE. However, our experts can help you get started within a week."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Do you need a physical office to start a business in the UAE?",
+        "answer": "No, you can explore alternatives, including flexi-desk, co-working offices, and virtual office spaces, empowering you to set up without breaking the bank."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "What support services does One Nexuz offer in its business setup packages?",
+        "answer": "Our experts streamline licensing, office leasing, visa processing, banking assistance, and post-setup compliance to help you thrive in the UAE’s hyper-competitive market."
+      }
+    ]
   }
 }

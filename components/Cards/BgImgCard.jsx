@@ -5,13 +5,14 @@ import Typography from "../ui/Typography";
 function BgImgCard({ data }) {
   return (
     <div className="">
-      <div className="relative w-full h-[400px] bg-amber-200">
+      <div className="relative w-full max-h-[400px]">
         <Image
           src={data?.image || "/assets/1.png"}
           alt="img"
-          width={200}
-          height={200}
-          className="w-full h-full object-cover"
+          width={827}
+          height={810}
+          className="w-auto h-auto object-contain"
+          // className="w-full h-full object-cover"
         />
         <div className="absolute bottom-0 p-6 space-y-4">
           <Typography as="p" weight="medium" color="white" size="lg">

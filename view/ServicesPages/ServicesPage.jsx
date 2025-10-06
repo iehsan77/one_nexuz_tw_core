@@ -32,10 +32,7 @@ function ServicesPage({ data, locale, compare }) {
   console.log(breadcrumb, pathname);
   return (
     <div>
-      <HeroHeader
-        bgImage="/assets/header/businessSetup.webp"
-        data={data?.homeHeader}
-      />
+      <HeroHeader data={data?.homeHeader} />
       <Breadcrumb data={breadcrumb} />
       <div className="container lg:grid grid-cols-3 gap-5">
         <div className="col-span-2">

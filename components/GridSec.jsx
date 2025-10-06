@@ -11,8 +11,8 @@ function GridSec({ data }) {
         <Image
           src={data?.image}
           alt="image"
-          width={400}
-          height={400}
+          width={640}
+          height={383}
           className="w-auto h-auto object-cover"
         />
       </div>

@@ -13,11 +13,14 @@
     "readMore": "Read more",
     "viewAll": "View All",
     "exploreMore": "Explore More",
-    "submit": "Submit"
+    "submit": "Submit",
+    "submitNow": "Submit Now"
   },
+  "navPlaceholder": "Search anything",
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/home.webp",
     "title": "All-in-One Business Setup & Corporate Solutions, ^Powered by One Nexuz^",
     "description": "We eliminate the pain of business formation, relocation, and compliance by offering an integrated suite of corporate, wealth, and digital services, empowering you to launch faster and scale smarter in Dubai and beyond."
   },
@@ -668,10 +671,33 @@
   },
   "recentBlogs": {
     "title": "^Recent Blogs^",
-    "image": "/assets/blog/1.png",
+    "image": "/assets/recentBlog.webp",
     "subTitle": "Mainland vs Free Zone: Which Setup is Right for You?",
     "description": "Explore the key differences between Mainland and Free Zone company formation, and discover which suits your business best.",
     "pageName": "Business Setup",
     "date": "08-11-2021"
+  },
+  "commonForm": {
+    "title": "Reserve Your Free Expert Call Now",
+    "formTitle": {
+      "fullName": "Full Name*",
+      "emailAddress": "Email Address*",
+      "phoneNumber": "Phone Number*",
+      "service": "Service Interested in*",
+      "companyName": "Company Name*",
+      "country": "Country of Current Residence*",
+      "message": "Type your message...",
+      "checkBox": "I agree to be contacted by One Nexuz and accept the privacy policy."
+    },
+    "formZod": {
+      "fullName": "Full name is required",
+      "emailAddress": "Please enter a valid email address",
+      "phoneNumber": "Phone number is required",
+      "service": "Please select a service",
+      "companyName": "Company name is required",
+      "country": "Country of residence is required",
+      "message": "Message cannot be empty",
+      "checkBox": "You must agree to the privacy policy"
+    }
   }
 }

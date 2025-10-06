@@ -1,4 +1,5 @@
 "use client";
+import { Icon } from "@iconify/react";
 import Typography from "../ui/Typography";
 
 export default function CheckboxInput({
@@ -8,6 +9,7 @@ export default function CheckboxInput({
   helperText,
   tooltip,
   required,
+  is_Modal,
   ...props
 }) {
   return (
@@ -20,16 +22,19 @@ export default function CheckboxInput({
               error ? "border-red-500" : ""
             } ${
               props.checked || props.defaultChecked
-                ? "border-primary bg-primary"
+                ? `${is_Modal ? "border-white" : "border-primary"} bg-primary`
                 : ""
             }`}>
-            {/* <Check
-              className={`h-4 w-4 text-primary transition-opacity duration-200 ${
+            <Icon
+              icon="material-symbols:check-rounded"
+              className={`h-4 w-4 ${
+                is_Modal ? "text-secondary" : "text-primary"
+              } transition-opacity duration-200 ${
                 props.checked || props.defaultChecked
                   ? "opacity-100"
                   : "opacity-0"
               }`}
-            /> */}
+            />
           </div>
         </div>
         <div className="relative flex items-center">
@@ -40,26 +45,19 @@ export default function CheckboxInput({
             as="span"
             size="sm"
             color="muted"
-            className="text-grayDark">
+            className={`${is_Modal ? "text-white" : "text-grayDark"}`}>
             {title}
           </Typography>
-          {tooltip && (
-            <div className="ml-2 flex items-center">
-              <div className="relative group/tooltip">
-                {/* <Info className="h-4 w-4 text-gray-light cursor-pointer" /> */}
-                <div className="absolute bottom-full right-0 mb-1 w-max rounded-md bg-gray-800 text-white text-xs py-1 px-2 hidden group-hover/tooltip:block transition-opacity duration-200">
-                  {tooltip}
-                </div>
-              </div>
-            </div>
-          )}
         </div>
       </label>
-
-      {helperText && !error && (
-        <div className="text-[10px] text-gray-500 mt-1">{helperText}</div>
+      {error && (
+        <div
+          className={`${
+            is_Modal ? "text-white" : "text-red-500"
+          } text-[10px] mt-1`}>
+          {error}
+        </div>
       )}
-      {error && <div className="text-[10px] text-red-500 mt-1">{error}</div>}
     </div>
   );
 }

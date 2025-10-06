@@ -16,7 +16,7 @@ function LeftSection3({ data, locale }) {
         />
       </div>
       {/*  */}
-      <div className="p-6 relative z-15  space-y-6">
+      <div className="px-6 py-8 relative z-15  space-y-6">
         <div className="space-y-3 ">
           {data?.title && (
             <Typography size="3xl" weight="bold" as="p" color="white">

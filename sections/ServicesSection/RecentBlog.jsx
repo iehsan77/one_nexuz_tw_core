@@ -20,9 +20,8 @@ function RecentBlog() {
           <Image
             src={t?.recentBlogs?.image}
             alt={t?.recentBlogs?.title}
-            width={378}
-            height={271}
-            className="rounded-lg"
+            width={384}
+            height={347}
           />
         </div>
         <div className="flex items-center gap-3">
