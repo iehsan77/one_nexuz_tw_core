@@ -188,7 +188,7 @@ function MenuModal({
             initial="hidden"
             animate="visible"
             exit="exit"
-            className={`fixed top-30 bg-white overflow-hidden h-auto w-full ${className}`}
+            className={`fixed top-33 xl:top-30 bg-white overflow-hidden h-auto w-full ${className}`}
             role="dialog"
             aria-modal="true"
             // 👇 hover andar karte hi cancel

@@ -33,7 +33,12 @@ export default async function Page({ params }) {
   const t = locale === "ar";
   return (
     <Suspense fallback={<Loader />}>
-      <ServicesPage data={t ? ar : en} locale={t} compare={true} />
+      <ServicesPage
+        data={t ? ar : en}
+        locale={t}
+        compare={true}
+        path={locale}
+      />
     </Suspense>
   );
 }

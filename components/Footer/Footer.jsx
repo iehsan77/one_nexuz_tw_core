@@ -9,11 +9,12 @@ import ar from "@/locales/ar/common.json";
 import en from "@/locales/en/common.json";
 import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import { footerSocials } from "@/mock/data";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 
 function Footer() {
   const { locale } = useContext(LanguageContext);
   const t = locale === "ar" ? ar : en;
+  const servicesData = locale === "ar" ? navDataAr : navData;
 
   return (
     <div className="py-12 bg-secondary relative mb-18 lg:mb-0">
@@ -68,7 +69,7 @@ function Footer() {
         <div className="sm:col-span-3 mt-6 sm:mt-0">
           <div className="grid grid-cols-4 gap-4">
             <div className="col-span-4 lg:col-span-3 grid grid-cols-2 lg:grid-cols-3 gap-4 h-fit">
-              {navData?.map((item) => (
+              {servicesData?.map((item) => (
                 <div key={item?.id} className="space-y-6">
                   <Typography
                     color="white"
@@ -78,7 +79,7 @@ function Footer() {
                   </Typography>
                   {item?.tabs?.length ? (
                     <div className="flex flex-col gap-4">
-                      {item?.tabs?.slice(0, 3)?.map((tab) => (
+                      {item?.tabs?.slice(0, 4)?.map((tab) => (
                         <LanguageAwareLink key={tab?.id} href="#">
                           <Typography as="p" size="sm" color="white">
                             {tab?.title}
@@ -88,12 +89,25 @@ function Footer() {
                     </div>
                   ) : (
                     <div className="flex flex-col gap-4">
-                      {item?.items?.slice(0, 3)?.map((i) => (
-                        <LanguageAwareLink key={i?.id} href="#">
-                          <Typography as="p" size="sm" color="white">
-                            {i?.title}
-                          </Typography>
-                        </LanguageAwareLink>
+                      {item?.items?.slice(0, 4)?.map((i) => (
+                        <div>
+                          <LanguageAwareLink key={i?.id} href="#">
+                            <Typography as="p" size="sm" color="white">
+                              {i?.title}
+                            </Typography>
+                          </LanguageAwareLink>
+                          {i?.title === "" && (
+                            <div className="flex flex-col gap-4">
+                              {i?.links?.slice(0, 4)?.map((l) => (
+                                <LanguageAwareLink key={l?.id} href="#">
+                                  <Typography as="p" size="sm" color="white">
+                                    {l?.title}
+                                  </Typography>
+                                </LanguageAwareLink>
+                              ))}
+                            </div>
+                          )}
+                        </div>
                       ))}
                     </div>
                   )}

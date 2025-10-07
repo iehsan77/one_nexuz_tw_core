@@ -4,7 +4,7 @@ import Typography from "../ui/Typography";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
 import ModalBtn from "@/sections/ModalBtn";
 
-function HeroHeader({ data }) {
+function HeroHeader({ data, btn }) {
   return (
     <header
       className="pb-12 pt-[10rem] sm:pt-0 sm:pb-0 relative sm:h-[80dvh] w-full bg-cover bg-center bg-no-repeat lg:mt-[3.5rem]"
@@ -24,7 +24,7 @@ function HeroHeader({ data }) {
           )}
           <div className="flex items-center gap-6 flex-wrap">
             <ModalBtn text={data?.bookConsultation} />
-            <ModalBtn text={data?.getQuoteToday} />
+            {!btn && <ModalBtn text={data?.getQuoteToday} />}
           </div>
         </div>
       </div>

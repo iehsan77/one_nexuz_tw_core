@@ -25,11 +25,10 @@ import { usePathname } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import { getPageHierarchy } from "@/helpers/getBreadcrumb";
 
-function ServicesPage({ data, locale, compare }) {
+function ServicesPage({ data, locale, path, compare }) {
   const pathname = usePathname();
-  const breadcrumb = getPageHierarchy(pathname);
+  const breadcrumb = getPageHierarchy(pathname, path);
 
-  console.log(breadcrumb, pathname);
   return (
     <div>
       <HeroHeader data={data?.homeHeader} />

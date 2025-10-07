@@ -1,9 +1,13 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import Typography from "../ui/Typography";
-import LinkCards from "./LinkCards";
+import LinkColumCard from "./LinkColumCard";
+import GridLinkCard from "./GridLinkCard";
+import { useMenu } from "@/context/menu-context";
+import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
 
 function NavTabs({ data }) {
+  const { hideMenu } = useMenu();
   const tabs = data || [];
   const [activeTab, setActiveTab] = useState(tabs[0]);
   useEffect(() => {
@@ -13,24 +17,34 @@ function NavTabs({ data }) {
   }, [data]);
 
   return (
-    <div className="container space-y-8">
+    <div className={`container ${activeTab?.items?.length ? "space-y-8" : ""}`}>
       <div className="flex items-center justify-between gap-4 flex-wrap bg-primaryLight px-4 pt-1">
         {tabs?.map((item) => (
-          <Typography
+          <LanguageAwareLink
             key={item?.id}
-            weight="medium"
-            onMouseEnter={() => setActiveTab(item)}
+            href={item?.url || "#"}
+            onClick={() => hideMenu()}
             className={`cursor-pointer py-3 border-b-2
               ${
                 activeTab?.id === item?.id
-                  ? "border-primary text-primary"
+                  ? "border-primary"
                   : "border-transparent"
-              }`}>
-            {item?.title}
-          </Typography>
+              }`}
+            onMouseEnter={() => setActiveTab(item)}>
+            <Typography
+              weight="medium"
+              className={`
+              ${activeTab?.id === item?.id && "!text-primary"}`}>
+              {item?.title}
+            </Typography>
+          </LanguageAwareLink>
         ))}
       </div>
-      <LinkCards data={activeTab?.items} />
+      {activeTab?.view === "childView" ? (
+        <GridLinkCard data={activeTab?.items} />
+      ) : (
+        <LinkColumCard data={activeTab?.items} />
+      )}
     </div>
   );
 }

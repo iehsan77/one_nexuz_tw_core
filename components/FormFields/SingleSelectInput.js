@@ -28,6 +28,7 @@
 //   optionEnd,
 //   onSelect,
 //   onCreate,
+//   is_Modal = false,
 //   ...props
 // }) {
 //   const [value, setValue] = useState(val);
@@ -158,23 +159,17 @@
 //       <div className="w-full relative group" ref={wrapperRef}>
 //         <div
 //           className={`relative border-b ${
-//             error ? "border-red-500" : "border-gray-dark"
-//           } focus-within:border-primary transition-all min-h-[28px] py-0.5 flex items-center ${
+//             error
+//               ? `${is_Modal ? "border-white" : "border-red-500"}`
+//               : `${is_Modal ? "border-white" : "border-gray-dark"}`
+//           } ${
+//             is_Modal
+//               ? "focus-within:border-white"
+//               : "focus-within:border-primary"
+//           } transition-all min-h-[28px] py-0.5 flex items-center ${
 //             disabled || loading ? "opacity-70" : ""
 //           }`}
 //           onClick={() => !disabled && !loading && setIsOpen(true)}>
-//           {/* Icon */}
-//           {icon && (
-//             <div className="absolute inset-y-0 left-0 flex items-center pointer-events-none">
-//               <Icon
-//                 icon={icon}
-//                 className={`h-5 w-5 ${
-//                   error ? "text-red-500" : "text-gray-400"
-//                 } group-focus-within:text-primary`}
-//               />
-//             </div>
-//           )}
-
 //           {/* Input Field */}
 //           <div
 //             className={`flex-1 flex items-center gap-2 ${
@@ -202,7 +197,9 @@
 //               onKeyDown={handleKeyDown}
 //               disabled={disabled || loading}
 //               placeholder={placeholder}
-//               className={`text-sm focus:outline-none bg-transparent w-full placeholder:text-gray-dark truncate ${
+//               className={`text-sm ${
+//                 is_Modal && "text-white"
+//               } focus:outline-none bg-transparent w-full placeholder:text-gray-dark truncate ${
 //                 disabled || loading ? "cursor-not-allowed" : ""
 //               }`}
 //               aria-autocomplete="list"
@@ -221,9 +218,9 @@
 //                 e.stopPropagation();
 //                 handleClear();
 //               }}
-//               className={`${
-//                 ar ? "left-8" : "right-8"
-//               } absolute text-gray-400 hover:text-red-500`}
+//               className={`${ar ? "left-8" : "right-8"} absolute ${
+//                 is_Modal ? "text-white" : "text-gray-400"
+//               } hover:text-red-500`}
 //               disabled={loading}>
 //               <Icon icon="mdi:close-circle" className="h-4 w-4" />
 //             </button>
@@ -242,7 +239,9 @@
 //             ) : (
 //               <Icon
 //                 icon={isOpen ? "mdi:chevron-up" : "mdi:chevron-down"}
-//                 className="h-5 w-5 text-gray-400"
+//                 className={`h-5 w-5 ${
+//                   is_Modal ? "text-white" : "text-gray-400"
+//                 }`}
 //               />
 //             )}
 //           </div>
@@ -250,32 +249,25 @@
 //           {/* Label */}
 //           <label
 //             // htmlFor={inputId}
-//             className={`text-sm absolute left-0 text-gray-light cursor-text truncate max-w-[calc(100%-18px)] float-labels ${
+//             className={`text-sm absolute left-0 ${
+//               is_Modal && "text-white"
+//             } cursor-text truncate max-w-[calc(100%-18px)] float-labels ${
 //               ar ? "right-0" : "left-0"
-//             } ${error ? "text-red-500" : "peer-focus:text-primary"} ${
+//             } ${
+//               error
+//                 ? "text-red-500"
+//                 : `${
+//                     is_Modal
+//                       ? "peer-focus:!text-white"
+//                       : "peer-focus:text-primary"
+//                   }`
+//             } ${
 //               value || searchTerm || isOpen
 //                 ? "text-xs -top-5 left-0"
 //                 : "peer-placeholder-shown:text-sm peer-placeholder-shown:top-0 peer-focus:text-xs peer-focus:left-0 peer-focus:-top-5"
 //             } ${disabled || loading ? "cursor-not-allowed" : ""}`}>
 //             {label}
 //           </label>
-
-//           {/* Tooltip */}
-//           {tooltip && (
-//             <div className="absolute inset-y-0 right-2 flex items-center">
-//               <div className="relative group/tooltip">
-//                 <Icon
-//                   icon="mdi:information"
-//                   className={`h-4 w-4 ${
-//                     disabled || loading ? "text-gray-300" : "text-gray-400"
-//                   } cursor-pointer`}
-//                 />
-//                 <div className="absolute bottom-full right-0 mb-1 w-max rounded-md bg-gray-800 text-white text-xs py-1 px-2 hidden group-hover/tooltip:block">
-//                   {tooltip}
-//                 </div>
-//               </div>
-//             </div>
-//           )}
 //         </div>
 
 //         {/* Dropdown */}
@@ -329,11 +321,14 @@
 //           </div>
 //         )}
 
-//         {/* Helper/Error Text */}
-//         {helperText && !error && (
-//           <div className="text-[10px] text-gray-500 mt-1">{helperText}</div>
+//         {error && (
+//           <div
+//             className={`text-[10px] ${
+//               is_Modal ? "text-white" : "text-red-500"
+//             } mt-1`}>
+//             {error}
+//           </div>
 //         )}
-//         {error && <div className="text-[10px] text-red-500 mt-1">{error}</div>}
 //       </div>
 //     </div>
 //   );
@@ -381,23 +376,26 @@ export default function SingleSelectInput({
   const { locale } = useContext(LanguageContext);
   const ar = locale === "ar";
 
-  // Normalize options to a safe array to avoid runtime errors
-  const normalizedOptions = Array.isArray(options) ? options : [];
+  // ✅ Memoized normalized options
+  const normalizedOptions = useMemo(() => {
+    return Array.isArray(options) ? options : [];
+  }, [options]);
 
   const wrapperRef = useRef(null);
   const inputRef = useRef(null);
   const dropdownRef = useRef(null);
 
-  // Update display value when value or options change
+  // ✅ Update display value when value or options change
   useEffect(() => {
     setValue(val);
     const selectedOption = normalizedOptions.find((p) => p.value == val);
     setDisplayValue(selectedOption ? selectedOption.label : "");
-    selectedOption?.icon && setDisplayIcon(selectedOption?.icon);
+    setDisplayIcon(selectedOption?.icon || null);
   }, [val, normalizedOptions]);
 
+  // ✅ Filtered options (memoized)
   const filteredOptions = useMemo(() => {
-    return (Array.isArray(normalizedOptions) ? normalizedOptions : [])
+    return normalizedOptions
       .filter((option) =>
         option?.label?.toLowerCase().includes(searchTerm.toLowerCase())
       )
@@ -408,7 +406,7 @@ export default function SingleSelectInput({
       });
   }, [normalizedOptions, searchTerm]);
 
-  // Close dropdown when clicking outside
+  // ✅ Close dropdown on outside click
   useEffect(() => {
     function handleClickOutside(event) {
       if (wrapperRef.current && !wrapperRef.current.contains(event.target)) {
@@ -420,80 +418,80 @@ export default function SingleSelectInput({
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  // Scroll to focused option
+  // ✅ Scroll focused item into view
   useEffect(() => {
     if (focusedIndex >= 0 && dropdownRef.current) {
       const optionElement = dropdownRef.current.children[focusedIndex];
-      if (optionElement) {
-        optionElement.scrollIntoView({ block: "nearest" });
-      }
+      optionElement?.scrollIntoView({ block: "nearest" });
     }
   }, [focusedIndex]);
 
-  // Clear search term when dropdown closes
+  // ✅ Clear search on close
   useEffect(() => {
-    if (!isOpen) {
-      setSearchTerm("");
-    }
+    if (!isOpen) setSearchTerm("");
   }, [isOpen]);
 
+  // ✅ Memoized select handler (added missing deps)
   const handleSelect = useCallback(
     (option) => {
       if (option && !option.disabled && !loading && !disabled) {
         onChange(option.value);
         setDisplayValue(option.label);
-        setDisplayIcon(option.icon);
-        if (clearError) clearError();
+        setDisplayIcon(option.icon || null);
+        clearError?.();
         setIsOpen(false);
         setFocusedIndex(-1);
-        onSelect && onSelect(option);
+        onSelect?.(option);
       }
     },
-    [onChange, loading, disabled]
+    [onChange, clearError, onSelect, loading, disabled]
   );
 
-  const handleClear = () => {
+  const handleClear = useCallback(() => {
     if (loading || disabled) return;
     onChange(null);
     setDisplayValue("");
     setDisplayIcon(null);
     setSearchTerm("");
-    onSelect && onSelect(null);
-  };
+    onSelect?.(null);
+  }, [loading, disabled, onChange, onSelect]);
 
-  const handleKeyDown = (e) => {
-    if (disabled || loading) return;
+  const handleKeyDown = useCallback(
+    (e) => {
+      if (disabled || loading) return;
 
-    switch (e.key) {
-      case "Enter":
-      case " ":
-        if (isOpen && focusedIndex >= 0) {
-          e.preventDefault();
-          handleSelect(filteredOptions[focusedIndex]);
-        } else if (!isOpen) {
+      switch (e.key) {
+        case "Enter":
+        case " ":
+          if (isOpen && focusedIndex >= 0) {
+            e.preventDefault();
+            handleSelect(filteredOptions[focusedIndex]);
+          } else if (!isOpen) {
+            e.preventDefault();
+            setIsOpen(true);
+          }
+          break;
+        case "ArrowDown":
           e.preventDefault();
           setIsOpen(true);
-        }
-        break;
-      case "ArrowDown":
-        e.preventDefault();
-        setIsOpen(true);
-        setFocusedIndex((prev) =>
-          Math.min(prev + 1, filteredOptions.length - 1)
-        );
-        break;
-      case "ArrowUp":
-        e.preventDefault();
-        setFocusedIndex((prev) => Math.max(prev - 1, 0));
-        break;
-      case "Escape":
-        setIsOpen(false);
-        setFocusedIndex(-1);
-        break;
-      default:
-        break;
-    }
-  };
+          setFocusedIndex((prev) =>
+            Math.min(prev + 1, filteredOptions.length - 1)
+          );
+          break;
+        case "ArrowUp":
+          e.preventDefault();
+          setFocusedIndex((prev) => Math.max(prev - 1, 0));
+          break;
+        case "Escape":
+          setIsOpen(false);
+          setFocusedIndex(-1);
+          break;
+        default:
+          break;
+      }
+    },
+    [disabled, loading, isOpen, focusedIndex, filteredOptions, handleSelect]
+  );
 
   return (
     <div>
@@ -519,7 +517,6 @@ export default function SingleSelectInput({
             {displayIcon && displayIcon}
             <input
               ref={inputRef}
-              // id={inputId}
               type="text"
               value={isOpen ? searchTerm : displayValue}
               onChange={(e) => {
@@ -530,7 +527,6 @@ export default function SingleSelectInput({
               }}
               onFocus={() => {
                 if (loading || disabled) return;
-                // setSearchTerm(displayValue);
                 setSearchTerm("");
                 setIsOpen(true);
                 setFocusedIndex(0);
@@ -545,7 +541,6 @@ export default function SingleSelectInput({
               }`}
               aria-autocomplete="list"
               aria-haspopup="listbox"
-              //   aria-expanded={isOpen}
               autoComplete="off"
               {...props}
             />
@@ -589,7 +584,6 @@ export default function SingleSelectInput({
 
           {/* Label */}
           <label
-            // htmlFor={inputId}
             className={`text-sm absolute left-0 ${
               is_Modal && "text-white"
             } cursor-text truncate max-w-[calc(100%-18px)] float-labels ${

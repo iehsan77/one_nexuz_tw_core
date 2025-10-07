@@ -1,11 +1,12 @@
 import Image from "@/components/Image/Image";
 import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 import React, { useEffect, useState } from "react";
 
-function EndTOEndSetup({ data, t }) {
-  const tabs = navData || [];
+function EndTOEndSetup({ data, t, locale }) {
+  const servicesData = locale === "ar" ? navDataAr : navData;
+  const tabs = servicesData || [];
   const [activeTab, setActiveTab] = useState(tabs[0]?.id);
   const [activeItem, setActiveItem] = useState(null);
 

@@ -26,9 +26,9 @@ function Home() {
 
   return (
     <div>
-      <HeroHeader data={t.homeHeader} />
+      <HeroHeader data={t.homeHeader} btn={true} />
       <TrustedBy title={t.trusted} />
-      <EndTOEndSetup data={t.endToEndBusinessSetup} t={t} />
+      <EndTOEndSetup data={t.endToEndBusinessSetup} t={t} locale={locale} />
       <ThemSelves data={t.themSelvesData} />
       <WhyPartner data={t.whyPartner} t={t} />
       <OneNexuzDifferent data={t.nexuzDifferent} />

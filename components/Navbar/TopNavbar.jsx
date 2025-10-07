@@ -1,5 +1,5 @@
 "use client";
-import React, { Suspense, useContext, useState } from "react";
+import React, { Suspense, useContext, useRef, useState } from "react";
 import Typography from "../ui/Typography";
 import { info } from "@/mock/data";
 import { Icon } from "@iconify/react";
@@ -7,19 +7,27 @@ import Link from "next/link";
 import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
 import Image from "../Image/Image";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 import { filterNavData } from "@/helpers/filterNavData";
 import { AnimatePresence, motion } from "framer-motion";
 import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import ar from "@/locales/ar/common.json";
 import en from "@/locales/en/common.json";
+import useOnClickOutside from "@/hooks/useOnClickOutside";
 
 function TopNavbar() {
   const { locale } = useContext(LanguageContext);
   const t = locale === "ar" ? ar : en;
+  const servicesData = locale === "ar" ? navDataAr : navData;
   const [searchHide, setSearchHide] = useState(false);
   const [query, setQuery] = useState("");
-  const filteredData = filterNavData(navData, query);
+  const filteredData = filterNavData(servicesData, query);
+  const searchRef = useRef(null);
+
+  useOnClickOutside(searchRef, () => {
+    if (searchHide) setSearchHide(false);
+  });
+
   return (
     <div className="">
       <div className=" bg-white w-full">
@@ -50,6 +58,7 @@ function TopNavbar() {
           {searchHide && (
             <AnimatePresence>
               <motion.div
+                ref={searchRef}
                 key="search-bar"
                 initial={{ width: 0, opacity: 0 }}
                 animate={{ width: "100%", opacity: 1 }}

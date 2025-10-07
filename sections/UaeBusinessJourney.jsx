@@ -13,7 +13,7 @@ function UaeBusinessJourney({ data }) {
         {data?.items?.map((item, i) => (
           <div
             key={i}
-            className="relative overflow-hidden p-4 shadow-md rounded-xl">
+            className="relative overflow-hidden p-4 shadow-md border border-primary/10">
             <div className="absolute top-1 right-0">
               <Image
                 src="/assets/backGrounds/uaeBusinessJourneyCardBg.svg"

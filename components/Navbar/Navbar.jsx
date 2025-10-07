@@ -1,13 +1,13 @@
 "use client";
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import TopNavbar from "./TopNavbar";
 import Image from "../Image/Image";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 import Typography from "../ui/Typography";
 import { useMenu } from "@/context/menu-context";
 import NavTabs from "./NavTabs";
-import LinkCards from "./LinkCards";
+import LinkColumCard from "./LinkColumCard";
 import ar from "@/locales/ar/common.json";
 import en from "@/locales/en/common.json";
 import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
@@ -15,16 +15,25 @@ import { Icon } from "@iconify/react";
 import { filterNavData } from "@/helpers/filterNavData";
 import { AnimatePresence, motion } from "framer-motion";
 import ModalBtn from "@/sections/ModalBtn";
+import GridLinkCard from "./GridLinkCard";
+import LinkGridCard from "./LinkGridCard";
+import useOnClickOutside from "@/hooks/useOnClickOutside";
 
 function Navbar() {
   const { locale } = useContext(LanguageContext);
   const t = locale === "ar" ? ar : en;
-  const { showMenu } = useMenu();
+  const { showMenu, hideMenu } = useMenu();
   const [active, setActive] = useState(null);
   const [scrolled, setScrolled] = useState(false);
   const [searchHide, setSearchHide] = useState(false);
   const [query, setQuery] = useState("");
-  const filteredData = filterNavData(navData, query);
+  const servicesData = locale === "ar" ? navDataAr : navData;
+  const filteredData = filterNavData(servicesData, query);
+  const searchRef = useRef(null);
+
+  useOnClickOutside(searchRef, () => {
+    if (searchHide) setSearchHide(false);
+  });
 
   useEffect(() => {
     const handleScroll = () => {
@@ -48,7 +57,7 @@ function Navbar() {
           searchHide ? "py-[8.5px]" : "py-0"
         }`}>
         <div className="container flex items-center gap-4 justify-between relative">
-          <LanguageAwareLink href="/">
+          <LanguageAwareLink href="/" onClick={() => hideMenu()}>
             <Image
               src="/logo/whiteLogo.svg"
               alt="logo"
@@ -61,11 +70,12 @@ function Navbar() {
           {searchHide ? (
             <AnimatePresence>
               <motion.div
+                ref={searchRef}
                 key="search-bar"
                 initial={{ width: 0, opacity: 0 }}
                 animate={{ width: "65%", opacity: 1 }}
                 exit={{ width: 0, opacity: 0 }}
-                transition={{ duration: 0.3 }}
+                transition={{ duration: 0.3, ease: "easeInOut" }}
                 className="relative w-full">
                 <input
                   type="text"
@@ -98,25 +108,35 @@ function Navbar() {
             </AnimatePresence>
           ) : (
             <div className="flex items-center gap-4">
-              {navData?.map((item) => (
+              {servicesData?.map((item) => (
                 <LanguageAwareLink
                   key={item?.id}
                   href={item?.url || "#"}
-                  // onMouseEnter={() => {
-                  //   showMenu({
-                  //     children: item?.tabs?.length ? (
-                  //       <NavTabs data={item?.tabs} />
-                  //     ) : (
-                  //       <div className="container">
-                  //         <LinkCards data={item?.items} />
-                  //       </div>
-                  //     ),
-                  //     onCloseCallback: () => {
-                  //       setActive(null);
-                  //     },
-                  //   });
-                  //   setActive(item?.id);
-                  // }}
+                  onClick={() => hideMenu()}
+                  onMouseEnter={() => {
+                    showMenu({
+                      children:
+                        item?.view === "tabView" ? (
+                          <NavTabs data={item?.tabs} />
+                        ) : item?.view === "parentChildView" ? (
+                          <div className="container">
+                            <LinkColumCard data={item?.items} />
+                          </div>
+                        ) : item?.view === "parentChildGridView" ? (
+                          <div className="container">
+                            <LinkGridCard data={item?.items} />
+                          </div>
+                        ) : (
+                          <div className="container">
+                            <GridLinkCard data={item?.items} />
+                          </div>
+                        ),
+                      onCloseCallback: () => {
+                        setActive(null);
+                      },
+                    });
+                    setActive(item?.id);
+                  }}
                   className={`${
                     active === item?.id
                       ? "border-primary"
@@ -133,7 +153,10 @@ function Navbar() {
           {/* Right Section */}
           <div className="flex items-center gap-4">
             <button
-              onClick={() => setSearchHide(!searchHide)}
+              onClick={() => {
+                setSearchHide(!searchHide);
+                hideMenu();
+              }}
               className="bg-white rounded-md p-1 cursor-pointer">
               <Icon icon="lucide:search" width="20" height="20" />
             </button>
@@ -141,7 +164,7 @@ function Navbar() {
               <ModalBtn
                 text={t.btn.inquireNow}
                 variant="solid"
-                className="!py-3"
+                className="!py-[10px] rounded-sm"
               />
             </div>
           </div>
