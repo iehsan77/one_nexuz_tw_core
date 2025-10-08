@@ -19,7 +19,7 @@
   "navPlaceholder": "Search anything",
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
-    "bookConsultation": "Book Your Free Consultation",
+    "bookConsultation": "Book a Free Consultation",
     "image": "/assets/header/home.webp",
     "title": "All-in-One Business Setup & Corporate Solutions, ^Powered by One Nexuz^",
     "description": "We eliminate the pain of business formation, relocation, and compliance by offering an integrated suite of corporate, wealth, and digital services, empowering you to launch faster and scale smarter in Dubai and beyond."
@@ -124,7 +124,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -135,7 +134,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -146,7 +144,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -157,7 +154,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       }

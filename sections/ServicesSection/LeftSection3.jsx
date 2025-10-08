@@ -16,7 +16,7 @@ function LeftSection3({ data, locale }) {
         />
       </div>
       {/*  */}
-      <div className="px-6 py-8 relative z-15  space-y-6">
+      <div className="px-6 py-8 relative z-15 space-y-6">
         <div className="space-y-3 ">
           {data?.title && (
             <Typography size="3xl" weight="bold" as="p" color="white">
@@ -29,7 +29,12 @@ function LeftSection3({ data, locale }) {
             </Typography>
           )}
         </div>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div
+          className={`grid gap-6 ${
+            data?.items?.length > 2
+              ? "sm:grid-cols-2 md:grid-cols-3"
+              : "sm:grid-cols-2"
+          }`}>
           {data?.items?.map((item) => (
             <LeftCard2
               key={item?.id}

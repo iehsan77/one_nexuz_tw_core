@@ -1,0 +1,275 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Setup Quote",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/bankingWealth.webp",
+    "title": "From Accounts to Investments, Get Complete Control with One Nexuz Wealth Management & Banking Solutions",
+    "description": "Frustrated by fragmented services, slow approvals, and lack of clarity over your assets? One Nexuz brings it all together under one roof, empowering you to unlock global banking access, preserve assets, and build a lasting multigenerational legacy. With our wealth management and banking solutions you gain real-time visibility of your financial performance, so you can make informed decisions and act with confidence at every stage."
+  },
+  "leftSection_1": {
+    "title": "Maximise Your Business Potential & Build Financial Stability with UAE Banking and Wealth Services",
+    "description": "Shield your assets against risks, gain tailored succession plans, and uplift your business’s profitability through tailored banking and wealth strategies.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/bankingWealth/left1/1.webp",
+        "title": "Future-Proof Your Wealth, Capture New Opportunities, and Unlock Global Investment Potential",
+        "subTitle": "Future-Proof Your Wealth, Capture New Opportunities, and Unlock Global Investment Potential",
+        "description": "Unlock tailored investment strategies, risk diversification advice, and treasury solutions to maximise after-tax returns, optimise liquidity, and multiply your wealth."
+      },
+      {
+        "id": 2,
+        "image": "/assets/bankingWealth/left1/2.webp",
+        "title": "Reduce Exposure, Optimise Returns, and Strengthen Your Financial Resilience",
+        "subTitle": "Reduce Exposure, Optimise Returns, and Strengthen Your Financial Resilience",
+        "description": "Spot revenue leaks, gain real-time cash flow insights, and automate payments to build your wealth. Strengthen your business's financial health through future-proof risk management strategies and data-driven forecasts."
+      },
+      {
+        "id": 3,
+        "image": "/assets/bankingWealth/left1/3.webp",
+        "title": "Streamline Multi-Account Banking to Build, Diversify, and Secure Your Capital",
+        "subTitle": "Streamline Multi-Account Banking to Build, Diversify, and Secure Your Capital",
+        "description": "Send, receive, and manage cross-border payments in 20+ currencies with instant access to the UAE's world-class global banking infrastructure. Maximise your revenue through minimal FX and wire charges."
+      },
+      {
+        "id": 4,
+        "image": "/assets/bankingWealth/left1/4.webp",
+        "title": "From Lengthy Delays to Fast-Tracked Approvals, Overcome Banking Barriers with Reliable Nominees ",
+        "subTitle": "From Lengthy Delays to Fast-Tracked Approvals, Overcome Banking Barriers with Reliable Nominees ",
+        "description": "Accelerate bank account approvals by 2X, maintain privacy, and unlock higher deposit limits, competitive interest rates, and preferential loans with expert-backed nominee services."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Protect, Grow, and Manage Your Wealth with One Nexuz Expertise ",
+    "description": "Build a robust financial foundation, drive limitless business growth, and preserve your legacy with end-to-end wealth and treasury management solutions.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Wealth Management",
+        "description": "Diversify your portfolio, simplify succession planning, and multiply your wealth with custom-built wealth management strategies.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Treasury Management ",
+        "description": "Protect your capital against FX risks and market volatility, optimise liquidity, and maximise your cash flow with treasury management solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "One Nexuz Empowers You with Global Banking Access in the UAE ",
+    "description": "Expand across borders, capitalise on fast-growing local markets, and cut overheads by half through our reliable account opening and nominee solutions.",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Bank Account Opening Solutions in the UAE",
+        "description": "Send, receive, and transact global payments anywhere, anytime with unrestricted access to the UAE’s world-class banking infrastructure.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Bank Account Opening Assistance",
+        "description": "Overcome compliance roadblocks, simplify funds transfer, and protect your identity with end-to-end nominee services.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/bankingWealth/left4/1.webp",
+      "title": "Take Full Control of Your Wealth With Expert Banking Solutions",
+      "description": "Gain unmatched transparency and control with offshore, corporate, and personal account solutions. Streamline your financial operations and watch your assets grow efficiently with strategic oversight.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/bankingWealth/left4/2.webp",
+      "title": "Preserve Capital with Banking and Wealth Management Solutions that Fit Your Needs ",
+      "description": "Every client has unique financial needs, which is why we empower you with custom banking and wealth management solutions that scale with your portfolio. Know your costs upfront and ensure you never pay for what you don’t need.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Simplify Banking and Wealth with Our 5-Step Process",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/bankingWealth/left5/1.svg",
+        "title": "Book a Free Consultation",
+        "description": "We'll kick off with a confidential consultation to discuss your financial and banking needs and future goals. "
+      },
+      {
+        "id": 2,
+        "image": "/assets/bankingWealth/left5/2.svg",
+        "title": "Design Your Capital Structure",
+        "description": "Next, our team builds the optimal structure, from choosing the right jurisdiction and account type to planning wealth strategies."
+      },
+      {
+        "id": 3,
+        "image": "/assets/bankingWealth/left5/3.svg",
+        "title": "Prepare Your Documents",
+        "description": "Once you give us the green light, we'll help you prepare, review, and align all the necessary documentation to streamline approvals."
+      },
+      {
+        "id": 4,
+        "image": "/assets/bankingWealth/left5/4.svg",
+        "title": "Roll Out Structures ",
+        "description": "From corporate and offshore accounts to nominee arrangements, we execute account openings and tailored wealth plans."
+      },
+      {
+        "id": 5,
+        "image": "/assets/bankingWealth/left5/5.svg",
+        "title": "Enjoy Ongoing Optimisation",
+        "description": "Beyond implementation, our experts continuously monitor and refine your wealth growth strategies to help you stay ahead of the curve."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Choose One Nexuz for Expert Banking and Wealth Management Solutions ",
+    "description": "Navigate the UAE’s stringent regulatory landscape with our end-to-end banking and wealth management solutions. Our seasoned consultants empower you to simplify multi-currency transactions, build investor credibility, and preserve your wealth.",
+    "items": [
+      {
+        "title": "Fast-Track Account Approvals",
+        "description": "Secure first-time approvals for high-risk industries and structures and slash administrative burdens by taking advantage of our reliable network of banking partners.",
+        "image": "/assets/bankingWealth/bgImage/1.webp"
+      },
+      {
+        "title": "Personalised Wealth Management",
+        "description": "Build and preserve your wealth, optimise business cash flow, and unlock sustainable growth with strategies tailored to your unique financial goals.",
+        "image": "/assets/bankingWealth/bgImage/2.webp"
+      },
+      {
+        "title": "Gain Regulatory Peace of Mind",
+        "description": "Our experts ensure you stay 100% compliant with the UAE's fast-evolving corporate and VAT regulations, minimising the risk of costly errors and penalties",
+        "image": "/assets/bankingWealth/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/bankingWealth/grid/1.webp",
+    "title": "Double Your Financial Efficiency With Tailored Wealth Management",
+    "description": "Convert insights into action with our integrated banking and wealth strategies. From corporate accounts to treasury planning, every dirham is designed to deliver maximum impact.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“One Nexuz made opening my corporate bank account in the UAE completely stress-free. Their team guided me through every step, and we secured approvals faster than I expected. I now have full control and confidence in my finances.”",
+        "role": "Tech Startup Founder & CEO",
+        "image": "/assets/bankingWealth/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“Their wealth management services are game-changing. They created a personalized strategy that maximizes returns while keeping my assets protected. I finally feel my wealth is working as hard as I do.”",
+        "role": "Real Estate Managing Director",
+        "image": "/assets/bankingWealth/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“Navigating UAE banking rules seemed impossible at first. One Nexuz handled everything professionally, from complex account setup to treasury planning. I now have smooth access to local and international banking, saving me time and hassle.”",
+        "role": "Logistics & Trade Company COO",
+        "image": "/assets/bankingWealth/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "From Banking to Business Growth — Explore Our Full Suite of Services",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Setup Services",
+        "description": "Launch, build, and scale your business within and beyond the UAE with end-to-end business setup, licensing, and PRO support.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "description": "Spot internal inefficiencies, optimise workplace productivity, and ensure 100% complaince with our end-to-end corporate support.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Millionaire & Billionaire Services",
+        "description": "Build your legacy, diversify your assets, and secure your loved one’s future with our tailored wealth and family structures.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Digital & Branding Solutions",
+        "description": "Win customer trust and elevate your online presence with strategic branding and marketing services. ",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation Services",
+        "description": "Secure 2+ years of UAE residency, sponsor your family, and simplify your move with our relocation solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/bankingWealth/grid/2.webp",
+    "title": "Ready to Reach All Your Financial Goals?",
+    "description": "Partner with our experts today and gain unrestricted access to tailored wealth management strategies, seamless global banking, and expert liquidation guidance to build, grow, and preserve your wealth!",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What documents and approvals do I need to set up a bank account?",
+        "answer": "Generally, you’ll need a trade name, incorporation documents, a trade license, shareholder information, and proof of identity. "
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "How long does it take to open a corporate bank account in the UAE?",
+        "answer": "The timeline for a UAE corporate bank acount can vary depending on your jurisdiction, industry, and business activity. Our expert business consultants can help you open a fully operational account within days."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "How does treasury management benefit my UAE-based business?",
+        "answer": "Our strategic treasury management solutions empower you to optimise liquidity, make smarter investments, and reduce financial risks to help you scale across borders and maximise cash flow. "
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "How can I make my wealth work harder without taking unnecessary risks?",
+        "answer": "Our seasoned wealth management consultants empower you with tailored strategies to maximise growth, optimise liquidity, and secure your assets. By aligning investments with your goals and risk profile, our experts help you grow your wealth confidently."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Do I retain full control of my UAE-based business if I get corporate bank account assistance?",
+        "answer": "Yes, nominee shareholders and directors have no decision-making power or access to funds, so you maintain 100% ownership of your business."
+      }
+    ]
+  }
+}

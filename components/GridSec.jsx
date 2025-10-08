@@ -2,7 +2,7 @@
 import React from "react";
 import Image from "./Image/Image";
 import Typography from "./ui/Typography";
-import LanguageAwareLink from "./LanguageAwareLink/LanguageAwareLink";
+import ModalBtn from "@/sections/ModalBtn";
 
 function GridSec({ data }) {
   return (
@@ -23,12 +23,7 @@ function GridSec({ data }) {
         <Typography size="base" weight="normal" as="p">
           {data?.description}
         </Typography>
-        <LanguageAwareLink
-          href={data?.url || "#"}
-          variant="rightIcon"
-          className="!text-primary">
-          {data?.btn}
-        </LanguageAwareLink>
+        <ModalBtn text={data?.btn} className="!text-primary" />
       </div>
     </div>
   );

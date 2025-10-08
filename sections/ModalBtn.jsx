@@ -4,8 +4,9 @@ import { useModal } from "@/context/commonModalProvider";
 import { Icon } from "@iconify/react";
 import { useContext } from "react";
 import CommonForm from "./Forms/CommonForm";
+import Image from "@/components/Image/Image";
 
-function ModalBtn({ text, className, variant = "primary" }) {
+function ModalBtn({ text, className, calendar, icon, variant = "primary" }) {
   const { showModal } = useModal();
   const { locale } = useContext(LanguageContext);
   const ar = locale === "ar";
@@ -29,8 +30,11 @@ function ModalBtn({ text, className, variant = "primary" }) {
           ? "px-4 py-2 rounded-md text-white bg-primary hover:bg-primary/80"
           : ""
       }`}>
+      {calendar && (
+        <Image src="/icons/calendar.svg" alt="icon" width={24} height={24} />
+      )}
       {text}
-      {variant === "primary" && (
+      {variant === "primary" && !icon && (
         <Icon
           icon={ar ? "uil:angle-left" : "uil:angle-right"}
           width="26"

@@ -161,7 +161,7 @@ function OurClients({ data }) {
               alt="client image"
               width={640}
               height={703}
-              className="w-auto h-auto object-contain"
+              // className="w-auto h-auto object-contain"
             />
           </div>
         </div>

@@ -11,7 +11,7 @@ function BgImgCard({ data }) {
           alt="img"
           width={827}
           height={810}
-          className="w-auto h-auto object-contain"
+          // className="w-auto h-auto object-contain"
           // className="w-full h-full object-cover"
         />
         <div className="absolute bottom-0 p-6 space-y-4">

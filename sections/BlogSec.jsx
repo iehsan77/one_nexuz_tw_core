@@ -77,7 +77,7 @@ function BlogSec() {
           <SplideTrack className="!px-0">
             {t.blog?.items?.map((item) => (
               <SplideSlide key={item?.id}>
-                <BlogGridCard key={item?.id} data={item} ar={ar} />
+                <BlogGridCard key={item?.id} data={item} ar={t} />
               </SplideSlide>
             ))}
           </SplideTrack>

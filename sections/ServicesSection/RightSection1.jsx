@@ -5,6 +5,7 @@ import Typography from "@/components/ui/Typography";
 import React, { useContext, useEffect, useState } from "react";
 import ar from "@/locales/ar/common.json";
 import en from "@/locales/en/common.json";
+import ModalBtn from "../ModalBtn";
 
 function RightSection1() {
   const { locale } = useContext(LanguageContext);
@@ -71,12 +72,13 @@ function RightSection1() {
         <Typography weight="normal" size="base">
           {t?.serviceRightCounter?.description}
         </Typography>
-        <LanguageAwareLink
-          href={"#"}
-          className="flex items-center gap-2 w-fit text-primary font-medium py-2 border-b-2 border-primary">
-          <Image src="/icons/calendar.svg" alt="icon" width={24} height={24} />
-          {t?.serviceRightCounter?.btn}
-        </LanguageAwareLink>
+        <ModalBtn
+          variant="primary"
+          text={t?.serviceRightCounter?.btn}
+          className={"!text-primary"}
+          calendar={true}
+          icon={true}
+        />
       </div>
     </div>
   );

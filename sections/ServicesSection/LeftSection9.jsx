@@ -7,6 +7,7 @@ import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import { Icon } from "@iconify/react";
 import Image from "@/components/Image/Image";
 import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
+import ModalBtn from "../ModalBtn";
 
 function LeftSection9() {
   const { locale } = useContext(LanguageContext);
@@ -72,22 +73,12 @@ function LeftSection9() {
                 {t?.counterSec?.sec2?.description}
               </Typography>
             </div>
-            <LanguageAwareLink
-              href={t?.counterSec?.sec2?.url || "#"}
-              className="flex items-center gap-2 w-fit text-primary font-medium py-2 border-b-2 border-primary">
-              <Image
-                src="/icons/calendar.svg"
-                alt="icon"
-                width={24}
-                height={24}
-              />
-              {t?.counterSec?.sec2?.btn}
-              <Icon
-                icon={arabic ? "uil:angle-left" : "uil:angle-right"}
-                width="26"
-                height="26"
-              />
-            </LanguageAwareLink>
+            <ModalBtn
+              variant="primary"
+              text={t?.counterSec?.sec2?.btn}
+              calendar={true}
+              className={"!text-primary"}
+            />
           </div>
           {/* 2 */}
           {/* 3 */}

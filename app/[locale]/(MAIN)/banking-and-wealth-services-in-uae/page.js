@@ -2,8 +2,8 @@ import { SEOAction } from "@/actions/seo-action";
 import { isIndex } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
-import ar from "@/locales/ar/businessSetup.json";
-import en from "@/locales/en/businessSetup.json";
+import ar from "@/locales/ar/bankingWealth.json";
+import en from "@/locales/en/bankingWealth.json";
 import Loader from "@/components/Loader";
 
 export async function generateMetadata() {

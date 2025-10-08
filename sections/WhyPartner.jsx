@@ -1,7 +1,7 @@
 import PartnerNexuzCard from "@/components/Cards/PartnerNexuzCard";
-import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
 import React from "react";
+import ModalBtn from "./ModalBtn";
 
 function WhyPartner({ data, t }) {
   return (
@@ -15,12 +15,7 @@ function WhyPartner({ data, t }) {
             {data?.description}
           </Typography>
         </div>
-        <LanguageAwareLink
-          href="#"
-          variant="rightIcon"
-          className="!text-primary">
-          {t.btn.setupConsultation}
-        </LanguageAwareLink>
+        <ModalBtn text={t.btn.setupConsultation} className="!text-primary" />
       </div>
       {/*  */}
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">

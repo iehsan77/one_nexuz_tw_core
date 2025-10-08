@@ -2,6 +2,7 @@ import Image from "@/components/Image/Image";
 import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
 import React from "react";
+import ModalBtn from "../ModalBtn";
 
 function LeftSection4({ data, locale }) {
   return (
@@ -39,12 +40,7 @@ function LeftSection4({ data, locale }) {
           <Typography as="p" color="white" size="base" weight="normal">
             {data?.sec1?.description}
           </Typography>
-          <LanguageAwareLink
-            href={data?.sec1?.url || "#"}
-            variant="rightIcon"
-            className="text-white text-sm">
-            {data?.sec1?.btn}
-          </LanguageAwareLink>
+          <ModalBtn text={data?.sec1?.btn} className={"!text-sm"} />
         </div>
       </div>
       {/*  */}
@@ -56,12 +52,7 @@ function LeftSection4({ data, locale }) {
           <Typography as="p" color="white" size="base" weight="normal">
             {data?.sec2?.description}
           </Typography>
-          <LanguageAwareLink
-            href={data?.sec2?.url || "#"}
-            variant="rightIcon"
-            className="text-white text-sm">
-            {data?.sec2?.btn}
-          </LanguageAwareLink>
+          <ModalBtn text={data?.sec2?.btn} className={"!text-sm"} />
         </div>
         <div className="col-span-3 md:col-span-1">
           <Image

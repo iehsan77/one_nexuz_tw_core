@@ -21,7 +21,7 @@
     "title": "حلول متكاملة لتأسيس الأعمال والشركات، ^بقوة وان نيكسَز^",
     "description": "نحن نعمل على إزالة عناء تأسيس الأعمال ونقلها والامتثال لها من خلال تقديم مجموعة متكاملة من الخدمات المؤسسية وخدمات الثروة والخدمات الرقمية، مما يمكّنك من إطلاق أعمالك بشكل أسرع وتوسيع نطاقها بذكاء في دبي وخارجها.",
     "getQuoteToday": "واحصل على عرض سعر مجاني اليوم",
-    "bookConsultation": "احجز استشارتك المجانية",
+    "bookConsultation": "واحصل على عرض سعر مجاني اليوم",
     "image": "/assets/header/home.webp"
   },
   "trusted": "موثوق به من قبل الأفضل!",
@@ -127,7 +127,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -138,7 +137,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -149,7 +147,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       },
@@ -160,7 +157,6 @@
         "links": [
           { "link": "#", "icon": "ic:baseline-facebook" },
           { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "mdi:twitter" },
           { "link": "#", "icon": "pajamas:twitter" }
         ]
       }

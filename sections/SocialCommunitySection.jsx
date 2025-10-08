@@ -15,6 +15,7 @@ import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 function SocialCommunitySection() {
   const { locale } = useContext(LanguageContext);
   const t = locale === "ar" ? ar : en;
+  const arabic = locale === "ar";
 
   const splideRef = useRef(null);
   const [activeIndex, setActiveIndex] = useState(0);
@@ -32,7 +33,6 @@ function SocialCommunitySection() {
     { image: "/assets/socialMedia/2.webp" },
     { image: "/assets/socialMedia/3.webp" },
     { image: "/assets/socialMedia/4.webp" },
-    { image: "/assets/socialMedia/5.webp" },
   ];
 
   const options = {
@@ -96,7 +96,7 @@ function SocialCommunitySection() {
                 alt={`Image ${i + 1}`}
                 width={320}
                 height={292}
-                className="object-cover w-auto h-auto"
+                className="object-cover w-auto h-auto rounded-xl"
               />
             </SplideSlide>
           ))}
@@ -120,13 +120,21 @@ function SocialCommunitySection() {
             variant="primary"
             className="rounded-sm px-2"
             onClick={() => splideRef.current?.go("<")}>
-            <Icon icon="tabler:arrow-left" width="24" height="24" />
+            <Icon
+              icon={arabic ? "tabler:arrow-right" : "tabler:arrow-left"}
+              width="24"
+              height="24"
+            />
           </Button>
           <Button
             variant="primary"
             className="rounded-sm px-2"
             onClick={() => splideRef.current?.go(">")}>
-            <Icon icon="tabler:arrow-right" width="24" height="24" />
+            <Icon
+              icon={arabic ? "tabler:arrow-left" : "tabler:arrow-right"}
+              width="24"
+              height="24"
+            />
           </Button>
         </div>
       </div>

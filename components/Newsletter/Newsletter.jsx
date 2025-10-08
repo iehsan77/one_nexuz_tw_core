@@ -49,14 +49,16 @@ function Newsletter() {
         </Typography>
         {/*  */}
         <form className="w-full" onSubmit={handleSubmit(onSubmit)}>
-          <div className={` p-3 px-4 bg-white w-full flex gap-4`}>
+          <div className={`p-3 px-4 bg-white w-full flex gap-4 relative`}>
             <input
               type="email"
               {...register("email")}
               placeholder={t.newsletter.placeholder}
               className={`w-full py-1 px-2 ${
                 arabic ? "border-l" : "border-r"
-              } border-gray-300 focus:outline-0`}
+              } border-gray-300 focus:outline-0 ${
+                errors.email ? "placeholder:text-red-500" : ""
+              }`}
             />
             <button
               disabled={isSubmitting}
@@ -64,6 +66,7 @@ function Newsletter() {
               <Icon icon="fa:send" width="20" height="20" />
               {t.btn.subscribe}
             </button>
+            {/* <div className="absolute bott">asd</div> */}
           </div>
         </form>
         {/*  */}
