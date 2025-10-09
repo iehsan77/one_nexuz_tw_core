@@ -14,7 +14,9 @@
     "viewAll": "View All",
     "exploreMore": "Explore More",
     "submit": "Submit",
-    "submitNow": "Submit Now"
+    "submitNow": "Submit Now",
+    "min": "Min",
+    "sec": "Sec"
   },
   "navPlaceholder": "Search anything",
   "homeHeader": {

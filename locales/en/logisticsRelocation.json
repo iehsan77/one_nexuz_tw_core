@@ -1,0 +1,329 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Setup Quote",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/logisticsRelocation.webp",
+    "title": "Process, Relocate, and Ship Fast & Effortlessly—Manage All Your UAE Visa, Family, and Logistics Needs Under One Roof ",
+    "description": "Looking to relocate, sponsor your family, or expand your business in the UAE without the paperwork nightmare? At One Nexuz, we simplify every step of the visa and relocation journey, empowering you to amplify your market reach, bring your loved ones close, and build a high-impact workforce. Settle in effortlessly with dedicated support for housing, schooling, and transportation."
+  },
+  "leftSection_1": {
+    "title": "Relocate With Confidence, Secure Residency, and Drive Business Growth",
+    "description": "Enjoy strategic access to global markets, maximise tax advantages, and tap into top-notch local amenities with end-to-end visa processing and relocation support.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/logisticsRelocation/left1/1.webp",
+        "title": "Live, Work, and Thrive in the UAE, Unlock New Opportunities, and Build Your Wealth",
+        "subTitle": "Live, Work, and Thrive in the UAE, Unlock New Opportunities, and Build Your Wealth",
+        "description": "Gain unrestricted access to world-class local amenities, enter fast-growing markets, and discover lucrative foreign investment opportunities by securing your UAE Residence or Golden visa."
+      },
+      {
+        "id": 2,
+        "image": "/assets/logisticsRelocation/left1/2.webp",
+        "title": "From Recruitment to Retention, Bring in Global Talent, Sponsor Loved Ones, and Strengthen Retention",
+        "subTitle": "From Recruitment to Retention, Bring in Global Talent, Sponsor Loved Ones, and Strengthen Retention",
+        "description": "Attract, recruit, and retain top talent worldwide with end-to-end visa assistance in Dubai, empowering your business with the manpower it needs to grow and thrive from day one."
+      },
+      {
+        "id": 3,
+        "image": "/assets/logisticsRelocation/left1/3.webp",
+        "title": "Switch, Upgrade, or Cancel Fast- Handle Every Visa Change without Government Hassles",
+        "subTitle": "Switch, Upgrade, or Cancel Fast- Handle Every Visa Change without Government Hassles",
+        "description": "Upgrade to an investor or residence visa, change employment status, or sponsor dependents without the hassle of endless government queues. Cancel or switch visas effortlessly, fully compliant, and completely hassle-free."
+      },
+      {
+        "id": 4,
+        "image": "/assets/logisticsRelocation/left1/4.webp",
+        "title": "From Packing to Settling, Relocate Seamlessly with Complete End-to-End Support",
+        "subTitle": "From Packing to Settling, Relocate Seamlessly with Complete End-to-End Support",
+        "description": "Transition seamlessly into the UAE with hassle-free logistics and relocation services. Thrive alongside your loved ones with complete housing, schooling, and transportation support, and feel completely at home."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "One Nexuz Simplifies Your UAE Journey from Entry to Exit with End-to-End Visa Solutions",
+    "description": "Get matched with the ideal UAE visa and reclaim time and money spent navigating the Emirate’s stringent requirements with our expert visa consultants in Dubai.",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Golden Visa",
+        "description": "Unlock the freedom to live, work, and invest in the UAE for 10+ years with a Golden Visa.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Green Visa",
+        "description": "Gain unmatched flexibility to polish your skills and grow your professional career with a UAE Green Visa. ",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Partner Visa",
+        "description": "Discover seamless collaboration and growth opportunities with a UAE Partner Visa.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Employment Visa ",
+        "description": "Discover professional growth opportunities and enjoy labor rights, healthcare, and financial benefits.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Investor Visa ",
+        "description": "Amplify your wealth, diversify your assets, and build a powerful real estate portfolio with an Investor Visa.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Tourist Visa",
+        "description": "Scout business opportunities, test product fits, and expand your professional network with a Tourist Visa.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Maid Visa",
+        "description": "Get reliable domestic help, care for your loved ones, and enjoy peace of mind with our Maid Visa solutions.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Visa Cancellation",
+        "description": "Safely terminate or transfer visas without administrative headaches with end-to-end visa cancellation support.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Relocate and Build Your Future in the UAE with One Nexuz ",
+    "description": "From paperwork to relocation, we simplify every step of relocating to the UAE, so you can focus on thriving in the UAE and growing your business. ",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Residence Visa",
+        "description": "Secure up to 5+ years of residency, premium healthcare and banking services, and exclusive real estate opportunities with a UAE Residence Visa.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Mainland Visa",
+        "description": "Gain 2+ years of UAE residency, discover world-class local amenities, bid for lucrative local contracts, and expand your market reach with a Mainland Visa.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Free Zone Visa",
+        "description": "Unlock long-term residency with business flexibility to secure your Emirates ID, build your dream lifestyle, and scale across borders.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Relocation Support",
+        "description": "Sponsor your loved ones, access top-notch schools and medical care, and settle seamlessly with our end-to-end relocation support.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Courier & Logistics Services",
+        "description": "Secure sensitive business documents, ensure timely delivery, and move items worldwide with our reliable courier and logistics services.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/logisticsRelocation/left4/1.webp",
+      "title": "Move Smarter, Move Faster with Our End-to-End Relocation Support",
+      "description": "From visas to doorstep deliveries, we manage relocation and logistics flawlessly, saving you time, protecting your assets, and removing every hurdle from your UAE move. ",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/logisticsRelocation/left4/2.webp",
+      "title": "Power Your Move with Custom Quotes for Logistics & Relocation Services",
+      "description": "No rigid packages, no hidden fees, no surprises. Pay only for the services you truly need, whether it’s your UAE Residency, visa cancellation, or family relocation. Scale your services as you go and focus on what matters most—settling in, living, and thriving in the UAE.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How We Simplify Your UAE Visa Journey in 5 Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/logisticsRelocation/left5/1.svg",
+        "title": "Book a Free Consultation",
+        "description": "We’ll start with a no-obligations call to assess your relocation goals, sponsorship requirements, and visa needs to create a tailored visa and relocation plan."
+      },
+      {
+        "id": 2,
+        "image": "/assets/logisticsRelocation/left5/2.svg",
+        "title": "Collect & Submit Your Documents",
+        "description": "Next, we’ll guide you through all required paperwork, ensuring your UAE visa application is complete, accurate, and submited on time."
+      },
+      {
+        "id": 3,
+        "image": "/assets/logisticsRelocation/left5/3.svg",
+        "title": "Plan & Coordinate All Logistics",
+        "description": "From home searching to moving your belongings, we coordinate every detail, including shipping, storage, and transportation for a stress-free move."
+      },
+      {
+        "id": 4,
+        "image": "/assets/logisticsRelocation/left5/4.svg",
+        "title": "Get End-to-End Relocation Support",
+        "description": "Our experts also assist with local registrations, Emirates ID, health insurance, and other essentials to help you start your life in the UAE confidently."
+      },
+      {
+        "id": 5,
+        "image": "/assets/logisticsRelocation/left5/5.svg",
+        "title": "Enjoy Post-Move Support",
+        "description": "Even after relocation, we stay connected to ensure you and your loved ones thrive in the UAE. We also assist in switching, upgrading, and cancelling your visa."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Trust One Nexuz for Seamless Visa, Logistics,  and Relocation Services in Dubai, UAE",
+    "description": "Tired of visa delays, fragmented logistics, and operational disruptions slowing down your business growth? At One Nexuz, we manage visas, corporate shipments, and full relocation end-to-end to ensure a smooth, stress-free UAE transition.",
+    "items": [
+      {
+        "title": "All-in-One UAE Relocation & Visa Partner",
+        "description": "Skip the hassle of dealing with multiple vendors with our 360° visa, relocation, and logistics services across the UAE. Save 30+ hours on paperwork and redirect your focus on growing your business. ",
+        "image": "/assets/logisticsRelocation/bgImage/1.webp"
+      },
+      {
+        "title": "Personalised Concierge Support Every Step of the Way",
+        "description": "Enjoy a seamless transition into the UAE with our white-glove relocation services in Dubai and beyond, including visa processing, household moves, corporate courier, and concierge support.",
+        "image": "/assets/logisticsRelocation/bgImage/2.webp"
+      },
+      {
+        "title": "Business-Ready Logistics & Courier Solutions ",
+        "description": "Gain total peace of mind, minimise operational disruptions, and experience stress-free relocation with our reliable logistics and courier solutions- delivered anywhere, on time.",
+        "image": "/assets/logisticsRelocation/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/logisticsRelocation/grid/1.webp",
+    "title": "One Nexuz Makes Relocating to the UAE Effortless ",
+    "description": "Join the 8 million expats thriving in the UAE with our expert relocation services, fast-tracking approvals, ensuring smoother transitions, and offering you complete peace of mind.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“The entire visa and relocation process was seamless. From securing my investor visa to arranging housing for my family, everything was handled efficiently, saving us weeks of hassle.”",
+        "role": "Technology Startup Entrepreneur",
+        "image": "/assets/logisticsRelocation/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“Relocating to the UAE felt effortless thanks to the end-to-end support. My family and I settled in smoothly, and I could focus entirely on expanding my business.”",
+        "role": "E-commerce Retail Founder",
+        "image": "/assets/logisticsRelocation/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“The logistics and relocation services were outstanding. Every detail—from schooling and transport to utility setup—was managed professionally, allowing me to concentrate on work and growth.”",
+        "role": "Fashion Boutique Founder",
+        "image": "/assets/logisticsRelocation/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Your One-Stop Hub for Business, Wealth, and Digital Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Setup Services",
+        "description": "Launch, build, and expand your business in the UAE with expert guidance on licensing, registration, and more!",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "description": "Streamline operations, optimise workplace productivity, and stay fully compliant with tailored corproate solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Millionaire & Billionaire Services",
+        "description": "Maximise after-tax returns, preserve your legacy, and diversify your income streams with our millionaire and billionaire services.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Banking & Wealth Management",
+        "description": "Simplify personal and corporate finances, simplify banking, and amplify your wealth with expert financial support. ",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Digital & Branding Services",
+        "description": "Elevate your online presence, reach your target audience, and boost conversions with our digital and branding solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/logisticsRelocation/grid/2.webp",
+    "title": "Simplify Your Move, Gain Residency, and Ease Logistics with One Nexuz",
+    "description": "Secure your UAE visa and relocate with ease! Skip the paperwork, beat the bureaucracy, and settle in the UAE effortlessly, so your business and family can thrive from day one.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

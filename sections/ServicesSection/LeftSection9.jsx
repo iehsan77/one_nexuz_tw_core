@@ -6,7 +6,6 @@ import en from "@/locales/en/common.json";
 import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
 import { Icon } from "@iconify/react";
 import Image from "@/components/Image/Image";
-import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import ModalBtn from "../ModalBtn";
 
 function LeftSection9() {

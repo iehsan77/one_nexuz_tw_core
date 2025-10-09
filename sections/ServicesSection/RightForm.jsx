@@ -12,7 +12,7 @@ import TextInput from "@/components/FormFields/TextInput";
 import { Button } from "@/components/ui/Button";
 import { Icon } from "@iconify/react";
 import SingleSelectInput from "@/components/FormFields/SingleSelectInput";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 import { toast } from "sonner";
 import PhoneNumberInput from "@/components/FormFields/PhoneNumberInput";
 
@@ -63,7 +63,9 @@ function RightForm() {
     toast.success("submitted successfully!");
   };
 
-  const serviceData = navData?.map((item) => ({
+  const data = arabic ? navDataAr : navData;
+
+  const serviceData = data?.map((item) => ({
     label: item?.title,
     value: item?.id,
   }));

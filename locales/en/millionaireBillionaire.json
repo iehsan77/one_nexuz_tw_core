@@ -1,0 +1,305 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/millionaireBillionaire.webp",
+    "title": "From Risk to Resilience, Safeguard Assets, Optimize Taxes, and Secure Your Future with One Nexuz",
+    "description": "Unclear succession, unpredictable geopolitics, and no formal wealth management structure can expose your assets to risks, create legal conflicts, and compromise your family’s future. At One Nexuz, our experts provide you with a full suite of millionaire and billionaire services, empowering you to expand across borders, discover lucrative investment opportunities, and diversify your income streams. Protect your loved one’s future and amplify your wealth with our strategic wealth structuring solutions."
+  },
+  "leftSection_1": {
+    "title": "Multiply Your Wealth, Eliminate Vulnerabilities, and Create a Lasting Legacy",
+    "description": "Streamline inheritance, secure your little one's guardianship, maximize after-tax returns, and build multi-generational wealth with expert millionaire and billionaire services.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/millionaireBillionaire/left1/1.webp",
+        "title": "Build Your Portfolio, Grow Your Wealth, and Unlock Sustainable Growth",
+        "subTitle": "Build Your Portfolio, Grow Your Wealth, and Unlock Sustainable Growth",
+        "description": "Gain access to exclusive investment opportunities, insight-driven market insights, and effective financial strategies to amplify your wealth, preserve your assets, and maximise profitability."
+      },
+      {
+        "id": 2,
+        "image": "/assets/millionaireBillionaire/left1/2.webp",
+        "title": "Reduce Risk Exposure and Combat Market Shocks",
+        "subTitle": "Reduce Risk Exposure and Combat Market Shocks",
+        "description": "Strengthen your financial stability and shield your assets against lawsuits, market volatility, and global uncertainties through innovative risk diversification strategies and advanced structures."
+      },
+      {
+        "id": 3,
+        "image": "/assets/millionaireBillionaire/left1/3.webp",
+        "title": "Live, Work, and Invest in 170+ Countries, Explore Fast-Growing Markets, and Enjoy Tax Breaks",
+        "subTitle": "Live, Work, and Invest in 170+ Countries, Explore Fast-Growing Markets, and Enjoy Tax Breaks",
+        "description": "Build your dream lifestyle, uncover new opportunities, unlock your business’s potential, and discover exciting tax incentives with exclusive Golden Visa and second citizenship programs."
+      },
+      {
+        "id": 4,
+        "image": "/assets/millionaireBillionaire/left1/4.webp",
+        "title": "Build Generational Wealth, Minimise Legal Delays, and Future-Proof Your Legacy",
+        "subTitle": "Build Generational Wealth, Minimise Legal Delays, and Future-Proof Your Legacy",
+        "description": "Streamline wealth transfer, simplify succession planning, and optimise taxation with strategic family foundations, trusts, and offices. Protect  your loved one’s future and avoid costly disputes through tailored governance frameworks."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Safeguard Your Wealth & Shape Your Legacy with One Nexuz",
+    "description": "Build, diversify, and seamlessly pass on your wealth with our bespoke family offices, trusts, and asset protection strategies designed to preserve your legacy. ",
+    "items": [
+      {
+        "id": 1,
+        "title": "Wealth Management Services",
+        "description": "Minimise risk exposure, maximise growth, and preserve your capital with bespoke wealth planning.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Will & Trust Preparation Services",
+        "description": "Secure guardianship for your dependents and ensure seamless wealth transfers with legally sound wills. ",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Family Foundation & Trust",
+        "description": "Diversify your assets, optimise taxation, and double your wealth with custom-tailored family foundations and trusts.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Office Setup",
+        "description": "Centralise governance, plan business succession, and boost your wealth with personalised UAE family offices.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Private Office ",
+        "description": "Redefine workplace efficiency, boost team productivity, and maintain privacy with world-class private offices.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Asset Protection",
+        "description": "Build, hold, and manage your assets with DIFC and ADGM-compliant structures and tax-efficient estate plans",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Your Gateway to Global Mobility- Thrive in the UAE with One Nexuz",
+    "description": "Enjoy visa-free travel to 150+ countries worldwide, unlock exciting residency programs, and upgrade your lifestyle with our full suite of high-net-worth solutions.",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Second Citizenship Programs ",
+        "description": "Unlock exciting tax benefits, visa-free travel, and growth opportunities with tailored second passport solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Golden Visa",
+        "description": "Live, work, and thrive in the UAE to take advantage of world-class local amenities with seamless visa processing.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Escrow Account Assistance",
+        "description": "Secure high-value transactions, protect your funds, and win investor confidence with our expert escrow agents.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/millionaireBillionaire/left4/1.webp",
+      "title": "Go From Single Family Offices to Global Foundations with One Nexuz",
+      "description": "Whether you need a discreet family office, multi-jurisdiction trust, or bespoke investment structure, we design systems that give you control and total peace of mind.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/millionaireBillionaire/left4/2.webp",
+      "title": "Elevate Your Legacy with Tailored Wealth Solutions- Get a Quote That Matches Your Wealth Strategy",
+      "description": "No cookie-cutter plans, no hidden fees, and no unnecessary add-ons. Get a customized plan that gives you the tools to manage, grow, and preserve your wealth and the flexibility to scale as your needs evolve.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Our 5-Step Framework to Build and Safeguard Your Wealth ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/millionaireBillionaire/left5/1.svg",
+        "title": "Book a Free Consultation",
+        "description": "We’ll start with a private consultation to assess your unique financial goals, family dynamics, and legacy priorities."
+      },
+      {
+        "id": 2,
+        "image": "/assets/millionaireBillionaire/left5/2.svg",
+        "title": "Craft a Wealth Blueprint",
+        "description": "Based on our discussion, we’ll design a tailored wealth management and risk diversification plan that aligns with your ambitions."
+      },
+      {
+        "id": 3,
+        "image": "/assets/millionaireBillionaire/left5/3.svg",
+        "title": "Build a Legal & Structural Setup",
+        "description": "Next, our experts will assist you in establishing the right legal entities, trusts, and agreements to protect your assets and ensure compliance. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/millionaireBillionaire/left5/4.svg",
+        "title": "Implement Your Wealth Structures",
+        "description": "From bank account and visa processing to estate documentation, we handle execution end-to-end, so you can focus on amplifying your wealth."
+      },
+      {
+        "id": 5,
+        "image": "/assets/millionaireBillionaire/left5/5.svg",
+        "title": "Monitor and Optimise Strategies",
+        "description": "Finally, our seasoned wealth management consultants empower you to stay ahead of the curve by monitoring and fine-tuning your strategies."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Ultra-High-Net-Worth-Individuals Trust One Nexuz to Build a Lasting Legacy ",
+    "description": "Without airtight planning and strategic family structures, you risk costly family disputes, frozen global assets, and hefty tax losses. Our holistic millionaire and billionaire services provide you with the strategies to shield your assets, protect your privacy, and simplify wealth transfers.",
+    "items": [
+      {
+        "title": "Custom Wealth Plans Built Around You",
+        "description": "Our seasoned wealth management consultants empower you to secure your portfolio against market fluctuations through strategic wealth structures.",
+        "image": "/assets/millionaireBillionaire/bgImage/1.webp"
+      },
+      {
+        "title": "End-to-End Legacy Management ",
+        "description": "From future-proof wills right down to tax-optimised trusts, our expert wealth management advisors handle everything to ensure seamless wealth transfers.",
+        "image": "/assets/millionaireBillionaire/bgImage/2.webp"
+      },
+      {
+        "title": "Confidential, Secure, and Compliant",
+        "description": "Our experts help preserve your assets and protect what matters most with legally sound, custom-built family offices, trusts, foundations, and more!",
+        "image": "/assets/millionaireBillionaire/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/millionaireBillionaire/grid/1.webp",
+    "title": "50% of HNWIs Risk Losing Their Wealth- One Nexuz Makes Sure You’re Not One of Them",
+    "description": "Don’t leave your legacy to chance. Our bespoke succession and estate planning services protect your assets and ensure a smooth transfer of wealth — no matter where in the world you are.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "The team set up our family office and asset protection structures seamlessly. What used to be scattered across multiple advisors is now streamlined, giving us full visibility and control over our wealth.",
+        "role": "Real Estate Development CEO",
+        "image": "/assets/millionaireBillionaire/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Their Golden Visa guidance was exceptional — from document preparation to final approvals, everything was handled end-to-end. My family now calls Dubai home, and the process was stress-free.",
+        "role": "Tech & Innovation Founder",
+        "image": "/assets/millionaireBillionaire/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "We were looking for a way to structure our charitable giving and reduce tax exposure. The foundation and trust they created have given us both a legacy and peace of mind.",
+        "role": "Private Equity Investor",
+        "image": "/assets/millionaireBillionaire/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Expand Your Business with Our Full Suite of Business Setup & Corporate Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Setup Services",
+        "description": "Launch and scale your venture across the UAE and beyond with expert guidance.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "description": "Simplify compliance, governance, and operations with our trusted business consultants.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Banking & Wealth",
+        "description": "Open personal and corporate accounts,  manage assets, and uncover exciting growth opportunities.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Digital & Branding Solutions",
+        "description": "Elevate your online visibility, win customer trust, and boost sales with our IT and marketing solutions",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation Services",
+        "description": "Ease relocation to the UAE with our end-to-end visa processing, renewal, and global logistics solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/millionaireBillionaire/grid/2.webp",
+    "title": "Ready to Turn Your Wealth Into a Multi-Generational Legacy?",
+    "description": "Avoid tax pitfalls, cross-border complications, and legal uncertainty with our all-in-one millionaire and billionaire services for high-net-worth individuals. With strategic legal and financial frameworks, we minimise the risk of disputes and guarantee smooth wealth transfers.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

@@ -96,22 +96,26 @@ function CommonForm() {
       <div>
         <Form {...methods}>
           <form onSubmit={handleSubmit(onSubmit)} className="mt-8 space-y-4">
-            <div className="grid grid-cols-2 gap-x-5 gap-y-10">
-              <TextInput
-                label={t?.commonForm?.formTitle?.fullName}
-                type="text"
-                error={errors.full_name?.message}
-                {...register("full_name")}
-                is_Modal={true}
-              />
-              <TextInput
-                label={t?.commonForm?.formTitle?.emailAddress}
-                type="email"
-                placeholder=" "
-                error={errors.email?.message}
-                {...register("email")}
-                is_Modal={true}
-              />
+            <div className="grid xs:grid-cols-2 gap-x-5 gap-y-8 xs:gap-y-10">
+              <div className="col-span-2 xs:col-span-1">
+                <TextInput
+                  label={t?.commonForm?.formTitle?.fullName}
+                  type="text"
+                  error={errors.full_name?.message}
+                  {...register("full_name")}
+                  is_Modal={true}
+                />
+              </div>
+              <div className="col-span-2 xs:col-span-1">
+                <TextInput
+                  label={t?.commonForm?.formTitle?.emailAddress}
+                  type="email"
+                  placeholder=" "
+                  error={errors.email?.message}
+                  {...register("email")}
+                  is_Modal={true}
+                />
+              </div>
               <div className="col-span-2">
                 <NumberInput
                   label={t?.commonForm?.formTitle?.phoneNumber}
@@ -134,21 +138,25 @@ function CommonForm() {
                   is_Modal={true}
                 />
               </div>
-              <TextInput
-                label={t?.commonForm?.formTitle?.companyName}
-                type="text"
-                error={errors.company?.message}
-                {...register("company")}
-                is_Modal={true}
-              />
-              <TextInput
-                label={t?.commonForm?.formTitle?.country}
-                type="text"
-                placeholder=" "
-                error={errors.country?.message}
-                {...register("country")}
-                is_Modal={true}
-              />
+              <div className="col-span-2 xs:col-span-1">
+                <TextInput
+                  label={t?.commonForm?.formTitle?.companyName}
+                  type="text"
+                  error={errors.company?.message}
+                  {...register("company")}
+                  is_Modal={true}
+                />
+              </div>
+              <div className="col-span-2 xs:col-span-1">
+                <TextInput
+                  label={t?.commonForm?.formTitle?.country}
+                  type="text"
+                  placeholder=" "
+                  error={errors.country?.message}
+                  {...register("country")}
+                  is_Modal={true}
+                />
+              </div>
               <div className="col-span-2">
                 <MultilineInput
                   label={t?.commonForm?.formTitle?.message}

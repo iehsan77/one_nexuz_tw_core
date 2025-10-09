@@ -45,9 +45,9 @@ function MobileMenu() {
         {/* Chat button */}
         <button
           onClick={() => setShowSocial((prev) => !prev)}
-          className="flex items-center justify-center bg-secondary h-13 w-13 rounded-full">
+          className="cursor-pointer flex items-center justify-center bg-secondary h-13 w-13 rounded-full">
           <Image
-            src="logo/chat.svg"
+            src="/logo/chat.svg"
             alt="icon"
             width={22}
             height={22}
@@ -56,9 +56,9 @@ function MobileMenu() {
         </button>
 
         {/* Fixed logo button */}
-        <button className="flex items-center justify-center bg-primary h-13 w-13 rounded-full">
+        <button className="cursor-pointer flex items-center justify-center bg-primary h-13 w-13 rounded-full">
           <Image
-            src="logo/fixedLogo.svg"
+            src="/logo/fixedLogo.svg"
             alt="icon"
             width={22}
             height={22}

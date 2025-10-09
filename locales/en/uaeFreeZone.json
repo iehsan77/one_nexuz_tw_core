@@ -1,0 +1,363 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/uaeFreeZone.webp",
+    "title": "Register, Launch, and Streamline Business Setup in the ^UAE Free Zone with One Nexuz^",
+    "description": "Frustrated with red tape and hidden costs? One Nexuz makes UAE company setup fast, seamless, and tax-free. Get 100% ownership, access 40+ Free Zones, 500+ activities , and 100+ office options—all in one window so you can focus on growth, not paperwork"
+  },
+  "leftSection_1": {
+    "title": "Set Up Your Business in the UAE Free Zone & Enjoy Full Profit Repatriation, Global Trade, & Maximum Profits with One Nexuz",
+    "description": "Scale your business to new heights with Free Zone’s low-cost and speedy setup solutions.  ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeFreeZone/left1/1.webp",
+        "title": "Go Sponsor-Free, Gain Independence, Build Your Business",
+        "subTitle": "Go Sponsor-Free, Gain Independence, Build Your Business",
+        "description": "Say goodbye to the hassle of partnering with a local sponsor and enjoy full strategic control of your UAE-based brand. "
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeFreeZone/left1/2.webp",
+        "title": "Expand Globally, Reach 150+ Countries, Drive Revenue",
+        "subTitle": "Expand Globally, Reach 150+ Countries, Drive Revenue",
+        "description": "Take advantage of the UAE's free zones’ strategic access to seaports, airports, and railways to easily connect with local and global markets. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeFreeZone/left1/3.webp",
+        "title": "Stay Tax-Free, Keep Profits, Maximise ROI",
+        "subTitle": "Stay Tax-Free, Keep Profits, Maximise ROI",
+        "description": "With 0% corporate and personal income tax and full capital repatriation, the region empowers you to maximize profits."
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeFreeZone/left1/4.webp",
+        "title": "Cut Setup Costs, Fast-Track License, Start Selling",
+        "subTitle": "Cut Setup Costs, Fast-Track License, Start Selling",
+        "description": "Set up in prime UAE free zones and make the most of your budget by taking advantage of the free zone’s cost-effective licensing solutions."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "One Nexuz Helps You Launch and Scale in the UAE’s Top Free Zones",
+    "items": [
+      {
+        "id": 1,
+        "title": "Dubai Free Zone",
+        "description": "Build your business in the UAE’s most profitable zone and grow confidently.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Abu Dhabi Free Zone",
+        "description": "Tap into the region’s fastest-growing zone by launching in Abu Dhabi FZ.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Ras Al Khaimah Free Zone",
+        "description": "Unravel exciting industrial and commercial growth opportunities by choosing RAKFZ.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Sharjah Free Zone",
+        "description": "Benefit from Sharjah’s low-cost licensing and industrial setup solutions.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Fujairah Free Zone",
+        "description": "Explore strategic seaports and airports by expanding to FFZA.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Ajman Free Zone",
+        "description": "Accelerate licensing and grow from day one with a 100% remote and paperless setup.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Umm Al Quwain Free Zone",
+        "description": "Get started as low as AED 6,000 and enjoy unparalleled tax benefits.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Find the Ideal UAE Business License with One Nexuz",
+    "description": "Ensure seamless freezone company formation in the UAE by selecting the best-fit license for your unique business activities",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Commercial License",
+        "description": "Trade goods locally or internationally with full customs exemption in prime locations.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Industrial License",
+        "description": "Ideal for manufacturing and light industrial activity with flexible factory space.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Professional License",
+        "description": "Perfect for consultants, professionals, accounting firms, and creatives.  ",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Event License ",
+        "description": "Host, organise, and manage exciting conferences, exhibitions, and corporate events.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "E-commerce License",
+        "description": "Scale your online brand with the free zone’s integrated logistics solutions",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Real Estate License ",
+        "description": "Buy, sell, lease, or manage lucrative properties to diversify your portfolio.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Crypto & Web3 License ",
+        "description": "Offer crypto trading, digital asset management, blockchain development, or Web3 solutions.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Freelancer Permit",
+        "description": "Kickstart your creative venture, win customer trust, and scale worldwide stress-free.",
+        "url": "#"
+      },
+      {
+        "id": 9,
+        "title": "Dual License",
+        "description": "Expand to the UAE Mainland, broaden your customer reach, and tap into new markets.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/uaeFreeZone/left4/1.webp",
+      "title": "Join the Free Zone Ecosystem ^Driving UAE’s Economy^",
+      "description": "With over 40 zones powering 30% of the nation’s GDP, UAE Free Zones offer unmatched infrastructure, logistics, and market access. With One Nexuz,  pick the right location and launch your business in no time.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/uaeFreeZone/left4/2.webp",
+      "title": "Compare UAE Free Zone Company Formation Cost",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How One Nexuz Simplifies Business Setup in the UAE Free Zone in 6 Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeFreeZone/left5/1.svg",
+        "title": "Schedule a Consultation",
+        "description": "Our free zone business setup consultants in the UAE kickstart your journey by assessing your unique business goals."
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeFreeZone/left5/2.svg",
+        "title": "Secure a Trade Name",
+        "description": "Next, we’ll suggest the best-fit business structure and activities, along with a list of unique and compliant names."
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeFreeZone/left5/3.svg",
+        "title": "Collect the Necessary Documents",
+        "description": "Once approved, our experts will provide you with a checklist of the required documents to ensure a stress-free licensing journey"
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeFreeZone/left5/4.svg",
+        "title": "Obtain All Necessary Approvals",
+        "description": "After submitting your documents, we’ll handle all government coordination to secure all approvals and, subsequently, your license. "
+      },
+      {
+        "id": 5,
+        "image": "/assets/uaeFreeZone/left5/5.svg",
+        "title": "Apply for a Residency Visa",
+        "description": "Next, our consultants process your residency visa and Emirates ID, helping you grow your team without stress."
+      },
+      {
+        "id": 6,
+        "image": "/assets/uaeFreeZone/left5/6.svg",
+        "title": "Open Your Bank Account",
+        "description": "Lastly, we’ll connect you with our skilled business partners to help you set up a Mainland, Free Zone, or Offshore bank account."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Smart Businesses Trust One Nexuz",
+    "description": "Simplify business setup in the UAE free zone with expert guidance. From choosing the best zone to handling piles of paperwork, we do all the legwork so you’re set up for sustainable growth.",
+    "items": [
+      {
+        "title": "Shorten Licensing Times",
+        "description": "Our experts cut down licensing times by 75%, helping your business  get up and running within 2-3 working days.",
+        "image": "/assets/uaeFreeZone/bgImage/1.webp"
+      },
+      {
+        "title": "Gain Holistic Business Setup Solutions",
+        "description": "Our all-in-one company formation services in the UAE Freezone go beyond securing a license to ensuring compliance and seamless PRO.",
+        "image": "/assets/uaeFreeZone/bgImage/2.webp"
+      },
+      {
+        "title": "Get Multi-Free Zone Expertise",
+        "description": "Navigate every UAE Free Zone with clarity to get your business operational within days, empowering you to maximize growth and slash costs.",
+        "image": "/assets/uaeFreeZone/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/uaeFreeZone/grid/1.webp",
+    "title": "Join Where Global Giants & Smart Startups Both Win",
+    "description": "Over 55% of the world’s Fortune 500 companies operate from the UAE Free Zones. Get the same world-class benefits with our seamless business setup solutions.",
+    "btn": "Get in Touch Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“One Nexuz helped me set up in IFZA in just 3 days. No stress and everything was explained clearly.” ",
+        "role": "E-commerce Founder",
+        "image": "/assets/uaeFreeZone/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“The team guided me through every step and helped me save AED 4,000 compared to what I was quoted elsewhere.” ",
+        "role": "Tech Consultant",
+        "image": "/assets/uaeFreeZone/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“Their free zone comparison made the decision so much easier. I’m now fully licensed with visa and bank account.”",
+        "role": "Logistics Business Owner",
+        "image": "/assets/uaeFreeZone/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Scale Your ^Business^ across the UAE",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Mainland",
+        "description": "Trade directly within the UAE market with zero restrictions on government or private contracts with seamless setup solutions",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Offshore",
+        "description": "Hold, diversify, and protect assets and unlock lucrative real estate opportunities by expanding to the UAE offshore.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Business Activities Consultancy",
+        "description": "Pick from countless business activities aligned with your business goals and Free Zone regulations.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Free Zone License",
+        "description": "Get matched and secure the best-fit business license stress-free to tap into the Emirate’s booming industry.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Free Zone Visa",
+        "description": "Live, work, and thrive in the UAE by fast-tracking residence, investor, and employment visa, and family sponsorship.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Office Solutions",
+        "description": "Browse our extensive catalogue of world-class offices, from fully furnished physical offices right down to flexi-desks.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "PRO Services UAE",
+        "description": "Streamline government attestations, approvals, renewals, and clearances with expert PRO agents all across the UAE.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/uaeFreeZone/grid/2.webp",
+    "title": "Ready to Grow without Limits in the UAE Free Zone?",
+    "description": "Trust our experts to streamline business setup in the UAE, so you can focus on launching and scaling your brand.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

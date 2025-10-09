@@ -14,7 +14,9 @@
     "viewAll": "عرض الكل",
     "exploreMore": "اكتشف المزيد",
     "submit": "إرسال",
-    "submitNow": "أرسل الآن"
+    "submitNow": "أرسل الآن",
+    "min": "دقيقة",
+    "sec": "ثانية"
   },
   "navPlaceholder": "ابحث عن أي شيء",
   "homeHeader": {

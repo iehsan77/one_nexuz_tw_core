@@ -13,7 +13,7 @@ function GridSec({ data }) {
           alt="image"
           width={640}
           height={383}
-          className="w-auto h-auto object-cover"
+          // className="w-auto h-auto object-cover"
         />
       </div>
       <div className="space-y-3">

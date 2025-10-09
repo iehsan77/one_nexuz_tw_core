@@ -1,5 +1,4 @@
 import Image from "@/components/Image/Image";
-import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
 import React from "react";
 import ModalBtn from "../ModalBtn";
@@ -46,12 +45,16 @@ function LeftSection4({ data, locale }) {
       {/*  */}
       <div className="p-6 bg-primary grid md:grid-cols-3 gap-10 items-center">
         <div className="col-span-3 md:col-span-2 space-y-4">
-          <Typography as="p" color="white" size="lg" weight="bold">
-            {data?.sec2?.title}
-          </Typography>
-          <Typography as="p" color="white" size="base" weight="normal">
-            {data?.sec2?.description}
-          </Typography>
+          {data?.sec2?.title && (
+            <Typography as="p" color="white" size="lg" weight="bold">
+              {data?.sec2?.title}
+            </Typography>
+          )}
+          {data?.sec2?.description && (
+            <Typography as="p" color="white" size="base" weight="normal">
+              {data?.sec2?.description}
+            </Typography>
+          )}
           <ModalBtn text={data?.sec2?.btn} className={"!text-sm"} />
         </div>
         <div className="col-span-3 md:col-span-1">
