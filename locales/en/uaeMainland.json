@@ -1,0 +1,316 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/uaeMainland.webp",
+    "title": "From Attestation to Licensing, We Handle Every Step of ^Mainland Company Formation in the UAE^",
+    "description": "Frustrated by high setup costs, confusing activity lists, and complex approvals. At One Nexuz, we remove the guesswork to empower you with exciting tax incentives, flexible office spaces, and full local market access. Secure your Mainland license in as little as 3-5 business days to tap into high-growth sectors with our experts guiding you every step of the way. "
+  },
+  "leftSection_1": {
+    "title": "Hire Top Talent, Elevate Your Brand Visibility, & Secure Scalable Visa Quotas ",
+    "description": "Setting up in the UAE mainland gives you unrestricted access to the local market, government contracts, and full ownership. Here’s why the UAE Mainland is the preferred route for entrepreneurs seeking sustainable growth:",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeMainland/left1/1.webp",
+        "title": "Enter Lucrative Markets, Expand Your Reach, & Scale Worldwide ",
+        "subTitle": "Enter Lucrative Markets, Expand Your Reach, & Scale Worldwide ",
+        "description": "Set up in the UAE mainland to tap into the Emirates' diverse 11 million customer base, offering local and worldwide reach."
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeMainland/left1/2.webp",
+        "title": "Win Tenders, Get Unlimited Employee Visas, & Build a Global Presence",
+        "subTitle": "Win Tenders, Get Unlimited Employee Visas, & Build a Global Presence",
+        "description": "Join the 300 thousand registered mainland companies thriving in the UAE and expand anywhere without problems."
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeMainland/left1/3.webp",
+        "title": "Ditch Local Partners, Maximise Your Profits, and Run Your Company Your Way",
+        "subTitle": "Ditch Local Partners, Maximise Your Profits, and Run Your Company Your Way",
+        "description": "Wave goodbye to the hassle of securing a local sponsor and gain full strategic ownership of your business."
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeMainland/left1/4.webp",
+        "title": "Build Brand Visibility, Capture More Clients, & Strengthen Your Presence",
+        "subTitle": "Build Brand Visibility, Capture More Clients, & Strengthen Your Presence",
+        "description": "Access prime spots in the UAE and take advantage of the city’s key seaports, airports, and railroads to scale your brand."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "One Nexuz Helps You Build in the Top Mainland Locations",
+    "items": [
+      {
+        "id": 1,
+        "title": "Dubai Mainland",
+        "description": "Tap into the UAE’s most lucrative region by expanding to the Dubai mainland.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Abu Dhabi Mainland",
+        "description": "Access the UAE’s fastest-growing economy with our seamless setup services.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Ajman Mainland",
+        "description": "Streamline business setup with Ajman’s 100% remote and paperless solutions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Sharjah Mainland",
+        "description": "Take advantage of the Sharjah mainland’s strategic location to serve clients worldwide.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Choose the Right License to Maximise Market Reach",
+    "description": "Ensure 100% compliant mainland company setup in the UAE by identifying the ideal license for your business. Choose the best-fit license  to ensure operational efficiency and expansion flexibility with our expert solutions:",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Commercial License",
+        "description": "Buy, sell, export, and import goods stress-free across the UAE’s local or regional market.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Professional License",
+        "description": "Offer consultancy or professional services and scale your business confidently.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Industrial License",
+        "description": "Manufacture, package, and sell innovative goods with access to the UAE’s business facilities.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Tourism License",
+        "description": "Scale your travel consultancy or agency by tapping into the region’s fast-growing travel market.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/uaeMainland/left4/1.webp",
+      "title": "Join the ^300,000+ Businesses^ Thriving on UAE Mainland",
+      "description": "From SMEs to global corporations, the UAE mainland remains the #1 choice for local and global credibility. We’ll help you set up with zero hassle. ",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/uaeMainland/left4/2.webp",
+      "title": "Build Your Mainland Business Without Breaking Your Budget",
+      "description": "Start with a transparent, tailored quote that matches your business activity and budget to save time, avoid unnecessary fees, and get licensed faster.",
+      "btn": "Book a Call",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How One Nexuz Streamlines UAE Mainland Business Setup in 6 Simple Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeMainland/left5/1.svg",
+        "title": "Book Your Free Consultation",
+        "description": "We’ll kick off the mainand business setup in the UAE by assessing your business goals and recommending legal structures and activities."
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeMainland/left5/2.svg",
+        "title": "Secure Your Trade Name",
+        "description": "Next, our expert consultants help craft a list of unique business names and get it registered with the DED."
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeMainland/left5/3.svg",
+        "title": "Get all Initial Approvals",
+        "description": "After your trade name is approved, we’ll assist you in compiling your passport copies, proposed trade name, and receiving pre-approvals."
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeMainland/left5/4.svg",
+        "title": "Lease Your Office Space",
+        "description": "Next, we'll help you select cost-effective physical, flexi-desk, or smart desk options, depending on your business activity. "
+      },
+      {
+        "id": 5,
+        "image": "/assets/uaeMainland/left5/5.svg",
+        "title": "Apply for Trade License",
+        "description": "Once you’ve secured the best-fit office space, we’ll submit your application and receive your official trade license within 3-5 working days."
+      },
+      {
+        "id": 6,
+        "image": "/assets/uaeMainland/left5/6.svg",
+        "title": "Get Your Visa & Bank Account  ",
+        "description": "Our dedicated consultants offer holistic solutions to help you go beyond business setup, including bank account creation."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Businesses Trust One Nexuz for UAE Mainland Setup",
+    "description": "Partner with our expert business consultants and advisors to enjoy a seamless business journey. Here’s how our specialists help your brand succeed:",
+    "items": [
+      {
+        "title": "Fast-Track UAE Licensing",
+        "description": "Our hassle-free business setup solutions help slash processing times by half, allowing you to scale from day one.",
+        "image": "/assets/uaeMainland/bgImage/1.webp"
+      },
+      {
+        "title": "One Window Business Solutions",
+        "description": "From trade licensing to securing and attesting your UAE visa, our dedicated consultants coordinate the entire journey so nothing falls through the cracks.",
+        "image": "/assets/uaeMainland/bgImage/2.webp"
+      },
+      {
+        "title": "Unlock Tailored Solutions",
+        "description": "Our dedicated consultants take the time to analyse your business needs so you receive custom-made business setup solutions.",
+        "image": "/assets/uaeMainland/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/uaeMainland/grid/1.webp",
+    "title": "Elevate Business Growth with Hassle-Free Setup Solutions",
+    "description": "Access the full UAE market without restrictions. Get 100% foreign ownership and flexible visa options with our seamless business solutions.",
+    "btn": "Get in Touch Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "One Nexuz made what seemed like a complex process incredibly smooth. From document collection to trade license issuance, everything was handled efficiently. We were up and running in less than a week.",
+        "role": "Consultancy Group Founder",
+        "image": "/assets/uaeMainland/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "I had spoken to three other providers before finding One Nexuz. They were the only ones who gave me a clear breakdown of costs and stuck to it. The transparency and speed really impressed me.",
+        "role": "Skyline Retail Trading Managing Director",
+        "image": "/assets/uaeMainland/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "I wanted to retain full control of my business and wasn't sure if it was possible in the UAE mainland. One Nexuz showed me how to structure everything legally and got it done fast. They’re the real deal.",
+        "role": "Logistics Firm CEO",
+        "image": "/assets/uaeMainland/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Explore Our Full Range of Business Setup Services",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Free Zone",
+        "description": "Pick from 40+ UAE Free Zones and simplify business setup with our tailored all-in-one solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Offshore",
+        "description": "Protect assets, expand your real estate portfolio, and unlock tax incentives by expanding to the UAE offshore.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Business Activities Consultancy",
+        "description": "Save millions of dirhams on non-compliance by getting matched with the ideal business activity.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Mainland License",
+        "description": "Expand your business within and beyond the UAE fully compliant with the ideal trade license.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Mainland Visa",
+        "description": "Secure a UAE residence, build your team, and keep your loved ones close with end-to-end Mainland Visa support.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Office Solutions",
+        "description": "Choose from 500+ top-tier physical, flexi-desk, virtual, and co-working offices in the UAE.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "PRO Services UAE",
+        "description": "Simplify attestation, notarisation, and renewals with our dedicated business setup partner.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/uaeMainland/grid/2.webp",
+    "title": "Launch Smart, Grow Fast with One Nexuz",
+    "description": "With 100% ownership and strategic business access, UAE mainland is the ideal for serious entreprenuers. Partner with our expert consultants to streamline mainland company formation in the UAE- with full legal compliance and zero hassle.",
+    "btn": "Setup Your UAE Mainland Brand",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

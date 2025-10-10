@@ -1,0 +1,316 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/uaeOffshore.webp",
+    "title": "Hold, Diversify, and ^Protect Your Assets Globally^ with an Offshore Company in the UAE",
+    "description": "Losing profits to high taxes, frustrated with banking restrictions, or worried about personal liability risk? At One Nexuz, we optimise your offshore company formation, so you can enjoy 100% ownership, 0% corporate and personal tax, and full confidentiality- all without being physically present."
+  },
+  "leftSection_1": {
+    "title": "Preserve Your Assets, Maintain Business Privacy, & Trade Worldwide with Ease",
+    "description": "Setting up an offshore company in the UAE offers more than just cost savings- it gives you full strategic control and access to global banking. The area’s favourable economy and tax benefits offer entrepreneurs a lean, fast-track entry into global business.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeOffshore/left1/1.webp",
+        "title": "Plug into Global Trade Routes, Slash Shipping Time, & Unlock International Investment Opportunities",
+        "subTitle": "Plug into Global Trade Routes, Slash Shipping Time, & Unlock International Investment Opportunities",
+        "description": "With world-class infrastructure and convenient access to key airports and seaports, offshore company formation in the UAE offers unmatched ease of trade."
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeOffshore/left1/2.webp",
+        "title": "Skip Local Sponsors, Secure 100% Ownership, and Build Without Compromise",
+        "subTitle": "Skip Local Sponsors, Secure 100% Ownership, and Build Without Compromise",
+        "description": "Get full strategic control of your business and ensure you stay in charge of every decision without the need for a local sponsor"
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeOffshore/left1/3.webp",
+        "title": "Streamline the Paperwork, Cut Overheads, and Get Licensed Fast",
+        "subTitle": "Streamline the Paperwork, Cut Overheads, and Get Licensed Fast",
+        "description": "Minimise overhead costs by taking advantage of the UAE’s business-friendly legal environment and 100% remote setup solutions. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeOffshore/left1/4.webp",
+        "title": "Unlock Exciting Tax Incentives, Hold 40+ Currencies, & Uplift Your Margins",
+        "subTitle": "Unlock Exciting Tax Incentives, Hold 40+ Currencies, & Uplift Your Margins",
+        "description": "Tap into the UAE offshore’s lucrative tax environment, empowering businesses to minimise corporate taxes and maximise revenue."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "One Nexuz Helps You Discover the Ideal Offshore Zone in the UAE",
+    "items": [
+      {
+        "id": 1,
+        "title": "Dubai Offshore",
+        "description": "Get global credibility by tapping into Dubai’s strategic seaports and airports.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Jebel Ali Offshore",
+        "description": "Take advantage of cost-effective setup solutions and grow confidently in Jebel Ali.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Ras Al Khaimah Offshore",
+        "description": "Scale your business without breaking the bank by expanding to RAK ICC.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Ajman Offshore",
+        "description": "Enjoy speedy setup in Ajman and benefit from exciting tax incentives.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Pick the Best UAE Offshore License with One Nexuz",
+    "description": "Ensure a successful offshore business setup in the UAE by identifying the best-fit license.",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Holding License",
+        "description": "Ideal for individuals and businesses seeking to legally hold assets.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "General Trading License",
+        "description": "Best suited for offshore companies, this license allows you to operate with zero tax.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Service License",
+        "description": "Perfect for professionals offering consulting, advisory, or digital services.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Investment License",
+        "description": "Popular for investors seeking to expand their portfolio assets.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/uaeOffshore/left4/1.webp",
+      "title": "Join the 15,000+ Offshore Businesses Thriving in the UAE",
+      "description": "From gold traders to holding companies, thousands trust the UAE offshore zones for limitless growth. We’ll get yours set up right, the first time.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/uaeOffshore/left4/2.webp",
+      "title": "Your Offshore Business, Built Around Your Budget- Get Clear, Fully Transparent Setup Quotes",
+      "description": "Get full visibility into every cost, from registration and attestation to bank account assistance and government fees. No upsells, no surprise add-ons, just a precise quote tailored to your offshore goals.",
+      "btn": "Book a Call",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How We Streamline Offshore Company Setup in the UAE",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/uaeOffshore/left5/1.svg",
+        "title": "Book a Free Consultation",
+        "description": "We’ll start your offshore company setup journey by assessing your unique business goals and recommending the ideal legal structure."
+      },
+      {
+        "id": 2,
+        "image": "/assets/uaeOffshore/left5/2.svg",
+        "title": "Create a Trade Name",
+        "description": "Next, our expert business consultants help brainstorm a list of compliant business names and reserve the one that aligns with your goals."
+      },
+      {
+        "id": 3,
+        "image": "/assets/uaeOffshore/left5/3.svg",
+        "title": "Collect & Submit Documents",
+        "description": "Once the DED approves your trade name, we’ll assist in compiling and submitting the required documents and paperwork to ensure a seamless setup. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/uaeOffshore/left5/4.svg",
+        "title": "Choose Your Trade License",
+        "description": "With all the paperwork complete, our proficient consultants help you secure the license that matches your business activities."
+      },
+      {
+        "id": 5,
+        "image": "/assets/uaeOffshore/left5/5.svg",
+        "title": "Secure Approvals",
+        "description": "Next, our business advisors submit your company formation application alongside the fees to get approvals from the relevant authorities."
+      },
+      {
+        "id": 6,
+        "image": "/assets/uaeOffshore/left5/6.svg",
+        "title": "Get Ongoing Support",
+        "description": "Lastly, we offer tailored post-licensing support to help you set up a corporate bank account, simplify compliance, and stay ahead of regulatory requirements."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Entrepreneurs Choose One Nexuz for Offshore Setup",
+    "description": "Navigating offshore regulations, documentation, and compliance alone can lead to costly mistakes or rejected applications. Our expert consultants mitigate the risk of delays with seamless, fully compliant, and transparent solutions.",
+    "items": [
+      {
+        "title": "Slash Processing Costs",
+        "description": "Save up to 35% in setup and compliance fees by trusting our expert consultants to streamline every phase of the process.",
+        "image": "/assets/uaeOffshore/bgImage/1.webp"
+      },
+      {
+        "title": "Tap into Local & Global Markets",
+        "description": "Get expert guidance to select the ideal offshore location so your business is positioned for both local and international opportunities.",
+        "image": "/assets/uaeOffshore/bgImage/2.webp"
+      },
+      {
+        "title": "Connect with Dedicated Consultants",
+        "description": "Our team of experienced offshore consultants offers one-window solutions, empowering you to secure your license, visa, office space, and more under one roof.",
+        "image": "/assets/uaeOffshore/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/uaeOffshore/grid/1.webp",
+    "title": "Maximise Your Profit by Optimising Offshore Company Formation ",
+    "description": "Pay 0% corporate tax, protect your assets, and manage operations globally. We handle the setup while you focus on building wealth, not paperwork.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Everything was crystal clear—timelines, documents, and fees. I saved over AED 5,000 vs other quotes I got.”",
+        "role": "Import/Export Business Director",
+        "image": "/assets/uaeOffshore/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“We had our RAK ICC company registered within 4 days. The bank account took one week. Flawless support.”",
+        "role": "Consulting Group Entrepreneur",
+        "image": "/assets/uaeOffshore/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“I didn’t know where to begin. One Nexuz laid it all out, handled every step, and made sure it was legally airtight.”",
+        "role": "Family Office Owner",
+        "image": "/assets/uaeOffshore/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Build Your Investment Portfolio Across the UAE with One Nexuz",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Free Zone",
+        "description": "Enjoy 100% foreign ownership, 0% corporate tax, and full profits repatriation in the Free Zone",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Mainland",
+        "description": "Trade freely across the UAE with zero location or visa restrictions via seamless setup solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Business Activities Consultancy",
+        "description": "Pick the best-fit business activity tailored to the nature of your business product or service.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Business License",
+        "description": "Choose from 10+ unique trade licenses to hold, build, and diversify your assets fully compliant.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "UAE Residence Visa",
+        "description": "Live and work in the UAE stress-free by securing your residence visa and sponsorship. ",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Office Solutions",
+        "description": "Explore top-notch, fully furnished and unfurnished corporate office spaces all across the UAE.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "PRO Services UAE",
+        "description": "Reserve your trade name, register your offshore company, and renew licenses stress-free. ",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/uaeOffshore/grid/2.webp",
+    "title": "Build, Register, & Protect Your Offshore Business with One Nexuz",
+    "description": "Launch your UAE offshore company the right way— fast, legal, and fully supported! With One Nexuz, you get expert-led setup, tax-free structure, and smooth cross-border payments.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

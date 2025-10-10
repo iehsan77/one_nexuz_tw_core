@@ -1,0 +1,275 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/complianceServices.webp",
+    "title": "From Documentation to Deadlines, Ensure Accuracy and Stay Risk-Free with End-to-End Compliance Services",
+    "description": "Struggling with costly fines, missed deadlines, or regulatory headaches? Stop losing time and money to regulatory errors. One Nexuz helps you manage compliance, tax filings, payroll, and corporate records effortlessly so you can focus on growing your business without risks. "
+  },
+  "leftSection_1": {
+    "title": "Why Dubai-Based Businesses Need Smart Compliance Services",
+    "description": "Dubai’s complex regulatory system can put your business at risk, leading to lost license, frozen bank accounts, and hefty fines. . That's where our expert advisors come in, helping you with Dubai’s compliance requirements.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/complianceServices/left1/1.webp",
+        "title": "Ditch Paperwork Errors, Missed Deadlines, and Compliance Slip-Ups with Our Experts",
+        "subTitle": "Ditch Paperwork Errors, Missed Deadlines, and Compliance Slip-Ups with Our Experts",
+        "description": "From paperwork errors to missed deadlines, even a slip-up can cost big losses. With our experts by your side, launch faster, operate smarter, & avoid the pitfalls."
+      },
+      {
+        "id": 2,
+        "image": "/assets/complianceServices/left1/2.webp",
+        "title": "Stay Audit-Ready with Complete AML, ESR, Tax, Data Protection & Reporting Compliance",
+        "subTitle": "Stay Audit-Ready with Complete AML, ESR, Tax, Data Protection & Reporting Compliance",
+        "description": "60% of UAE businesses face delays and penalties due to compliance issues. With our experts, you stay aligned, protected, and ready to grow from day 1."
+      },
+      {
+        "id": 3,
+        "image": "/assets/complianceServices/left1/3.webp",
+        "title": "Stay Transparent, Credible, & Ahead of Every Regulation For Strong Brand Reputation",
+        "subTitle": "Stay Transparent, Credible, & Ahead of Every Regulation For Strong Brand Reputation",
+        "description": "Non-compliance not only costs heavy fines but also your customers’ trust. Our expert consultants help you build a strong, lasting relationship with stakeholders and your customers."
+      },
+      {
+        "id": 4,
+        "image": "/assets/complianceServices/left1/4.webp",
+        "title": "Grow Without Roadblocks: No Delays, No Audit Surprises, Just Faster Approvals",
+        "subTitle": "Grow Without Roadblocks: No Delays, No Audit Surprises, Just Faster Approvals",
+        "description": "Delayed approvals and surprise audits can slow your business’s growth. Our seasoned auditors and consultants create a unified compliance system, promoting seamless operations and sustainable growth."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Stay Ahead with Our Range of Comprehensive Compliance Solutions",
+    "description": "Foster brand trust and credibility by staying ensuring you’re 100% compliant with the UAE’s regulations.",
+    "items": [
+      {
+        "id": 1,
+        "title": "AML Compliance Setup",
+        "description": "Strengthen financial stability, protect your business reputation, and mitigate the risk of hefty penalties.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Audit Services",
+        "description": "Spot gaps in compliance, financial, IT, and internal operations to optimise workplace efficiency.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Tax Residency Certificate",
+        "description": "Maximise profitability by taking advantage of 130+ DTAAs and 0% withholding taxes.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "ISO Certification Assistance",
+        "description": "Win stakeholder confidence, build brand credibility, and ensure global compliance with industry-relevant ISO certificates.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "",
+    "description": "",
+    "btn": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" },
+      { "id": 4, "title": "", "description": "", "url": "#" },
+      { "id": 5, "title": "", "description": "", "url": "#" },
+      { "id": 6, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/complianceServices/left4/1.webp",
+      "title": "Stay ^100% Compliant^ without the Stress",
+      "description": "Don’t wait for a hefty fine to realize you’re not fully compliant Let our experts ensure your business adheres to Dubai’s regulatory system while you focus on scaling!",
+      "btn": "Schedule a Call Now!",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/complianceServices/left4/2.webp",
+      "title": "Get Custom Compliance Solutions without Breaking the Bank",
+      "description": "Don’t wait for a hefty fine to realize you’re not fully compliant Let our experts ensure your business adheres to Dubai’s regulatory system while you focus on scaling!",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "One Nexuz 4-Step Process That Keeps You Compliant & Audity-Ready",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/complianceServices/left5/1.svg",
+        "title": "Book a Consultation ",
+        "description": "First, our expert advisors assess your business structure, current documentation, and industry to identify gaps and risks."
+      },
+      {
+        "id": 2,
+        "image": "/assets/complianceServices/left5/2.svg",
+        "title": "Map Out Requirements",
+        "description": "Next, depending on your sector, we align your business with all relevant UAE federal and local authority requirements. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/complianceServices/left5/3.svg",
+        "title": "Implement All Compliances",
+        "description": "OnceWith all the requirements are identified, we update your systems and filings to ensure everything meets the latest standards."
+      },
+      {
+        "id": 4,
+        "image": "/assets/complianceServices/left5/4.svg",
+        "title": "Get Ongoing Support",
+        "description": "Lastly, our dedicated experts offer around-the-clock support and automated alerts to keep your business up-to-date with changing regulations."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Millions of Companies Trust ^One Nexuz^ to Stay Compliant",
+    "description": "Staying up-to-date with the UAE’s complex regulatory and tax landscape can be tricky, especially for expatriates. Our vetted compliance specialists empower you to navigate the complexities of Dubai’s ever-evolving regulations.",
+    "items": [
+      {
+        "title": "Enjoy Hassle-Free Processing",
+        "description": "Save time, effort, and the nuances of registering a company in Dubai. Our dedicated consultants handle all the paperwork, so you can focus on growing your business.",
+        "image": "/assets/complianceServices/bgImage/1.webp"
+      },
+      {
+        "title": "Secure Your Business Data",
+        "description": "With One Nexuz, your confidential data and filings stay  safe and secure,   mitigating the risk of cyberattacks or data theft. Operate your business in the UAE with total peace of mind.",
+        "image": "/assets/complianceServices/bgImage/2.webp"
+      },
+      {
+        "title": "Connect with Dedicated Advisors",
+        "description": "Our extensive compliance services in Dubai provide you with the strategic tax advice and around-the-clock support you need to succeed.",
+        "image": "/assets/complianceServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/complianceServices/grid/1.webp",
+    "title": "Drive 100% Business Growth with Seamless Compliance & Tax Management",
+    "description": "Regulatory alignment isn’t just a legal necessity- it’s a foundation for sustainable growth. Our expert-led compliance services help you protect your reputation, reduce risk exposure, and unlock business opportunities.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "They made compliance feel easy. Everything was handled professionally, and we were always informed. Highly recommend.",
+        "role": "Tech Start-up Founder",
+        "image": "/assets/complianceServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Reliable, responsive, and knowledgeable. A true partner in every sense when it comes to compliance.",
+        "role": "Real Estate Investor",
+        "image": "/assets/complianceServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "From regulatory filings to ongoing audits, One Nexuz handled it all with precision. No missed deadlines, no guesswork—just smooth, stress-free compliance.",
+        "role": "Financial Services Director",
+        "image": "/assets/complianceServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Our Additional Services That Keep Your Business Up & Running in the UAE",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Accounting Services",
+        "description": "Simplify payroll management, VAT structuring, and corporate tax filing with expert accountants.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Get matched with the ideal coverage plan to protect your business assets and employees.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Legal Services",
+        "description": "Get instant legal representation, draft clear policies, and qualify for exciting tax incentives.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Operational Services",
+        "description": "Streamline business operations with our all-in-one corporate support services.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Business Solutions",
+        "description": "Tap into local resources, ease business travel, and drive limitless business growth.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/complianceServices/grid/2.webp",
+    "title": "Protect Your Business From Legal, Financial, and Reputational Risks With One Nexuz",
+    "description": "Whether you’re launching a new venture or planning to expand globally, our expert compliance services in Dubai guide you every step of the way.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

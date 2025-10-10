@@ -1,0 +1,305 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/prosServices.webp",
+    "title": "Cut Down the Stress & Stay Compliant with ^Expert PRO Services in the UAE^",
+    "description": "Every missed deadline, rejected document, or licensing delay slows your business's momentum. At One Nexuz, our PRO experts handle all the government back-and-forth, legal documentation, and visa processing, so your business stays 100% compliant and penalty-free. Whether it’s license renewals or company registration, we help you cut through the red tape, so you stay focused on growth!"
+  },
+  "leftSection_1": {
+    "title": "Eliminate Bottlenecks, Cut Down Admin Work, and Secure Approvals in Days",
+    "description": "Simplify visa application and business licensing with expert-led PRO solutions. By outsourcing, you can minimize the time spent on processing documents and paperwork.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/prosServices/left1/1.webp",
+        "title": "Simplify Compliance, Avoid Costly Mistakes, and Protect Your Business Reputation ",
+        "subTitle": "Simplify Compliance, Avoid Costly Mistakes, and Protect Your Business Reputation ",
+        "description": "Ensure you’re 100% compliant with the UAE’s regulations, including GDFRA and MOHRE, with expert support and instant notifications."
+      },
+      {
+        "id": 2,
+        "image": "/assets/prosServices/left1/2.webp",
+        "title": "Prepare, Verify, & Submit Every Document  Accurately and On-Time",
+        "subTitle": "Prepare, Verify, & Submit Every Document  Accurately and On-Time",
+        "description": "Save time spent on endless applications and renewals with reliable PRO services, so you can focus on high-priority business tasks."
+      },
+      {
+        "id": 3,
+        "image": "/assets/prosServices/left1/3.webp",
+        "title": "Get Proactive Alerts, Track Status, and Avoid Costly Surprises",
+        "subTitle": "Get Proactive Alerts, Track Status, and Avoid Costly Surprises",
+        "description": "Mitigate the risk of hefty fines and penalties by receiving instant alerts on evolving UAE laws and regulations and upcoming visa or license expiry dates."
+      },
+      {
+        "id": 4,
+        "image": "/assets/prosServices/left1/4.webp",
+        "title": "Bundle Business Activities, Hire Talent Globally, and Accelerate Market Reach",
+        "subTitle": "Bundle Business Activities, Hire Talent Globally, and Accelerate Market Reach",
+        "description": "Expand from Abu Dhabi to Ras Al Khaimah with local PRO presence, promoting seamless setup, hiring, and operations across jurisdictions."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Unlock Tailored PRO Solutions in Every Emirate with One Nexuz",
+    "description": "Explore our custom PRO services for seamless licensing, visa approvals, and renewals across the UAE:",
+    "items": [
+      {
+        "id": 1,
+        "title": "PRO Services Dubai ",
+        "description": "Stay compliant with the DED’s stringent licensing requirements by outsourcing to our liaison specialists.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "PRO Services Abu Dhabi ",
+        "description": "Streamline ADDED-government coordination and licensing support with our holistic PRO solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "PRO Services Sharjah",
+        "description": "Enjoy end-to-end visa and document attestation aligned with Sharjah’s business regulations.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "PRO Services Ajman",
+        "description": "Take advantage of PRO services tailored to ADED’s regulations for seamless licensing & renewals.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "",
+    "description": "",
+    "btn": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" },
+      { "id": 4, "title": "", "description": "", "url": "#" },
+      { "id": 5, "title": "", "description": "", "url": "#" },
+      { "id": 6, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/prosServices/left4/1.webp",
+      "title": "100% Compliant, Zero Hassle - Handled by One Nexuz",
+      "description": "From labour cards to license renewals, our Dubai-based PROs ensure everything is filed correctly, on time, and fully aligned with UAE law.",
+      "btn": "Book A Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/prosServices/left4/2.webp",
+      "title": "Get Custom PRO Services Designed Around Your Business",
+      "description": "Don’t waste time comparing multiple providers or guessing UAE PRO service costs. Our experts prepare a detailed, personalized quote in under 24 hours, covering all government fees, approvals, and document processing charges.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Experience Hassle-Free PRO Services in the UAE with One Nexuz",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/prosServices/left5/1.svg",
+        "title": "Map Out Your Needs",
+        "description": "We review your business type, employee needs, and licensing structure to offer tailored PRO.solutions."
+      },
+      {
+        "id": 2,
+        "image": "/assets/prosServices/left5/2.svg",
+        "title": "Select the Best-Fit Region",
+        "description": "Next, our specialists help you identify the ideal jurisdiction based on your unique business needs and future goals"
+      },
+      {
+        "id": 3,
+        "image": "/assets/prosServices/left5/3.svg",
+        "title": "Provide the Documents",
+        "description": "Based on your selected jurisdiction, we’ll assist you in compiling the relevant documents to ensure timely attestation and submissions."
+      },
+      {
+        "id": 4,
+        "image": "/assets/prosServices/left5/4.svg",
+        "title": "Process Your Residency Visa",
+        "description": "Next, our business specialists help streamline the full visa cycle to help you live, work, and grow in the UAE."
+      },
+      {
+        "id": 5,
+        "image": "/assets/prosServices/left5/5.svg",
+        "title": "Get Instant Alerts",
+        "description": "Additionally, you’ll receive clear, timely updates at every stage to ensure you’re always compliant with the region’s evolving requirements. "
+      },
+      {
+        "id": 6,
+        "image": "/assets/prosServices/left5/6.svg",
+        "title": "Set Up Your Bank Account",
+        "description": "Lastly, our dedicated consultants assist you in creating a corporate bank account to simplify your finances."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Businesses Trust Us to Provide the Best PRO Services in the UAE",
+    "description": "Skip the frustration of staying up-to-date with the Emirates’ fast-changing rules and regulations by outsourcing PRO solutions. Gain a competitive edge and ensure you’re always compliant with One Nexuz as your unified compliance partner.",
+    "items": [
+      {
+        "title": "Slash Setup Times in Half",
+        "description": "Cut down licensing times and secure your business registration documents within 48 hours to accelerate your time-to-market.",
+        "image": "/assets/prosServices/bgImage/1.webp"
+      },
+      {
+        "title": "Reduce Administrative Overheads",
+        "description": "Maximise your budget by mitigating training costs, monthly payrolls, and other associated expenses with outsourced PRO services.",
+        "image": "/assets/prosServices/bgImage/2.webp"
+      },
+      {
+        "title": "Unlock UAE-Wide Expertise",
+        "description": "Our specialists understand the nuances of 30+ industries, empowering you with tailored PRO solutions that scale with your business.",
+        "image": "/assets/prosServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/prosServices/grid/1.webp",
+    "title": "Eliminate Delays. Delegate to Dubai’s PRO Experts",
+    "description": "We handle your visa, labour, licensing, and immigration paperwork—so you never waste hours in queues or risk costly mistakes.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "We used to struggle with renewals and last-minute document issues. Outsourcing PRO services to Nexuz gave us total peace of mind—everything’s tracked, submitted, and approved without us having to follow up.",
+        "role": "IT Solutions Company General Manager",
+        "image": "/assets/prosServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Hiring a full-time PRO didn’t make financial sense for our growing team. With Nexuz, we get faster turnaround, better compliance, and clear updates without the overhead.",
+        "role": "Boutique Marketing Agency Founder",
+        "image": "/assets/prosServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Their team helped us scale across three emirates without any licensing or visa delays. The dedicated support and quick processing saved us weeks of admin back-and-forth",
+        "role": "Logistics Firm Regional HR Lead",
+        "image": "/assets/prosServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Scale across the UAE with One Nexuz’s Comprehensive Business Setup Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Free Zone",
+        "description": "Launch, build, and scale your business in the UAE Free Zone with our one-window solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Mainland",
+        "description": "Expand your reach beyond the UAE by setting up in the Mainland, best suited to your industry.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "UAE Offshore",
+        "description": "Preserve your assets and amplify your wealth with end-to-end UAE offshore setup solutions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Business License",
+        "description": "Choose from 500+ business activities and secure the appropriate UAE trade license.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Dual License",
+        "description": "Expand across the UAE Mainland, Offshore, and Free Zone by securing a dual license.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "UAE Residence Visa",
+        "description": "Take advantage of lucrative resident-only business opportunities with a UAE Residence visa.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Family Relocation Support ",
+        "description": "Sponsor your loved ones, children, and dependents with 24/7  relocation support.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Employment Visa ",
+        "description": "Find, recruit, and retain top talent worldwide by fast-tracking UAE employment visa processing.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/prosServices/grid/2.webp",
+    "title": "Tired of Chasing Paperwork? Get PRO Support to Simplify Business Setup in the Emirates",
+    "description": "Save thousands on non-compliance, costly delays, and disruptive errors with our expert PRO services. We assist you through every step with speed and accuracy so your business can scale smoothly from day one.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

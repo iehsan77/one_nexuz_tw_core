@@ -71,16 +71,20 @@ function Footer() {
             <div className="col-span-4 lg:col-span-3 grid grid-cols-2 lg:grid-cols-3 gap-4 h-fit">
               {servicesData?.map((item) => (
                 <div key={item?.id} className="space-y-6">
-                  <Typography
-                    color="white"
-                    weight="medium"
-                    className="border-b pb-2 w-fit">
-                    {item?.title}
-                  </Typography>
+                  <LanguageAwareLink
+                    href={item?.url || "#"}
+                    className={"block w-fit !border-b border-white !pb-2 "}>
+                    <Typography color="white" weight="medium">
+                      {item?.title}
+                    </Typography>
+                  </LanguageAwareLink>
                   {item?.tabs?.length ? (
                     <div className="flex flex-col gap-4">
                       {item?.tabs?.slice(0, 4)?.map((tab) => (
-                        <LanguageAwareLink key={tab?.id} href="#">
+                        <LanguageAwareLink
+                          key={tab?.id}
+                          href={tab?.url || "#"}
+                          className={"w-fit"}>
                           <Typography as="p" size="sm" color="white">
                             {tab?.title}
                           </Typography>
@@ -92,9 +96,13 @@ function Footer() {
                       {item?.items?.slice(0, 4)?.map((i) => (
                         <div>
                           <LanguageAwareLink key={i?.id} href="#">
-                            <Typography as="p" size="sm" color="white">
-                              {i?.title}
-                            </Typography>
+                            <LanguageAwareLink
+                              href={i?.url || "#"}
+                              className={"block !w-fit"}>
+                              <Typography as="p" size="sm" color="white">
+                                {i?.title}
+                              </Typography>
+                            </LanguageAwareLink>
                           </LanguageAwareLink>
                           {i?.title === "" && (
                             <div className="flex flex-col gap-4">

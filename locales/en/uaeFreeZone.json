@@ -326,37 +326,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "Is the Dubai Free Zone a good place to establish my business?",
+        "answer": "With exciting tax incentives, 100% foreign ownership, and strategic access to local and global markets, the Dubai Free Zone is one of the best regions for establishing your business presence. "
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "What are the ideal free zones for setting up a business?",
+        "answer": "DMCC, Dubai Silicon Oasis, Sharjah Media City, Fujairah Free Zone, UAQ Free Zone, and IFZA are some of the top spots for registering your business."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "What documents do I need to open a UAE free zone company?",
+        "answer": "You’ll need copies of your passports and visas, passport-sized photos, a business activity selection form, and proof of address."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "Can I apply for a residency visa using a free zone license?",
+        "answer": "Yes! Most free zones allow you to apply for 1-6 residency visas, depending on your office type and business activity."
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "Can One Nexuz help me open a corporate bank account in a free zone?",
+        "answer": "Yes! Our expert business consultants help you create an account with the best-fit business partner to streamline your finances."
       }
     ]
   }
