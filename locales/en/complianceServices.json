@@ -238,37 +238,43 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "Is regulatory compliance important for my business?",
+        "answer": "Regulatory compliance is crucial to ensuring your business adheres to all laws and regulations to prevent errors, penalties, and legal issues. "
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "How often do regulations change in the UAE?",
+        "answer": "Dubai has a dynamic regulatory environment, so changes occur frequently, requiring businesses to stay vigilant."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "Does WPS compliance matter for my Dubai-based business?",
+        "answer": "Does WPS compliance matter for my Dubai-based business?"
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "What happens if I fail to pay my corporate taxes in Dubai?",
+        "answer": "Businesses that fail to adhere to the UAE’s taxation regulations can incur hefty penalties and fines of up to AED 100,000. You can eliminate the risk of costly errors by outsourcing your compliance services to our specialists."
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "Does One Nexuz help businesses with post-setup compliance?",
+        "answer": "Absolutely! Whether you’re a startup or a multinational corporation, we audit, correct, and manage all aspects of compliance."
+      },
+      {
+        "id": 6,
+        "number": "06",
+        "question": "Can One Nexuz assist my business with past compliance errors?",
+        "answer": "Yes! Our experts specialize in remediation and can help you resolve past mistakes to ensure compliance with all relevant laws and regulations."
       }
     ]
   }

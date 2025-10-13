@@ -25,7 +25,7 @@ import { usePathname } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import { getPageHierarchy } from "@/helpers/getBreadcrumb";
 
-function ServicesPage({ data, locale, path, compare, sec3 }) {
+function ServicesPage({ data, locale, path, compare, sec3, sec2 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
 
@@ -36,7 +36,7 @@ function ServicesPage({ data, locale, path, compare, sec3 }) {
       <div className="container lg:grid grid-cols-3 gap-5">
         <div className="col-span-2">
           <LeftSection1 data={data?.leftSection_1} locale={locale} />
-          <LeftSection2 data={data?.leftSection_2} locale={locale} />
+          {!sec2 && <LeftSection2 data={data?.leftSection_2} locale={locale} />}
           {!sec3 && <LeftSection3 data={data?.leftSection_3} locale={locale} />}
           <LeftSection4 data={data?.leftSection_4} locale={locale} />
           <LeftSection5 data={data?.leftSection_5} locale={locale} />

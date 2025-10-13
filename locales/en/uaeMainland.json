@@ -279,37 +279,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "How long does it take to set up a business in the UAE mainland?",
+        "answer": "It generally takes 3-5 working days to set up a business in the UAE mainland. "
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "How much tax do businesses have to pay on the UAE mainland?",
+        "answer": "With the UAE’s newest regulation, you no longer have to pay corporate and personal income taxes."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "What are the benefits of setting up a business in the UAE mainland?",
+        "answer": "Setting up in the UAE mainland offers 100% foreign ownership, visa flexibility, and access to strategic locations."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "How does One Nexuz help you get registered as a UAE mainland company?",
+        "answer": "Our team of expert consultants streamlines the application and paperwork, allowing you to focus on growing your brand."
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "Do I get 100% ownership of my mainland company in the UAE mainland?",
+        "answer": "Yes, per new business regulations, expats can now enjoy full foreign ownership, mitigating the hassle of hunting for a local sponsor."
       }
     ]
   }

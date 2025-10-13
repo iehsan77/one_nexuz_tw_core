@@ -279,37 +279,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "What is an offshore company in the UAE?",
+        "answer": "An offshore company is a legal business entity set up to operate internationally within designated zones while benefiting from zero tax and 100% foreign ownership."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "Does an offshore company in the UAE have to pay taxes?",
+        "answer": "Nope! Business owners can enjoy zero corporate and personal income taxes in the UAE."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "Do I need to visit the UAE to set up an offshore company?",
+        "answer": "Our experts help streamline the entire registration process so you can get operational in the UAE without ever stepping foot in the Emirates."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "Can One Nexuz assist in opening a corporate offshore bank account in the UAE?",
+        "answer": "Absolutely! Our skilled consultants help you compare and select the ideal UAE offshore bank account to manage your finances. "
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "What is the cheapest offshore company formation in the UAE?",
+        "answer": "Ajman and Ras Al Khaimah offshore offer the most cost-effective offshore company setup solutions."
       }
     ]
   }

@@ -47,9 +47,9 @@ function LeftSection1({ data, locale }) {
                     activeTab?.id === item?.id
                       ? `${
                           locale ? "pr-5 pl-3" : "pl-5 pr-3"
-                        } text-white bg-primary border-primary relative md:w-[320px] lg:w-[280px] xl:w-[365px]`
-                      : "text-gray border-[#CCCCCC] px-4 bg-[#F4E8EC]"
-                  } cursor-pointer font-medium text-sm sm:text-base py-2 rounded-lg border !text-start flex items-center justify-center gap-5`}>
+                        } text-white bg-primary border-primary w-full relative md:w-[320px] lg:w-[280px] xl:w-[365px]`
+                      : "text-gray border-[#CCCCCC] px-4 bg-[#F4E8EC] block w-full"
+                  } cursor-pointer font-medium text-sm sm:text-base py-2 rounded-lg border !text-start flex items-center justify-between gap-5`}>
                   {item?.title}
                   {activeTab?.id === item?.id && (
                     <motion.div

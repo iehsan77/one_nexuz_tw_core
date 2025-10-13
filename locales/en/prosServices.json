@@ -268,37 +268,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "What does a PRO do in the UAE?",
+        "answer": "A PRO specialist helps UAE-based businesses simplify all the paperwork, document processing, and government interactions necessary to set up a business."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "Do PRO requirements differ by Emirate?",
+        "answer": "Yes, each Emirate has different business setup requirements, visa and license timelines, and legal structures. You can partner with our experts to get tailored PRO solutions designed for your desired region."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "Are PRO services required for a UAE Free Zone company?",
+        "answer": "Yes, you’ll have to meet the UAE’s regulatory requirements, whether you set up in the Free Zone or Mainland. Our specialists ensure you’re always compliant and updated with renewals, visa issuance, and approvals with our holistic PRO solutions."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "Can you handle urgent or same-day PRO requests?",
+        "answer": "Yes, we offer expedited support and can begin processing your PRO requests as soon as you submit the required documents."
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "How fast is One Nexuz’s onboarding for PRO Services?",
+        "answer": "We begin as soon as you book a discovery call and select the best-fit PRO services package."
       }
     ]
   }

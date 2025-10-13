@@ -118,7 +118,7 @@ const AccordionItem = ({
             isOpen ? "bg-white" : "bg-gray"
           }`}>
           <Icon
-            icon="mynaui:arrow-up-right"
+            icon={ar ? "mynaui:arrow-up-left" : "mynaui:arrow-up-right"}
             className={`transition-transform duration-300 text-xl md:text-2xl ${
               isOpen ? "rotate-180 text-gray" : "rotate-0 text-white"
             }`}

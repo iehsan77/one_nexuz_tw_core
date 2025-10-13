@@ -1,0 +1,273 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/accountingServices.webp",
+    "title": "Streamline Bookkeeping & Accounting Services in the UAE  ",
+    "description": "Take control of your finances with expert accounting services tailored to your unique business needs. Our expert accountants empower you to focus on growth while we handle your books, ensuring they’re accurate, actionable, and audit-ready!"
+  },
+  "leftSection_1": {
+    "title": "Why Does Your Business Need to Outsource Accounting Services in Dubai",
+    "description": "Outsourcing accounting and bookkeeping services in the UAE isn’t just a cost-saver- it’s a strategic move to maximise your budget and performance. ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/accountingServices/left1/1.webp",
+        "title": "Slash Costs by Up to 40%",
+        "subTitle": "Slash Costs by Up to 40%",
+        "description": "Outsourcing accounting services can cut down overheads, including health insurance, hiring, and training costs, allowing you to streamline tasks without breaking the bank."
+      },
+      {
+        "id": 2,
+        "image": "/assets/accountingServices/left1/2.webp",
+        "title": "Connect with Specialists",
+        "subTitle": "Connect with Specialists",
+        "description": "With expert accounting solutions, you can wave goodbye to missing deadlines, costly errors, or non-compliance and optimise financial performance. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/accountingServices/left1/3.webp",
+        "title": "Simplify Compliance ",
+        "subTitle": "Simplify Compliance ",
+        "description": "Navigating the UAE’s complex VAT laws and corporate tax filing requirements on your own can be challenging. Having an expert accountant ensures you’re always compliant, mitigating the risk of hefty fines and penalties."
+      },
+      {
+        "id": 4,
+        "image": "/assets/accountingServices/left1/4.webp",
+        "title": "Make Informed Business Decisions",
+        "subTitle": "Make Informed Business Decisions",
+        "description": "With data-driven monthly reports on cash flow and profitability, outsourcing accounting services to experts provides you with actionable insights, empowering you to make well-informed business decisions. "
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Key Bookkeeping & Accounting Services in Dubai",
+    "items": [
+      {
+        "id": 1,
+        "title": "Payroll Management ",
+        "description": "Get IFRS-compliant payroll and annual reports to ensure on-time salary processing.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "VAT & Tax Consultancy",
+        "description": "Optimise VAT planning, ensure FTA compliance, and mitigate the risk of business liabilities.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Corporate Tax ",
+        "description": "Structure your business in line with corporate tax laws to boost your profitability and minimise risk.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Management Reports & Financial Analysis ",
+        "description": "Unlock monthly balance and cash flow sheets with actionable insights.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "",
+    "description": "",
+    "btn": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" },
+      { "id": 4, "title": "", "description": "", "url": "#" },
+      { "id": 5, "title": "", "description": "", "url": "#" },
+      { "id": 6, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/accountingServices/left4/1.webp",
+      "title": "Grow 1.5x Faster with Tailored Accounting Solutions",
+      "description": "Outsourcing your books to experts not only saves time—it accelerates growth. We give you insights, structure, and round-the-clock support to move your business forward.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/accountingServices/left4/2.webp",
+      "title": "Compare Our Accounting Service Plans ",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How to Access Expert Accounting Services ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/accountingServices/left5/1.svg",
+        "title": "Book Your Free Consultation ",
+        "description": "The first step is to schedule a no-obligation call, during which we will assess your current setup and discuss your business goals."
+      },
+      {
+        "id": 2,
+        "image": "/assets/accountingServices/left5/2.svg",
+        "title": "Compile & Submit Your Documents ",
+        "description": "Next, we’ll guide you through a simple checklist of the necessary documents to keep you on top of all your financial deadlines."
+      },
+      {
+        "id": 3,
+        "image": "/assets/accountingServices/left5/3.svg",
+        "title": "Set Up a Seamless Accounting System",
+        "description": "Once you’ve submitted documents, our experts will configure your preferred accounting software to help streamline your finances. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/accountingServices/left5/4.svg",
+        "title": "Get Professionally-Created Monthly Reports ",
+        "description": "We welcome you on board, you’ll no longer have to worry about day-to-day bookkeeping, VAT filings, or any other financial jargon."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Choose ^One Nexuz^ to Simplify Accounting Solutions",
+    "description": "Our expert accounts and bookkeepers at One Nexuz manage all your financial reports and compliance, allowing you to focus on growing your business. With our holistic bookkeeping services, you can:",
+    "items": [
+      {
+        "title": "Minimise Errors by Up to 80%",
+        "description": "Our specialists boast in-depth knowledge and decades of experience with the UAE’s tax, VAT, and compliance requirements, minimising errors by 60-80%.",
+        "image": "/assets/accountingServices/bgImage/1.webp"
+      },
+      {
+        "title": "Enjoy Unparalleled Scalability",
+        "description": "Whether you’re handling 50 transactions a month or 5,000, our expert accounting services grow with you, helping you reach new heights.",
+        "image": "/assets/accountingServices/bgImage/2.webp"
+      },
+      {
+        "title": "Stay On Top of Deadlines",
+        "description": "We help you hit all deadlines with same-week report delivery, ensuring you’re fully compliant with the UAE financial laws.",
+        "image": "/assets/accountingServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/accountingServices/grid/1.webp",
+    "title": "Free Up to 10+ Hours a Week with Expert Accounting",
+    "description": "Skip the endless spreadsheets and piles of paperwork and reduce the administrative burden on your team. Our accounting experts handle everything from bookkeeping to financial reports, so you stay focused on growth.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Switching to One Nexuz saved us time and stress. Our VAT filings are on time, and we finally understand our monthly numbers.",
+        "role": "E-commerce Founder",
+        "image": "/assets/accountingServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Their team is responsive and knows UAE laws inside out. We no longer worry about missing deadlines.”",
+        "role": "Restaurant Group Owner",
+        "image": "/assets/accountingServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "As a startup, we needed hands-on support. Nexuz helped us structure our books from day one and made our first audit seamless.",
+        "role": "Tech Startup Co-Founder",
+        "image": "/assets/accountingServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "More Ways One Nexuz Helps You Grow in the UAE",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compliance Services ",
+        "description": "Stay audit-ready and protect your business against hefty fines with full compliance support.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Shield your business against potential lawsuits and penalties with holistic coverage plans.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Legal Services",
+        "description": "Enter, exit, and operate in the UAE 100% compliant, get instant representation, and draft clear policies.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Operational Services ",
+        "description": "Boost business efficiency and productivity with strategic operational add-ons, from HR to procurement support.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Business Solutions",
+        "description": "Drive business growth and revenue with a future-proof plan, travel support, local agents, and more!",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/accountingServices/grid/2.webp",
+    "title": "Make Accounting Stress-Free with One Nexuz",
+    "description": "Get round-the-clock financial advice and in-depth insights from experts without stretching your budget. Take advantage of our reliable accounting and bookkeeping services in the UAE & scale your business at….speed.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Why outsource accounting and bookkeeping services in Dubai?",
+        "answer": "Outsourcing your financial services to experts can help streamline financial processes and reporting, providing you with unique growth opportunities for a fraction of the cost. "
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can One Nexuz help with missed VAT filings or past account cleanup?",
+        "answer": "Yes, our holistic accounting and bookkeeping solutions include bringing your books up-to-date, identifying and correcting errors, and filing overdue VAT or financial reports. "
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Should I outsource my accounting if I own a small- to mid-sized business?",
+        "answer": "Absolutely, even small- to mid-sized businesses in the UAE can benefit from professional accounting solutions. With specialists by your side, you can ensure compliance and save time without breaking the bank. "
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Do you offer VAT-only services?",
+        "answer": "Yes, One Nexuz offers independent VAT registration and filing services to help you manage your taxes and stay compliant. "
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Does One Nexuz handle multi-currency accounting?",
+        "answer": "Yes, our systems and processes are built to handle transactions in numerous currencies, including AED, USD, and EUR."
+      }
+    ]
+  }
+}
