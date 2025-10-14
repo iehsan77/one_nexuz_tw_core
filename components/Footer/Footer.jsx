@@ -119,7 +119,12 @@ function Footer() {
                       ))}
                     </div>
                   )}
-                  <LanguageAwareLink href="#" className="">
+                  <LanguageAwareLink
+                    // href="/services"
+                    href={`/services?section=${item?.title
+                      .toLowerCase()
+                      .replace(/[^a-z0-9]+/g, "-")}`}
+                    className="flex w-fit">
                     <Typography
                       as="p"
                       size="sm"

@@ -30,7 +30,7 @@ function MeetVisionariesCard({ data }) {
         </div>
 
         {/* Icons at Bottom */}
-        <div className="flex items-center justify-center gap-4 text-grayDark mt-4">
+        <div className="flex items-center justify-center gap-4 text-gray mt-4">
           {data?.links?.map((dta, i) => (
             <Link key={i} href={dta?.link}>
               <Icon icon={dta?.icon} width="24" height="22" />

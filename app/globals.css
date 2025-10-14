@@ -26,6 +26,11 @@
   --default-font-family: var(--font-creato), sans-serif;
 }
 
+/* html {
+  scroll-behavior: smooth;
+} */
+
+
 @utility container {
   margin-inline: auto;
   padding-inline: 1rem;

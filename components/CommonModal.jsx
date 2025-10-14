@@ -69,8 +69,8 @@ export default function CommonModal({
             className={`relative bg-white rounded-2xl shadow-2xl w-full ${sizeClasses[size]} mx-4 ${className}`}>
             {/* Header */}
             {(header || withCloseButton) && (
-              <div className="flex items-center justify-between p-4 absolute right-0">
-                <h2 className="text-lg font-semibold">{header}</h2>
+              <div className="flex items-center justify-end p-4">
+                {/* <h2 className="text-lg font-semibold">{header}</h2> */}
                 {withCloseButton && (
                   <button
                     onClick={() => !isSubmitting && onClose?.()}
@@ -83,7 +83,7 @@ export default function CommonModal({
             )}
 
             {/* Body */}
-            <div className="pt-10 pb-8 px-6 overflow-y-auto max-h-[80vh]">
+            <div className="pt-1 pb-8 px-6 overflow-y-auto max-h-[80vh]">
               {children}
             </div>
 

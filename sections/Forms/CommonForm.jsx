@@ -7,7 +7,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 import { FormProvider as Form } from "react-hook-form";
-import { navData } from "@/lib/navigation-config";
+import { navData, navDataAr } from "@/lib/navigation-config";
 import Typography from "@/components/ui/Typography";
 import TextInput from "@/components/FormFields/TextInput";
 import NumberInput from "@/components/FormFields/NumberInput";
@@ -24,6 +24,7 @@ function CommonForm() {
   const arabic = locale === "ar";
   const t = locale === "ar" ? ar : en;
   const { hideModal } = useModal();
+  const data = arabic ? navDataAr : navData;
 
   const schema = z.object({
     id: z.number(),
@@ -78,7 +79,7 @@ function CommonForm() {
     hideModal();
   };
 
-  const serviceData = navData?.map((item) => ({
+  const serviceData = data?.map((item) => ({
     label: item?.title,
     value: item?.id,
   }));

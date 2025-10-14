@@ -243,37 +243,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "What is the eligibility criteria for a UAE Golden Visa?",
+        "answer": "You can apply for a UAE Golden Visa if you own or are a partner in a UAE-based startup, invest in a public fund, or have a record of operating successful businesses."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "What are the benefits of securing a Golden Visa in the UAE?",
+        "answer": "A Golden Visa allows foreign expatriates and their families or key employees to settle in and thrive in the Emirates. You can enjoy long-term residency in the country without the hassle of local sponsors."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "How long does a UAE Golden Visa stay valid?",
+        "answer": "Although a Golden Visa stays valid for up to 10 years, it is automatically renewed once you take a medical examination and pay the necessary fees."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "Can I stay outside of the UAE if I own a Golden Visa?",
+        "answer": "Yes! With a Golden Visa, you can stay outside of the country without worrying about your residency status being nullified. "
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "Can I get citizenship via the UAE Golden Visa?",
+        "answer": "Unfortunately a Golden Visa doesn’t guarantee citizenship in the UAE. You’ll have to meet a stringent criteria and maintain residency for over 30 years to secure UAE nationality."
       }
     ]
   }

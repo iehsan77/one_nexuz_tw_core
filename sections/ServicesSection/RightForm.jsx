@@ -61,6 +61,7 @@ function RightForm() {
   const onSubmit = async (data) => {
     await new Promise((resolve) => setTimeout(resolve, 1000));
     toast.success("submitted successfully!");
+    reset();
   };
 
   const data = arabic ? navDataAr : navData;
