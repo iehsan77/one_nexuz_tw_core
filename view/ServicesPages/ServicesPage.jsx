@@ -61,6 +61,56 @@ function ServicesPage({ data, locale, path, compare, sec3, sec2 }) {
       <SocialCommunitySection />
       <FaqsSection data={data?.faq} />
     </div>
+    // <div>
+    //   <HeroHeader data={data?.homeHeader} />
+    //   <Breadcrumb data={breadcrumb} />
+
+    //   <div className="container lg:grid grid-cols-3 gap-5">
+    //     <div className="col-span-2">
+    //       <LeftSection1 data={data?.leftSection_1} locale={locale} />
+    //       {!sec2 && <LeftSection2 data={data?.leftSection_2} locale={locale} />}
+    //       {!sec3 && <LeftSection3 data={data?.leftSection_3} locale={locale} />}
+    //       <LeftSection4 data={data?.leftSection_4} locale={locale} />
+    //       <LeftSection5 data={data?.leftSection_5} locale={locale} />
+    //     </div>
+
+    //     <div className="hidden lg:block col-span-1 h-fit secPadding space-y-6">
+    //       <div className="sticky top-36 z-30">
+    //         <RightSection1 />
+    //       </div>
+
+    //       <div className="sticky top-36 z-20">
+    //         <RightForm />
+    //       </div>
+
+    //       <div className="sticky top-36 z-20">
+    //         <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
+    //       </div>
+
+    //       <div className="sticky top-36 z-20">
+    //         <RecentBlog />
+    //       </div>
+
+    //       {compare && (
+    //         <div className="sticky top-36 z-20">
+    //           <RightCompare />
+    //         </div>
+    //       )}
+    //     </div>
+    //   </div>
+
+    //   <BgImageSec data={data?.leftSection_6} />
+    //   <GridSec data={data?.leftSection_7} />
+    //   <OurClients data={data?.leftSection_8} />
+    //   <LookingFor />
+    //   <LeftSection9 />
+    //   <LeftSection10 data={data?.leftSection_10} locale={locale} />
+    //   <GridSec data={data?.leftSection_11} />
+    //   <GuideSec />
+    //   <BlogSec />
+    //   <SocialCommunitySection />
+    //   <FaqsSection data={data?.faq} />
+    // </div>
   );
 }
 
