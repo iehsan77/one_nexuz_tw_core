@@ -35,9 +35,13 @@ export const metadata = {
   title: "One Nexuz",
   description: "One Nexuz",
   robots: {
-    index: isIndex,
-    nocache: false,
+    index: true,
+    nocache: true,
   },
+  // robots: {
+  //   index: isIndex,
+  //   nocache: false,
+  // },
 };
 
 export default function RootLayout({ children }) {

@@ -16,10 +16,10 @@ export async function generateMetadata() {
     },
     openGraph: vMetaData?.opengraph_data,
     twitter: vMetaData?.twitter_tag,
-    robots: {
-      index: isIndex,
-      nocache: false,
-    },
+    // robots: {
+    //   index: isIndex,
+    //   nocache: false,
+    // },
     h1: vMetaData?.h1 || "",
     faq: vMetaData?.faq?.mainEntity || null,
     icons: {

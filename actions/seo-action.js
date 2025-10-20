@@ -34,17 +34,19 @@ export async function SEOAction() {
   try {
     const headersInstance = await headers();
     const formData = new FormData();
-    if (headersInstance.get("x-url") === "/") {
+    if (headersInstance.get("x-url") === `/`) {
       formData.append("website_name", BASE_URL);
     } else {
       formData.append("website_name", BASE_URL + headersInstance.get("x-url"));
     }
+    console.log("website_name", BASE_URL);
 
     const res = await fetch(endpoints.getMeta, {
       method: "POST",
       body: formData,
     });
     const response = await res.json();
+    console.log("seo response", response);
     if (response?.status === 200) {
       return {
         ...response.data,

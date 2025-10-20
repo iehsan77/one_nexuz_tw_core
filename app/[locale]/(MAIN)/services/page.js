@@ -1,7 +1,6 @@
 import { SEOAction } from "@/actions/seo-action";
 import Loader from "@/components/Loader";
 import { isIndex } from "@/constants/constants";
-import Home from "@/view/Home/Home";
 import ViewAllService from "@/view/Services/ViewAllService";
 import { Suspense } from "react";
 
