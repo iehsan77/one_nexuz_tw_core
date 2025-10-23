@@ -1,0 +1,292 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/businessSolutions.webp",
+    "title": "Launch, Expand, and Thrive in the UAE with One Nexuz’s Seamless Business Solutions",
+    "description": "Without a trusted local sponsor, clear legal guidance, and a future-proof business plan, your UAE launch becomes costly guesswork. At One Nexuz, our team of seasoned business consultants and advisors removes the friction with our future-proof, all-in-one business solutions, from business plan preparation and feasibility studies to customs and company car registration. We simplify your setup and cut through the red tape to fast-track your time-to-market and unlock exciting networking opportunities."
+  },
+  "leftSection_1": {
+    "title": "From Business Registration to Executive Support, Unlock Complete Business Solutions in the UAE",
+    "description": "Simplify UAE company formation, elevate your online presence, drive web and foot traffic, and unleash your business’s potential with comprehensive business solutions.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/businessSolutions/left1/1.webp",
+        "title": "Win Investor Trust, Prevent Cash Burn, & Cut Startup Mistakes by 30%+",
+        "subTitle": "Win Investor Trust, Prevent Cash Burn, & Cut Startup Mistakes by 30%+",
+        "description": "Attract 28% more investment, empower data-driven business decisions, optimise resource allocation, and increase the likelihood of a successful business launch by 2.5x with a custom-tailored business plan and in-depth market research studies."
+      },
+      {
+        "id": 2,
+        "image": "/assets/businessSolutions/left1/2.webp",
+        "title": "Unlock Growth Opportunities, Gain Exclusive Insights, & Fast-Track Business Setup ",
+        "subTitle": "Unlock Growth Opportunities, Gain Exclusive Insights, & Fast-Track Business Setup ",
+        "description": "Reclaim time and money spent navigating the UAE’s stringent regulatory requirements, accelerate your time-to-market, and gain unrestricted access to fast-growing local markets by partnering with trusted local agents, sponsors, or nominees."
+      },
+      {
+        "id": 3,
+        "image": "/assets/businessSolutions/left1/3.webp",
+        "title": "Minimise Operational Disruptions and Maximise Supply Chain Performance",
+        "subTitle": "Minimise Operational Disruptions and Maximise Supply Chain Performance",
+        "description": "Optimise your supply chain, win stakeholder trust, combat operational bottlenecks, and trade within and across the Emirates stress-free with customs registration and your unique importer/exporter code."
+      },
+      {
+        "id": 4,
+        "image": "/assets/businessSolutions/left1/4.webp",
+        "title": "From Booking to Seamless Execution— Relocate Teams, Impress Clients, and Drive Collaboration ",
+        "subTitle": "From Booking to Seamless Execution— Relocate Teams, Impress Clients, and Drive Collaboration ",
+        "description": "Build a powerful brand image, foster organic business partnerships, retain top talent, and improve team efficiency with professional meeting rooms and executive visa & travel support"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Drive Limitless Business Growth with Our End-to-End Corporate Business Solutions",
+    "description": "Discover exciting tax benefits, capitalise on local markets, build investor trust, and dominate your competition with our 360° professional business solutions.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Market Research & Feasibility Study",
+        "description": "Assess competitors, uncover market potential, spot your target market, and launch with confidence backed by real data.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Business Plan Preparation",
+        "description": "Win investor trust, secure funding, and beat the odds to business success with persuasive, custom-tailored business plans.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Meeting Room Booking & Hosting",
+        "description": "Craft a professional brand image, boost workplace productivity, and unlock cost savings with our premium meeting rooms.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Company Car Registration",
+        "description": "Fast-track vehicle registration, maximise returns on transfers, and simplify renewals with quick, compliant car registration. ",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Travel & Visa Support for Executives",
+        "description": "Relocate your team, streamline visa approvals, and simplify flight coordination with our executive travel & visa solutions.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Customs Registration (Importer/Exporter Code)",
+        "description": "Build client trust, avoid double taxation, explore lucrative foreign markets, and expand globally with your IEC code.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Local Sponsor Arrangement",
+        "description": "Get matched with vetted and trustworthy Emarti sponsors to simplify Mainland setup, ease account approvals, and ensure compliance.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Local Agent/Partner",
+        "description": "Foster brand trust and credibility, streamline government coordination, and access local insights with a reliable local agent. ",
+        "url": "#"
+      },
+      {
+        "id": 9,
+        "title": "Nominee Services",
+        "description": "Take advantage of lucrative markets, drive cross-border expansion, and maintain privacy without giving up strategic control.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/businessSolutions/left4/1.webp",
+      "title": "Launch Faster & Operate Smarter with One Nexuz",
+      "description": "Our end-to-end solutions eliminate delays and guesswork, so your UAE operations move from idea to execution in record time.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/businessSolutions/left4/2.webp",
+      "title": "Your Business, Your Plan — Get a Quote Designed to Fit Your Needs",
+      "description": "Launching or expanding in the UAE? We handle everything from business plans and market research to visa support and nominee services, matching you with the right solutions. Get a personalized quote that’s flexible, transparent, and designed around your growth!",
+      "btn": "Get a Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Receive Your Complete Growth Roadmap in 4 Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/businessSolutions/left5/1.svg",
+        "title": "Book Your Free Consultation ",
+        "description": "We'll kick off by assessing your business goals, challenges, and vision. Our team crafts a tailored plan that covers company setup, market research, and operational needs, providing you with a clear roadmap from day one."
+      },
+      {
+        "id": 2,
+        "image": "/assets/businessSolutions/left5/2.svg",
+        "title": "Map Out Your Requirements ",
+        "description": "Next, we design a customised plan combining the right mix of services, from company car registration and travel support to nominee services and more, so your business operates efficiently and stays compliant."
+      },
+      {
+        "id": 3,
+        "image": "/assets/businessSolutions/left5/3.svg",
+        "title": "Empower Your Operations",
+        "description": "Based on your needs, we equip you with the necessary tools, including business plans, executive visa support, company cars, and professional meeting spaces, allowing you to grow stress-free."
+      },
+      {
+        "id": 4,
+        "image": "/assets/businessSolutions/left5/4.svg",
+        "title": "Grow, Expand, and Thrive",
+        "description": "Lastly, we deliver actionable market insights, feasibility studies, and help you secure local agents, nominees, or partners, empowering you to make data-driven business decisions. "
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Entrepreneurs Trust One Nexuz to Streamline Business Operations ",
+    "description": "Navigating UAE regulations, approvals, and partnerships can be overwhelming. One wrong step can drain time and money. At One Nexuz, we streamline your business journey, empowering you to launch faster and accelerate business success.",
+    "items": [
+      {
+        "title": "Discover Tailored End-to-End Solutions",
+        "description": "Our seasoned business consultants customise every solution to match your unique goals. From local sponsorship to company car registration, you get a complete, bespoke growth package.",
+        "image": "/assets/businessSolutions/bgImage/1.webp"
+      },
+      {
+        "title": "Tap into Strategic Local Partner Networks",
+        "description": "We empower you with daily insights, lightning-fast company formation, and stress-free account approvals by leveraging our proven network of trustworthy local agents, sponsors, and nominees.",
+        "image": "/assets/businessSolutions/bgImage/2.webp"
+      },
+      {
+        "title": "Dedicated Support for Visa, Logistics, & Beyond",
+        "description": "Our experts simplify every aspect of corporate administration, including travel, executive visas, and customs registration, giving you total peace of mind and end-to-end support throughout your business journey.",
+        "image": "/assets/businessSolutions/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/businessSolutions/grid/1.webp",
+    "title": "Non-Compliance Can Cost Businesses Up to 5% of Annual Revenue — We Keep You Covered",
+    "description": "With One Nexuz handling your customs registration, nominee services, and sponsorship arrangements, you can eliminate costly oversights and compliance risks. Every detail is managed with precision—so you can focus on growing your business with confidence.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Setting up our operations in Dubai felt overwhelming until we partnered with One Nexuz. Their business planning and local sponsorship support made the entire process seamless — every document, every approval handled perfectly. We launched two months ahead of schedule.”",
+        "role": "Fintech Solutions Managing Director",
+        "image": "/assets/businessSolutions/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“One Nexuz transformed our UAE expansion from a confusing maze into a clear, structured journey. Their team handled everything — market research, customs registration, even meeting arrangements. What stood out most was their genuine local expertise and professionalism.”",
+        "role": "Trade Company Co-Founder",
+        "image": "/assets/businessSolutions/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“From executive visa support to operational setup, One Nexuz took care of every detail so I could focus on strategy and clients. Their efficiency and reliability gave me complete confidence in scaling my business across the UAE.”",
+        "role": "Consultancy CEO",
+        "image": "/assets/businessSolutions/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Get Comprehensive Support for Every Stage of Your UAE Journey with One Nexuz",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compliance Services",
+        "description": "Avoid costly fines, delays, and regulatory setbacks with our comprehensive compliance solutions",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Accounting Services",
+        "description": "Maintain accurate books, gain real-time financial clarity, and stay audit-ready with our expert accountants.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Safeguard your business, people, and assets with our tailored UAE business insurance solutions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Legal Services",
+        "description": "Navigate UAE laws confidently and receive instant representation from our expert legal attorneys.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Operational Services",
+        "description": "Automate repetitive tasks and optimise your internal workflows with our end-to-end operational solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/businessSolutions/grid/2.webp",
+    "title": "Ready to Register and Grow Your UAE-Based Business?",
+    "description": "From executive travel and visa support to business licensing and market validation, One Nexuz delivers holistic, custom-tailored business solutions, empowering you to grow from day one. ",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Can a local sponsor take strategic decisions for my business?",
+        "answer": "No, a local sponsor’s role is administrative, meaning you retain complete control over your business, including what decisions are made and how profits are distributed. "
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can foreigners fully own a business in Dubai, UAE?",
+        "answer": "Yes, you can enjoy full foreign ownership of your UAE business in Free Zones and most Mainland areas."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "What do your market research & feasibility studies include?",
+        "answer": "Our comprehensive market research and feasibility studies include in-depth analysis of market demand, competition, pricing, and financial feasibility to help you validate a product or service and make informed business decisions."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "How does One Nexuz handle visa and executive travel?",
+        "answer": "From visa application right down to relocation support, our experts manage all logistics, approvals, and compliance requirements for a seamless travel experience."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Can One Nexuz assist me in creating a business plan to secure a license?",
+        "answer": "Yes, our experts specialise in creating personalised, future-proof, and legally sound business plans to help business owners and entrepreneurs secure a Mainland or Free Zone license."
+      }
+    ]
+  }
+}

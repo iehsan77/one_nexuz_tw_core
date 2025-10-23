@@ -1,0 +1,307 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/officeSolutions.webp",
+    "title": "^Launch Your UAE Business^ with the Right Address, Desk & Support — All in One Place",
+    "description": "Tired of red tape, high costs, and office headaches? At One Nexuz, we empower you with an extensive catalogue of ready-to-use, fully-equipped offices spaces in prime UAE locations. Move in, plug in, and start thriving. Build credibility, scale faster, and focus on what really matters— growing your business."
+  },
+  "leftSection_1": {
+    "title": "Unlock Growth, Compliance, & Credibility with the Right Office Setup in the UAE ",
+    "description": "Unlock exciting business opportunities, sponsor your loved ones, and build your dream team with the ideal business office solution. With the ideal workspace, you can accelerate business setup, gain a competitive edge, and build client confidence.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/officeSolutions/left1/1.webp",
+        "title": "Get License-Ready, Bank-Approved, and Fully Compliant Stress-Free ",
+        "subTitle": "Get License-Ready, Bank-Approved, and Fully Compliant Stress-Free ",
+        "description": "Fast-track company formation, save weeks on bank account setup, and secure your business license with world-class corporate office solutions in prime locations across Dubai and beyond!"
+      },
+      {
+        "id": 2,
+        "image": "/assets/officeSolutions/left1/2.webp",
+        "title": "From One Desk to a Full Team—Expand Seamlessly with the Right Office Space",
+        "subTitle": "From One Desk to a Full Team—Expand Seamlessly with the Right Office Space",
+        "description": "Sponsor employees, invite business partners, secure investor visas, and expand operations without restrictions by picking the ideal ofice space aligned to your business goals."
+      },
+      {
+        "id": 3,
+        "image": "/assets/officeSolutions/left1/3.webp",
+        "title": "Build Instant Credibility, Impress Clients, and Earn Investor Confidence with a Verified Business Address ",
+        "subTitle": "Build Instant Credibility, Impress Clients, and Earn Investor Confidence with a Verified Business Address ",
+        "description": "Elevate your brand image, optimise visibility, strengthen stakeholder trust, drive foot traffic, and close deals faster with strategically located offices. Attract investors and clients worldwide by showcasing credibility. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/officeSolutions/left1/4.webp",
+        "title": "Simplify Your Day-to-Day with 360° Office Support That Keeps You Moving Forward",
+        "subTitle": "Simplify Your Day-to-Day with 360° Office Support That Keeps You Moving Forward",
+        "description": "Work smarter with plug-and-play amenities, from ergonomic workstations and high-speed Wi-Fi to premium meeting spaces and on-site concierge services, enhancing comfort and boosting employee efficiency."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Find the Perfect Workspace to Build, Grow, and Thrive in the Heart of Dubai",
+    "description": "Explore our flexible business office solutions designed to help you launch, operate, and scale seamlessly in the UAE. ",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Physical Offices",
+        "description": "Get a ready-to-use, fully equipped workspace in prime locations across the UAE to build brand trust and scale hassle-free. ",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Flexi-Desks/Smart Desks",
+        "description": "Work when and where you want and slash real estate costs with flexible, pay-as-you-go smart offices in the UAE. ",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Co-working Spaces",
+        "description": "Join a thriving community of innovators, boost workplace productivity, and unlock cost savings with a co-working space.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Virtual Offices",
+        "description": "Reclaim AED 10,000+ on physical offices, win brand credibility, and recruit top talent worldwide with a verified UAE address.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Private Offices",
+        "description": "Gain investor trust, maintain privacy, and optimise employee focus with a dedicated, fully-equipped private space.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/officeSolutions/left4/1.webp",
+      "title": "Save Up to 60% on ^UAE Office Setup Costs With One Nexuz^",
+      "description": "Why overpay for space you don’t need? Our optimized office packages give you prime locations, flexible terms, and cost efficiency — so you can focus on growing your business, not managing overhead.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/officeSolutions/left4/2.webp",
+      "title": "Custom Office Solutions, Transparent Quotes, Effortless Setup ",
+      "description": "Find the perfect workspace for your business, from verified virtual offices to fully-equipped private suites. No hidden fees, no fixed packages — just flexible office solutions tailored to your needs.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "From Idea to Office — How We Simplify Your UAE Business Setup in 6 Simple Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/officeSolutions/left5/1.svg",
+        "title": "Tell Us Your Needs",
+        "description": "We’ll start by discussing your business goals, whether you’re launching, relocating, or expanding in the UAE. Our experts understand your vision and recommend the best office solution tailored to your setup requirements."
+      },
+      {
+        "id": 2,
+        "image": "/assets/officeSolutions/left5/2.svg",
+        "title": "Choose Your Ideal Office Plan ",
+        "description": "From cost-efficient co-working spaces to furnished private offices, select a workspace that fits your operations, team size, and budget. We’ll guide you through each option to ensure compliance with UAE regulations."
+      },
+      {
+        "id": 3,
+        "image": "/assets/officeSolutions/left5/3.svg",
+        "title": "Get Your Business Setup Support",
+        "description": "Next, we handle every part of your business setup, from trade licensing to PRO services, integrating everything into your office solution for a smooth, cost-efficient, and hassle-free setup journey."
+      },
+      {
+        "id": 4,
+        "image": "/assets/officeSolutions/left5/4.svg",
+        "title": "Finalise Documentation & Approvals ",
+        "description": "Once you select your package, we’ll prepare and submit all necessary documentation to the relevant authorities. Our in-house team ensures your approvals are fast, accurate, and stress-free. "
+      },
+      {
+        "id": 5,
+        "image": "/assets/officeSolutions/left5/5.svg",
+        "title": "Move In or Go Virtual ",
+        "description": "Start working immediately in your new office, at your flex desk, or through your virtual address. We'll ensure everything is ready for you, from Wi-Fi to reception services, so you can focus on running your business. "
+      },
+      {
+        "id": 6,
+        "image": "/assets/officeSolutions/left5/6.svg",
+        "title": "Grow & Scale with One Nexuz",
+        "description": "After you’ve moved in, our experts help you plan for growth! Upgrade your plan, add team desks, or expand to new locations across the Emirates- all while keeping the same trusted partner by your side."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why UAE-Based Businesses Choose One Nexuz for Smarter Office Solutions",
+    "description": "Setting up a business in the UAE can be overwhelming, from endless paperwork to high upfront costs. At One Nexuz, our flexible solutions are designed for speed, flexibility, and convenience, empowering you to grow from day one. ",
+    "items": [
+      {
+        "title": "Discover Tailored Workspaces Built for Success ",
+        "description": "Explore, compare, and choose from our extensive catalogue of modern offices, from smart desks to private suites, equipped with high-speed connectivity, meeting rooms, and premium amenities.",
+        "image": "/assets/officeSolutions/bgImage/1.webp"
+      },
+      {
+        "title": "Operate Instantly, Without Delays",
+        "description": "No waiting, no downtime. Move in, plug in, and start doing working the same day. Our ready-to-use offices keep your business momentum strong- so you can focus on growth, not logistics. ",
+        "image": "/assets/officeSolutions/bgImage/2.webp"
+      },
+      {
+        "title": "A Partner You Can Count On",
+        "description": "Beyond renting and leasing office space, our dedicated business consultants offer round-the-clock PRO services, accelerating your time-to-market and streamlining every step from licensing to launch.",
+        "image": "/assets/officeSolutions/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/officeSolutions/grid/1.webp",
+    "title": "Your Business. Our Address. One Nexuz Advantage",
+    "description": "Stand out from day one. Our premium offices and virtual solutions help your brand build instant credibility while giving you the freedom to work from anywhere.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Setting up our company in Dubai felt impossible until we found One Nexuz. The process was quick, the team handled every detail, and our virtual office gave us instant credibility with investors. It’s the easiest business decision we’ve ever made.”",
+        "role": "Technology Startup Founder",
+        "image": "/assets/officeSolutions/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“We needed a flexible workspace that could grow with our team and meet UAE compliance standards. One Nexuz delivered both. Their co-working space is premium, fully equipped, and the PRO support saved us weeks of paperwork.”",
+        "role": "Business Consulting Managing Director",
+        "image": "/assets/officeSolutions/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“As a freelancer, I wanted a professional address and meeting space without massive costs. The One Nexuz smart desk solution was perfect — affordable, professional, and ready from day one. I finally feel like I have a real business presence in the UAE.”",
+        "role": "Creative Freelance Designer",
+        "image": "/assets/officeSolutions/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Discover Everything You Need to Launch, ^License, and Grow in the UAE^",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "UAE Free Zone",
+        "description": "Unlock strategic foreign ownership and 0% corporate and personal income tax in UAE’s leading Free Zones.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Mainland",
+        "description": "Tap into the UAE’s local markets and broaden your market reach with Mainland company formation.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "UAE Offshore",
+        "description": "Diversify your portfolio, get full tax exemption, and expand your global footprint with a strategic offshore setup.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Business Activities Consultancy",
+        "description": "Save AED 100,000+ in non-compliance with expert guidance on comparing and picking approved UAE activities.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Business Licenses",
+        "description": "Secure the best-fit trade license to access regional and global markets aligned to your business activities.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Free Zone License",
+        "description": "Get licensed in record time with no local agent hassle, full ownership, and zero taxation with a FZ license.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Mainland License",
+        "description": "Win local credibility and trust, bid for government projects, and access top markets with a Mainland license.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "PRO Services UAE ",
+        "description": "Simplify government back-and-forth and avoid paperwork headaches with our expert PRO agents.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/officeSolutions/grid/2.webp",
+    "title": "Ready to Launch Your UAE Business without the Hassle, Delays, or Extra Costs?",
+    "description": "Get a professional office address, flexible visa quotas, and full operational support- all in one affordable, flexible solution. Whether you’re seeking a virtual office solution or smart office solutions in Dubai, UAE, our extensive catalogue is designed to help you save costs, stay compliant, and scale effortlessly.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What type of office solutions are available in the UAE?",
+        "answer": "The UAE offers several flexible workspace options, including virtual offices, flexi-desks (smart desks), co-working spaces, and private or physical offices, empowering you to pick the best-fit corporate office solution."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Do I need to rent or lease an office space to get a UAE business license?",
+        "answer": "Yes, an approved office space or address is mandatory for most UAE Mainland and Free Zone licenses. Your office type also determines your visa quotas and helps ensure compliance with the DED or Free Zone Authority."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "What’s the difference between a virtual office and a physical office?",
+        "answer": "A virtual office provides a legal business address and administrative support without the need for a physical workspace, whereas a physical office offers a dedicated area for your team to work, meet clients, and operate daily."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can I upgrade my office solution as my business grows?",
+        "answer": "Absolutely! One of the biggest advantages of flexible office solutions is scalability. You can start small, with a flexi-desk or virtual office, and seamlessly upgrade to a physical office as your business expands."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How can an office solution support my business setup in the UAE?",
+        "answer": "Renting or leasing an office space can streamline your setup by providing a verified address- a necessary step for licensing and visa processing. Most come with built-in support, including mail handling and reception services, helping you start operations quickly. "
+      }
+    ]
+  }
+}

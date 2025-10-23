@@ -24,29 +24,85 @@ import RecentBlog from "@/sections/ServicesSection/RecentBlog";
 import { usePathname } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import { getPageHierarchy } from "@/helpers/getBreadcrumb";
+import Image from "@/components/Image/Image";
+import TableData from "@/sections/ServicesSection/TableSec";
 
-function ServicesPage({ data, locale, path, compare, sec3, sec2 }) {
+function ServicesPage({
+  data,
+  locale,
+  path,
+  compare,
+  sec1,
+  sec2,
+  sec3,
+  table,
+}) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
+
+  const columns = [
+    { accessKey: "activityGroup", title: "Activity Group" },
+    { accessKey: "activity", title: "Activity" },
+    { accessKey: "jurisdiction", title: "Jurisdiction & Approvals" },
+  ];
+
+  const tableData = [
+    {
+      activityGroup: "General Trading",
+      activity: "Electronics Trading",
+      jurisdiction:
+        "Available in Mainland & Free Zones; Requires approval from Dubai Municipality & Customs Registration",
+    },
+    {
+      activityGroup: "Import & Export",
+      activity: "Foodstuff Trading",
+      jurisdiction:
+        "Available in Mainland & Free Zones; Requires Food Safety approval",
+    },
+  ];
 
   return (
     <div>
       <HeroHeader data={data?.homeHeader} />
       <Breadcrumb data={breadcrumb} />
-      <div className="container lg:grid grid-cols-3 gap-5">
-        <div className="col-span-2">
-          <LeftSection1 data={data?.leftSection_1} locale={locale} />
-          {!sec2 && <LeftSection2 data={data?.leftSection_2} locale={locale} />}
-          {!sec3 && <LeftSection3 data={data?.leftSection_3} locale={locale} />}
-          <LeftSection4 data={data?.leftSection_4} locale={locale} />
-          <LeftSection5 data={data?.leftSection_5} locale={locale} />
+      <div className="relative">
+        {/*  */}
+        <div className={`${locale ? "left-0" : "right-0"} absolute top-10 z-1`}>
+          <Image
+            src={
+              locale
+                ? "/assets/backGrounds/serviceBgar.svg"
+                : "/assets/backGrounds/serviceBgen.svg"
+            }
+            alt="bg image"
+            width={197}
+            height={1249}
+            className="w-auto h-auto object-contain"
+          />
         </div>
-        <div className="hidden lg:block col-span-1 h-fit secPadding space-y-6 sticky top-24">
-          <RightSection1 />
-          <RightForm />
-          <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
-          <RecentBlog />
-          {compare && <RightCompare />}
+        {/*  */}
+        <div className="container lg:grid grid-cols-3 gap-5 relative z-15">
+          <div className="col-span-2">
+            {table && <TableData columns={columns} data={tableData} />}
+            {!sec1 && (
+              <LeftSection1 data={data?.leftSection_1} locale={locale} />
+            )}
+            {!sec2 && (
+              <LeftSection2 data={data?.leftSection_2} locale={locale} />
+            )}
+            {!sec3 && (
+              <LeftSection3 data={data?.leftSection_3} locale={locale} />
+            )}
+            <LeftSection4 data={data?.leftSection_4} locale={locale} />
+            <LeftSection5 data={data?.leftSection_5} locale={locale} />
+          </div>
+          <div className="hidden lg:block col-span-1 h-fit secPadding space-y-6 sticky top-24">
+            <RightSection1 />
+            <RightForm />
+            <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
+            <RecentBlog />
+            {compare && <RightCompare />}
+          </div>
         </div>
       </div>
       <BgImageSec data={data?.leftSection_6} />

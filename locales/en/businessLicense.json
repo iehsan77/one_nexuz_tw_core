@@ -1,0 +1,307 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/businessLicense.webp",
+    "title": "Register, Get Licensed, and Go Live- All Under One Roof with One Nexuz",
+    "description": "Choosing the wrong business license in Dubai can cost you time, thousands of dollars, and lucrative business opportunities. At One Nexuz, our skilled experts match you with the best-fit business activities and UAE trade license to optimise your legal structure, unlock worldwide banking and flexible visa quotas, and enjoy instant global credibility."
+  },
+  "leftSection_1": {
+    "title": "Win Investor Trust, Build Client Confidence, and Scale Worldwide with a Business License ",
+    "description": "With a business license in hand, you can open bank accounts, sign contracts, sponsor visas, and trade confidently. So, why wait? Get your trade license today to tap into global markets and build trust with customers worldwide.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/businessLicense/left1/1.webp",
+        "title": "Enter Thriving UAE Markets, Expand Internationally, and Trade across Borders",
+        "subTitle": "Enter Thriving UAE Markets, Expand Internationally, and Trade across Borders",
+        "description": "Tap into the UAE’s profitable mainland, free zone, and offshore regions to scale your business and maximise profits"
+      },
+      {
+        "id": 2,
+        "image": "/assets/businessLicense/left1/2.webp",
+        "title": "Align with UAE Regulations, Pass Every Audit, and Protect Your Business Reputation",
+        "subTitle": "Align with UAE Regulations, Pass Every Audit, and Protect Your Business Reputation",
+        "description": "Operate legally under the UAE law and save millions of dirhams on non-compliance. Win instant brand trust and capture customers worldwide."
+      },
+      {
+        "id": 3,
+        "image": "/assets/businessLicense/left1/3.webp",
+        "title": "Stay Tax-Free, Enjoy Full Profit Repatriation, and Build Wealth Faster",
+        "subTitle": "Stay Tax-Free, Enjoy Full Profit Repatriation, and Build Wealth Faster",
+        "description": "Uplift your bottom line with 0% corporate and personal income tax and customs exemptions in numerous regions."
+      },
+      {
+        "id": 4,
+        "image": "/assets/businessLicense/left1/4.webp",
+        "title": "Build Stakeholder Trust, Secure High-Value Deals, and Strengthen Market Presence ",
+        "subTitle": "Build Stakeholder Trust, Secure High-Value Deals, and Strengthen Market Presence ",
+        "description": "Get the green light to trade, partner, hire, and bank with a globally recognised business license and build trust from day one."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_3": {
+    "title": "One Nexuz Aligns Your License with Your Business Goals Match Your Business to the Right Trade License with One Nexuz",
+    "description": "Connect with our seasoned business consultants to get matched with the ideal type of business license within seconds: ",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Commercial License ",
+        "description": "Sell, buy, import, and export goods worldwide by tapping into the UAE’s diverse markets.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Crypto & Web3 License",
+        "description": "Simplify cryptocurrency exchange, manage virtual assets, or offer Web3 consultancy.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Professional License",
+        "description": "Get full strategic ownership of your business with a DED-recognised professional license.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "E-commerce License",
+        "description": "Launch a custom-built online store with no warehouse or physical office requirements.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Freelancer Permit ",
+        "description": "Register as a UAE-certified freelancer and serve clients within and beyond the Emirates.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Industrial License ",
+        "description": "Manufacture, assemble, and package goods with the UAE’s innovative business facilities.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Professional License ",
+        "description": "Polish your professional skills and serve clients across the globe with minimal local operations.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Real Estate License ",
+        "description": "Build, manage, and diversify your client’s real estate portfolio with a DED-compliance license.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/businessLicense/left4/1.webp",
+      "title": "Launch in the World’s Most Profitable Business Hub ",
+      "description": "A UAE business license provides access to 0% tax, global investors, and full ownership. Our experts handle every step of the process, empowering you to scale from day one.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/businessLicense/left4/2.webp",
+      "title": "Your Business, Your License, Your Quote- Know Your Licensing Costs Upfront",
+      "description": "No hidden charges. No confusing add-ons. No last-minute surprises. We give you an upfront cost breakdown for your UAE business license, so you know exactly what you’re paying for!",
+      "btn": "Get a Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Get Licensed and Start Scaling with One Nexuz 5-Step License Process",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/businessLicense/left5/1.svg",
+        "title": "Book an Initial Consultation",
+        "description": "Our business license services begin with a comprehensive consultation, where we assess your unique business goals."
+      },
+      {
+        "id": 2,
+        "image": "/assets/businessLicense/left5/2.svg",
+        "title": "Secure Your Trade Name",
+        "description": "Next, we’ll recommend a jurisdiction, license type, and trade name that aligns with your selected business activities."
+      },
+      {
+        "id": 3,
+        "image": "/assets/businessLicense/left5/3.svg",
+        "title": "Collect Your Documents ",
+        "description": "Once the DED approves your trade name, we’ll help you compile, translate, and notarise all the necessary documents."
+      },
+      {
+        "id": 4,
+        "image": "/assets/businessLicense/left5/4.svg",
+        "title": "Submit Your Application",
+        "description": "With all the documents gathered, we’ll submit your business setup application and handle the government coordination. "
+      },
+      {
+        "id": 5,
+        "image": "/assets/businessLicense/left5/5.svg",
+        "title": "Issue Your Trade License",
+        "description": "Lastly, we’ll pay the licensing fees to secure your trade certificate and Emirates ID within 3-5 business days."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Trust One Nexuz to Secure a UAE Business License",
+    "description": "Navigating the UAE’s dynamic regulatory environment can feel overwhelming, with confusing portals, hidden fees, and unexpected delays. Our team simplifies the entire process, providing you with full support from day one to post-launch.",
+    "items": [
+      {
+        "title": "Accelerate Business Setup",
+        "description": "We expedite your licensing application through the right channels- no back-and-forths, helping you get licensed in days, not weeks. ",
+        "image": "/assets/businessLicense/bgImage/1.webp"
+      },
+      {
+        "title": "Avoid Rejections & Delays",
+        "description": "Incorrect license types or activity mismatches can delay your launch. Our dedicated consultants get it right from the start, minimising the risk of unexpected costs.",
+        "image": "/assets/businessLicense/bgImage/2.webp"
+      },
+      {
+        "title": "Receive End-to-End Support",
+        "description": "From trade name approvals to visas, our experts manage the entire process while you focus on scaling your business.",
+        "image": "/assets/businessLicense/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/businessLicense/grid/1.webp",
+    "title": "Your UAE Business License — Done Right from the Start",
+    "description": "Skip the confusion and paperwork. We take care of approvals, legal docs, and compliance so you can start operating with full peace of mind.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“I tried the Invest in Dubai portal and got stuck with activity codes. One Nexuz handled it in one call and got my license in 4 days.”",
+        "role": "Retail Business Owner",
+        "image": "/assets/businessLicense/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“They explained the pros and cons of Free Zone vs Mainland clearly — no pressure, just facts. I felt in control the whole time.”",
+        "role": "Tech Startup Founder",
+        "image": "/assets/businessLicense/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“Everything was handled — from my trade name to investor visa. The clarity and speed saved me weeks.”",
+        "role": "Wellness Coach",
+        "image": "/assets/businessLicense/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Build, Grow, and Scale across the UAE with One Nexuz ",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Activities Consultancy",
+        "description": "Get matched with the best-fit business activity from 500+ choices within seconds.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "UAE Residence Visa",
+        "description": "Live, work, and thrive in the heart of the Middle East with a UAE Residence visa",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Office Solutions",
+        "description": "Rent or lease a physical, smart desk, virtual, or co-working space based on your selected trade license.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Dual License",
+        "description": "Expand your reach across the Mainland, Offshore, and Free Zone with a dual license.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Business Plan Preparation ",
+        "description": "Drive business growth by 3X, build investor trust, and prevent cash burn with a business plan.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "PRO Services UAE ",
+        "description": "Fast-track licensing times, secure your visa, and more with our end-to-end PRO solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/businessLicense/grid/2.webp",
+    "title": "Don’t Let Setup Confusion Delay Your Launch – Get Licensed Today and Start Operating Risk-Free ",
+    "description": "Gain instant credibility and expand your business within and beyond the UAE with a globally recognised business license. With One Nexuz, you get expert guidance, faster turnarounds, and full transparency, empowering you to scale stress-free!",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Can I apply for a license without being in the UAE?",
+        "answer": "Yes! We offer 100% remote setup solutions with digital document handling and paperless options."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "What are the business license requirements in Dubai, UAE?",
+        "answer": "You’ll need copies of your passport, some basic business info, and approvals from government agencies."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Is it necessary to own a trade license to establish a business in Dubai, UAE?",
+        "answer": "Yes, you’ll need a trade license to setup and operate in the UAE fully compliant."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "How many types of business licenses are there in the UAE?",
+        "answer": "The Emirates offers diverse range of business licenses, including commercial, professional, industrial, agricultural, and tourist licenses, each tailored to uique business activities."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How long does a business license remain valid in Dubai?",
+        "answer": "The DED requires all businesses in the city to renew their trade license annually."
+      }
+    ]
+  }
+}
