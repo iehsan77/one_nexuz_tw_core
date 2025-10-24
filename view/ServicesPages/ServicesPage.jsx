@@ -25,7 +25,8 @@ import { usePathname } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import { getPageHierarchy } from "@/helpers/getBreadcrumb";
 import Image from "@/components/Image/Image";
-import TableData from "@/sections/ServicesSection/TableSec";
+import Table from "@/sections/ServicesSection/Table";
+import { tableData } from "@/mock/data";
 
 function ServicesPage({
   data,
@@ -39,27 +40,6 @@ function ServicesPage({
 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
-
-  const columns = [
-    { accessKey: "activityGroup", title: "Activity Group" },
-    { accessKey: "activity", title: "Activity" },
-    { accessKey: "jurisdiction", title: "Jurisdiction & Approvals" },
-  ];
-
-  const tableData = [
-    {
-      activityGroup: "General Trading",
-      activity: "Electronics Trading",
-      jurisdiction:
-        "Available in Mainland & Free Zones; Requires approval from Dubai Municipality & Customs Registration",
-    },
-    {
-      activityGroup: "Import & Export",
-      activity: "Foodstuff Trading",
-      jurisdiction:
-        "Available in Mainland & Free Zones; Requires Food Safety approval",
-    },
-  ];
 
   return (
     <div>
@@ -83,7 +63,7 @@ function ServicesPage({
         {/*  */}
         <div className="container lg:grid grid-cols-3 gap-5 relative z-15">
           <div className="col-span-2">
-            {table && <TableData columns={columns} data={tableData} />}
+            {table && <Table data={tableData} />}
             {!sec1 && (
               <LeftSection1 data={data?.leftSection_1} locale={locale} />
             )}

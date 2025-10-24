@@ -1,0 +1,250 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/insuranceAdvisoryCoverage.webp",
+    "title": "Mitigate Unexpected Losses, Protect Your Investments, and Get Tailored Coverage with Expert Insurance Brokers in Dubai ",
+    "description": "Spot blind spots, liability gaps, and compliance pitfalls to optimise costs, minimise risk exposure, and build stakeholder confidence with tailored policy consultancy, selection, and management. Our skilled insurance providers empower you with data-driven policy selection, faster claim resolution, and seamless insurance management solutions."
+  },
+  "leftSection_1": {
+    "title": "How Insurance Advisory Services Benefits Your UAE-Based Business",
+    "description": "Identify, assess, and manage business vulnerabilities and maximise your insurance investment with seasoned insurance advisors. Simplify comparison, selection, and purchase by allowing the pros to do all the heavy lifting.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/insuranceAdvisoryCoverage/left1/1.webp",
+        "title": "Streamline Paperwork, Make Smarter Policy Choices, and Save 11 Hours Per Employee With Expert Insurance Advisory ",
+        "subTitle": "Streamline Paperwork, Make Smarter Policy Choices, and Save 11 Hours Per Employee With Expert Insurance Advisory ",
+        "description": "Save time spent comparing policies, filling endless paperwork, and second-guessing every decision with strategic insurance advisory, scalable plans, and favourable terms."
+      },
+      {
+        "id": 2,
+        "image": "/assets/insuranceAdvisoryCoverage/left1/2.webp",
+        "title": "Attract, Recruit, & Retain Top Talent by Offering Competitive, Tailored Employee Insurance",
+        "subTitle": "Attract, Recruit, & Retain Top Talent by Offering Competitive, Tailored Employee Insurance",
+        "description": "Cultivate a positive workplace environment, foster employee loyalty, and boost retention through expert insurance advisory and well-designed plans."
+      },
+      {
+        "id": 3,
+        "image": "/assets/insuranceAdvisoryCoverage/left1/3.webp",
+        "title": "Protect Your Business From Unexpected Setbacks & Maintain Peak Operational Performance With Expert Support",
+        "subTitle": "Protect Your Business From Unexpected Setbacks & Maintain Peak Operational Performance With Expert Support",
+        "description": "Shield your business against unexpected financial hits with proactive risk assessments and mitigation. Minimise downtime and maximise business efficiency even in the face of claims or regulatory changes. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/insuranceAdvisoryCoverage/left1/4.webp",
+        "title": "Strengthen Credibility, Protect Your Assets, & Gain Stakeholder Confidence With Expert Corporate Insurance Solutions",
+        "subTitle": "Strengthen Credibility, Protect Your Assets, & Gain Stakeholder Confidence With Expert Corporate Insurance Solutions",
+        "description": "Foster brand trust and credibility with investors, partners, and customers through personalised corporate insurance advisory and strategic risk management."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Our Full Range of Insurance Advisory Services",
+    "description": "Gain total peace of mind knowing your business is 100% secure with our comprehensive corporate insurance consultancy solutions.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Business Insurance",
+        "description": "Protect your business against cyberattacks, lawsuits, and liability with tailored insurance plans.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Health Insurance",
+        "description": "Recruit and retain top talent worldwide with reliable, cost-efficient, and quality health insurance.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/insuranceAdvisoryCoverage/left4/1.webp",
+      "title": "Enhance Coverage, Minimise Risks, and Optimise Your Insurance Portfolio with One Nexuz’ Experts",
+      "description": "Get regular reviews, adjust, and refine your insurance plans to ensure optimal business protection and long-term financial stability.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/insuranceAdvisoryCoverage/left4/2.webp",
+      "title": "Custom Insurance Advisory Plans Tailored For Your Business",
+      "description": "Protect your business the smart way with custom coverage, competitive pricing, and zero wasted spend. Stay secure, compliant, and ready to scale",
+      "btn": "Book a Call",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Our Clear Roadmap To Get Business Insurance Coverage in the UAE",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/insuranceAdvisoryCoverage/left5/1.svg",
+        "title": "Book a Discovery Call ",
+        "description": "We’ll start with a brief consultation to discuss your business risks, coverage gaps, and unique requirements."
+      },
+      {
+        "id": 2,
+        "image": "/assets/insuranceAdvisoryCoverage/left5/2.svg",
+        "title": "Review & Compare",
+        "description": "Next, our insurance specialists will provide you with personalised suggestions aligned to your business needs."
+      },
+      {
+        "id": 3,
+        "image": "/assets/insuranceAdvisoryCoverage/left5/3.svg",
+        "title": "Choose, Finalise, & Pay ",
+        "description": "We’ll provide you with a tailored advisory plan to select the ideal insurance plan and streamline the payment. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/insuranceAdvisoryCoverage/left5/4.svg",
+        "title": "Get Round-the-Clock Support",
+        "description": "Lastly, we'll assist you in onboarding your team and offer 24/7 claims assistance to safeguard your business."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Protect Your Business with One Nexuz's Trusted Insurance Brokers ",
+    "description": "Unlock holistic corporate insurance plans, swift claims processing, and strategic financial advice at a fraction of the cost by partnering with our insurance specialists.",
+    "items": [
+      {
+        "title": "Access to Local Expertise",
+        "description": "Our certified advisors boast in-depth knowledge of the UAE's stringent insurance landscape, empowering you with flexible plans tailored to your risk profile and needs.",
+        "image": "/assets/insuranceAdvisoryCoverage/bgImage/1.webp"
+      },
+      {
+        "title": "Cut Insurance Costs by AED 1,000+ ",
+        "description": "Save thousands of dirhams by mitigating the risk of insufficient coverage plans, non-compliance, or inflated premiums with our licensed insurance brokers.",
+        "image": "/assets/insuranceAdvisoryCoverage/bgImage/2.webp"
+      },
+      {
+        "title": "Fast, Reliable, & Affordable ",
+        "description": "Reduce administrative burden, expedite claims, and simplify renewals at a fraction of the cost with our comprehensive insurance advisory solutions.",
+        "image": "/assets/insuranceAdvisoryCoverage/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/insuranceAdvisoryCoverage/grid/1.webp",
+    "title": "Optimise Employee Satisfaction with Insurance Consultancy",
+    "description": "Boost employee loyalty 1.3X with our personalised insurance packages aligned with your team's needs, fostering a happier, more productive workforce.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Our advisor simplified insurance for our growing startup. We now have comprehensive coverage that protects our team, intellectual property, and operations, giving us peace of mind to focus on scaling.",
+        "role": "Tech Startup Founder ",
+        "image": "/assets/insuranceAdvisoryCoverage/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "With expert guidance, we reduced insurance costs by 20% while expanding coverage across multiple locations. The advisory team made compliance and claims management effortless.",
+        "role": "Retail Chain CFO ",
+        "image": "/assets/insuranceAdvisoryCoverage/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Navigating UAE insurance regulations was overwhelming until we engaged the advisory team. They tailored policies for our projects, ensuring both employees and assets are fully protected.",
+        "role": "Construction Project Manager",
+        "image": "/assets/insuranceAdvisoryCoverage/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Unlock Business Success with Our Additional Services",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compliance Services",
+        "description": "Build business credibility with end-to-end compliance and certification services..",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Accounting Services",
+        "description": "Simplify payroll management, corporate tax structuring, and VAT filing with our specialists. ",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Business Solutions",
+        "description": "Validate product ideas and drive sustainable growth with our holistic business solutions..",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Legal Services ",
+        "description": "Shield your business against lawsuits and hefty fines with instant representation.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Operational Services ",
+        "description": "Win investor, stakeholder, & customer trust with strategic operational services.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/insuranceAdvisoryCoverage/grid/2.webp",
+    "title": "Cut Risk, Control Costs, and Secure Your Business with One Nexuz",
+    "description": "Attract top-tier talent, slash costs, and protect your business against operational disruptions with our custom insurance advisory solutions.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What is insurance advisory in the UAE?",
+        "answer": "Corporate insurance advisory consultancy involves a skilled insurance agent who provides personalised advice to a business or individual about the various insurance options to safeguard their business."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "How quickly can One Nexuz help set up insurance coverage?",
+        "answer": "Our expert insurance providers can arrange tailored insurance policy packages in as little as 48 hours once you submit all the necessary documents."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Can One Nexuz help me resolve insurance claims?",
+        "answer": "Absolutely! Our skilled insurance agents offer personalised guidance through the claim process to ensure quick, accurate, and cost-efficient settlements."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "What documents do I need to set up an insurance policy?",
+        "answer": "Generally, you’ll need a trade license, an Emirates ID, and basic financial documents to secure your insurance policy."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Does One Nexuz offer tailored insurance advice for different industries?",
+        "answer": "Yes, our certified business insurance agents boast in-depth knowledge of diverse industries, from e-commerce to automotive, empowering you with industry-specific recommendations."
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/legalServices.webp",
+    "title": "Handle Regulatory Challenges, Protect Your Brand Reputation, and Empower Your Business With One Nexuz' Expert Legal Services",
+    "description": "Fines, disputes, and regulatory traps can cost your business millions. Mitigate compliance risks, unlock tailored legal advice, and make data-driven business decisions with One Nexuz as your legal partner. Our team of accredited business lawyers delivers custom-built solutions designed to help you navigate and thrive in the UAE’s dynamic regulatory environment."
+  },
+  "leftSection_1": {
+    "title": "How Business Legal Services Empower Your Success",
+    "description": "Stay ahead of your competitors and maximise ROI in the UAE’s ever-evolving regulatory landscape with tailored corporate legal services. ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/legalServices/left1/1.webp",
+        "title": "Prevent Legal Pitfalls, and Keep Your Business Risk-Free with End-to-End Compliance & Advisory Services",
+        "subTitle": "Prevent Legal Pitfalls, and Keep Your Business Risk-Free with End-to-End Compliance & Advisory Services",
+        "description": "Mitigate risks before they become costly problems From navigating evolving regulations and managing tax obligations to reviewing contracts and ensuring proper corporate governance, we keep your business protected, audit-ready, and positioned for growth."
+      },
+      {
+        "id": 2,
+        "image": "/assets/legalServices/left1/2.webp",
+        "title": "Close Deals Confidently and Protect Your Business With Professional Contract Drafting and Risk-Proof Negotiations",
+        "subTitle": "Close Deals Confidently and Protect Your Business With Professional Contract Drafting and Risk-Proof Negotiations",
+        "description": "Our expert team ensures every agreement aligns with your business goals, remains fully compliant, and minimizes the risk of disputes. Focus on growth while we safeguard your interests at every step. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/legalServices/left1/3.webp",
+        "title": "Secure Trademarks, Patents, and Creative Assets & Prevent Unauthorised Use With Expert Litigation & Dispute Services",
+        "subTitle": "Secure Trademarks, Patents, and Creative Assets & Prevent Unauthorised Use With Expert Litigation & Dispute Services",
+        "description": "Ensure your business and creative assets remain fully protected. Our expert team handles disputes, enforces ownership rights, and monitors for potential infringements, so you can focus on innovation and growth without worrying about legal complications."
+      },
+      {
+        "id": 4,
+        "image": "/assets/legalServices/left1/4.webp",
+        "title": "Grow Your Team, Secure Funding, & Future-Proof Your Business with Expert Compliance Support",
+        "subTitle": "Grow Your Team, Secure Funding, & Future-Proof Your Business with Expert Compliance Support",
+        "description": "Our team provides guidance on legal structures, risk management, and strategic growth, giving you the confidence to expand operations, secure investors, and build a resilient foundation for long-term success."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Our Tailored Legal Services That Keep Your Business Compliant & Risk-Proof in the UAE ",
+    "description": "Close more deals, mitigate costly fines, and access expert advice with our end-to-end legal solutions.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Company Registration",
+        "description": "Compare regions and company structures to identify the best-fit legal entity.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Structuring & Restructuring",
+        "description": "Gain expert advice and custom-built company structures to unlock exciting tax benefits.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Company Liquidation & Deregistration",
+        "description": "Exit the UAE 100% compliant to ensure seamless closure and prevent liability risks.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Intellectual Property Rights Protection",
+        "description": "Safeguard your original content and creative work from copycats with IPR registration solutions.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Shareholder Agreement Drafting",
+        "description": "Define roles, rights, and equity with clear, enforceable agreements that protect all parties.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "HR Policy Drafting",
+        "description": "Safeguard your business and win employee confidence with clear, enforceable policies.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Board Resolution Drafting",
+        "description": "Simplify board decision-making with strategic resolutions prepared by trusted legal specialists.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/legalServices/left4/1.webp",
+      "title": "Shield Your Business with End-to-End Legal Expertise From One Nexuz",
+      "description": "One vague clause can cost you a client, a deal, or worse, a lawsuit. We lock down your contracts, legal structure, and compliance from day one so you’re always protected! ",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/legalServices/left4/2.webp",
+      "title": "Get Tailored Legal Solutions at a Price You Can Afford",
+      "description": "Your business deserves expert legal support without the hefty price tag. We tailor our services and prices that covers exactly what you need, staying compliant, and focusing on your business growth.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How One Nexuz  Helps Businesses Stay Legally Protected",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/legalServices/left5/1.svg",
+        "title": "Book a Free Audit ",
+        "description": "We’ll start with a quick discovery call to assess your unique business needs and existing risks. "
+      },
+      {
+        "id": 2,
+        "image": "/assets/legalServices/left5/2.svg",
+        "title": "Submit Key Business Info ",
+        "description": "Next, we provide a checklist to compile all the relevant documents, agreements, or business materials."
+      },
+      {
+        "id": 3,
+        "image": "/assets/legalServices/left5/3.svg",
+        "title": "Get a Custom Legal Plan",
+        "description": "After the documentation is complete, we tailor legal solutions with clear timelines, deliverables, and pricing to meet your business needs"
+      },
+      {
+        "id": 4,
+        "image": "/assets/legalServices/left5/4.svg",
+        "title": "Deliver Contract Drafts",
+        "description": "After preparing the initial drafts, we’ll share them with you and connect you directly with our experts for revisions, clarifications, and guidance, ensuring every contract aligns with your business needs."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Choose One Nexuz as Your Legal Partner",
+    "description": "Mitigate the risk of legal penalties, expensive lawsuits, and launch delays with expert legal support. We connect you with seasoned legal specialists to safeguard business interests and legal rights.",
+    "items": [
+      {
+        "title": "Enjoy Fast Turnaround Time",
+        "description": "Our team of expert lawyers delivers key documents in as little as 48 hours, empowering you to close deals and hire in half the time.",
+        "image": "/assets/legalServices/bgImage/1.webp"
+      },
+      {
+        "title": "Boost Business Growth",
+        "description": "Skip generic templates and incomprehensible legal jargon with our investor-ready contracts that protect your interests and accelerate growth.",
+        "image": "/assets/legalServices/bgImage/2.webp"
+      },
+      {
+        "title": "Get 24/7 Legal Support",
+        "description": "Enjoy peace of mind to scale in the UAE’s dynamic environment with tailored legal advice and instant court representation.",
+        "image": "/assets/legalServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/legalServices/grid/1.webp",
+    "title": "Save Up to AED 1 Million With Full Legal Compliance",
+    "description": "License violations, labour law breaches, and missed VAT deadlines can cost your millions of dirhams in fines.  Our legal experts help you stay fully compliant- no hefty fines, penalties, or lawsuits.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“We were launching across multiple free zones and the legal side felt overwhelming. One Nexuz broke everything down, handled the filings, and helped us avoid major delays.”",
+        "role": "Sustainable Retail Startup Co-Founder",
+        "image": "/assets/legalServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“Our investor due diligence almost stalled due to outdated contracts. The team at One Nexuz fixed it fast and gave us clean, audit-ready documentation that built trust instantly.”",
+        "role": "SaaS Platform Founder",
+        "image": "/assets/legalServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“I’ve worked with law firms that either overcomplicate or underdeliver—One Nexuz nailed the balance. Responsive, clear, and actually business-minded.”",
+        "role": "Creative & Experiential Marketing Owner",
+        "image": "/assets/legalServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Unlock Operational Peace of Mind with Expert-Led Solutions ",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compliance Services",
+        "description": "Stay competitive in the UAE’s booming industry with end-to-end compliance services.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Accounting Services",
+        "description": "Streamline your finances with accurate, timely, and fully compliant accounting and bookkeeping solutions. ",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Get strategic insurance advice and real-time coverage comparison to protect your business.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Business Solutions",
+        "description": "Drive business growth with strategic market entry, company travel, and local sponsor or partner solutions.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Operational Services",
+        "description": "Boost workplace productivity with strategic add-ons, including mail management to VR support.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/legalServices/grid/2.webp",
+    "title": "Empower Your Business With Expert Legal Guidance in Dubai",
+    "description": "Connect with our team of seasoned attorneys to access expert legal services in Dubai. Get strategic, business-focused advice tailored to your goals, helping you mitigate risks and make confident decisions.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Do I need a lawyer to start a business in the UAE?",
+        "answer": "While not legally required, having an expert lawyer ensures your business structure, contracts, and shareholder agreements are compliant with the relevant UAE laws."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can One Nexuz help me set up in a free zone or on the mainland?",
+        "answer": "Yes! Our professional team of lawyers specialises in all three regions- free zone, mainland, and offshore. So, we take the time to assess your business needs and suggest the best-fit jurisdiction."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Do you review existing legal contracts?",
+        "answer": "Absolutely. Our contract review services encompass both existing and future agreements."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Do you offer ongoing legal support for UAE-based businesses?",
+        "answer": "Yes, we provide enterprise-level legal solutions to help you stay compliant as you grow."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How long does it take to draft a legal document?",
+        "answer": "Most business contracts and agreements take 2-4 weeks to complete, depending on the requirements and complexity. "
+      }
+    ]
+  }
+}

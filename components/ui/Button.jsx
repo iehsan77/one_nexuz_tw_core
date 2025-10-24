@@ -4,7 +4,6 @@
 import React from "react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
-import { InlineIcon } from "@iconify/react";
 
 const Button = React.forwardRef(
   (
