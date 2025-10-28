@@ -30,11 +30,28 @@ function LeftSection1({ data, locale }) {
         <motion.div
           className={`${
             locale ? "md:ml-10 md:border-l" : "md:mr-10 md:border-r"
-          } md:px-8 md:py-18 bg-transparent md:bg-primaryLight border-[#CCCCCC]`}
+          } md:px-8 md:py-18 bg-transparent md:bg-primaryLight relative border-[#CCCCCC]`}
           initial={{ opacity: 0, x: locale ? 50 : -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}>
-          <div className="space-y-4 md:space-y-6">
+          {/*  */}
+          <div
+            className={`${
+              locale ? "left-0" : "right-0"
+            } hidden md:block absolute bottom-0 z-5`}>
+            <Image
+              src={
+                locale
+                  ? "/assets/backGrounds/leftSec1Ar.svg"
+                  : "/assets/backGrounds/leftSec1En.svg"
+              }
+              alt="bg image"
+              width={216}
+              height={565}
+            />
+          </div>
+          {/*  */}
+          <div className="space-y-4 md:space-y-6 relative z-15">
             {data?.items?.map((item) => (
               <motion.div
                 key={item?.id}

@@ -1,0 +1,285 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/247TechSupport.webp",
+    "title": "Boost Customer Satisfaction with Personalised 24/7 IT Support Services",
+    "description": "Cut IT overheads, reclaim hours of lost productivity, and prevent over 90% of issues before they snowball out of control with proactive 24/7 IT support. Our certified IT experts provide round-the-clock monitoring and fast ticket resolution to minimise operational disruptions and maximise productivity."
+  },
+  "leftSection_1": {
+    "title": "Why UAE-Based Businesses Need 24/7 Tech Support ",
+    "description": "Safeguard your business against breaches and malevolent viruses with proactive IT monitoring and maintenance solutions.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/247TechSupport/left1/1.webp",
+        "title": "Save Millions on Unplanned Downtime",
+        "subTitle": "Save Millions on Unplanned Downtime",
+        "description": "Recover over AED10 billion lost on unscheduled IT outages with proactive tech support solutions to maximise workplace productivity."
+      },
+      {
+        "id": 2,
+        "image": "/assets/247TechSupport/left1/2.webp",
+        "title": "Retain Over 90% of Customers",
+        "subTitle": "Retain Over 90% of Customers",
+        "description": "Captivate your target audience, improve customer satisfaction, and foster loyalty by delivering seamless online experiences."
+      },
+      {
+        "id": 3,
+        "image": "/assets/247TechSupport/left1/3.webp",
+        "title": "Cut Downtime by 80%",
+        "subTitle": "Cut Downtime by 80%",
+        "description": "Slash monthly downtime and save 3+ hours per employee with 24/7 IT services, network maintenance, and robust disaster recovery plans. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/247TechSupport/left1/4.webp",
+        "title": "Double Your Revenue ",
+        "subTitle": "Double Your Revenue ",
+        "description": "Accelerate issue resolutions and ensure business continuity with professional tech support solutions, and expedite revenue growth."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Our Holistic 24/7 IT Support Services",
+    "description": "Mitigate the risk of costly operational disruptions with our full range of IT support solutions:",
+    "items": [
+      {
+        "id": 1,
+        "title": "24/7 Monitoring & Alerts",
+        "description": "Spot issues before they grow complex with real-time tracking of your entire IT infrastructure.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Unlimited Remote Support",
+        "description": "Get expert assistance for day-to-day tech issues via call, email, or chat.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "On-Site Support",
+        "description": "Struggling with complex issues? Our experts offer swift on-site support- no delays, no excuses.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Proactive Maintenance & Patch Management",
+        "description": "Schedule updates and system health checkups to keep your network secure and up-to-date.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Backup & Disaster Recovery",
+        "description": "Protect your business against data loss with automatic backups and quick restore options.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Cloud & Email Support",
+        "description": "Get round-the-clock support for Microsoft 365 and remote productivity tools.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Asset & License Management",
+        "description": "Track hardware lifecycles and software licenses to keep your systems compliant and optimised.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Monthly Reports & IT Reviews",
+        "description": "Enjoy transparent reporting on tickets, performance, and recommendations.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/247TechSupport/left4/1.webp",
+      "title": "Don’t Wait for a Crash to Seek IT Help",
+      "description": "One IT failure can cost AED 23 million in lost revenue. Our proactive IT monitoring, firewall maintenance, and rapid response prevent downtime before it strikes!",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/247TechSupport/left4/2.webp",
+      "title": "Compare 24/7 Tech Support Service Costs",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Get Expert Tech Support Services for Enterprises in 4 Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/247TechSupport/left5/1.svg",
+        "title": "Free IT Audit",
+        "description": "We start with a full audit of your existing IT infrastructure and tech systems to identify vulnerabilities."
+      },
+      {
+        "id": 2,
+        "image": "/assets/247TechSupport/left5/2.svg",
+        "title": "Get a Tailored Support Plan",
+        "description": "Based on your unique business needs, we provide a custom-tailored 24/7 tech support strategy."
+      },
+      {
+        "id": 3,
+        "image": "/assets/247TechSupport/left5/3.svg",
+        "title": "Enjoy Seamless Onboarding",
+        "description": "We integrate with your systems, train your staff, and set up monitoring tools without disrupting daily operations."
+      },
+      {
+        "id": 4,
+        "image": "/assets/247TechSupport/left5/4.svg",
+        "title": "Receive Instant Support",
+        "description": "Our certified engineers monitor your systems in real-time, resolving issues instantly to secure your business data."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Choose One Nexuz for Business Tech Support Services?",
+    "description": "Stop losing hours to slow systems, surprise outages, and reactive support with expert-led IT solutions. Our round-the-clock tech support services keeps your business online and protected- day and night.",
+    "items": [
+      {
+        "title": "All-in-One IT Solutions",
+        "description": "Get enterprise-grade firewall management, threat detection, and full-stack support under one roof to reduce daily interruptions and wait times.",
+        "image": "/assets/247TechSupport/bgImage/1.webp"
+      },
+      {
+        "title": "Fast Response, Every Time",
+        "description": "We resolve tickets 3x faster, taking less than 15 minutes and mitigating the risk of downtime, frustration, and lost productivity.",
+        "image": "/assets/247TechSupport/bgImage/2.webp"
+      },
+      {
+        "title": "Up to 70% Cost Reduction",
+        "description": "Get professional full-stack support for a fraction of the cost and redirect your budget where it matters the most. ",
+        "image": "/assets/247TechSupport/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/247TechSupport/grid/1.webp",
+    "title": "Cut IT Costs Without Sacrificing Top-Tier Support",
+    "description": "Save millions of dirhams spent on hiring, training, and monitoring an in-house tech team with our expert 24/7 IT solutions. Get our scalable tech support services at half the cost and get round-the-clock protection.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Their support team is always one step ahead. Since onboarding, we haven’t had a single hour of downtime.”",
+        "role": "Logistics Firm Co-owners",
+        "image": "/assets/247TechSupport/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“We cut our IT costs nearly in half and redirected that budget to client acquisition. Huge impact on growth.”",
+        "role": "Creative Agency Director",
+        "image": "/assets/247TechSupport/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“The onboarding was smooth, the team is fast, and our staff love how quick support is now. Big upgrade from our old provider.”",
+        "role": "Law Consultancy Owner",
+        "image": "/assets/247TechSupport/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Power Your Digital Infrastructure with Our Digital Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Domain Name & DNS Management",
+        "description": "Register, manage, and update your domain & DNS settings with expert-led support.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Web Hosting Services",
+        "description": "Deliver unmatched customer experiences with professional web hosting.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Office 365 Subscription",
+        "description": "Boost team connectivity and productivity with an Office 365 subscription.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Hosted Email Exchange",
+        "description": "Streamline workplace communication with robust, secure, and auto-synced hosted mail.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "IT Services",
+        "description": "Secure your business against cyberattacks with a tailored IT infrastructure and 24/7 monitoring.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/247TechSupport/grid/2.webp",
+    "title": "Get Proactive Tech Support Anytime, Anywhere",
+    "description": "Downtime costs money, frustrates teams, and hurts your reputation. Our expert IT consultants prevent all this and eliminate stress with real-time IT support, so you stay protected, productive, and ahead of the curve. ",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}

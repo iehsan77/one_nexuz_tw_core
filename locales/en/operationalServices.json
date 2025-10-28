@@ -1,0 +1,292 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/operationalServices.webp",
+    "title": "From IT Support to Logistics, HR to Government Tenders— Gain Full 360° Control of Your Operations",
+    "description": "Drowning in bureaucracy, vendor chaos, IT roadblocks, or HR headaches? At One Nexuz, our local experts simplify every operational hurdle, eliminate tech bottlenecks, and streamline compliance, so you can focus on what really matters- growing your business. Maximise workplace efficiency, minimise operational risks, cut administrative overheads, and automate everyday tasks to drive limitless business growth."
+  },
+  "leftSection_1": {
+    "title": "Operational Excellence That Drives Productivity, Compliance, and Business Growth",
+    "description": "Stay ahead of the curve and optimise business performance with holistic operational support services. By simplifying your operations and outsourcing mundane tasks, you can focus on scaling confidently.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/operationalServices/left1/1.webp",
+        "title": "From Manual Chaos to Streamlined Operations — Save Time and Resources",
+        "subTitle": "From Manual Chaos to Streamlined Operations — Save Time and Resources",
+        "description": "Cut down administrative overheads by over 40% by outsourcing repetitive operational tasks, such as HR, payroll, and document management. Minimise manual errors, boost workplace productivity, and optimise resource allocation."
+      },
+      {
+        "id": 2,
+        "image": "/assets/operationalServices/left1/2.webp",
+        "title": "Streamline Mail, Logistics, and Supplier Management to Save Time and Scale Effortlessly",
+        "subTitle": "Streamline Mail, Logistics, and Supplier Management to Save Time and Scale Effortlessly",
+        "description": "Reclaim 10+ hours a week on administrative tasks, ensure timely shipments, and never lose an important document again with end-to-end courier and logistics coordination, mail handling, and supplier management. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/operationalServices/left1/3.webp",
+        "title": "Secure, Connect, and Scale Your UAE Business with Flexible IT Solutions",
+        "subTitle": "Secure, Connect, and Scale Your UAE Business with Flexible IT Solutions",
+        "description": "Protect your business against cyber threats, optimise team collaboration, improve workplace communication, and scale effortlessly as your UAE operations grow. Gain a competitive edge and total peace of mind knowing your IT infrastructure is secure, reliable, and scalable. "
+      },
+      {
+        "id": 4,
+        "image": "/assets/operationalServices/left1/4.webp",
+        "title": "Streamline Vendor, Tender, and Procurement Processes to Accelerate Growth and Reduce Risk  ",
+        "subTitle": "Streamline Vendor, Tender, and Procurement Processes to Accelerate Growth and Reduce Risk  ",
+        "description": "Win government contracts, build stakeholder trust, and unlock lucrative business opportunities by streamlining vendor and tender registration. Ensure compliance, prevent costly mistakes, and maximise every tender for seamless growth."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Power Business Success with Our Comprehensive Operational Services",
+    "description": "Eliminate workflow bottlenecks, foster team collaboration, and unlock your business's potential with our all-in-one operational services.",
+    "items": [
+      {
+        "id": 1,
+        "title": "IT Services",
+        "description": "Safeguard confidential data, minimise operational downtime, and streamline communication with our top-tier IT solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Mail Management",
+        "description": "Save 2+ hours/employee by outsourcing incoming and outgoing mail handling, sorting, and tracking to our pros.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Virtual Receptionist",
+        "description": "Make a fantastic first impression, double leads, and build customer loyalty with customised virtual receptionist services.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "HR & Recruitment Assistance",
+        "description": "Attract, recruit, and retain top talent worldwide, simplify onboarding, and cut down employee turnover by 55% with our expert HR solutions.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Document Management & Filing Services",
+        "description": "Organise, store, and retrieve vital documents effortlessly, reduce clutter, and boost efficiency with secure document management solutions.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Logistics & Courier Coordination",
+        "description": "Slash shipment delays, build stakeholder trust, and coordinate deliveries seamlessly with end-to-end logistics and courier support.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Procurement Support",
+        "description": "Monitor your supply chain in real-time, strengthen supplier trust, and optimise procurement workflows with our local specialists.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Supplier & Vendor Registration Support",
+        "description": "Streamline vendor onboarding, stay compliant, and gain a competitive edge with end-to-end supplier & vendor registration support.",
+        "url": "#"
+      },
+      {
+        "id": 9,
+        "title": "Government Tender Registration Assistance",
+        "description": "Win lucrative contracts, bid for government projects, and unlock exciting business opportunities with tender registration support.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/operationalServices/left4/1.webp",
+      "title": "Grow Faster & Scale Smarter with Our All-in-One Operational Solutions",
+      "description": "From day-to-day tasks to strategic operational support, we do all the heavy-lifting so you can  focus on expanding your reach, amplifying your reach, and maximising productivity.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/operationalServices/left4/2.webp",
+      "title": "Know Your Operational Costs Upfront- Get a Custom Quote Designed Around Your Needs",
+      "description": "Simplify your business operations with tailored support for everything, from mail management and virtual receptionists to logistics and procurement. Get in touch today and receive a personalised quote custom-built to match your business goals.",
+      "btn": "Get Your Free Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How We Simplify Your Business Operations in 4 Easy Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/operationalServices/left5/1.svg",
+        "title": "Understand Your Unique Needs",
+        "description": "We start by assessing your business operations to identify internal bottlenecks, compliance challenges, and inefficiencies. This ensures every solution is custom-built to help you save time, cut errors, and maximise growth."
+      },
+      {
+        "id": 2,
+        "image": "/assets/operationalServices/left5/2.svg",
+        "title": "Design a Custom Operational Solution",
+        "description": "Based on the initial assessment, we craft a comprehensive plan that optimises every aspect of your business, empowering you with secure, reliable, and scalable processes aligned to your goals."
+      },
+      {
+        "id": 3,
+        "image": "/assets/operationalServices/left5/3.svg",
+        "title": "Implement and Streamline ",
+        "description": "Next, we take over day-to-day operational tasks, streamlining processes, coordinating suppliers, and managing logistics to streamline workflows, improve team efficiency, and reinvent workplace productivity."
+      },
+      {
+        "id": 4,
+        "image": "/assets/operationalServices/left5/4.svg",
+        "title": "Monitor, Refine, and Optimise",
+        "description": "Finally, through continuous monitoring and proactive support, we ensure your business operations stay compliant and scalable, allowing you to optimise resource allocation and unlock strategic business growth."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why UAE Businesses Trust One Nexuz to Power Seamless Growth ",
+    "description": "Operational bottlenecks, repetitive admin work, and compliance headaches can slow growth and drain resources. At One Nexuz, our seasoned business consultants boast the local expertise necessary to simplify operations and scale stress-free. ",
+    "items": [
+      {
+        "title": "Local Expertise, Global Standards",
+        "description": "With over a decade of on-ground experience, our expert consultants have the skills and knowledge to help you streamline operations, optimise procurement, and scale efficiently.",
+        "image": "/assets/operationalServices/bgImage/1.webp"
+      },
+      {
+        "title": "End-to-End Operational Support",
+        "description": "Forget juggling multiple vendors and chasing missed deadlines. From IT and HR to VR and mail management assistance, we handle it all under one roof, so you can focus on expanding.",
+        "image": "/assets/operationalServices/bgImage/2.webp"
+      },
+      {
+        "title": "Technology that Works for You",
+        "description": "We blend cutting-edge technology with in-depth human expertise to streamline workflows, eliminate errors, and improve workplace performance - with total visibility and zero hassle.",
+        "image": "/assets/operationalServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/operationalServices/grid/1.webp",
+    "title": "Unlock 25%+ Cost Savings & Slash Admin Time by 40% with Our Operational Solutions",
+    "description": "Take advantage of our integrated operational solutions, including HR, document and mail management,virtual receptionist, and IT support, to automate daily tasks, improve accuracy, and ensure compliance.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Partnering with their operational services completely transformed the way we manage logistics and vendor coordination. We save hours every week and can finally focus on growing our business.",
+        "role": "E-commerce Operations Manager",
+        "image": "/assets/operationalServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Their IT and HR support made scaling our UAE operations seamless. Compliance, payroll, and recruitment are now effortless, and our team productivity has improved significantly.",
+        "role": "Technology Startup Founder",
+        "image": "/assets/operationalServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Outsourcing document management, mail handling, and procurement support has reduced errors and operational stress. We now operate more efficiently and can take on more clients confidently.",
+        "role": "Consulting & Advisory CFO",
+        "image": "/assets/operationalServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Discover More Ways One Nexuz Helps You Thrive ",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Compliance Services",
+        "description": "Save AED 10,000+ in non-compliance and stay up-to-date with the UAE’s fast-evolving regulations with our compliance solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Accounting Services",
+        "description": "Maintain accurate books, streamline salary disbursements, and ensure FTA compliance with our holistic accounting solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Insurance Advisory & Coverage",
+        "description": "Build business resilience, attract top talent, and optimise employee retention with personalised insurance plans.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Business Solutions",
+        "description": "Create a fantastic first impression, foster stakeholder trust, and validate product viability with our comprehensive business solutions.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Legal Services",
+        "description": "Enter, operate, and exit the UAE fully compliant, draft strategic policies, and secure your business's interests with expert legal support.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/operationalServices/grid/2.webp",
+    "title": "Ready to Take Your UAE Business to the Next Level?",
+    "description": "Don't let administrative chaos hold you back. Partner with One Nexuz and streamline every process, from IT and HR to procurement and compliance, driving growth, boosting productivity, and empowering your team to focus on scaling your business. ",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "How can outsourcing operational tasks save time and money?",
+        "answer": "By delegating repetitive tasks like HR, payroll, mail, and logistics, your team can reclaim hours each week, minimise errors, and focus on core business activities."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Why is mail management and courier coordination critical for my UAE business?",
+        "answer": "Expert mail management and courier coordination solutions can help you stay on top of outgoing and incoming mail, ensure you never miss out on another essential business document, and simplify team relocation."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Are your operational services suitable for small businesses and solopreneurs?",
+        "answer": "Absolutely! Our operational services are 100% customisable and tailored to match your unique business needs and goals. With our flexible solutions, solopreneurs, freelancers, and small to mid-sized businesses can minimise overheads, automate daily tasks, and focus on scaling"
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can outsourcing operational services improve customer satisfaction?",
+        "answer": "Yes, structured workflows, accurate record-keeping, and expert oversight can help minimise errors in HR, payroll, document management, and tender submissions."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How can I ensure my business operations remain scalable as my business grows?",
+        "answer": "We provide flexible, agile operational support that adapts to your business as it grows, creating repeatable, efficient processes that make expansion smoother and less resource-intensive."
+      }
+    ]
+  }
+}

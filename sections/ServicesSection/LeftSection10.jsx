@@ -1,3 +1,4 @@
+import Image from "@/components/Image/Image";
 import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
 import { Icon } from "@iconify/react";
@@ -6,11 +7,21 @@ import React from "react";
 function LeftSection10({ data, locale }) {
   return (
     <div className="secPadding bg-primaryLight">
-      <div className="container space-y-6">
+      <div className="container space-y-6 relative">
+        {/*  */}
+        <div className="absolute bottom-0 right-0">
+          <Image
+            src="/assets/backGrounds/leftSec10Bg.svg"
+            alt="bg image"
+            width={952}
+            height={376}
+          />
+        </div>
+        {/*  */}
         <Typography size="3xl" weight="bold" as="p">
           {data?.title}
         </Typography>
-        <div className="grid xs:grid-cols-2 md:grid-cols-3 gap-5">
+        <div className="grid xs:grid-cols-2 md:grid-cols-3 gap-5 relative z-15">
           {data?.items?.map((item) => (
             <div
               key={item?.id}
