@@ -41,7 +41,7 @@ export default async function Page({ params }) {
         sec1={true}
         sec2={true}
         sec3={true}
-        table={true}
+        businessActivitiesTable={true}
       />
     </Suspense>
   );

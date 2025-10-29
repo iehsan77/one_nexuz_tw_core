@@ -1,0 +1,293 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/escrowAccountAssistance.webp",
+    "title": "From Deal Negotiation to Final Closing, Secure Every Transaction with Expert Escrow Account Assistance ",
+    "description": "Worried about payment fraud, missed deadlines, or compliance disputes? Safeguard high-value transactions, protect your reputation, and build credibility with One Nexuz’s strategic multi-cur rency escrow accounts. Access and track global transactions anytime, anywhere, streamlining transactions, improving transparency, reducing disputes, and creating confidence for all parties involved. "
+  },
+  "leftSection_1": {
+    "title": "Secure High-Value Transfers, Build Instant Trust, and Close Multi-Million Deals with Confidence ",
+    "description": "Mitigate costly disputes, fraud, and legal action with innovative escrow account services. Foster instant stakeholder trust, boost security, and close deals confidently with expert agents by your side.  ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/escrowAccountAssistance/left1/1.webp",
+        "title": "Secure Multi-Currency Transactions, Lock in FX Rates, and Boost Your Profitability ",
+        "subTitle": "Secure Multi-Currency Transactions, Lock in FX Rates, and Boost Your Profitability ",
+        "description": "Preserve your wealth by joining nearly 60% of global trade dealers using escrow to safeguard payment integrity and slash processing times. "
+      },
+      {
+        "id": 2,
+        "image": "/assets/escrowAccountAssistance/left1/2.webp",
+        "title": "Simplify Cross-Border Transactions, Win Stakeholder Confidence, and Close Deals Confidently ",
+        "subTitle": "Simplify Cross-Border Transactions, Win Stakeholder Confidence, and Close Deals Confidently ",
+        "description": "Unlock competitive returns on local and foreign currencies, including USD, GBP, AED, & SAR, to save thousands on wire transfers."
+      },
+      {
+        "id": 3,
+        "image": "/assets/escrowAccountAssistance/left1/3.webp",
+        "title": "Combat Digital Payment Fraud, Build Your Reputation, and Safeguard Every Transaction",
+        "subTitle": "Combat Digital Payment Fraud, Build Your Reputation, and Safeguard Every Transaction",
+        "description": "Cut fraud rates by over 65% with regulated escrow accounts. Buy, sell, and trade seamlessly across borders with real-time tracking and strategic cash management."
+      },
+      {
+        "id": 4,
+        "image": "/assets/escrowAccountAssistance/left1/4.webp",
+        "title": "Minimise Risk Exposure, Preserve Your Assets, and Ensure 100% Compliance  ",
+        "subTitle": "Minimise Risk Exposure, Preserve Your Assets, and Ensure 100% Compliance  ",
+        "description": "Minimise the risk of scams and disputes with transparent transaction timelines, defined release conditions, and a neutral third-party to hold all assets."
+      }
+    ]
+  },
+  "leftSection_3": {
+    "title": "Explore Our Full Range of Business Escrow Account Services",
+    "description": "Hold and protect your funds in a secure, proactive structure with our holistic escrow account services in the UAE.",
+    "btn": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Real Estate Escrow ",
+        "description": "Protect property transactions by holding funds until all legal obligations are met.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "M&A & Corporate Escrow",
+        "description": "Safeguard high-value mergers & acquisitions with structured payouts.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Project & Construction Escrow ",
+        "description": "Build contractors, suppliers, and developers' trust with a secure escrow account.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "E-commerce & Marketplace Escrow",
+        "description": "Enjoy safe and reliable digital transactions with strategic escrow services.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Cross-Border Trade Escrow",
+        "description": "Simplify cross-border transactions with secure multi-currency accounts.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Software & IP Escrow",
+        "description": "Protect your creative assets with predefined business continuity contracts.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/escrowAccountAssistance/left4/1.webp",
+      "title": "^Slash Legal Disputes by 30%^ with One Nexuz’s Expertise",
+      "description": "Reduce buyer-seller disputes by over 30% with regulated e-commerce escrow accounts structured to mitigate risks. Use escrow to protect your reputation and customer trust.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/escrowAccountAssistance/left4/2.webp",
+      "title": "Secure Deals without Overpaying — Get a Custom Escrow Solution That Fits Your Needs",
+      "description": "No hidden fees, no unnecessary complexity, no surprises.  Every escrow account setup is tailored to the exact transaction — whether for property sales, major projects, or cross-border deals. Pay only for the services required, exactly when they’re needed.",
+      "btn": "Get Your Custom Quote",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How One Nexuz Secures Your Transactions in 4 Easy Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/escrowAccountAssistance/left5/1.svg",
+        "title": "Define the Agreement",
+        "description": "We’ll start with a brief call to understand your account needs, define the transaction terms, and establish the payment conditions."
+      },
+      {
+        "id": 2,
+        "image": "/assets/escrowAccountAssistance/left5/2.svg",
+        "title": "Deposit Funds Securely",
+        "description": "Next, the buyer deposits funds into our regulated escrow account, where we hold them until all agreed-upon conditions are met."
+      },
+      {
+        "id": 3,
+        "image": "/assets/escrowAccountAssistance/left5/3.svg",
+        "title": "Verify & Approve Conditions",
+        "description": "Throughout the process, our escrow specialists verify that all agreed milestones, deliveries, or obligations have been fulfilled, protecting both parties."
+      },
+      {
+        "id": 4,
+        "image": "/assets/escrowAccountAssistance/left5/4.svg",
+        "title": "Release Funds with Confidence",
+        "description": "Once the conditions are met, we release the funds to the seller quickly and securely- closing the deal with total transparency."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why One Nexuz is Your Trusted Escrow Partner ",
+    "description": "Without an escrow account, you risk losing buyer confidence, costly data breaches, and legal disputes over unmet payment obligations. Our certified escrow agents offer custom-built structures designed to increase transaction security.",
+    "items": [
+      {
+        "title": "Faster, Smarter, & More Secure",
+        "description": "Process transactions and settle disputes 25% faster with our digital escrow solutions. Safeguard funds and automate compliance checks to expedite deal closure.",
+        "image": "/assets/escrowAccountAssistance/bgImage/1.webp"
+      },
+      {
+        "title": "Maximise Interest Earning ",
+        "description": "Turn idle funds into earning assets with our strategic escrow account structuring. Earn thousands in interest without lifting a finger.",
+        "image": "/assets/escrowAccountAssistance/bgImage/2.webp"
+      },
+      {
+        "title": "Manage Risks Proactively",
+        "description": "Our skilled escrow agents empower you with tailored risk mitigation strategies, securing international transactions, expediting negotiations, and ensuring 100% compliance.",
+        "image": "/assets/escrowAccountAssistance/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/escrowAccountAssistance/grid/1.webp",
+    "title": "Speed Up Every Transaction by 42% with One Nexuz Support",
+    "description": "Expedite global transactions with seamless digital escrow services, involving API automation and real-time tracking. Partner with us today to get funds released faster with precision and compliance.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Working with One Nexuz as our escrow agent gave us complete peace of mind. Every transaction was transparent, secure, and perfectly documented, which helped us close our deal without a single hiccup.",
+        "role": "Real Estate Developer",
+        "image": "/assets/escrowAccountAssistance/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Before One Nexuz, we were always worried about payment security. Their escrow service ensured our funds were protected until project milestones were met, saving us from potential losses.",
+        "role": "Construction Company Owner",
+        "image": "/assets/escrowAccountAssistance/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "One Nexuz handled our escrow process with unmatched professionalism. They coordinated with all parties, ensured compliance, and made the entire experience stress-free.",
+        "role": "International Investor",
+        "image": "/assets/escrowAccountAssistance/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Build, Diversify, and Protect Your Wealth with One Nexuz",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Golden Visa UAE",
+        "description": "Unlock long-term residency in the UAE and gain unrestricted access to exciting local facilities.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Second Citizenship",
+        "description": "Gain dual citizenship and travel to 150+ countries worldwide through qualifying donations.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Wealth Management Services",
+        "description": "Preserve and amplify your wealth by tapping into exclusive market insights and financial advice.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Office Setup",
+        "description": "Simplify succession planning and diversify your wealth with strategic, custom-built family offices. ",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Family Foundation & Trust",
+        "description": "Protect your wealth, secure assets, and create a lasting legacy with strategic family foundations and trusts.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Asset Protection",
+        "description": "Build, diversify, and preserve a global portfolio, simplify succession planning, and transfer wealth seamlessly. ",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Private Office",
+        "description": "Improve focus, boost employee engagement, and optimise workplace productivity with custom-built private offices.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Will & Trust",
+        "description": "Secure your loved one’s future, minimise the risk of legal disputes, and plan inheritance distribution with our attorneys.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/escrowAccountAssistance/grid/2.webp",
+    "title": "Lock in Customer Trust, Sell Faster, & Drive Business Growth with One Nexuz ",
+    "description": "Hold, diversify, and transfer your assets worldwide with our secure and trusted escrow account services, minimising fraud and non-performance risks and empowering you with total peace of mind.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore More Services",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What is escrow account assistance for international trade?",
+        "answer": "Escrow account services are structures set up by a skilled escrow agent with the buyer and seller as joint account holders to secure and expedite the payment and delivery of funds or assets."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "What are the benefits of escrow account assistance?",
+        "answer": "An escrow account agent acts as a neutral third-party to hold your wealth until all conditions are met, empowering you to close deals more confidently."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Who needs an escrow account in the UAE?",
+        "answer": "An escrow account is ideal for individuals involved in high-value transactions, such as real estate purchases, mergers, and acquisitions, import/export deals, or large service contracts, offering secure fund holding and risk mitigation."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can I withdraw my money from an escrow account?",
+        "answer": "You can withdraw money from your escrow account only if all parties involved agree or if the escrow agent believes all conditions are met."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Who will be the owner of the escrow account?",
+        "answer": "Generally, the owner of an escrow account is the individual who deposits and is referred to as the ‘depositer’ or ‘principal.'"
+      }
+    ]
+  }
+}

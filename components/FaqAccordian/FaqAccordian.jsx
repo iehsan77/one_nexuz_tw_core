@@ -74,7 +74,9 @@ const AccordionItem = ({
                   ? "scale-100 opacity-100 max-h-screen pt-4"
                   : "scale-50 opacity-0 max-h-0 p-0"
               }`}>
-              <Typography color="white">{content}</Typography>
+              <Typography color="white" className="text-start">
+                {content}
+              </Typography>
               {/* List Section */}
               {list?.items?.length > 0 && (
                 <div className="space-y-2">

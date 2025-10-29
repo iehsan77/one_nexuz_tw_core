@@ -6,7 +6,7 @@ import React from "react";
 
 function LeftSection10({ data, locale }) {
   return (
-    <div className="secPadding bg-primaryLight">
+    <div className="secPadding bg-primaryLight overflow-hidden">
       <div className="container space-y-6 relative">
         {/*  */}
         <div className="absolute bottom-0 right-0">

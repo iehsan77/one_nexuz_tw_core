@@ -1,0 +1,250 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/secondCitizenship.webp",
+    "title": "Diversify Your Assets, Safeguard Your Family’s Legacy, Gain Global Mobility with a Second Citizenship",
+    "description": "Worried about political instability, restrictive travel, or unpredictable tax regimes tying your hands? One Nexuz empowers you to preserve your wealth, diversify your assets, and secure your loved one’s future with dual citizenship programs by investment. Our experts help you minimise tax liabilities, discover lucrative investment opportunities, and travel visa-free across the world through fund donations or property acquisition."
+  },
+  "leftSection_1": {
+    "title": "Enjoy Visa-Free Travel, Optimise Global Taxes, and Build a Global Safety Net for Your Family ",
+    "description": "Scout exciting business opportunities, discover healthcare benefits, and bolster financial stability with dual citizenship. ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/secondCitizenship/left1/1.webp",
+        "title": "Create Crisis-Resistant Wealth, Plan Smart Succession, and Secure Your Loved One’s Future",
+        "subTitle": "Create Crisis-Resistant Wealth, Plan Smart Succession, and Secure Your Loved One’s Future",
+        "description": "Hold and diversify your assets globally to protect your wealth against market fluctuations, legal risks, and economic instability."
+      },
+      {
+        "id": 2,
+        "image": "/assets/secondCitizenship/left1/2.webp",
+        "title": "Unlock Global Residency Rights, Access Premium Amenities, and Build Your Dream Life",
+        "subTitle": "Unlock Global Residency Rights, Access Premium Amenities, and Build Your Dream Life",
+        "description": "Gain unrestricted access to live, work, and thrive in 174+ countries in Europe, Asia, North & Central America, and Africa. "
+      },
+      {
+        "id": 3,
+        "image": "/assets/secondCitizenship/left1/3.webp",
+        "title": "Reduce Global Tax Liabilities, Maximise Returns, and Uplift Your Profitability",
+        "subTitle": "Reduce Global Tax Liabilities, Maximise Returns, and Uplift Your Profitability",
+        "description": "Unlock financial freedom by taking advantage of the different countries’ favorable tax landscape. Maximise your wealth with 0% personal income, capital gains, and inheritance tax."
+      },
+      {
+        "id": 4,
+        "image": "/assets/secondCitizenship/left1/4.webp",
+        "title": "Tap into New Markets, Hire Top Global Talent, and Expand Your Business Without Limits",
+        "subTitle": "Tap into New Markets, Hire Top Global Talent, and Expand Your Business Without Limits",
+        "description": "Scale your business to new heights by tapping into new markets worldwide. Connect with industry leaders, gain exclusive market insights, and capitalise on growing industries."
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/secondCitizenship/left4/1.webp",
+      "title": "Get Your Second Passport in as Little as 90 Days with One Nexuz",
+      "description": "Secure global mobility with second citizenship programs starting from as low as $1000. We streamline the paperwork so that you can travel, invest, and grow hassle-free.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/secondCitizenship/left4/2.webp",
+      "title": "Build Global Security, Not Guesswork — Personalized Plans for Citizenship by Investment",
+      "description": "No confusing packages, no hidden fees, and no inflated promises. Every second citizenship plan is built around your unique investment capacity, family needs, and global mobility goals. Pay only for the programs and services you truly need!",
+      "btn": "Get Your Custom Quote`",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Unlock Global Freedom in 4 Steps with One Nexuz Second Citizenship Solutions ",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/secondCitizenship/left5/1.svg",
+        "title": "Book a Discovery Call",
+        "description": "We'll kick off your second citizenship journey by discussing your unique needs and future goals, and suggest the best-fit countries."
+      },
+      {
+        "id": 2,
+        "image": "/assets/secondCitizenship/left5/2.svg",
+        "title": "Receive Pre-Approvals",
+        "description": "Next, our expert consultants assist you in compiling and attesting the necessary documents for a hassle-free registration process."
+      },
+      {
+        "id": 3,
+        "image": "/assets/secondCitizenship/left5/3.svg",
+        "title": "Submit Your Application",
+        "description": "Once attested and verified, we’ll submit your completed application to the relevant government body to secure approvals."
+      },
+      {
+        "id": 4,
+        "image": "/assets/secondCitizenship/left5/4.svg",
+        "title": "Get Second Citizenship",
+        "description": "Finally, we’ll deliver your citizenship documents to your doorstep, empowering you to thrive in a new country!"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why One Nexuz to Secure Second Citizenship",
+    "description": "Invest, acquire, and multiply your wealth in a new country without renouncing your current passport through investment or donation programs. Our specialists help you secure a second passport for stress-free global expansion.",
+    "items": [
+      {
+        "title": "Unlock Cross-Border Mobility",
+        "description": "Discover profitable business opportunities, manage global assets, and redesign your lifestyle by travelling across the world - no visa required",
+        "image": "/assets/secondCitizenship/bgImage/1.webp"
+      },
+      {
+        "title": "Get Personalised Citizenship Solutions",
+        "description": "Hit all your financial goals with custom-tailored suggestions on the top choices based on your business goals and each country’s incentives.",
+        "image": "/assets/secondCitizenship/bgImage/2.webp"
+      },
+      {
+        "title": "Network with Industry Leaders",
+        "description": "Enjoy visa-free or visa-on-arrival travel in 174+ countries and territories to expand your professional network and connect with thought leaders. ",
+        "image": "/assets/secondCitizenship/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/secondCitizenship/grid/1.webp",
+    "title": "One Nexuz Secures Your Family’s Future With a Dual Passport",
+    "description": "Join the millions of UHNWIs and HNWIs investing abroad to unlock healthcare and tax incentives. We’ll show you how second citizenship can simplify your legacy plan.",
+    "btn": "Get a Free Consultation",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "I was looking for a Plan B without uprooting my life in Dubai. The process was seamless—I now have a second passport from the Caribbean and my children’s future feels more secure than ever.",
+        "role": "Dubai-based Business Owner",
+        "image": "/assets/secondCitizenship/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "I travel frequently for business, and my second citizenship has eliminated all of my visa headaches. This was the smartest investment I’ve made for my freedom.",
+        "role": "Abu Dhabi Entrepreneur",
+        "image": "/assets/secondCitizenship/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "I didn’t realize how straightforward this could be. The team handled everything—legal, documents, updates—and I had my second passport in under 4 months",
+        "role": "Sharjah Investor",
+        "image": "/assets/secondCitizenship/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Grow & Preserve Your Wealth with Our Holistic Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Wealth Management Services",
+        "description": "Discover lucrative investment opportunities to amplify your wealth.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Will & Trust Preparation Services ",
+        "description": "Safeguard your spouse and children’s future with a DIFC or ADJD-compliant Will.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Family Office Setup",
+        "description": "Globalize governance and preserve your legacy with a strategically located office.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Foundation & Trust ",
+        "description": "Build your wealth & engage in philanthropic work via trusts.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Asset Protection",
+        "description": "Diversify your wealth by structuring your assets as LLCs, trusts, and foundations.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Private Office",
+        "description": "Reinvent workplace productivity with a working space tailored to your brand values.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Golden Visa",
+        "description": "Tap into the UAE’s local facilities and enjoy 10 years of residency with a Golden Visa.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Escrow Account Assistance",
+        "description": "Protect business transactions with a fully compliant escrow account setup.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/secondCitizenship/grid/2.webp",
+    "title": "Unlock Worldwide Opportunities with One Nexuz Dual Citizenship Solutions",
+    "description": "Minimise tax liabilities and maximise profits by exploring the business-friendly regulations and legacy planning solutions of countless countries. We guide you through every step, so you can unlock global mobility and diversify your wealth stress-free.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore More Services",
+    "items": [
+      { "id": 1, "title": "UAE Business Setup", "url": "#" },
+      { "id": 2, "title": "Free Zones", "url": "#" },
+      { "id": 3, "title": "Email", "url": "#" },
+      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
+      { "id": 5, "title": "UAE Visas", "url": "#" },
+      { "id": 6, "title": "UAE Legalities", "url": "#" },
+      { "id": 7, "title": "Executive growth", "url": "#" },
+      { "id": 8, "title": "Empowered leadership", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What is the difference between second residency and second citizenship?",
+        "answer": "While both are legal statuses, a second citizenship offers you political rights in a different country, whereas residency is granted for a limited period and comes with restrictions on the person’s rights."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Why should I invest in a second citizenship?",
+        "answer": "A second citizenship empowers you with unmatched global mobility, financial security, and expansion opportunities."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Will I need to renounce my original citizenship to secure a new one?",
+        "answer": "Our citizenship solutions only extend to those countries that support dual citizenship."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can I get dual UAE citizenship by investment?",
+        "answer": "Expats can qualify for second citizenship in the UAE through naturalisation or by securing an invite from government officials."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Which country is best for UHNWIs and HNWIs seeking second citizenship?",
+        "answer": "Numerous countries, including St. Kitts and Nevis, Dominica, Türkiye, and Malta, offer favorable tax landscape, market opportunities, and visa-free travel."
+      }
+    ]
+  }
+}

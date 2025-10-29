@@ -25,8 +25,9 @@ import { usePathname } from "next/navigation";
 import Breadcrumb from "@/components/Breadcrumb";
 import { getPageHierarchy } from "@/helpers/getBreadcrumb";
 import Image from "@/components/Image/Image";
-import Table from "@/sections/ServicesSection/Table";
+import TabTable from "@/sections/ServicesSection/TabTable";
 import { tableData } from "@/mock/data";
+import SecondCitizenship from "@/sections/ServicesSection/SecondCitizenship";
 
 function ServicesPage({
   data,
@@ -36,7 +37,8 @@ function ServicesPage({
   sec1,
   sec2,
   sec3,
-  table,
+  businessActivitiesTable,
+  secondCitizenshipTable,
 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
@@ -63,10 +65,11 @@ function ServicesPage({
         {/*  */}
         <div className="container lg:grid grid-cols-3 gap-5 relative z-15">
           <div className="col-span-2">
-            {table && <Table data={tableData} />}
+            {businessActivitiesTable && <TabTable data={tableData} />}
             {!sec1 && (
               <LeftSection1 data={data?.leftSection_1} locale={locale} />
             )}
+            {secondCitizenshipTable && <SecondCitizenship locale={locale} />}
             {!sec2 && (
               <LeftSection2 data={data?.leftSection_2} locale={locale} />
             )}
@@ -97,56 +100,6 @@ function ServicesPage({
       <SocialCommunitySection />
       <FaqsSection data={data?.faq} />
     </div>
-    // <div>
-    //   <HeroHeader data={data?.homeHeader} />
-    //   <Breadcrumb data={breadcrumb} />
-
-    //   <div className="container lg:grid grid-cols-3 gap-5">
-    //     <div className="col-span-2">
-    //       <LeftSection1 data={data?.leftSection_1} locale={locale} />
-    //       {!sec2 && <LeftSection2 data={data?.leftSection_2} locale={locale} />}
-    //       {!sec3 && <LeftSection3 data={data?.leftSection_3} locale={locale} />}
-    //       <LeftSection4 data={data?.leftSection_4} locale={locale} />
-    //       <LeftSection5 data={data?.leftSection_5} locale={locale} />
-    //     </div>
-
-    //     <div className="hidden lg:block col-span-1 h-fit secPadding space-y-6">
-    //       <div className="sticky top-36 z-30">
-    //         <RightSection1 />
-    //       </div>
-
-    //       <div className="sticky top-36 z-20">
-    //         <RightForm />
-    //       </div>
-
-    //       <div className="sticky top-36 z-20">
-    //         <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
-    //       </div>
-
-    //       <div className="sticky top-36 z-20">
-    //         <RecentBlog />
-    //       </div>
-
-    //       {compare && (
-    //         <div className="sticky top-36 z-20">
-    //           <RightCompare />
-    //         </div>
-    //       )}
-    //     </div>
-    //   </div>
-
-    //   <BgImageSec data={data?.leftSection_6} />
-    //   <GridSec data={data?.leftSection_7} />
-    //   <OurClients data={data?.leftSection_8} />
-    //   <LookingFor />
-    //   <LeftSection9 />
-    //   <LeftSection10 data={data?.leftSection_10} locale={locale} />
-    //   <GridSec data={data?.leftSection_11} />
-    //   <GuideSec />
-    //   <BlogSec />
-    //   <SocialCommunitySection />
-    //   <FaqsSection data={data?.faq} />
-    // </div>
   );
 }
 
