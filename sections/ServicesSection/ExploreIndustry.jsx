@@ -12,7 +12,7 @@ function ExploreIndustry({ data, locale }) {
         {data?.items?.map((item) => (
           <div
             key={item?.id}
-            className="py-3 border-b border-gray-300 last:border-none">
+            className="py-1">
             <LanguageAwareLink
               href={item?.url}
               className={`${

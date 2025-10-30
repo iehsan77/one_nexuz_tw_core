@@ -279,16 +279,13 @@
     "url": "#"
   },
   "exploreIndustry": {
-    "title": "Explore More Services",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "UAE Business Setup", "url": "#" },
-      { "id": 2, "title": "Free Zones", "url": "#" },
-      { "id": 3, "title": "Email", "url": "#" },
-      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
-      { "id": 5, "title": "UAE Visas", "url": "#" },
-      { "id": 6, "title": "UAE Legalities", "url": "#" },
-      { "id": 7, "title": "Executive growth", "url": "#" },
-      { "id": 8, "title": "Empowered leadership", "url": "#" }
+      { "id": 1, "title": "Business Setup", "url": "#" },
+      { "id": 2, "title": "Corporate Services", "url": "#" },
+      { "id": 3, "title": "Banking & Wealth", "url": "#" },
+      { "id": 4, "title": "Digital & Branding Solutions", "url": "#" },
+      { "id": 5, "title": "Millionaire & Billionaire", "url": "#" }
     ]
   },
   "faq": {

@@ -36,7 +36,7 @@ export default async function Page({ params }) {
       <ServicesPage
         data={t ? ar : en}
         locale={t}
-        compare={true}
+        compare={false}
         path={locale}
         sec1={true}
         sec2={true}
