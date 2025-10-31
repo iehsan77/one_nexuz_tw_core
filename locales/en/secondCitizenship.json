@@ -195,21 +195,21 @@
   "leftSection_11": {
     "image": "/assets/secondCitizenship/grid/2.webp",
     "title": "Unlock Worldwide Opportunities with One Nexuz Dual Citizenship Solutions",
-    "description": "Minimise tax liabilities and maximise profits by exploring the business-friendly regulations and legacy planning solutions of countless countries. We guide you through every step, so you can unlock global mobility and diversify your wealth stress-free.",
+    "description": "Minimise tax liabilities and maximise profits by exploring the business-friendly regulations and legacy planning solutions of countless countries. We guide you through every step, so you can unlock global mobility and diversify your wealth stress-free.  ",
     "btn": "Connect with Our Experts",
     "url": "#"
   },
   "exploreIndustry": {
-    "title": "Explore More Services",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "UAE Business Setup", "url": "#" },
-      { "id": 2, "title": "Free Zones", "url": "#" },
-      { "id": 3, "title": "Email", "url": "#" },
-      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
-      { "id": 5, "title": "UAE Visas", "url": "#" },
-      { "id": 6, "title": "UAE Legalities", "url": "#" },
-      { "id": 7, "title": "Executive growth", "url": "#" },
-      { "id": 8, "title": "Empowered leadership", "url": "#" }
+      { "id": 1, "title": "UAE Golden Visa", "url": "#" },
+      { "id": 2, "title": "Wealth Management", "url": "#" },
+      { "id": 3, "title": "Will & Trust Preparation Services", "url": "#" },
+      { "id": 4, "title": "Family Office Setup", "url": "#" },
+      { "id": 5, "title": "Family Foundation & Trusts", "url": "#" },
+      { "id": 6, "title": "Asset Protection", "url": "#" },
+      { "id": 7, "title": "Private Office", "url": "#" },
+      { "id": 8, "title": "Escrow Account Assistance", "url": "#" }
     ]
   },
   "faq": {

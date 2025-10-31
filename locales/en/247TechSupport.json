@@ -3,40 +3,40 @@
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
     "image": "/assets/header/247TechSupport.webp",
-    "title": "Boost Customer Satisfaction with Personalised 24/7 IT Support Services",
-    "description": "Cut IT overheads, reclaim hours of lost productivity, and prevent over 90% of issues before they snowball out of control with proactive 24/7 IT support. Our certified IT experts provide round-the-clock monitoring and fast ticket resolution to minimise operational disruptions and maximise productivity."
+    "title": "Empower Your Business With Real-Time Monitoring, 24/7 IT Support Services, & Uninterrupted Operations",
+    "description": "Constant system crashes, delayed responses, and downtime can drain your team’s productivity. Cut IT overheads, reclaim hours of lost productivity, and prevent over 90% of issues before they snowball out of control with proactive 24/7 IT support. Our certified IT experts provide round-the-clock monitoring and fast ticket resolution to minimise operational disruptions and maximise productivity."
   },
   "leftSection_1": {
-    "title": "Why UAE-Based Businesses Need 24/7 Tech Support ",
+    "title": "Why UAE-Based Businesses Need One Nexuz 24/7 Tech Support ",
     "description": "Safeguard your business against breaches and malevolent viruses with proactive IT monitoring and maintenance solutions.",
     "items": [
       {
         "id": 1,
         "image": "/assets/247TechSupport/left1/1.webp",
-        "title": "Save Millions on Unplanned Downtime",
-        "subTitle": "Save Millions on Unplanned Downtime",
-        "description": "Recover over AED10 billion lost on unscheduled IT outages with proactive tech support solutions to maximise workplace productivity."
+        "title": "Eliminate IT Interruptions, Prevent Costly Delays & Keep Your Operations Running 24/7",
+        "subTitle": "Eliminate IT Interruptions, Prevent Costly Delays & Keep Your Operations Running 24/7",
+        "description": "Unplanned IT outages can bring your entire operation to a standstill, costing you time, money, and customer trust. Save over AED10 billion lost on unscheduled IT outages with proactive tech support solutions to maximise workplace productivity."
       },
       {
         "id": 2,
         "image": "/assets/247TechSupport/left1/2.webp",
-        "title": "Retain Over 90% of Customers",
-        "subTitle": "Retain Over 90% of Customers",
-        "description": "Captivate your target audience, improve customer satisfaction, and foster loyalty by delivering seamless online experiences."
+        "title": "Deliver Flawless Customer Experiences That Build Lasting Trust and Drive Up To 90% Retention",
+        "subTitle": "Deliver Flawless Customer Experiences That Build Lasting Trust and Drive Up To 90% Retention",
+        "description": "Tired of losing customers to slow websites and poor online experiences? Captivate your target audience, improve customer satisfaction, and foster loyalty by delivering seamless online experiences. Create meaningful connections that turn visitors into repeat customers and advocates for your brand."
       },
       {
         "id": 3,
         "image": "/assets/247TechSupport/left1/3.webp",
-        "title": "Cut Downtime by 80%",
-        "subTitle": "Cut Downtime by 80%",
-        "description": "Slash monthly downtime and save 3+ hours per employee with 24/7 IT services, network maintenance, and robust disaster recovery plans. "
+        "title": "Detect IT Issues Early, Cut Outages by 80% & Keep Your Teams Productive Every Hour",
+        "subTitle": "Detect IT Issues Early, Cut Outages by 80% & Keep Your Teams Productive Every Hour",
+        "description": "Constant system crashes and unplanned outages can drain productivity and frustrate your team. Slash monthly downtime and save 3+ hours per employee with 24/7 IT services, network maintenance, and robust disaster recovery plans. Keep your operations running smoothly and your teams focused on what truly drives growth."
       },
       {
         "id": 4,
         "image": "/assets/247TechSupport/left1/4.webp",
-        "title": "Double Your Revenue ",
-        "subTitle": "Double Your Revenue ",
-        "description": "Accelerate issue resolutions and ensure business continuity with professional tech support solutions, and expedite revenue growth."
+        "title": "Drive Efficiency Across Teams & Multiply Business Revenue with Consistent Tech Support",
+        "subTitle": "Drive Efficiency Across Teams & Multiply Business Revenue with Consistent Tech Support",
+        "description": "Lost deals, delayed operations, and frustrated customers often stem from recurring tech glitches. Accelerate issue resolutions and ensure business continuity with professional tech support solutions, and expedite revenue growth. Empower your business to operate seamlessly and scale without interruption. "
       }
     ]
   },
@@ -97,20 +97,21 @@
   "leftSection_4": {
     "sec1": {
       "image": "/assets/247TechSupport/left4/1.webp",
-      "title": "Don’t Wait for a Crash to Seek IT Help",
-      "description": "One IT failure can cost AED 23 million in lost revenue. Our proactive IT monitoring, firewall maintenance, and rapid response prevent downtime before it strikes!",
+      "title": "Don’t Wait for a Crash—Get Proactive IT Protection with One Nexuz by Your Side ",
+      "description": "One IT failure can cost AED 23 million in lost revenue. Our continuous IT monitoring, firewall maintenance, and rapid response prevent downtime before it strikes!",
       "btn": "Book a Free Call",
       "url": "#"
     },
     "sec2": {
       "image": "/assets/247TechSupport/left4/2.webp",
-      "title": "Compare 24/7 Tech Support Service Costs",
+      "title": "Your Systems, Your Payment Schedule— Get a Quote Built for Your Business",
+      "description": "From server monitoring to network management, helpdesk to infrastructure maintenance — our 24/7 Tech Support adapts to your business, not the other way around. Forget cookie-cutter packages and inflated retainers — we create custom quotes based on your actual support needs.",
       "btn": "Explore Our Pricing Packages",
       "url": "#"
     }
   },
   "leftSection_5": {
-    "title": "Get Expert Tech Support Services for Enterprises in 4 Steps",
+    "title": "Get Our Expert Tech Support Services for Enterprises in 4 Steps ",
     "items": [
       {
         "id": 1,
@@ -161,30 +162,30 @@
   },
   "leftSection_7": {
     "image": "/assets/247TechSupport/grid/1.webp",
-    "title": "Cut IT Costs Without Sacrificing Top-Tier Support",
+    "title": "Slash Your IT Costs & Supercharge Performance with Top-Tier Tech Support from One Nexuz",
     "description": "Save millions of dirhams spent on hiring, training, and monitoring an in-house tech team with our expert 24/7 IT solutions. Get our scalable tech support services at half the cost and get round-the-clock protection.",
     "btn": "Scale Your Business Today!",
     "url": "#"
   },
   "leftSection_8": {
     "title": "What Customers are Saying about ^One Nexuz^",
-    "description": "Learn what customers are saying about One Nexuz. ",
+    "description": "Learn what customers are saying about One Nexuz.",
     "items": [
       {
         "id": 1,
-        "quote": "“Their support team is always one step ahead. Since onboarding, we haven’t had a single hour of downtime.”",
+        "quote": "Their support team is always one step ahead. Since onboarding, we haven’t had a single hour of downtime.",
         "role": "Logistics Firm Co-owners",
         "image": "/assets/247TechSupport/client/1.webp"
       },
       {
         "id": 2,
-        "quote": "“We cut our IT costs nearly in half and redirected that budget to client acquisition. Huge impact on growth.”",
+        "quote": "We cut our IT costs nearly in half and redirected that budget to client acquisition. Huge impact on growth.",
         "role": "Creative Agency Director",
         "image": "/assets/247TechSupport/client/2.webp"
       },
       {
         "id": 3,
-        "quote": "“The onboarding was smooth, the team is fast, and our staff love how quick support is now. Big upgrade from our old provider.”",
+        "quote": "The onboarding was smooth, the team is fast, and our staff love how quick support is now. Big upgrade from our old provider.",
         "role": "Law Consultancy Owner",
         "image": "/assets/247TechSupport/client/3.webp"
       }
@@ -218,67 +219,57 @@
         "title": "Hosted Email Exchange",
         "description": "Streamline workplace communication with robust, secure, and auto-synced hosted mail.",
         "url": "#"
-      },
-      {
-        "id": 5,
-        "title": "IT Services",
-        "description": "Secure your business against cyberattacks with a tailored IT infrastructure and 24/7 monitoring.",
-        "url": "#"
       }
     ]
   },
   "leftSection_11": {
     "image": "/assets/247TechSupport/grid/2.webp",
     "title": "Get Proactive Tech Support Anytime, Anywhere",
-    "description": "Downtime costs money, frustrates teams, and hurts your reputation. Our expert IT consultants prevent all this and eliminate stress with real-time IT support, so you stay protected, productive, and ahead of the curve. ",
+    "description": "Downtime costs money, frustrates teams, and hurts your reputation. Our expert IT consultants prevent all this and eliminate stress with real-time IT support, so you stay protected, productive, and ahead of the curve.",
     "btn": "Connect with Our Experts",
     "url": "#"
   },
   "exploreIndustry": {
-    "title": "Explore More Services",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "UAE Business Setup", "url": "#" },
-      { "id": 2, "title": "Free Zones", "url": "#" },
-      { "id": 3, "title": "Email", "url": "#" },
-      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
-      { "id": 5, "title": "UAE Visas", "url": "#" },
-      { "id": 6, "title": "UAE Legalities", "url": "#" },
-      { "id": 7, "title": "Executive growth", "url": "#" },
-      { "id": 8, "title": "Empowered leadership", "url": "#" }
+      { "id": 1, "title": "Domain Name & DNS", "url": "#" },
+      { "id": 2, "title": "Hosted Exchange Mail", "url": "#" },
+      { "id": 3, "title": "Office 365 Subscription", "url": "#" },
+      { "id": 4, "title": "Web Hosting", "url": "#" }
     ]
   },
   "faq": {
-    "title": "",
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "What do 24/7 IT support services include?",
+        "answer": "Business tech or IT support provides a comprehensive support solution, encompassing troubleshooting of technical issues, patch management, firewall maintenance, and round-the-clock alerts."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "Do small to mid-sized businesses need round-the-clock tech support?",
+        "answer": "Yes, 24/7 IT support can help you secure confidential business data, ensure uninterrupted business operations, and minimise costly downtime."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "How fast is One Nexuz’s response time?",
+        "answer": "Our IT experts respond to your tech issues in under 15 minutes on average, empowering you to reduce downtime and boost workplace efficiency."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "Is there any downtime during the onboarding process?",
+        "answer": "Not at all! Our tech professionals set everything in parallel to your operations, so onboarding is seamless with zero disruption.   "
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
+        "question": "How does One Nexuz ensure data security and compliance?",
+        "answer": "Our experts utilise state-of-the-art encryption, firewalls, antivirus software, and multi-layer security protocols to meet industry compliance standards."
       }
     ]
   }
