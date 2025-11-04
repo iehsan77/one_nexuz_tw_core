@@ -1,0 +1,253 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "title": "One Nexuz Doubles Your  Productivity with a UAE Business Email Hosting Address",
+    "description": "Disjointed systems, data silos, and inefficient workflows can cripple team productivity and slow business growth. Boost productivity, streamline cloud migration, and get enterprise-level protection in the UAE with a full suite of Microsoft Office 365 tools. Our certified Microsoft partners handle every phase of the setup, from migration to compliance, ensuring zero downtime, real-time collaboration, and seamless information flow.",
+    "image": "/assets/header/HostedExchangeMail.webp"
+  },
+  "leftSection_1": {
+    "title": "Why Should UAE-Based Businesses Buy Microsoft Office 365",
+    "description": "Work on the go with flexible cloud-based solutions designed to provide world-class security and unmatched productivity. Get advanced Office 365 solutions to mitigate the risk of cyberattacks and security breaches.",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/HostedExchangeMail/left1/1.webp",
+        "title": "Drive Higher Efficiency, Accelerate Growth, & Boost ROI by Up to 132%",
+        "subTitle": "Drive Higher Efficiency, Accelerate Growth, & Boost ROI by Up to 132%",
+        "description": "Rising IT expenses and scattered workflows often drain budgets and slow growth. Cut down on IT costs and administrative burdens, enhance workplace efficiency, and watch your ROI climb by 132% to 353% within three years. "
+      },
+      {
+        "id": 2,
+        "image": "/assets/HostedExchangeMail/left1/2.webp",
+        "title": "Break Team Silos",
+        "subTitle": "Break Team Silos",
+        "description": "Struggling with disconnected teams and slow communication that hold projects back? Streamline interdepartmental collaboration and business communication with video conferencing, group meetings, and instant messaging tools."
+      },
+      {
+        "id": 3,
+        "image": "/assets/HostedExchangeMail/left1/3.webp",
+        "title": "Protect Sensitive Files, Prevent Costly Breaches, & Maintain Complete Control over  Business Data ",
+        "subTitle": "Protect Sensitive Files, Prevent Costly Breaches, & Maintain Complete Control over  Business Data ",
+        "description": "Worried about data leaks, phishing scams, or cyberattacks putting your business at risk? Get sturdy threat protection against malicious viruses and links, phishing attempts, and malware to safeguard confidential data."
+      },
+      {
+        "id": 4,
+        "image": "/assets/HostedExchangeMail/left1/4.webp",
+        "title": "Work Seamlessly Across Devices, Stay Connected On-the-Go, & Keep Productivity Flowing",
+        "subTitle": "Work Seamlessly Across Devices, Stay Connected On-the-Go, & Keep Productivity Flowing",
+        "description": "Struggling with limited system access and constant workflow disruptions when working remotely? Store, access, and work on emails, files, and applications at the office, from your home, or even your smartphone, and redefine productivity."
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Our End-to-End Microsoft Office 365 Solutions",
+    "description": "Explore our holistic Microsoft Office 365 subscription packages to unlock full deployment, migration, and management services tailored to your business needs",
+    "items": [
+      {
+        "id": 1,
+        "title": "Microsoft 365 Licensing",
+        "description": "Enhance workplace efficiency with customised licensing solutions.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Setup & Team Onboarding",
+        "description": "Get unlimited access to Office 365 features with speedy app provisioning and onboarding.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Data Migration ",
+        "description": "Transfer your team to Microsoft 365 with zero downtime and flexible cloud solutions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Security & Compliance",
+        "description": "Secure your business against cyberattacks with DLP, MFA, and email encryption",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "24/7 Support",
+        "description": "Reclaim time lost on IT issues with expert support & annual health checks.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/HostedExchangeMail/left4/1.webp",
+      "title": "Cut Down IT Costs by 40% with Our Custom MS Office 365 Subscription Plans",
+      "description": "Save time and cost spent on IT solutions with built-in updates, cloud backups, and high-grade security. Our specialists ensure your setup is secure, optimised, and scalable from day one.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/HostedExchangeMail/left4/2.webp",
+      "title": "Flexible Microsoft 365 Plans Designed for Your Team, on Your Terms",
+      "description": "Whether you’re a startup scaling fast or an enterprise managing thousands, Microsoft 365 adapts to your unique business structure. At One Nexuz, we offer custom Microsoft 365 subscription plans — built to match your organization’s size, goals, and usage needs.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How We Set Up Your Microsoft 365 Cloud in Four Easy Steps",
+    "items": [
+      {
+        "id": 1,
+        "image": "/assets/HostedExchangeMail/left5/1.svg",
+        "title": "Book a Discovery Call",
+        "description": "We start with a free consultation to analyse your team size, tools, and goals, then suggest a tailored MS Office subscription plan."
+      },
+      {
+        "id": 2,
+        "image": "/assets/HostedExchangeMail/left5/2.svg",
+        "title": "Plan & Configure",
+        "description": "Next, our specialists design your Microsoft 365 environment, from selecting the ideal licenses to setting up policies & integrations."
+      },
+      {
+        "id": 3,
+        "image": "/assets/HostedExchangeMail/left5/3.svg",
+        "title": "Migrate Your Data",
+        "description": "We move your data, mailboxes, and settings with complete backup, zero disruptions, and no downtime."
+      },
+      {
+        "id": 4,
+        "image": "/assets/HostedExchangeMail/left5/4.svg",
+        "title": "Go Live with 24/7 Support",
+        "description": "Our experts offer scalable solutions, admin training, and round-the-clock support to troubleshoot issues within seconds."
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Businesses Trust Us to Provide the Best MS Office 365 Prices in the UAE",
+    "description": "Create a dynamic workplace with fully compliant and secure Microsoft Office 365 solutions. With our seasoned tech consultants, you can simplify access, collaborate in real-time, and unlock real-time insights.",
+    "items": [
+      {
+        "title": "Enhance Security by 20%",
+        "description": "Save an average of 4 hours per employee with expert-led MS Office business migration and deployment services.",
+        "image": "/assets/HostedExchangeMail/bgImage/1.webp"
+      },
+      {
+        "title": "Zero-Downtime Migration",
+        "description": "Reduce the risk of cyberattacks and security breaches with multi-factor authentication, end-to-end data encryption, and 24/7 tech support.",
+        "image": "/assets/HostedExchangeMail/bgImage/2.webp"
+      },
+      {
+        "title": "Slash Deployment Times",
+        "description": "Transition seamlessly from legacy systems to Office 365 with no disruptions or data loss. Boost productivity, efficiency, and security with our cloud-based solutions.",
+        "image": "/assets/HostedExchangeMail/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/HostedExchangeMail/grid/1.webp",
+    "title": "Create a Zero Trust Security Model with One Nexuz to Mitigate Breach Risks",
+    "description": "Get Office 365 with a Zero Trust framework to secure your business data from internal threats and external attacks. We configure our solutions for maximum security so you stay protected and compliant.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz.",
+    "items": [
+      {
+        "id": 1,
+        "quote": "We migrated over 80 users from G Suite to Microsoft 365 with zero downtime. Their team handled everything—no data loss, no disruption.",
+        "role": "Logistics Company Operations Manager",
+        "image": "/assets/HostedExchangeMail/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Finally a provider that doesn’t just resell licenses and disappear. They helped us optimize our setup, cut costs, and secure everything from day one.",
+        "role": "Retail Group CEO",
+        "image": "/assets/HostedExchangeMail/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Support is responsive, the setup was seamless, and the local team understood our compliance needs better than anyone else.",
+        "role": "Financial Services Firm Founder",
+        "image": "/assets/HostedExchangeMail/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Power Up Your Domain with Business-Ready Add-Ons ",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Domain Name & DNS Management",
+        "description": "Search, register, and optimise your digital identity with expert-led DNS routing & domain registration services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Web Hosting Services",
+        "description": "Go live within minutes, not days, with lightning-fast, secure, and scalable web hosting solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Hosted Exchange Mailbox",
+        "description": "Enhance workplace communication with a professionally managed and encrypted Exchange mailbox.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "24/7 Tech Support",
+        "description": "Resolve queries instantly with round-the-clock access to our certified experts.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "image": "/assets/HostedExchangeMail/grid/2.webp",
+    "title": "Optimise Productivity with a Certified Microsoft Partner—One Nexuz",
+    "description": "Work from anywhere with enterprise-grade tools and built-in security with our exhaustive MS Office 365 solutions. Trust our Microsoft Office specialists to offer scalable solutions tailored to your unique needs.",
+    "btn": "Connect with Our Experts",
+    "url": "#"
+  },
+  "exploreIndustry": {
+    "title": "Explore the Industry",
+    "items": [
+      { "id": 1, "title": "Domain Name & DNS", "url": "#" },
+      { "id": 2, "title": "Hosted Exchange Mail", "url": "#" },
+      { "id": 3, "title": "Office 365 Subscription", "url": "#" },
+      { "id": 4, "title": "Web Hosting", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Does the domain name affect my site’s SEO ranking?",
+        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can I buy a domain name that matches my registered business name?",
+        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Which domain extension is the best in Dubai, UAE?",
+        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can I purchase a domain name permanently, or will it expire?",
+        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+      }
+      
+    ]
+  }
+}
