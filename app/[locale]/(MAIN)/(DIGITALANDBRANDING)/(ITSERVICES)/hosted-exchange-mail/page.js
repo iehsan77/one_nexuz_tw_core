@@ -2,8 +2,8 @@ import { SEOAction } from "@/actions/seo-action";
 import { isIndex } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
-import ar from "@/locales/ar/Office365Subscription.json";
-import en from "@/locales/en/Office365Subscription.json";
+import ar from "@/locales/ar/hostedExchangeMail.json";
+import en from "@/locales/en/hostedExchangeMail.json";
 import Loader from "@/components/Loader";
 
 export async function generateMetadata() {

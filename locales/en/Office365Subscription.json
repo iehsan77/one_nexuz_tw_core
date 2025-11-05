@@ -226,26 +226,32 @@
       {
         "id": 1,
         "number": "01",
-        "question": "Does the domain name affect my site’s SEO ranking?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "What applications does my Microsoft 365 subscription include?",
+        "answer": "Our holistic MS Office 365 solutions are custom-tailored to meet your unique business needs. Typically, you’ll need Word, PowerPoint, Outlook, OneDrive, Teams, and SharePoint to boost workflow and eliminate collaboration bottlenecks."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "Can I buy a domain name that matches my registered business name?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "What tools does Microsoft Office offer for meeting experiences?",
+        "answer": "The MS Office leverages cloud technology to provide ease-of-access to documents, video conferencing, and seamless communication."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "Which domain extension is the best in Dubai, UAE?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "Does the MS Office 365 subscription include email?",
+        "answer": "Yes, it includes Outlook, boasting about 15-100 GB of email storage, depending on your subscription mode."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "Can I purchase a domain name permanently, or will it expire?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "How does Microsoft 365 help enhance collaboration?",
+        "answer": "The Microsoft Office suite encourages workplace communication through real-time collaboration, cloud storage, and co-authoring of documents."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Is my business information secure in Microsoft 365?",
+        "answer": "Absolutely! MS Office 365 safeguards your business against malicious viruses and security threats with MFA, DLP, and encryption."
       }
       
     ]

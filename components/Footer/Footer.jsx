@@ -94,8 +94,8 @@ function Footer() {
                   ) : (
                     <div className="flex flex-col gap-4">
                       {item?.items?.slice(0, 4)?.map((i) => (
-                        <div>
-                          <LanguageAwareLink key={i?.id} href="#">
+                        <div key={i?.id}>
+                          <LanguageAwareLink href="#">
                             <LanguageAwareLink
                               href={i?.url || "#"}
                               className={"block !w-fit"}>

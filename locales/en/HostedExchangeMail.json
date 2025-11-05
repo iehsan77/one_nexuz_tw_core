@@ -2,76 +2,88 @@
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
-    "title": "One Nexuz Doubles Your  Productivity with a UAE Business Email Hosting Address",
-    "description": "Disjointed systems, data silos, and inefficient workflows can cripple team productivity and slow business growth. Boost productivity, streamline cloud migration, and get enterprise-level protection in the UAE with a full suite of Microsoft Office 365 tools. Our certified Microsoft partners handle every phase of the setup, from migration to compliance, ensuring zero downtime, real-time collaboration, and seamless information flow.",
+    "title": "One Nexuz Doubles Your Productivity with a UAE Business Email Hosting Address",
+    "description": "Struggling with slow communication, data risks, or scattered email systems? Streamline workplace communication, boost organisational efficiency, and get enterprise-level security with a professional UAE-hosted server. Our experts simplify setup and migration so you can sync your email across all your devices hassle-free.",
     "image": "/assets/header/HostedExchangeMail.webp"
   },
   "leftSection_1": {
-    "title": "Why Should UAE-Based Businesses Buy Microsoft Office 365",
-    "description": "Work on the go with flexible cloud-based solutions designed to provide world-class security and unmatched productivity. Get advanced Office 365 solutions to mitigate the risk of cyberattacks and security breaches.",
+    "title": "Why UAE-Based Businesses Choose Our Hosted Exchange Services",
+    "description": "Get secure, synced, and scalable email hosting in Dubai built to streamline communication at a fraction of the cost. ",
     "items": [
       {
         "id": 1,
         "image": "/assets/HostedExchangeMail/left1/1.webp",
-        "title": "Drive Higher Efficiency, Accelerate Growth, & Boost ROI by Up to 132%",
-        "subTitle": "Drive Higher Efficiency, Accelerate Growth, & Boost ROI by Up to 132%",
-        "description": "Rising IT expenses and scattered workflows often drain budgets and slow growth. Cut down on IT costs and administrative burdens, enhance workplace efficiency, and watch your ROI climb by 132% to 353% within three years. "
+        "title": "Move From Costly Hardware to Cloud Efficiency & Slash Infrastructure Costs by 60%",
+        "subTitle": "Move From Costly Hardware to Cloud Efficiency & Slash Infrastructure Costs by 60%",
+        "description": "Still spending heavily on outdated, on-premise systems that drain your IT budget? Make the switch to cloud-based strategies and save 30%-60% on IT infrastructure costs. Free up capital and internal resources to invest in core business activities. "
       },
       {
         "id": 2,
         "image": "/assets/HostedExchangeMail/left1/2.webp",
-        "title": "Break Team Silos",
-        "subTitle": "Break Team Silos",
-        "description": "Struggling with disconnected teams and slow communication that hold projects back? Streamline interdepartmental collaboration and business communication with video conferencing, group meetings, and instant messaging tools."
+        "title": "Automate Your Workflows, Eliminate Hidden Inefficiencies, & Watch Profits Soar 10X Faster",
+        "subTitle": "Automate Your Workflows, Eliminate Hidden Inefficiencies, & Watch Profits Soar 10X Faster",
+        "description": "Struggling with frequent downtime and rising maintenance costs that stall your growth? Prevent downtime, simplify business operations, and skip infrastructure maintenance headaches to multiply your ROI 10X more within 30 days."
       },
       {
         "id": 3,
         "image": "/assets/HostedExchangeMail/left1/3.webp",
-        "title": "Protect Sensitive Files, Prevent Costly Breaches, & Maintain Complete Control over  Business Data ",
-        "subTitle": "Protect Sensitive Files, Prevent Costly Breaches, & Maintain Complete Control over  Business Data ",
-        "description": "Worried about data leaks, phishing scams, or cyberattacks putting your business at risk? Get sturdy threat protection against malicious viruses and links, phishing attempts, and malware to safeguard confidential data."
+        "title": "Experience Seamless Collaboration, Instant Access, & Enterprise-Level Reliability Across All Devices",
+        "subTitle": "Experience Seamless Collaboration, Instant Access, & Enterprise-Level Reliability Across All Devices",
+        "description": "Stay connected with guaranteed 99.9% uptime, powered by a robust and globally trusted infrastructure. Enhance team connectivity with fast and secure email access across all devices. Build client trust and internal efficiency with a communication system that never lets you down."
       },
       {
         "id": 4,
         "image": "/assets/HostedExchangeMail/left1/4.webp",
-        "title": "Work Seamlessly Across Devices, Stay Connected On-the-Go, & Keep Productivity Flowing",
-        "subTitle": "Work Seamlessly Across Devices, Stay Connected On-the-Go, & Keep Productivity Flowing",
-        "description": "Struggling with limited system access and constant workflow disruptions when working remotely? Store, access, and work on emails, files, and applications at the office, from your home, or even your smartphone, and redefine productivity."
+        "title": "Add New Members, Adjust Permissions, & Maintain Peak Efficiency as You Scale",
+        "subTitle": "Add New Members, Adjust Permissions, & Maintain Peak Efficiency as You Scale",
+        "description": "Add or remove employees with a single click and reclaim time and costs spent on creating a new IT infrastructure. Scale your team seamlessly while keeping your operations efficient and cost-effective."
       }
     ]
   },
   "leftSection_2": {
-    "title": "Our End-to-End Microsoft Office 365 Solutions",
-    "description": "Explore our holistic Microsoft Office 365 subscription packages to unlock full deployment, migration, and management services tailored to your business needs",
+    "title": "Explore Our Full Range of Microsoft Exchange Email",
+    "description": "Discover our holistic email hosting solutions to encourage better workplace collaboration:",
     "items": [
       {
         "id": 1,
-        "title": "Microsoft 365 Licensing",
-        "description": "Enhance workplace efficiency with customised licensing solutions.",
+        "title": "Custom Domain Email Address",
+        "description": "Make your first impression count with a professional email ID tailored to your business domain.",
         "url": "#"
       },
       {
         "id": 2,
-        "title": "Setup & Team Onboarding",
-        "description": "Get unlimited access to Office 365 features with speedy app provisioning and onboarding.",
+        "title": "50GB Mailbox Per User",
+        "description": "Create, share, and save emails, attachments, and calendar events with mailboxes of 50-100 GB.",
         "url": "#"
       },
       {
         "id": 3,
-        "title": "Data Migration ",
-        "description": "Transfer your team to Microsoft 365 with zero downtime and flexible cloud solutions.",
+        "title": "Multi-Device Sync",
+        "description": "Access your emails anytime, anywhere, on all devices —from desktops to tablets —with automatic syncing.",
         "url": "#"
       },
       {
         "id": 4,
-        "title": "Security & Compliance",
-        "description": "Secure your business against cyberattacks with DLP, MFA, and email encryption",
+        "title": "Advanced Malware Protection",
+        "description": "Safeguard your business against malicious viruses and malware with state-of-the-art anti-spam protection.",
         "url": "#"
       },
       {
         "id": 5,
-        "title": "24/7 Support",
-        "description": "Reclaim time lost on IT issues with expert support & annual health checks.",
+        "title": "Shared Calendars & Contacts",
+        "description": "Cut down team silos and encourage better connectivity with shared scheduling and contact lists.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Daily Cloud Backups & Recovery",
+        "description": "Get robust disaster recovery plans to secure confidential business data.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "24/7 Local Support",
+        "description": "Resolve queries and troubleshoot tech issues before they snowball with round-the-clock customer support.",
         "url": "#"
       }
     ]
@@ -79,73 +91,73 @@
   "leftSection_4": {
     "sec1": {
       "image": "/assets/HostedExchangeMail/left4/1.webp",
-      "title": "Cut Down IT Costs by 40% with Our Custom MS Office 365 Subscription Plans",
-      "description": "Save time and cost spent on IT solutions with built-in updates, cloud backups, and high-grade security. Our specialists ensure your setup is secure, optimised, and scalable from day one.",
+      "title": "Protect Business Communication With One Nexuz Built-In Threat Detection System",
+      "description": "Secure your team against phishing and cyberattacks with advanced spam filters, malware protection, and enterprise-level encryption. We handle the setup and support so your inboxes stay safe.",
       "btn": "Book a Free Call",
       "url": "#"
     },
     "sec2": {
       "image": "/assets/HostedExchangeMail/left4/2.webp",
-      "title": "Flexible Microsoft 365 Plans Designed for Your Team, on Your Terms",
-      "description": "Whether you’re a startup scaling fast or an enterprise managing thousands, Microsoft 365 adapts to your unique business structure. At One Nexuz, we offer custom Microsoft 365 subscription plans — built to match your organization’s size, goals, and usage needs.",
+      "title": "Pay Only for What You Need",
+      "description": "From small teams to large enterprises, our Hosted Email & Exchange services adapt to your requirements. Whether it’s collaboration tools, compliance features, or mailbox storage, we create custom quotes that give you the right tools at the right price.",
       "btn": "Explore Our Pricing Packages",
       "url": "#"
     }
   },
   "leftSection_5": {
-    "title": "How We Set Up Your Microsoft 365 Cloud in Four Easy Steps",
+    "title": "How One Nexuz Sets Up Your Professional Business Address ",
     "items": [
       {
         "id": 1,
-        "image": "/assets/HostedExchangeMail/left5/1.svg",
-        "title": "Book a Discovery Call",
-        "description": "We start with a free consultation to analyse your team size, tools, and goals, then suggest a tailored MS Office subscription plan."
+        "title": "Pick the Ideal Plan",
+        "description": "We’ll schedule a discovery call to assess your email hosting needs and recommend a custom-tailored plan.",
+        "image": "/assets/HostedExchangeMail/left5/1.svg"
       },
       {
         "id": 2,
-        "image": "/assets/HostedExchangeMail/left5/2.svg",
-        "title": "Plan & Configure",
-        "description": "Next, our specialists design your Microsoft 365 environment, from selecting the ideal licenses to setting up policies & integrations."
+        "title": "Register Your Domain",
+        "description": "Next, our IT experts help curate a list of email domains and register the one that reflects your brand identity. ",
+        "image": "/assets/HostedExchangeMail/left5/2.svg"
       },
       {
         "id": 3,
-        "image": "/assets/HostedExchangeMail/left5/3.svg",
-        "title": "Migrate Your Data",
-        "description": "We move your data, mailboxes, and settings with complete backup, zero disruptions, and no downtime."
+        "title": "Get Set Up in Seconds",
+        "description": "We securely migrate your emails, contacts, and calendars with zero downtime, data loss, or operational disruptions.",
+        "image": "/assets/HostedExchangeMail/left5/3.svg"
       },
       {
         "id": 4,
-        "image": "/assets/HostedExchangeMail/left5/4.svg",
-        "title": "Go Live with 24/7 Support",
-        "description": "Our experts offer scalable solutions, admin training, and round-the-clock support to troubleshoot issues within seconds."
+        "title": "Send & Receive Emails",
+        "description": "Once you’re live, you can start exchanging emails, add events to your calendars, and synchronise contact lists hassle-free.",
+        "image": "/assets/HostedExchangeMail/left5/4.svg"
       }
     ]
   },
   "leftSection_6": {
-    "title": "Why Businesses Trust Us to Provide the Best MS Office 365 Prices in the UAE",
-    "description": "Create a dynamic workplace with fully compliant and secure Microsoft Office 365 solutions. With our seasoned tech consultants, you can simplify access, collaborate in real-time, and unlock real-time insights.",
+    "title": "Why Choose One Nexuz for Expert Email Hosting Services",
+    "description": "Hosting email in-house seems cheaper until you factor in licensing, maintenance, and downtime. Our tech experts take the administrative burden off your team’s shoulders, taking full ownership so you can focus on core business activities. ",
     "items": [
       {
-        "title": "Enhance Security by 20%",
-        "description": "Save an average of 4 hours per employee with expert-led MS Office business migration and deployment services.",
+        "title": "Secure Confidential Business Data",
+        "description": "Save millions of dirhams by outsourcing Hosted Exchange setup, migration, and maintenance to our tech specialists.",
         "image": "/assets/HostedExchangeMail/bgImage/1.webp"
       },
       {
-        "title": "Zero-Downtime Migration",
-        "description": "Reduce the risk of cyberattacks and security breaches with multi-factor authentication, end-to-end data encryption, and 24/7 tech support.",
+        "title": "Reduce Overheads by 50%",
+        "description": "Transition to Hosted Exchange with minimal operational disruptions and zero downtime, supported by our IT experts.",
         "image": "/assets/HostedExchangeMail/bgImage/2.webp"
       },
       {
-        "title": "Slash Deployment Times",
-        "description": "Transition seamlessly from legacy systems to Office 365 with no disruptions or data loss. Boost productivity, efficiency, and security with our cloud-based solutions.",
+        "title": "Get Seamless Migration Support",
+        "description": "Our team protects your communication with cutting-edge anti-spam and virus filters, TLS/SSL encryption, and automatic backups.",
         "image": "/assets/HostedExchangeMail/bgImage/3.webp"
       }
     ]
   },
   "leftSection_7": {
     "image": "/assets/HostedExchangeMail/grid/1.webp",
-    "title": "Create a Zero Trust Security Model with One Nexuz to Mitigate Breach Risks",
-    "description": "Get Office 365 with a Zero Trust framework to secure your business data from internal threats and external attacks. We configure our solutions for maximum security so you stay protected and compliant.",
+    "title": "Drive Productivity with Our Native Integration Tools",
+    "description": "Encourage real-time collaboration, seamless project management, and improved workplace communication by synchronising contacts and calendars. Our experts help you go live within seconds, so you can grow fast.",
     "btn": "Scale Your Business Today!",
     "url": "#"
   },
@@ -155,67 +167,67 @@
     "items": [
       {
         "id": 1,
-        "quote": "We migrated over 80 users from G Suite to Microsoft 365 with zero downtime. Their team handled everything—no data loss, no disruption.",
-        "role": "Logistics Company Operations Manager",
+        "quote": "Their team migrated all our emails without a single glitch. We were live within hours—seamless and stress-free.",
+        "role": "Operations Manager",
         "image": "/assets/HostedExchangeMail/client/1.webp"
       },
       {
         "id": 2,
-        "quote": "Finally a provider that doesn’t just resell licenses and disappear. They helped us optimize our setup, cut costs, and secure everything from day one.",
-        "role": "Retail Group CEO",
+        "quote": "Finally, a hosting provider that actually picks up the phone. Their 24/7 support is the real deal.",
+        "role": "Creative Agency Founder",
         "image": "/assets/HostedExchangeMail/client/2.webp"
       },
       {
         "id": 3,
-        "quote": "Support is responsive, the setup was seamless, and the local team understood our compliance needs better than anyone else.",
-        "role": "Financial Services Firm Founder",
+        "quote": "We cut our IT costs in half by outsourcing email and DNS. Everything just works, and we didn’t lift a finger.",
+        "role": "Logistics Firm IT Director",
         "image": "/assets/HostedExchangeMail/client/3.webp"
       }
     ]
   },
   "leftSection_9": {},
   "leftSection_10": {
-    "title": "Power Up Your Domain with Business-Ready Add-Ons ",
+    "title": "Explore Our Wide Range of Digital Solutions Under One Roof",
     "btn": "Explore More",
     "items": [
       {
         "id": 1,
         "title": "Domain Name & DNS Management",
-        "description": "Search, register, and optimise your digital identity with expert-led DNS routing & domain registration services",
+        "description": "Secure your digital identity and maintain full control over domain routing with holistic domain name & DNS management solutions.",
         "url": "#"
       },
       {
         "id": 2,
         "title": "Web Hosting Services",
-        "description": "Go live within minutes, not days, with lightning-fast, secure, and scalable web hosting solutions.",
+        "description": "Create a killer first impression with lightning-fast load times and boost customer satisfaction rates.",
         "url": "#"
       },
       {
         "id": 3,
-        "title": "Hosted Exchange Mailbox",
-        "description": "Enhance workplace communication with a professionally managed and encrypted Exchange mailbox.",
+        "title": "Office 365 Subscription",
+        "description": "Simplify workplace collaboration, prevent team silos, and boost productivity with affordable Office 365 subscriptions.",
         "url": "#"
       },
       {
         "id": 4,
         "title": "24/7 Tech Support",
-        "description": "Resolve queries instantly with round-the-clock access to our certified experts.",
+        "description": "Prevent costly operational disruptions, unexpected breakdowns, and quick ticket resolutions with proactive 24/7 tech support.",
         "url": "#"
       }
     ]
   },
   "leftSection_11": {
     "image": "/assets/HostedExchangeMail/grid/2.webp",
-    "title": "Optimise Productivity with a Certified Microsoft Partner—One Nexuz",
-    "description": "Work from anywhere with enterprise-grade tools and built-in security with our exhaustive MS Office 365 solutions. Trust our Microsoft Office specialists to offer scalable solutions tailored to your unique needs.",
+    "title": "Streamline Business Communication with One Nexuz UAE Email Hosting Services ",
+    "description": "Tired of downtime, spam, or clunky email systems? Our hosted Exchange mail solutions empower you with secure, professional, and scalable email migration support, without the technical hassle.",
     "btn": "Connect with Our Experts",
     "url": "#"
   },
   "exploreIndustry": {
-    "title": "Explore the Industry",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Domain Name & DNS", "url": "#" },
-      { "id": 2, "title": "Hosted Exchange Mail", "url": "#" },
+      { "id": 1, "title": "24/7 Tech Services", "url": "#" },
+      { "id": 2, "title": "Domain Name & DNS", "url": "#" },
       { "id": 3, "title": "Office 365 Subscription", "url": "#" },
       { "id": 4, "title": "Web Hosting", "url": "#" }
     ]
@@ -226,26 +238,32 @@
       {
         "id": 1,
         "number": "01",
-        "question": "Does the domain name affect my site’s SEO ranking?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "What is a Hosted Exchange email in Dubai?",
+        "answer": "Email Hosting provides businesses with a personalised email domain, high-grade uptime, and complete control over workplace communication. ."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "Can I buy a domain name that matches my registered business name?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "What are the benefits of getting a Hosted Exchange mailbox?",
+        "answer": "A Hosted Exchange email empowers you to improve communication and sets you apart with a custom domain name. ."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "Which domain extension is the best in Dubai, UAE?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "What devices can I access my emails from?",
+        "answer": "Since Hosted Exchange auto-syncs, you can check your emails anytime, anywhere.."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "Can I purchase a domain name permanently, or will it expire?",
-        "answer": "Yes, it can positively impact your local SEO presence by building trust and credibility. Additionally, having a target keyword in the domain name ensures that your site appears in relevant search results."
+        "question": "Can I connect my Microsoft Outlook to a Hosted Exchange server?",
+        "answer": "Absolutely! Our tech experts guide you on how to connect your email Hosting to Microsoft Outlook, among other emails.."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Are my emails secure on Hosted Exchange?",
+        "answer": "Yes! Hosted exchange boasts built-in threat detection, anti-spam filters, encryption, and automatic backups to keep all your business data secure.."
       }
       
     ]
