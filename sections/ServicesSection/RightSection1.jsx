@@ -1,6 +1,4 @@
 import { LanguageContext } from "@/app/[locale]/(main)/context/LanguageContext";
-import Image from "@/components/Image/Image";
-import LanguageAwareLink from "@/components/LanguageAwareLink/LanguageAwareLink";
 import Typography from "@/components/ui/Typography";
 import React, { useContext, useEffect, useState } from "react";
 import ar from "@/locales/ar/common.json";

@@ -1,5 +1,4 @@
 import { SEOAction } from "@/actions/seo-action";
-import { isIndex } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
 import ar from "@/locales/ar/uaeMainland.json";
