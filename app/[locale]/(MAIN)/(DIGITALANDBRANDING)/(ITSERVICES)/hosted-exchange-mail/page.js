@@ -1,5 +1,5 @@
 import { SEOAction } from "@/actions/seo-action";
-import { isIndex } from "@/constants/constants";
+import { isIndex, nocache } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
 import ar from "@/locales/ar/hostedExchangeMail.json";
@@ -18,7 +18,7 @@ export async function generateMetadata() {
     twitter: vMetaData?.twitter_tag,
     robots: {
       index: isIndex,
-      nocache: false,
+      nocache: nocache,
     },
     h1: vMetaData?.h1 || "",
     faq: vMetaData?.faq?.mainEntity || null,

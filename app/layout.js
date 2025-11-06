@@ -7,7 +7,6 @@ import Footer from "@/components/Footer/Footer";
 import TopNavbar from "@/components/Navbar/TopNavbar";
 import BottomNav from "@/components/Navbar/BottomNav";
 import MobileMenu from "@/components/MobileMenu/MobileMenu";
-import { isIndex } from "@/constants/constants";
 
 const creato = localFont({
   src: [

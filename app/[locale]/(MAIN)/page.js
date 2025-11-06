@@ -1,5 +1,5 @@
 import { SEOAction } from "@/actions/seo-action";
-import { isIndex } from "@/constants/constants";
+import { isIndex, nocache } from "@/constants/constants";
 import Home from "@/view/Home/Home";
 
 export async function generateMetadata() {
@@ -12,10 +12,10 @@ export async function generateMetadata() {
     },
     openGraph: vMetaData?.opengraph_data,
     twitter: vMetaData?.twitter_tag,
-    // robots: {
-    //   index: isIndex,
-    //   nocache: false,
-    // },
+    robots: {
+      index: isIndex,
+      nocache: nocache,
+    },
     h1: vMetaData?.h1 || "",
     faq: vMetaData?.faq?.mainEntity || null,
     icons: {

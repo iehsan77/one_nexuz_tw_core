@@ -4,6 +4,7 @@ import React, { Suspense } from "react";
 import ar from "@/locales/ar/prosServices.json";
 import en from "@/locales/en/prosServices.json";
 import Loader from "@/components/Loader";
+import { isIndex, nocache } from "@/constants/constants";
 
 export async function generateMetadata() {
   const vMetaData = await SEOAction();
@@ -15,10 +16,10 @@ export async function generateMetadata() {
     },
     openGraph: vMetaData?.opengraph_data,
     twitter: vMetaData?.twitter_tag,
-    // robots: {
-    //   index: isIndex,
-    //   nocache: false,
-    // },
+    robots: {
+      index: isIndex,
+      nocache: nocache,
+    },
     h1: vMetaData?.h1 || "",
     faq: vMetaData?.faq?.mainEntity || null,
     icons: {

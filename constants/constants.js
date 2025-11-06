@@ -1,6 +1,7 @@
 export const BASE_URL = "https://onenexuz.ae";
 export const REAL_STATE_API_DOMAIN = "https://realstateapi.cloudapiserver.com";
 export const isIndex = false;
+export const nocache = false;
 
 //=================== Staging ===================\\
 // export const SEO_DOMAIN = "https://seodevapi.cloudapiserver.com";
