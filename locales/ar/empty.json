@@ -12,31 +12,31 @@
     "items": [
       {
         "id": 1,
-        "image": "/assets/businessSetup/left1/1.webp",
         "title": "",
         "subTitle": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left1/1.webp"
       },
       {
         "id": 2,
-        "image": "/assets/businessSetup/left1/2.webp",
         "title": "",
         "subTitle": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left1/2.webp"
       },
       {
         "id": 3,
-        "image": "/assets/businessSetup/left1/3.webp",
         "title": "",
         "subTitle": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left1/3.webp"
       },
       {
         "id": 4,
-        "image": "/assets/businessSetup/left1/4.webp",
         "title": "",
         "subTitle": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left1/4.webp"
       }
     ]
   },
@@ -82,33 +82,33 @@
     "items": [
       {
         "id": 1,
-        "image": "/assets/businessSetup/left5/1.svg",
         "title": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left5/1.svg"
       },
       {
         "id": 2,
-        "image": "/assets/businessSetup/left5/2.svg",
         "title": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left5/2.svg"
       },
       {
         "id": 3,
-        "image": "/assets/businessSetup/left5/3.svg",
         "title": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left5/3.svg"
       },
       {
         "id": 4,
-        "image": "/assets/businessSetup/left5/4.svg",
         "title": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left5/4.svg"
       },
       {
         "id": 5,
-        "image": "/assets/businessSetup/left5/5.svg",
         "title": "",
-        "description": ""
+        "description": "",
+        "image": "/assets/businessSetup/left5/5.svg"
       }
     ]
   },
@@ -175,11 +175,11 @@
     ]
   },
   "leftSection_11": {
-    "image": "/assets/businessSetup/grid/2.webp",
+    "url": "#",
     "title": "",
     "description": "",
     "btn": "",
-    "url": "#"
+    "image": "/assets/businessSetup/grid/2.webp"
   },
   "exploreIndustry": {
     "title": "",
@@ -224,6 +224,12 @@
       {
         "id": 5,
         "number": "05",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 6,
+        "number": "06",
         "question": "",
         "answer": ""
       }

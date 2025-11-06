@@ -1,0 +1,238 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "",
+    "bookConsultation": "",
+    "image": "/assets/header/businessSetup.webp",
+    "title": "",
+    "description": ""
+  },
+  "leftSection_1": {
+    "title": "",
+    "description": "",
+    "items": [
+      {
+        "id": 1,
+        "title": "",
+        "subTitle": "",
+        "description": "",
+        "image": "/assets/businessSetup/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "",
+        "subTitle": "",
+        "description": "",
+        "image": "/assets/businessSetup/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "",
+        "subTitle": "",
+        "description": "",
+        "image": "/assets/businessSetup/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "",
+        "subTitle": "",
+        "description": "",
+        "image": "/assets/businessSetup/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_3": {
+    "title": "",
+    "description": "",
+    "btn": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" },
+      { "id": 4, "title": "", "description": "", "url": "#" },
+      { "id": 5, "title": "", "description": "", "url": "#" },
+      { "id": 6, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/businessSetup/left4/1.webp",
+      "title": "",
+      "description": "",
+      "btn": "",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/businessSetup/left4/2.webp",
+      "title": "",
+      "description": "",
+      "btn": "",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/left5/4.svg"
+      },
+      {
+        "id": 5,
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/left5/5.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "",
+    "description": "",
+    "items": [
+      {
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/bgImage/1.webp"
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/bgImage/2.webp"
+      },
+      {
+        "title": "",
+        "description": "",
+        "image": "/assets/businessSetup/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/businessSetup/grid/1.webp",
+    "title": "",
+    "description": "",
+    "btn": "",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "",
+    "description": "",
+    "items": [
+      {
+        "id": 1,
+        "quote": "",
+        "role": "",
+        "image": "/assets/businessSetup/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "",
+        "role": "",
+        "image": "/assets/businessSetup/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "",
+        "role": "",
+        "image": "/assets/businessSetup/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "",
+    "btn": "",
+    "items": [
+      { "id": 1, "title": "", "description": "", "url": "#" },
+      { "id": 2, "title": "", "description": "", "url": "#" },
+      { "id": 3, "title": "", "description": "", "url": "#" }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "",
+    "description": "",
+    "btn": "",
+    "image": "/assets/businessSetup/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "", "url": "#" },
+      { "id": 2, "title": "", "url": "#" },
+      { "id": 3, "title": "", "url": "#" },
+      { "id": 4, "title": "", "url": "#" },
+      { "id": 5, "title": "", "url": "#" },
+      { "id": 6, "title": "", "url": "#" },
+      { "id": 7, "title": "", "url": "#" },
+      { "id": 8, "title": "", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "",
+        "answer": ""
+      },
+      {
+        "id": 6,
+        "number": "06",
+        "question": "",
+        "answer": ""
+      }
+    ]
+  }
+}
