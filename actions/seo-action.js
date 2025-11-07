@@ -46,7 +46,6 @@ export async function SEOAction() {
       body: formData,
     });
     const response = await res.json();
-    console.log("seo response", response);
     if (response?.status === 200) {
       return {
         ...response.data,
