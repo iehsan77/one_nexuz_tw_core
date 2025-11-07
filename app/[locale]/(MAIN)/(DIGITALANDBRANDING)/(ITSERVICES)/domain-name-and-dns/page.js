@@ -2,8 +2,8 @@ import { SEOAction } from "@/actions/seo-action";
 import { isIndex, nocache } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
-import ar from "@/locales/ar/domainNameAndDNS2.json";
-import en from "@/locales/en/domainNameAndDNS2.json";
+import ar from "@/locales/ar/domainNameAndDNS.json";
+import en from "@/locales/en/domainNameAndDNS.json";
 import Loader from "@/components/Loader";
 
 export async function generateMetadata() {
