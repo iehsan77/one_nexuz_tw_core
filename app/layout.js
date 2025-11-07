@@ -33,10 +33,6 @@ const creato = localFont({
 export const metadata = {
   title: "One Nexuz",
   description: "One Nexuz",
-  // robots: {
-  //   index: true,
-  //   nocache: true,
-  // },
 };
 
 export default function RootLayout({ children }) {
