@@ -48,7 +48,7 @@ function GuideCard({ data }) {
       <div className="w-full">
         <Image
           src={data?.thumbnail_image}
-          alt="img"
+          alt={data?.title}
           width={400}
           height={400}
           className="w-full h-[260px] object-cover"
@@ -63,7 +63,7 @@ function GuideCard({ data }) {
         <div className="mt-auto flex items-center gap-3">
           <Image
             src="/assets/guide/client.png"
-            alt="img"
+            alt={data?.title}
             width={33}
             height={33}
           />

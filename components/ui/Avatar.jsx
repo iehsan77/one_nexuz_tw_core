@@ -73,7 +73,7 @@ export default function Avatar({
           className
         )}>
         {src ? (
-          <Image src={src} alt={alt} fill className="object-cover" />
+          <Image src={src} alt="image" fill className="object-cover" />
         ) : (
           initials
         )}

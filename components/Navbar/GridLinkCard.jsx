@@ -7,7 +7,7 @@ function GridLinkCard({ data }) {
   return (
     <div>
       {data?.map((item) => (
-        <div key={item?.id} className="grid grid-cols-4 gap-5">
+        <div key={item?.id} className="grid xl:grid-cols-4 grid-cols-2 xl:gap-5 gap-3">
           {item?.links?.map((i) => (
             <div key={i?.id} className="mb-2">
               <LanguageAwareLink

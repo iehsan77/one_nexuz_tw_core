@@ -44,7 +44,8 @@ function EndTOEndSetup({ data, t, locale }) {
               onClick={() => setActiveTab(item?.id)}
               className={`${
                 activeTab === item?.id ? "border-primary" : "border-transparent"
-              } border-b-2 sm:px-3 py-1 sm:py-3 cursor-pointer`}>
+              } border-b-2 sm:px-3 py-1 sm:py-3 cursor-pointer`}
+            >
               {item?.title}
             </Typography>
           ))}
@@ -64,7 +65,8 @@ function EndTOEndSetup({ data, t, locale }) {
               <LanguageAwareLink
                 variant="rightIcon"
                 href="#"
-                className="!text-primary">
+                className="!text-primary"
+              >
                 {t.btn.exploreMore}
               </LanguageAwareLink>
             </div>
@@ -90,6 +92,7 @@ function EndTOEndSetup({ data, t, locale }) {
               <div className="flex items-center gap-3 flex-wrap lg:flex-nowrap">
                 {filterData?.data?.map((item) => (
                   <Typography
+                    key={item?.id}
                     weight="medium"
                     align="center"
                     color={
@@ -100,14 +103,16 @@ function EndTOEndSetup({ data, t, locale }) {
                         ? "border-primary"
                         : "border-transparent"
                     } sm:px-2 py-1 sm:py-2 cursor-pointer border-b-2`}
-                    onClick={() => setActiveItem(item?.id)}>
+                    onClick={() => setActiveItem(item?.id)}
+                  >
                     {item?.title}
                   </Typography>
                 ))}
               </div>
               <LanguageAwareLink
                 href="#"
-                className="underline font-medium text-grayDark underline-offset-2">
+                className="underline font-medium text-grayDark underline-offset-2"
+              >
                 {t.btn.viewAll}
               </LanguageAwareLink>
             </div>
@@ -143,7 +148,8 @@ function EndTOEndSetup({ data, t, locale }) {
               onClick={() => setActiveTab(item?.id)}
               className={`${
                 activeTab === item?.id ? "border-primary" : "border-transparent"
-              } border-b-2 sm:px-3 py-1 sm:py-3 cursor-pointer`}>
+              } border-b-2 sm:px-3 py-1 sm:py-3 cursor-pointer`}
+            >
               {item?.title}
             </Typography>
           ))}
@@ -165,14 +171,16 @@ function EndTOEndSetup({ data, t, locale }) {
                       ? "border-primary"
                       : "border-transparent"
                   } sm:px-2 py-1 sm:py-2 cursor-pointer border-b-2`}
-                  onClick={() => setActiveItem(item?.id)}>
+                  onClick={() => setActiveItem(item?.id)}
+                >
                   {item?.title}
                 </Typography>
               ))}
             </div>
             <LanguageAwareLink
               href="#"
-              className="underline font-medium text-grayDark underline-offset-2">
+              className="underline font-medium text-grayDark underline-offset-2"
+            >
               {t.btn.viewAll}
             </LanguageAwareLink>
           </div>
@@ -188,7 +196,8 @@ function EndTOEndSetup({ data, t, locale }) {
               <LanguageAwareLink
                 variant="rightIcon"
                 href="#"
-                className="!text-primary">
+                className="!text-primary"
+              >
                 {t.btn.exploreMore}
               </LanguageAwareLink>
             </div>

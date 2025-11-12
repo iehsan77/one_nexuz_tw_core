@@ -11,7 +11,7 @@ function MeetVisionariesCard({ data }) {
       <div className="h-[300px]">
         <Image
           src={data?.image}
-          alt="img"
+          alt={data?.title}
           width={256}
           height={234}
           className="w-full h-full object-cover"

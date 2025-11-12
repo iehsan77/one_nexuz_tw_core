@@ -198,7 +198,7 @@ export default function LanguageSwitcher() {
         className="flex items-center gap-2 rounded-md max-w-22 bg-transparent cursor-pointer">
         <Image
           src={selectedLang?.icon}
-          alt={selectedLang?.short}
+          alt="image"
           width={30}
           height={30}
         />
@@ -233,7 +233,7 @@ export default function LanguageSwitcher() {
               <div className="flex items-center justify-center gap-2">
                 <Image
                   src={lang.icon}
-                  alt={lang.label}
+                  alt="image"
                   width={20}
                   height={20}
                 />

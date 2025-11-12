@@ -154,7 +154,6 @@ function MenuItem({ item, depth = 0 }) {
           } transition-colors duration-300`}>
           {item.title}
         </LanguageAwareLink>
-
         {hasChildren && (
           <button
             onClick={handleToggle}
@@ -170,7 +169,6 @@ function MenuItem({ item, depth = 0 }) {
           </button>
         )}
       </div>
-
       {/* Animated Dropdown */}
       <AnimatePresence initial={false}>
         {open && (

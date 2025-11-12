@@ -8,7 +8,7 @@ function BgImgCard({ data }) {
       <div className="relative w-full max-h-[400px]">
         <Image
           src={data?.image || "/assets/1.png"}
-          alt="img"
+          alt={data?.title}
           width={827}
           height={810}
           // className="w-auto h-auto object-contain"

@@ -61,7 +61,7 @@ function TrustedBy({ title }) {
                     src={item?.logo_url}
                     height={104}
                     width={187}
-                    alt={item?.id}
+                    alt="image"
                     className="object-contain w-auto h-20"
                   />
                 </div>

@@ -9,7 +9,7 @@ function LeftSection4({ data, locale }) {
       <div className="relative overflow-hidden flex items-center h-[400px] sm:h-[490px]">
         <Image
           src={data?.sec1?.image || "/assets/businessSetup/left4/1.webp"}
-          alt={data?.sec1?.title}
+          alt="image"
           width={909}
           height={539}
           className="w-full h-full object-cover"

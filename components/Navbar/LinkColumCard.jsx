@@ -18,7 +18,7 @@ function LinkColumCard({ data = [] }) {
               <Typography
                 as="h3"
                 weight="semibold"
-                className="border-b-2 border-gray w-fit text-nowrap mb-4">
+                className="border-b-2 border-gray w-fit mb-4">
                 {item?.title}
               </Typography>
             </LanguageAwareLink>
@@ -33,7 +33,7 @@ function LinkColumCard({ data = [] }) {
                   {i?.title}
                 </LanguageAwareLink>
                 {i?.items?.map((item) => (
-                  <div key={item?.id} className="text-gray my-2 pl-3">
+                  <div key={item?.id} className="text-gray my-2">
                     <LanguageAwareLink
                       onClick={() => hideMenu()}
                       href={item?.url}>

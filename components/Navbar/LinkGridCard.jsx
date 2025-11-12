@@ -6,14 +6,14 @@ import { useMenu } from "@/context/menu-context";
 function LinkGridCard({ data }) {
   const { hideMenu } = useMenu();
   return (
-    <div className="grid grid-cols-4 gap-5">
+    <div className="grid xl:grid-cols-4 grid-cols-2 xl:gap-5 gap-3">
       {data?.map((item) => (
         <div key={item?.id} className="">
           <LanguageAwareLink href={item?.url || "#"} onClick={() => hideMenu()}>
             <Typography
               as="h3"
               weight="semibold"
-              className="border-b-2 border-gray w-fit text-nowrap mb-4">
+              className="border-b-2 border-gray w-fit mb-4">
               {item?.title}
             </Typography>
           </LanguageAwareLink>
