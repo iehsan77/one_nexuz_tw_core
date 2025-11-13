@@ -22,7 +22,7 @@ function ModalBtn({ text, className, calendar, icon, variant = "primary" }) {
   return (
     <button
       onClick={openModal}
-      className={`${className} text-base flex font-medium items-center gap-1  text-nowrap cursor-pointer transition-colors 
+      className={`${className} text-base flex font-medium items-center gap-1 text-nowrap cursor-pointer transition-colors 
       ${
         variant === "primary"
           ? "px-0 h-fit w-fit py-1 text-white border-b-2"

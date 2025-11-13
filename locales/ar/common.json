@@ -314,27 +314,31 @@
     "items": [
       {
         "id": 1,
-        "thumbnail_image": "/assets/guide/1.png",
         "title": "كل ما تحتاج لمعرفته حول التأشيرة الذهبية لدولة الإمارات العربية المتحدة",
-        "client": "ويد وارن"
+        "client": "ويد وارن",
+        "designation": "مستشار الأعمال",
+        "thumbnail_image": "/assets/guide/1.png"
       },
       {
         "id": 2,
-        "thumbnail_image": "/assets/guide/2.png",
         "title": "الدليل الشامل لتأسيس شركتك في المناطق الحرة بالإمارات العربية المتحدة",
-        "client": "ويد وارن"
+        "client": "ويد وارن",
+        "designation": "مستشار الأعمال",
+        "thumbnail_image": "/assets/guide/2.png"
       },
       {
         "id": 3,
-        "thumbnail_image": "/assets/guide/3.png",
         "title": "تبسيط العمليات مع الخدمات المؤسسية",
-        "client": "ويد وارن"
+        "client": "ويد وارن",
+        "designation": "مستشار الأعمال",
+        "thumbnail_image": "/assets/guide/3.png"
       },
       {
         "id": 4,
-        "thumbnail_image": "/assets/guide/4.png",
         "title": "إتقان العمليات الحكومية مع خدمات PRO المتخصصة",
-        "client": "ويد وارن"
+        "client": "ويد وارن",
+        "designation": "مستشار الأعمال",
+        "thumbnail_image": "/assets/guide/4.png"
       }
     ]
   },

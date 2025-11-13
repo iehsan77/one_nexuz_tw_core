@@ -21,12 +21,12 @@ function LeftSection10({ data, locale }) {
         <Typography size="3xl" weight="bold" as="p">
           {data?.title}
         </Typography>
-        <div className="grid xs:grid-cols-2 md:grid-cols-3 gap-5 relative z-15">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 relative z-15">
           {data?.items?.map((item) => (
             <div
               key={item?.id}
-              className="bg-white py-6 min-h-[230px] px-5 rounded-lg shadow-lg flex flex-col gap-6">
-              <div className="space-y-4 flex-1">
+              className="bg-white py-6 sm:min-h-[230px] px-5 rounded-lg shadow-lg flex flex-col gap-6">
+              <div className="space-y-4 ">
                 <Typography as="p" weight="medium" size="lg">
                   {item?.title}
                 </Typography>

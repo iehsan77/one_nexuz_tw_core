@@ -9,7 +9,7 @@ function FaqsSection({ data }) {
         size="3xl"
         weight="bold"
         align="center"
-        className="max-w-[600px] mx-auto">
+        className="max-w-[600px] w-full mx-auto">
         {data.title}
       </Typography>
       <FaqAccordian data={data?.items} />

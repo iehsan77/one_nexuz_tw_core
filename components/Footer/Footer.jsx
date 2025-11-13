@@ -17,7 +17,7 @@ function Footer() {
   const servicesData = locale === "ar" ? navDataAr : navData;
 
   return (
-    <div className="py-12 bg-secondary relative mb-18 lg:mb-0">
+    <div className="py-12 bg-secondary relative mb-14 sm:mb-16 lg:mb-0">
       <div className="absolute bottom-0">
         <Image
           src="/assets/backGrounds/footerBg.svg"
@@ -45,24 +45,24 @@ function Footer() {
           <LanguageAwareLink href="#" variant="rightIcon">
             {t.btn.contactUsNow}
           </LanguageAwareLink>
-          <Typography color="white" size="base">
-            {t.footer.social}
-          </Typography>
-          <div className="flex items-center gap-4 mb-2">
-            {footerSocials?.map((item, i) => (
-              <Link href={item?.href} key={i} className="text-white">
-                <Icon icon={item?.icon} width={22} height={22} />
-              </Link>
-            ))}
-          </div>
-          <div>
-            <Image
-              src="/assets/qrCode.svg"
-              alt="logo"
-              width={153}
-              height={46}
-              className="w-auto h-auto object-contain"
-            />
+          <div className="space-y-3 sm:block hidden">
+              <Typography color="white" size="base">
+                {t.footer.social}
+              </Typography>
+            <div className="flex items-center gap-4">
+              {footerSocials?.map((item, i) => (
+                <Link href={item?.href} key={i} className="text-white">
+                  <Icon icon={item?.icon} width={22} height={22} />
+                </Link>
+              ))}
+            </div>
+              <Image
+                src="/assets/qrCode.svg"
+                alt="logo"
+                width={153}
+                height={46}
+                className="w-auto h-auto object-contain"
+              />
           </div>
         </div>
         {/*  */}
@@ -73,7 +73,8 @@ function Footer() {
                 <div key={item?.id} className="space-y-6">
                   <LanguageAwareLink
                     href={item?.url || "#"}
-                    className={"block w-fit !border-b border-white !pb-2 "}>
+                    className={"block w-fit !border-b border-white !pb-2 "}
+                  >
                     <Typography color="white" weight="medium">
                       {item?.title}
                     </Typography>
@@ -84,7 +85,8 @@ function Footer() {
                         <LanguageAwareLink
                           key={tab?.id}
                           href={tab?.url || "#"}
-                          className={"w-fit"}>
+                          className={"w-fit"}
+                        >
                           <Typography as="p" size="sm" color="white">
                             {tab?.title}
                           </Typography>
@@ -98,7 +100,8 @@ function Footer() {
                           <LanguageAwareLink href="#">
                             <LanguageAwareLink
                               href={i?.url || "#"}
-                              className={"block !w-fit"}>
+                              className={"block !w-fit"}
+                            >
                               <Typography as="p" size="sm" color="white">
                                 {i?.title}
                               </Typography>
@@ -124,12 +127,14 @@ function Footer() {
                     href={`/services?section=${item?.title
                       .toLowerCase()
                       .replace(/[^a-z0-9]+/g, "-")}`}
-                    className="flex w-fit">
+                    className="flex w-fit"
+                  >
                     <Typography
                       as="p"
                       size="sm"
                       color="primary"
-                      className="flex items-center gap-2">
+                      className="flex items-center gap-2"
+                    >
                       {t.btn.viewAll}
                       <Icon
                         icon={
@@ -152,7 +157,8 @@ function Footer() {
                   <Typography
                     color="white"
                     weight="medium"
-                    className="border-b pb-2 w-fit">
+                    className="border-b pb-2 w-fit"
+                  >
                     {item?.title}
                   </Typography>
                   <div className="flex flex-col gap-4">
@@ -170,6 +176,25 @@ function Footer() {
             {/*  */}
           </div>
         </div>
+        <div className="space-y-3 sm:hidden block">
+              <Typography color="white" size="base">
+                {t.footer.social}
+              </Typography>
+            <div className="flex items-center gap-4">
+              {footerSocials?.map((item, i) => (
+                <Link href={item?.href} key={i} className="text-white">
+                  <Icon icon={item?.icon} width={22} height={22} />
+                </Link>
+              ))}
+            </div>
+              <Image
+                src="/assets/qrCode.svg"
+                alt="logo"
+                width={153}
+                height={46}
+                className="w-auto h-auto object-contain"
+              />
+          </div>
       </div>
     </div>
   );

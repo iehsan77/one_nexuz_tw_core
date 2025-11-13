@@ -33,6 +33,7 @@ function GuideSec() {
     mediaQuery: "min",
     breakpoints: {
       640: { perPage: 2 },
+      1024: { perPage: 3 },
     },
   };
   return (
@@ -54,12 +55,12 @@ function GuideSec() {
         </LanguageAwareLink>
       </div>
       {/*  */}
-      <div className="hidden lg:grid grid-cols-3 gap-4">
+      <div className="hidden xl:grid xl:grid-cols-4 gap-4">
         {t?.guide?.items?.map((item) => (
           <GuideCard key={item?.id} data={item} />
         ))}
       </div>
-      <div className="block lg:hidden">
+      <div className="block xl:hidden">
         <UniversalSplide
           ref={splideRef}
           hasTrack={false}

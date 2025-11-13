@@ -30,7 +30,7 @@ function LeftSection1({ data, locale }) {
         <motion.div
           className={`${
             locale ? "md:ml-10 md:border-l" : "md:mr-10 md:border-r"
-          } md:px-8 md:py-18 bg-transparent md:bg-primaryLight relative border-[#CCCCCC]`}
+          } md:px-6 md:py-12 py-4 bg-transparent md:bg-primaryLight relative border-[#CCCCCC]`}
           initial={{ opacity: 0, x: locale ? 50 : -50 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}>
@@ -63,9 +63,9 @@ function LeftSection1({ data, locale }) {
                   className={`${
                     activeTab?.id === item?.id
                       ? `${
-                          locale ? "pr-5 pl-3" : "pl-5 pr-3"
+                          locale ? "pr-5 pl-3" : "pl-5 pr-2"
                         } text-white bg-primary border-primary w-full relative md:w-[320px] lg:w-[280px] xl:w-[365px]`
-                      : "text-gray border-[#CCCCCC] px-4 bg-[#F4E8EC] block w-full"
+                      : "text-gray border-[#CCCCCC] px-4 bg-white block w-full"
                   } cursor-pointer font-medium text-sm sm:text-base py-2 rounded-lg border !text-start flex items-center justify-between gap-5`}>
                   {item?.title}
                   {activeTab?.id === item?.id && (
@@ -92,7 +92,7 @@ function LeftSection1({ data, locale }) {
           key={activeTab?.id}
           className={`${
             locale ? "md:pl-5" : "md:pr-5"
-          } py-6 rounded-xl border border-[#CCCCCC] md:border-0 md:py-10 px-5 md:px-0 space-y-8 md:bg-transparent`}
+          } rounded-xl border border-[#CCCCCC] md:border-0 md:py-6 px-5 md:px-0 space-y-8 md:bg-transparent`}
           initial={{ opacity: 0, x: locale ? -40 : 40 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}>

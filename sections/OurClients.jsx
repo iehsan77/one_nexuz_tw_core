@@ -27,7 +27,7 @@ function OurClients({ data }) {
   const activeData = data?.items[activeIndex];
 
   return (
-    <section className="secPadding container space-y-6">
+    <section className="secPadding container space-y-4">
       <div className="space-y-3 max-w-[500px]">
         <Typography size="3xl" weight="bold" as="p" color="gray">
           {data?.title}
@@ -37,9 +37,10 @@ function OurClients({ data }) {
         </Typography>
       </div>
       {/*  */}
+      <div className="xl:-mt-18 lg:-mt-6">
       <div className="flex items-center relative">
         <div className="lg:absolute lg:w-[70%] lg:mt-10 overflow-hidden z-10">
-          <div className="bg-secondary shadow-lg">
+          <div className="bg-secondary shadow-xl">
             {/*  */}
             <div className="relative">
               {/*  */}
@@ -165,6 +166,7 @@ function OurClients({ data }) {
             />
           </div>
         </div>
+      </div>
       </div>
     </section>
   );

@@ -14,11 +14,12 @@ function OurPartners({ data }) {
       </Typography>
 
       {/* Tabs */}
-      <div className="bg-primaryLight grid grid-cols-2 lg:flex items-center justify-between gap-3 p-2">
+      <div className="bg-primaryLight grid grid-cols-2 lg:flex items-center justify-between gap-3 sm:p-2">
         {data?.items?.map((item) => (
           <Typography
             key={item?.id}
-            align="center"
+            align="left"
+            size="sm"
             weight="medium"
             onClick={() => setActiveTab(item?.id)}
             className={`${

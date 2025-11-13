@@ -37,12 +37,12 @@ function MeetVisionariesSlider({ data }) {
           </Typography>
         </div>
         {/*  */}
-        <div className="hidden sm:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
+        <div className="hidden lg:grid lg:grid-cols-2 xl:grid-cols-4 gap-5">
           {data?.items?.map((item, i) => (
             <MeetVisionariesCard key={i} data={item} />
           ))}
         </div>
-        <div className="block sm:hidden">
+        <div className="block lg:hidden">
           <UniversalSplide
             ref={splideRef}
             hasTrack={false}

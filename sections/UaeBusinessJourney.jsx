@@ -8,7 +8,7 @@ function UaeBusinessJourney({ data }) {
       <Typography size="3xl" weight="bold" className="max-w-[500px]">
         {data?.title}
       </Typography>
-      <div className="grid xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
+      <div className="grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-5">
         {/*  */}
         {data?.items?.map((item, i) => (
           <div
@@ -31,7 +31,7 @@ function UaeBusinessJourney({ data }) {
                 height={50}
                 className="w-auto h-auto object-cover"
               />
-              <Typography size="xl" weight="bold" align="center">
+              <Typography size="xl" weight="medium" align="center">
                 {item?.title}
               </Typography>
               <Typography size="sm" weight="normal" align="center" color="gray">

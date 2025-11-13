@@ -16,7 +16,7 @@ function GridSec({ data }) {
           // className="w-auto h-auto object-cover"
         />
       </div>
-      <div className="space-y-3">
+      <div className="space-y-3 lg:order-last order-first">
         <Typography size="3xl" weight="bold" color="gray">
           {data?.title}
         </Typography>

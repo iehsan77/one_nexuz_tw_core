@@ -311,27 +311,31 @@
     "items": [
       {
         "id": 1,
-        "thumbnail_image": "/assets/guide/1.png",
         "title": "Everything You Need to Know About the UAE Golden Visa",
-        "client": "Wade Warren"
+        "client": "Wade Warren",
+        "designation": "Business Advisor",
+        "thumbnail_image": "/assets/guide/1.png"
       },
       {
         "id": 2,
-        "thumbnail_image": "/assets/guide/2.png",
         "title": "The Complete Guide to Setting Up in UAE Freezones",
-        "client": "Wade Warren"
+        "client": "Wade Warren",
+        "designation": "Business Advisor",
+        "thumbnail_image": "/assets/guide/2.png"
       },
       {
         "id": 3,
-        "thumbnail_image": "/assets/guide/3.png",
         "title": "Simplify Operations with Corporate Services",
-        "client": "Wade Warren"
+        "client": "Wade Warren",
+        "designation": "Business Advisor",
+        "thumbnail_image": "/assets/guide/3.png"
       },
       {
         "id": 4,
-        "thumbnail_image": "/assets/guide/4.png",
         "title": "Master Government Processes with Expert PRO Services",
-        "client": "Wade Warren"
+        "client": "Wade Warren",
+        "designation": "Business Advisor",
+        "thumbnail_image": "/assets/guide/4.png"
       }
     ]
   },
