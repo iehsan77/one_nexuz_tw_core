@@ -38,7 +38,6 @@ function LeftSection10({ data, locale }) {
                   {item?.description}
                 </Typography>
               </div>
-
               {/* Link always at bottom */}
               <LanguageAwareLink
                 href={item?.url}
