@@ -71,7 +71,7 @@ const PhoneNumberInput = ({
             value={val}
             onChange={handleChange}
             inputClass={`!bg-transparent !border-none !shadow-none !text-sm !w-full !focus:outline-none ${
-              ar ? "!pr-14 !text-right" : "!pl-14 !text-left"
+              ar ? "!pr-7 !text-right" : "!pl-8 !text-left"
             }`}
             buttonClass="!bg-transparent !border-none hover:!bg-transparent"
             containerClass="w-full relative"

@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 :root {
-  --primary: #E32934;
-  --primaryDark: #EF6078;
-  --primaryLight: #FFF5F7;
+  --primary: #e32934;
+  --primaryDark: #ef6078;
+  --primaryLight: #fff5f7;
   --secondary: #222156;
-  --secondaryLight: #F4F4FF;
+  --secondaryLight: #f4f4ff;
   --gray: #404040;
-  --grayLight: #F8F8F8;
+  --grayLight: #f8f8f8;
   --grayDark: #252525;
   --font-creato: "CreatoDB";
 }
@@ -21,7 +21,7 @@
   --color-gray: var(--gray);
   --color-grayLight: var(--grayLight);
   --color-grayDark: var(--grayDark);
-  
+
   /*  */
   --default-font-family: var(--font-creato), sans-serif;
 }
@@ -29,7 +29,6 @@
 /* html {
   scroll-behavior: smooth;
 } */
-
 
 @utility container {
   margin-inline: auto;
@@ -97,4 +96,9 @@ body {
 .arrow {
   display: none !important;
   opacity: 0 !important;
+}
+.react-tel-input .selected-flag:hover,
+.react-tel-input .selected-flag:focus,
+.react-tel-input .flag-dropdown.open .selected-flag {
+  background-color: transparent !important;
 }

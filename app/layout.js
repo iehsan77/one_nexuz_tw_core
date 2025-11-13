@@ -8,6 +8,8 @@ import TopNavbar from "@/components/Navbar/TopNavbar";
 import BottomNav from "@/components/Navbar/BottomNav";
 import MobileMenu from "@/components/MobileMenu/MobileMenu";
 
+export const dynamic = "force-dynamic";
+
 const creato = localFont({
   src: [
     {
@@ -34,7 +36,6 @@ export const metadata = {
   title: "One Nexuz",
   description: "One Nexuz",
 };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">

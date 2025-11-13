@@ -22,8 +22,8 @@ function LinkColumCard({ data = [] }) {
                 {item?.title}
               </Typography>
             </LanguageAwareLink>
-            {item?.links?.map((i) => (
-              <div key={i?.id} className="mb-3">
+            {item?.links?.map((i, index) => (
+              <div key={index} className="mb-3">
                 <LanguageAwareLink
                   onClick={() => hideMenu()}
                   href={i?.url}

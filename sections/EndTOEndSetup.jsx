@@ -161,6 +161,7 @@ function EndTOEndSetup({ data, t, locale }) {
             <div className="flex items-center gap-3 flex-wrap lg:flex-nowrap">
               {filterData?.data?.map((item) => (
                 <Typography
+                key={item.id}
                   weight="medium"
                   align="center"
                   color={
