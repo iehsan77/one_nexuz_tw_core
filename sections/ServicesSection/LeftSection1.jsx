@@ -92,7 +92,7 @@ function LeftSection1({ data, locale }) {
           key={activeTab?.id}
           className={`${
             locale ? "md:pl-5" : "md:pr-5"
-          } rounded-xl border border-[#CCCCCC] md:border-0 md:py-6 px-5 md:px-0 space-y-8 md:bg-transparent`}
+          } rounded-xl border border-[#CCCCCC] md:border-0 md:py-6 py-4 px-4 md:px-0 space-y-8 md:bg-transparent`}
           initial={{ opacity: 0, x: locale ? -40 : 40 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}>

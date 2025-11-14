@@ -218,21 +218,31 @@
         "items": [
           {
             "id": 1,
-            "title": "About Us",
+            "title": "Affiliates & Partners",
             "url": "#"
           },
           {
             "id": 2,
-            "title": "Contact us",
+            "title": "About Us",
             "url": "#"
           },
           {
             "id": 3,
-            "title": "Privacy policy",
+            "title": "Contact us",
             "url": "#"
           },
           {
             "id": 4,
+            "title": "Privacy policy",
+            "url": "#"
+          },
+          {
+            "id": 5,
+            "title": "Terms of Service",
+            "url": "#"
+          },
+          {
+            "id": 6,
             "title": "Careers",
             "url": "#"
           }

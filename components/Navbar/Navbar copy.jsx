@@ -35,17 +35,13 @@ function Navbar() {
     if (searchHide) setSearchHide(false);
   });
 
-  // 🔥 FIX: menu open → page top par rahe, but scroll allow
-  useEffect(() => {
-    if (active !== null) {
-      window.scrollTo({ top: 0 });
-    }
-  }, [active]);
-
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 50) setScrolled(true);
-      else setScrolled(false);
+      if (window.scrollY > 50) {
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
     };
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
@@ -89,6 +85,7 @@ function Navbar() {
                   className="bg-white w-full px-4 rounded-lg py-2 text-sm focus:outline-0"
                 />
 
+                {/* Search Suggestions */}
                 {query && filteredData?.length > 0 && (
                   <div className="absolute left-0 top-full mt-2 w-full bg-white shadow-lg rounded-lg max-h-60 overflow-y-auto z-50">
                     {filteredData.map((item) => (

@@ -15,7 +15,7 @@ function MobileMenu() {
   const [showSocial, setShowSocial] = useState(false);
 
   return (
-    <div className="fixed bottom-26 right-4 z-30 sm:hidden">
+    <div className="fixed bottom-24 right-4 z-30 sm:hidden">
       <div className="space-y-2">
         {/* Social icons - slide from right */}
         <AnimatePresence>
