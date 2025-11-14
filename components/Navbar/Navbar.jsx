@@ -54,12 +54,14 @@ function Navbar() {
   return (
     <div
       className={`fixed top-0 z-50 w-full transition-colors duration-300
-    ${scrolled ? "bg-secondary" : "bg-transparent"}`}>
+    ${scrolled ? "bg-secondary" : "bg-transparent"}`}
+    >
       <TopNavbar />
       <div
         className={`border-b-2 border-white/50 ${
           searchHide ? "py-[8.5px]" : "py-0"
-        }`}>
+        }`}
+      >
         <div className="container flex items-center gap-4 justify-between relative">
           <LanguageAwareLink href="/" onClick={() => hideMenu()}>
             <Image
@@ -76,11 +78,15 @@ function Navbar() {
               <motion.div
                 ref={searchRef}
                 key="search-bar"
-                initial={{ width: 0, opacity: 0 }}
-                animate={{ width: "65%", opacity: 1 }}
-                exit={{ width: 0, opacity: 0 }}
-                transition={{ duration: 0.3, ease: "easeInOut" }}
-                className="relative w-full">
+                initial={{ opacity: 0, scale: 0.95, y: 5 }}
+                animate={{ opacity: 1, scale: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.95, y: 5 }}
+                transition={{
+                  duration: 3,
+                  ease: "easeinOut",
+                }}
+                className="relative w-full"
+              >
                 <input
                   type="text"
                   value={query}
@@ -99,7 +105,8 @@ function Navbar() {
                         onClick={() => {
                           setQuery("");
                           setSearchHide(false);
-                        }}>
+                        }}
+                      >
                         {item?.parent
                           ? `${item.parent} › ${item.title}`
                           : item.title}
@@ -144,7 +151,8 @@ function Navbar() {
                     active === item?.id
                       ? "border-primary"
                       : "border-transparent"
-                  } border-t-3 py-5 cursor-pointer text-center`}>
+                  } border-t-3 py-5 cursor-pointer text-center`}
+                >
                   <Typography color="white" size="sm">
                     {item?.title}
                   </Typography>
@@ -160,7 +168,8 @@ function Navbar() {
                 setSearchHide(!searchHide);
                 hideMenu();
               }}
-              className="bg-white rounded-md p-1 cursor-pointer">
+              className="bg-white rounded-md p-1 cursor-pointer"
+            >
               <Icon icon="lucide:search" width="20" height="20" />
             </button>
             <div className="hidden xl:block">
