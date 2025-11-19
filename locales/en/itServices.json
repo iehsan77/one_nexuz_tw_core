@@ -2,7 +2,7 @@
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
-    "image": "/assets/header/marketinAndBranding.webp",
+    "image": "/assets/header/itServices.webp",
     "title": "From System Uptime to Data Protection, Get Nonstop IT Services That Power Seamless Business Operations",
     "description": "Slow systems, rising cyber threats, and outdated IT can stall growth and put your UAE business at risk. Boost IT security, data protection, system performance, and scalability with One Nexuz IT services. Whether you’re a growing startup or an established organization, safeguard confidential data, prevent costly breaches, and scale operations seamlessly with expert-driven solutions designed to keep your business ahead in the digital age"
   },
@@ -15,28 +15,28 @@
         "title": "Monitor Systems in Real-Time, Reduce Interruptions, & Drive Efficiency With Smarter IT Management!",
         "subTitle": "Monitor Systems in Real-Time, Reduce Interruptions, & Drive Efficiency With Smarter IT Management!",
         "description": "Clunky software, inadequate encryption, and insecure firewalls all make your business vulnerable to malicious attacks. Every minute of downtime can impact productivity, slow operations, and hurt your bottom line. With proactive IT monitoring, you can give your business the stability, security, and efficiency it needs to thrive.",
-        "image": "/assets/marketinAndBranding/left1/1.webp"
+        "image": "/assets/itServices/left1/1.webp"
       },
       {
         "id": 2,
         "title": "Detect Threats Early, Protect Critical Data, & Stop Attacks Before They Strike With Proactive IT Security",
         "subTitle": "Detect Threats Early, Protect Critical Data, & Stop Attacks Before They Strike With Proactive IT Security",
         "description": "Small security gaps and outdated systems leave businesses vulnerable to cyberattacks; over  200,000 occur daily, resulting in data theft and substantial financial losses. Expert IT services safeguard you with real-time monitoring, firewalls, and security protocols.",
-        "image": "/assets/marketinAndBranding/left1/2.webp"
+        "image": "/assets/itServices/left1/2.webp"
       },
       {
         "id": 3,
         "title": "Stop Downtime and Protect Your Digital Presence To Boost Customer Confidence in Your Brand",
         "subTitle": "Stop Downtime and Protect Your Digital Presence To Boost Customer Confidence in Your Brand",
         "description": "Slow websites, frequent outages, and data breaches don’t just harm operations —they also erode customer trust. Top-notch IT ensures your systems are secure, reinforcing customer confidence and boosting satisfaction.",
-        "image": "/assets/marketinAndBranding/left1/3.webp"
+        "image": "/assets/itServices/left1/3.webp"
       },
       {
         "id": 4,
         "title": "Streamline Your IT, Free Up Resources, & Slash In-House Costs",
         "subTitle": "Streamline Your IT, Free Up Resources, & Slash In-House Costs",
         "description": "Hiring a full-time IT team can drain your wallet. By outsourcing these services, you can cut overheads by half, all without sacrificing quality. Let tech experts manage your IT challenges for seamless operations without the stress.",
-        "image": "/assets/marketinAndBranding/left1/4.webp"
+        "image": "/assets/itServices/left1/4.webp"
       }
     ]
   },
@@ -84,14 +84,14 @@
   },
   "leftSection_4": {
     "sec1": {
-      "image": "/assets/marketinAndBranding/left4/1.webp",
+      "image": "/assets/itServices/left4/1.webp",
       "title": "Get Started with One Nexuz IT Solutions That Work Harder Than You Do",
       "description": "From backups to disaster recovery, we manage your infrastructure, security, updates, and user support so you can focus on growth, stress-free.",
       "btn": "Book a Free Call",
       "url": "#"
     },
     "sec2": {
-      "image": "/assets/marketinAndBranding/left4/2.webp",
+      "image": "/assets/itServices/left4/2.webp",
       "title": "Break Digital Barriers, Not Your Bank, with Our Custom Quotes for Tailored IT Solutions",
       "description": "At One Nexuz, we deliver IT solutions that match your unique needs, from cybersecurity and cloud management to data protection and ongoing support. With transparent pricing, you only pay for what matters—reliable systems, expert guidance, and the flexibility to scale as your business grows.",
       "btn": "Explore Our Pricing Packages",
@@ -105,25 +105,25 @@
         "id": 1,
         "title": "Book a Discovery Call",
         "description": "We begin the onboarding journey by assessing your current IT systems and identifying potential vulnerabilities.",
-        "image": "/assets/marketinAndBranding/left5/1.svg"
+        "image": "/assets/itServices/left5/1.svg"
       },
       {
         "id": 2,
         "title": "Compare IT Infrastructure",
         "description": "Based on your audit, we suggest the best-fit infrastructure, tools, and security protocols to support your workflows.",
-        "image": "/assets/marketinAndBranding/left5/2.svg"
+        "image": "/assets/itServices/left5/2.svg"
       },
       {
         "id": 3,
         "title": "Deploy with Precision",
         "description": "Next, our engineers deploy the ideal solutions with minimal downtime, securing your networks and sensitive information.",
-        "image": "/assets/marketinAndBranding/left5/3.svg"
+        "image": "/assets/itServices/left5/3.svg"
       },
       {
         "id": 4,
         "title": "Equip Your Team",
         "description": "We onboard your team, provide the necessary documentation, and ensure your staff is confident using new systems.",
-        "image": "/assets/marketinAndBranding/left5/4.svg"
+        "image": "/assets/itServices/left5/4.svg"
       }
     ]
   },
@@ -134,22 +134,22 @@
       {
         "title": "Connect with Certified Experts",
         "description": "Our professional IT consultants combine in-depth industry knowledge with digital-first thinking to deliver custom-built solutions.",
-        "image": "/assets/marketinAndBranding/bgImage/1.webp"
+        "image": "/assets/itServices/bgImage/1.webp"
       },
       {
         "title": "Improve Data Safety",
         "description": "We safeguard your business against potential breaches, malicious attacks, and cyber threats with proactive monitoring and advanced security measures.",
-        "image": "/assets/marketinAndBranding/bgImage/2.webp"
+        "image": "/assets/itServices/bgImage/2.webp"
       },
       {
         "title": "Get Round-the-Clock Support",
         "description": "Got a query? Our experts are available anytime, anywhere, helping you secure all confidential information.",
-        "image": "/assets/marketinAndBranding/bgImage/3.webp"
+        "image": "/assets/itServices/bgImage/3.webp"
       }
     ]
   },
   "leftSection_7": {
-    "image": "/assets/marketinAndBranding/grid/1.webp",
+    "image": "/assets/itServices/grid/1.webp",
     "title": "90% of UAE Businesses Targeted by Cyber Threats. Protect Yours With One Nexuz IT Solutions",
     "description": "With 200K cyberattacks occurring daily, securing your IT systems is no longer optional. We implement end-to-end security to secure your business against breaches and system failures.",
     "btn": "Scale Your Business Today!",
@@ -163,19 +163,19 @@
         "id": 1,
         "quote": "Before working with One Nexuz, tech issues were eating into our team’s time daily. Now everything just works — and our team can actually focus on growing the business.",
         "role": "Logistics Startup Founder",
-        "image": "/assets/marketinAndBranding/client/1.webp"
+        "image": "/assets/itServices/client/1.webp"
       },
       {
         "id": 2,
         "quote": "Their team is responsive and knows UAE laws inside out. We no longer worry about missing deadlines.”",
         "role": "Restaurant Group Owner",
-        "image": "/assets/marketinAndBranding/client/2.webp"
+        "image": "/assets/itServices/client/2.webp"
       },
       {
         "id": 3,
         "quote": "Even our clients noticed the change — faster responses, no service hiccups, and a more professional presence. Their support boosted both our productivity and credibility.",
         "role": "Managing Partner, Legal Consultancy",
-        "image": "/assets/marketinAndBranding/client/3.webp"
+        "image": "/assets/itServices/client/3.webp"
       }
     ]
   },
@@ -239,7 +239,7 @@
     "title": "Drive  Your Business Growth & Transformation with One Nexuz’ IT Solutions",
     "description": "Trust our expert IT engineers and consultants to deploy and manage strategically designed security systems to protect your business at all digital frontiers.",
     "btn": "Connect with Our Experts",
-    "image": "/assets/marketinAndBranding/grid/2.webp"
+    "image": "/assets/itServices/grid/2.webp"
   },
   "exploreIndustry": {
     "title": "Explore Other Services",

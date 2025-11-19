@@ -28,6 +28,7 @@ import Image from "@/components/Image/Image";
 import TabTable from "@/sections/ServicesSection/TabTable";
 import { tableData } from "@/mock/data";
 import SecondCitizenship from "@/sections/ServicesSection/SecondCitizenship";
+import IconTitleSec from "@/sections/ServicesSection/IconTitleSec";
 
 function ServicesPage({
   data,
@@ -39,6 +40,7 @@ function ServicesPage({
   sec3,
   businessActivitiesTable,
   secondCitizenshipTable,
+  IconTitleDiv,
 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
@@ -69,6 +71,7 @@ function ServicesPage({
             {!sec1 && (
               <LeftSection1 data={data?.leftSection_1} locale={locale} />
             )}
+            {IconTitleDiv && <IconTitleSec data={data?.iconTitleSec} />}
             {secondCitizenshipTable && <SecondCitizenship locale={locale} />}
             {!sec2 && (
               <LeftSection2 data={data?.leftSection_2} locale={locale} />
