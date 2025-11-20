@@ -1,6 +1,6 @@
 {
   "homeHeader": {
-    "getQuoteToday": "Get a Free Quote Today",
+    "getQuoteToday": "Get a Free Setup Quote",
     "bookConsultation": "Book Your Free Consultation",
     "image": "/assets/header/uaeGoldenVisa.webp",
     "title": "Secure 10 Years of Residency, Live & Work Freely with a Golden Visa in the UAE for Professionals & Investors",
@@ -12,56 +12,38 @@
     "items": [
       {
         "id": 1,
-        "image": "/assets/uaeGoldenVisa/left1/1.webp",
         "title": "Plan, Grow, & Scale Your Business with 10 Years of Operational Stability and Zero Renewals",
         "subTitle": "Plan, Grow, & Scale Your Business with 10 Years of Operational Stability and Zero Renewals",
-        "description": "Say goodbye to the hassle of yearly renewals by securing your Golden Visa. Get unmatched freedom to plan, hire, and scale across borders."
+        "description": "Say goodbye to the hassle of yearly renewals by securing your Golden Visa. Get unmatched freedom to plan, hire, and scale across borders. ",
+        "image": "/assets/uaeGoldenVisa/left1/1.webp"
       },
       {
         "id": 2,
-        "image": "/assets/uaeGoldenVisa/left1/2.webp",
         "title": "Enjoy Tax-Free Growth, 100% Profit Repatriation, and Policies That Let Your UAE Business Flourish",
         "subTitle": "Enjoy Tax-Free Growth, 100% Profit Repatriation, and Policies That Let Your UAE Business Flourish",
-        "description": "Benefit from a business environment with zero corporate and income tax, allowing you to retain more of your profits. Repatriate 100% of your earnings while taking advantage of business-friendly policies designed to help your UAE business grow and thrive."
+        "description": "Benefit from a business environment with zero corporate and income tax, allowing you to retain more of your profits. Repatriate 100% of your earnings while taking advantage of business-friendly policies designed to help your UAE business grow and thrive.",
+        "image": "/assets/uaeGoldenVisa/left1/2.webp"
       },
       {
         "id": 3,
-        "image": "/assets/uaeGoldenVisa/left1/3.webp",
         "title": "Attract Global Talent, Secure Family Residency, and Onboard Key Support Staff With Ease",
         "subTitle": "Attract Global Talent, Secure Family Residency, and Onboard Key Support Staff With Ease",
-        "description": "Keep your kin close or import the world’s finest talent under the same visa structure. Hire support services or house workers without any limits."
+        "description": "Keep your kin close or import the world’s finest talent under the same visa structure. Hire support services or house workers without any limits.",
+        "image": "/assets/uaeGoldenVisa/left1/3.webp"
       },
       {
         "id": 4,
-        "image": "/assets/uaeGoldenVisa/left1/4.webp",
         "title": "Connect With Top Investors, Unlock Premier Banking Opportunities, and Grow Strategic Business Alliances",
         "subTitle": "Connect With Top Investors, Unlock Premier Banking Opportunities, and Grow Strategic Business Alliances",
-        "description": "With the UAE Golden Visa, improve your investor credibility as you can access leading investor circles, tap into high-level banking services, and establish strong, profitable business relationships that help your UAE ventures thrive"
+        "description": "With the UAE Golden Visa, improve your investor credibility as you can access leading investor circles, tap into high-level banking services, and establish strong, profitable business relationships that help your UAE ventures thrive.",
+        "image": "/assets/uaeGoldenVisa/left1/4.webp"
       }
-    ]
-  },
-  "leftSection_2": {
-    "title": "",
-    "items": [
-      { "id": 1, "title": "", "description": "", "url": "#" },
-      { "id": 2, "title": "", "description": "", "url": "#" },
-      { "id": 3, "title": "", "description": "", "url": "#" }
-    ]
-  },
-  "leftSection_3": {
-    "title": "What You Get With the UAE Golden Visa Powered by One Nexuz",
-    "description": "Scale in the UAE with the perk-loaded Golden Visa that offers:",
-    "items": [
-      { "id": 1, "title": "10-year renewable residency" },
-      { "id": 2, "title": "Full family sponsorship" },
-      { "id": 3, "title": "Business ownership rights" },
-      { "id": 4, "title": "Access to UAE banking, real estate, and contracts" }
     ]
   },
   "leftSection_4": {
     "sec1": {
       "image": "/assets/uaeGoldenVisa/left4/1.webp",
-      "title": "Apply for a ^Golden Visa^ & Grow Without Limits",
+      "title": "Apply for a Golden Visa with One Nexuz & Grow Without Limits",
       "description": "Transform your business ideas into a revenue-generating company with a full UAE business license. Get expert support, fast approvals, and zero guesswork by partnering with our seasoned consultants.",
       "btn": "Book a Free Call",
       "url": "#"
@@ -79,45 +61,45 @@
     "items": [
       {
         "id": 1,
-        "image": "/assets/uaeGoldenVisa/left5/1.svg",
         "title": "Ensure UAE Golden Visa Eligibility",
-        "description": "We’ll start by assessing your background and breakdown the UAE Golden Visa requirements to align a pathway that meets your business needs."
+        "description": "We’ll start by assessing your background and breakdown of the UAE Golden Visa requirements to align a pathway that meets your business needs.",
+        "image": "/assets/uaeGoldenVisa/left5/1.svg"
       },
       {
         "id": 2,
-        "image": "/assets/uaeGoldenVisa/left5/2.svg",
         "title": "Prepare & Submit Documents",
-        "description": "Next, Our expert consultants handle all the paperwork, forms, and certifications to ensure a seamless application journey."
+        "description": "Next, our expert consultants handle all the paperwork, forms, and certifications to ensure a seamless application journey.",
+        "image": "/assets/uaeGoldenVisa/left5/2.svg"
       },
       {
         "id": 3,
-        "image": "/assets/uaeGoldenVisa/left5/3.svg",
         "title": "Track Your Application",
-        "description": "Once you’ve submitted your document, we’ll pay the fees and get your application processed with the relevant UAE authority to fast-track approvals."
+        "description": "Once you’ve submitted your document, we’ll pay the fees and get your application processed with the relevant UAE authority to fast-track approvals.",
+        "image": "/assets/uaeGoldenVisa/left5/3.svg"
       },
       {
         "id": 4,
-        "image": "/assets/uaeGoldenVisa/left5/4.svg",
         "title": "Get Medical & Emirates ID",
-        "description": "Next, our seasoned consultants schedule your medical check to speed up your Emirates ID processing."
+        "description": "Next, our seasoned consultants schedule your medical check to speed up your Emirates ID processing.",
+        "image": "/assets/uaeGoldenVisa/left5/4.svg"
       },
       {
         "id": 5,
-        "image": "/assets/uaeGoldenVisa/left5/5.svg",
         "title": "Secure Your Approvals",
-        "description": "Once approved, we coordinate all government back-and-forth to finalise visa stamping."
+        "description": "Once approved, we coordinate all government back-and-forth to finalise visa stamping.",
+        "image": "/assets/uaeGoldenVisa/left5/5.svg"
       },
       {
         "id": 6,
-        "image": "/assets/uaeGoldenVisa/left5/5.svg",
         "title": "Enjoy Ongoing Visa Support",
-        "description": "We don’t stop at your visa issuance. With our additional services, we help you bring your family members and business partners to Dubai without the hassle"
+        "description": "We don’t stop at your visa issuance. With our additional services, we help you bring your family members and business partners to Dubai without the hassle.",
+        "image": "/assets/uaeGoldenVisa/left5/6.svg"
       }
     ]
   },
   "leftSection_6": {
     "title": "Why Entrepreneurs Trust One Nexuz to Secure a Dubai Golden Visa",
-    "description": "Expand faster, sign long-term contracts, and structure your operations without worrying about unclear timelines, costly delays, and endless paperwork. Trust our expert consultants to guide from application to approval with speed, clarity, and compliance!",
+    "description": "Expand faster, sign long-term contracts, and structure your operations without worrying about unclear timelines, costly delays, and endless paperwork. Trust our expert consultants to guide you from application to approval with speed, clarity, and compliance!",
     "items": [
       {
         "title": "Cut Application Process Times in Half",
@@ -138,14 +120,14 @@
   },
   "leftSection_7": {
     "image": "/assets/uaeGoldenVisa/grid/1.webp",
-    "title": "One Nexuz Helps Your Select a Residency that Matches Your Business Ambition ",
+    "title": "One Nexuz Helps You Select a Residency that Matches Your Business Ambition",
     "description": "With the UAE Golden Visa, you get long-term stability, founder-friendly ownership laws, and access to profitable business opportunities. Our seasoned consultants handle the full process fast.",
     "btn": "Get a Free Consultation",
     "url": "#"
   },
   "leftSection_8": {
     "title": "What Customers are Saying about ^One Nexuz^",
-    "description": "Learn what customers are saying about One Nexuz. ",
+    "description": "Learn what customers are saying about One Nexuz.",
     "items": [
       {
         "id": 1,
@@ -169,7 +151,7 @@
   },
   "leftSection_9": {},
   "leftSection_10": {
-    "title": "Set Up in the UAE with ^Tailored Visa Solutions^",
+    "title": "Set Up in the UAE with One Nexuz's Tailored Visa Solutions",
     "btn": "Explore More",
     "items": [
       {
@@ -223,23 +205,23 @@
     ]
   },
   "leftSection_11": {
-    "image": "/assets/uaeGoldenVisa/grid/2.webp",
-    "title": "Ready to Move? Your UAE Golden Visa is Just a Click Away",
-    "description": "Take charge of your business journey, strengthen your global positioning, and operate without restriction in one of the world’s most business-friendly landscape. Partner with our seasoned consultants and advisors to move forward with confidence.",
+    "url": "#",
+    "title": "Ready to Move? Your UAE Golden Visa with One Nexuz is Just a Click Away",
+    "description": "Take charge of your business journey, strengthen your global positioning, and operate without restriction in one of the world’s most business-friendly landscapes. Partner with our seasoned consultants and advisors to move forward with confidence.",
     "btn": "Connect with Our Experts",
-    "url": "#"
+    "image": "/assets/uaeGoldenVisa/grid/2.webp"
   },
   "exploreIndustry": {
-    "title": "Explore More Services",
+    "title": "",
     "items": [
-      { "id": 1, "title": "UAE Business Setup", "url": "#" },
-      { "id": 2, "title": "Free Zones", "url": "#" },
-      { "id": 3, "title": "Email", "url": "#" },
-      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
-      { "id": 5, "title": "UAE Visas", "url": "#" },
-      { "id": 6, "title": "UAE Legalities", "url": "#" },
-      { "id": 7, "title": "Executive growth", "url": "#" },
-      { "id": 8, "title": "Empowered leadership", "url": "#" }
+      { "id": 1, "title": "", "url": "#" },
+      { "id": 2, "title": "", "url": "#" },
+      { "id": 3, "title": "", "url": "#" },
+      { "id": 4, "title": "", "url": "#" },
+      { "id": 5, "title": "", "url": "#" },
+      { "id": 6, "title": "", "url": "#" },
+      { "id": 7, "title": "", "url": "#" },
+      { "id": 8, "title": "", "url": "#" }
     ]
   },
   "faq": {
@@ -274,6 +256,32 @@
         "number": "05",
         "question": "Can I get citizenship via the UAE Golden Visa?",
         "answer": "Unfortunately a Golden Visa doesn’t guarantee citizenship in the UAE. You’ll have to meet a stringent criteria and maintain residency for over 30 years to secure UAE nationality."
+      }
+    ]
+  },
+  "iconTitleSec": {
+    "title": "What You Get With the UAE Golden Visa Powered by One Nexuz",
+    "description": "Scale in the UAE with the perk-loaded Golden Visa that offers:",
+    "items": [
+      {
+        "id": 1,
+        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/1.svg",
+        "title": "10-year renewable residency"
+      },
+      {
+        "id": 2,
+        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/2.svg",
+        "title": "Full family sponsorship"
+      },
+      {
+        "id": 3,
+        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/3.svg",
+        "title": "Access to UAE banking, real estate, and contracts"
+      },
+      {
+        "id": 4,
+        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/4.svg",
+        "title": "Access to UAE banking, real estate, and contracts"
       }
     ]
   }

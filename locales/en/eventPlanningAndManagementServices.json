@@ -1,0 +1,262 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/eventPlanningAndManagementServices.webp",
+    "title": "Plan, Organise, and Impress- Amplify Brand Impact & Maximise Leads with Our Event Planning & Management Services in Dubai",
+    "description": "Tired of risking your brand’s reputation on events that fall short? Our experts help generate buzz around your products, build brand awareness, and drive customer engagement through transformative corporate events. Unlock high visitor turnout and explore exciting collaboration opportunities with our seamless event and exhibition management solutions."
+  },
+  "leftSection_1": {
+    "title": "Elevate Your Online Presence, Impress Investors, and Build Powerful Connections with Professional Event Management Solutions",
+    "description": "Uncover exciting networking opportunities, make memorable brand impressions, and drive limitless business growth with custom-tailored event planning and management services in Dubai.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Create Lasting Impressions, Win Stakeholder Trust, and Dominate Your Competition ",
+        "subTitle": "Create Lasting Impressions, Win Stakeholder Trust, and Dominate Your Competition ",
+        "description": "Over 80% of marketers agree that events offer businesses a competitive edge. Position your business as a thought leader, maximise visibility, and strengthen credibility with end-to-end event participation support.",
+        "image": "/assets/eventPlanningAndManagementServices/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "Capture High-Quality Leads, Boost Conversions, and Drive Meaningful ROI",
+        "subTitle": "Capture High-Quality Leads, Boost Conversions, and Drive Meaningful ROI",
+        "description": "Nearly 70% of B2B marketers consider events their top source for generating leads. Engage directly with prospects and turn conversations into real business growth with reliable participation support. ",
+        "image": "/assets/eventPlanningAndManagementServices/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "Expand Your Professional Network, Broaden Your Market Reach, and Unlock New Business Opportunities",
+        "subTitle": "Expand Your Professional Network, Broaden Your Market Reach, and Unlock New Business Opportunities",
+        "description": "Connect, collaborate, and innovate with industry leaders, potential partners, and investors by hosting strategically planned events in prime locations across the UAE.",
+        "image": "/assets/eventPlanningAndManagementServices/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "Access Lucrative Markets, Attract Customers Worldwide, and Build Strategic Partnerships",
+        "subTitle": "Access Lucrative Markets, Attract Customers Worldwide, and Build Strategic Partnerships",
+        "description": "Uncover exciting business opportunities within and beyond the UAE by taking advantage of the region's strategic location, world-class infrastructure, and luxury event spaces.",
+        "image": "/assets/eventPlanningAndManagementServices/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Our Full Range of Exhibition & Event Support Services",
+    "description": "Stay ahead of the curve with our top-notch, growth-oriented business event support services.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Event Strategy & Planning",
+        "description": "Maximise brand exposure and drive business revenue with a customised roadmap.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Booth Design & Setup",
+        "description": "Stand out with a strategically designed booth that communicates your brand message clearly.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Marketing & Promotions",
+        "description": "Boost engagement and drive traffic with pre-event campaigns and on-site promotions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "On-Site Coordination",
+        "description": "Gain total peace of mind and focus on connecting, pitching, and growing your business.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Administrative Support",
+        "description": "Hunt, browse, and book the ideal business centre, car, and event space with round-the-clock support.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Post-Event Analysis",
+        "description": "Refine event strategies by measuring your success with exclusive insights on leads and ROI.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/eventPlanningAndManagementServices/left4/1.webp",
+      "title": "Maximise Your Event ROI with Our Expert Participation Support",
+      "description": "Nearly 95% of marketers agree that events foster crucial in-person connections. From booth setup to lead capture, we empower you to capitalise on every interaction.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/eventPlanningAndManagementServices/left4/2.webp",
+      "title": "Plan Unforgettable Events without Breaking the Bank — Know Your Event Management Costs Upfront",
+      "description": "Skip one-size-fits-all packages, hidden fees, and surprise add-ons. We provide you with personalised quotes for every type of event, so you pay only for the services that align with your goals.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How One Nexuz Helps You Deliver Impactful Corporate Events & Exhibitions",
+    "items": [
+      {
+        "id": 1,
+        "title": "Create a Custom Strategy",
+        "description": "We'll start by discussing your business goals and map out a tailored strategy aligned with your unique needs.",
+        "image": "/assets/eventPlanningAndManagementServices/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Review, Implement, & Execute",
+        "description": "Next, our experts will manage logistics, booth setup, and on-site coordination to deliver unmatched brand experiences.",
+        "image": "/assets/eventPlanningAndManagementServices/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Capture Leads & Follow-Up",
+        "description": "Additionally, we’ll help you plan and structure your participation strategy to engage prospects and ensure a lasting impression.",
+        "image": "/assets/eventPlanningAndManagementServices/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Conduct Post-Event Analysis",
+        "description": "Lastly, we'll analyse the data, measure success, and offer recommendations on how to refine your event strategy for future events.",
+        "image": "/assets/eventPlanningAndManagementServices/left5/4.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why One Nexuz for Strategic Event & Exhibition Support in Dubai",
+    "description": "Stand out in the UAE's hyper-competitive business landscape with vibrant events, trade shows, and exhibitions powered by our highly trained support team.",
+    "items": [
+      {
+        "title": "Deliver Memorable Brand Experiences",
+        "description": "Create a lasting first impression that nurtures organic business relations with our result-oriented event management & participation solutions.",
+        "image": "/assets/eventPlanningAndManagementServices/bgImage/1.webp"
+      },
+      {
+        "title": "Customised Event Management Strategies",
+        "description": "Capture leads, close deals, and boost your ROI by creating a cohesive branding strategy for your live events and exhibitions with our team of professionals.",
+        "image": "/assets/eventPlanningAndManagementServices/bgImage/2.webp"
+      },
+      {
+        "title": "End-to-End Participation Support",
+        "description": "From planning to execution and post-event follow-up, our specialists handle it all, so you can focus on scaling your business stress-free.",
+        "image": "/assets/eventPlanningAndManagementServices/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/eventPlanningAndManagementServices/grid/1.webp",
+    "title": "Get Seen by 2M+ Event Visitors in the UAE with One Nexuz",
+    "description": "Position your brand in front of global audiences in the heart of Dubai with our tailored event and exhibition support, empowering you to build high-value relationships and expand your business reach.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Participating in the Dubai Tech Expo through this service helped us secure over 25 qualified leads in just three days. The booth setup and on-site support were flawless, allowing us to focus entirely on networking.",
+        "role": "SaaS Startup Founder",
+        "image": "/assets/eventPlanningAndManagementServices/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "Our product launch at the healthcare exhibition gained immediate attention and resulted in several strategic partnerships. The team handled everything from planning to post-event follow-up seamlessly.",
+        "role": "Medical Equipment Supplier Marketing Director",
+        "image": "/assets/eventPlanningAndManagementServices/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Even our clients noticed the change — faster responses, no service hiccups, and a more professional presence. Their support boosted both our productivity and credibility.",
+        "role": "Managing Partner, Legal Consultancy",
+        "image": "/assets/eventPlanningAndManagementServices/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Cut through the Noise with Our Holistic Branding Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Digital Solutions",
+        "description": "Automate workflows, scale operations, and build your brand identity with cutting-edge digital tools.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Marketing & Branding Support",
+        "description": "Position your business for success with personalised traditional branding and marketing solutions.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "IT Services",
+        "description": "Elevate your online visibility, streamline team collaboration, and protect sensitive data with our proactive IT solutions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "Win Investor Confidence & Forge Partnerships with Our Strategic Event Management Services",
+    "description": "Put your brand in the spotlight, foster brand awareness, and build instant investor trust with engaging events and exhibitions. Partner with our experts today to browse top locations, streamline logistics, and deliver lasting customer experiences.",
+    "btn": "Connect with Our Experts",
+    "image": "/assets/eventPlanningAndManagementServices/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "",
+    "items": [
+      { "id": 1, "title": "", "url": "#" },
+      { "id": 2, "title": "", "url": "#" },
+      { "id": 3, "title": "", "url": "#" },
+      { "id": 4, "title": "", "url": "#" },
+      { "id": 5, "title": "", "url": "#" },
+      { "id": 6, "title": "", "url": "#" },
+      { "id": 7, "title": "", "url": "#" },
+      { "id": 8, "title": "", "url": "#" }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What does UAE event and exhibition participation support include?",
+        "answer": "Our comprehensive event and exhibition participation support solutions encompass planning the live show, handling all logistics, design, and production, creating a cohesive brand identity, ensuring security, and evaluating the success of the event."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Why do UAE-based businesses need expert event and exhibition participation support?",
+        "answer": "Partnering with expert event and exhibition planners can help business owners deliver memorable business experiences, build brand awareness and credibility, boost product sales, and network with like-minded professionals. "
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Can One Nexuz manage regional and international exhibitions?",
+        "answer": "Yes, our network and logistics expertise cover local and global events, empowering you to capture customers worldwide. "
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Can One Nexuz design and manage my exhibition booth?",
+        "answer": "Yes, our team offers end-to-end booth design, setup, branding, and on-site coordination, ensuring your presence is visually compelling and strategically aligned with your business goals."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How quickly can I get started with your support service?",
+        "answer": "We offer flexible onboarding to match your event schedule. Once we understand your objectives, we craft a customised participation plan to help you network, capture, and close deals confidently."
+      }
+    ]
+  }
+}

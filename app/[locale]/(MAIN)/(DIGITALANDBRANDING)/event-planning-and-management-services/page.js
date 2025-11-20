@@ -1,10 +1,10 @@
 import { SEOAction } from "@/actions/seo-action";
+import { isIndex, nocache } from "@/constants/constants";
 import ServicesPage from "@/view/ServicesPages/ServicesPage";
 import React, { Suspense } from "react";
-import ar from "@/locales/ar/uaeGoldenVisa.json";
-import en from "@/locales/en/uaeGoldenVisa.json";
+import ar from "@/locales/ar/eventPlanningAndManagementServices.json";
+import en from "@/locales/en/eventPlanningAndManagementServices.json";
 import Loader from "@/components/Loader";
-import { isIndex, nocache } from "@/constants/constants";
 
 export async function generateMetadata() {
   const vMetaData = await SEOAction();
@@ -38,9 +38,7 @@ export default async function Page({ params }) {
         locale={t}
         compare={false}
         path={locale}
-        sec2={true}
         sec3={true}
-        IconTitleDiv={true}
       />
     </Suspense>
   );
