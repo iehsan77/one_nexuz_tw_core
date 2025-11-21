@@ -212,16 +212,23 @@
     "image": "/assets/eventPlanningAndManagementServices/grid/2.webp"
   },
   "exploreIndustry": {
-    "title": "",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "", "url": "#" },
-      { "id": 2, "title": "", "url": "#" },
-      { "id": 3, "title": "", "url": "#" },
-      { "id": 4, "title": "", "url": "#" },
-      { "id": 5, "title": "", "url": "#" },
-      { "id": 6, "title": "", "url": "#" },
-      { "id": 7, "title": "", "url": "#" },
-      { "id": 8, "title": "", "url": "#" }
+      {
+        "id": 1,
+        "title": "Digital Solutions",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "IT Services",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Marketing & Branding",
+        "url": "#"
+      }
     ]
   },
   "faq": {

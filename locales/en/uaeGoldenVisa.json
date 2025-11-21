@@ -212,16 +212,48 @@
     "image": "/assets/uaeGoldenVisa/grid/2.webp"
   },
   "exploreIndustry": {
-    "title": "",
+    "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "", "url": "#" },
-      { "id": 2, "title": "", "url": "#" },
-      { "id": 3, "title": "", "url": "#" },
-      { "id": 4, "title": "", "url": "#" },
-      { "id": 5, "title": "", "url": "#" },
-      { "id": 6, "title": "", "url": "#" },
-      { "id": 7, "title": "", "url": "#" },
-      { "id": 8, "title": "", "url": "#" }
+      {
+        "id": 1,
+        "title": "Wealth Management Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Will & Trust Preparation Services",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Private Office",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Second Citizenship Programs",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Family Foundation & Trust",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Family Office Setup",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Asset Protection",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Escrow Account Assistance",
+        "url": "#"
+      }
     ]
   },
   "faq": {

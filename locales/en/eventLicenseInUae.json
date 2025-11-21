@@ -1,0 +1,342 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/eventLicenseInUae.webp",
+        "title": "Build Instant Trust, Win High-Value Contracts, & Drive Revenue with Your Event Permit in Dubai",
+        "description": "Lost in Dubai’s complex event regulations and approval maze? Our end-to-end event licensing services handle all the paperwork, submission, and compliance, so you can focus on booking premium UAE venues, expand international reach, and secure lucrative government contracts. Capitalise on the Emirate’s thriving events calendar and unique culture with our specialised licensing solutions, empowering you with a 100% compliant license within days, not weeks."
+    },
+    "leftSection_1": {
+        "title": "Why Should Entrepreneurs Get an Event License in Dubai",
+        "description": "Organise memorable corporate events, cultural festivals, and cutting-edge product launches with a FZ or Mainland-approved event license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Build Instant Trust, Strengthen Your Brand Reputation, & Open Doors to Big Contracts ",
+                "subTitle": "Build Instant Trust, Strengthen Your Brand Reputation, & Open Doors to Big Contracts ",
+                "description": "Gain instant investor, vendor, and attendee trust with a globally recognised event permit. Bid for high-value government projects and secure lucrative corporate contracts stress-free. ",
+                "image": "/assets/eventLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access Prime Venues, Attract Global Sponsors, and Maximise Your Profits",
+                "subTitle": "Access Prime Venues, Attract Global Sponsors, and Maximise Your Profits",
+                "description": "Tap into the UAE's vibrant event landscape with a DED-approved event license. Rent, book, or lease top-tier venues closed to unlicensed operators.",
+                "image": "/assets/eventLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Expand Reach, Collaborate with Key Stakeholders, & Launch Global Events ",
+                "subTitle": "Expand Reach, Collaborate with Key Stakeholders, & Launch Global Events ",
+                "description": "Put your brand in the limelight to captivate customers and expand your network with like-minded professionals from 90+ countries through cultural events, international conferences, and exhibitions. ",
+                "image": "/assets/eventLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get Licensed, Ensure Full Compliance, and Save AED 50,000+ in Fines ",
+                "subTitle": "Get Licensed, Ensure Full Compliance, and Save AED 50,000+ in Fines ",
+                "description": "Without an event permit, you risk instant shutdowns and fines from AED 50,000 to AED 200,000. Protect business continuity and channel funds into scaling with a UAE-recognised license.",
+                "image": "/assets/eventLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Permitted Activities with an UAE Event License Powered by One Nexuz",
+        "description": "Secure your event permit in Dubai to host, manage, and profit from countless permitted business activities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Event Planning",
+                "description": "Organise and oversee exciting local or global corporate, cultural, and entertainment events.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Conferences & Exhibitions",
+                "description": "Host industry-specific trade shows, seminars, and networking events to build meaningful connections.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Concerts & Live Performances",
+                "description": "Steal the spotlight with landmark music festivals, theatre productions, and stand-up shows.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Sports Tournaments",
+                "description": "Manage and promote local or international sports events, from e-sports to football championships.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Product Launches",
+                "description": "Ensure a lasting first impression through product launches, pop-up events, and promotional roadshows.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Festivals & Cultural Gatherings",
+                "description": "Create exciting cultural experiences by organising food festivals, music concerts, art fairs, and film screenings.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Workshops & Training Events",
+                "description": "Host training programs, professional workshops, educational sessions, or skill-development courses.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Charity & Fundraising Events",
+                "description": "Support social or religious causes through non-profit gatherings, awareness campaigns, and donations.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/eventLicenseInUae/left4/1.webp",
+            "title": "Plan & Host High-Impact Events with One Nexuz to Drive Business Growth",
+            "description": "Put your business in front of your target audience with an event license that gives you the legal freedom to host exhibitions, product launches, and large-scale gatherings.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/eventLicenseInUae/left4/2.webp",
+            "title": "Simplify Approvals, Not Your Budget — Pay Only for the Permits Your Event Needs",
+            "description": "Skip the complicated paperwork and hidden fees. Secure your event license at the right price — know your permit cost in Dubai upfront, no hidden costs, no surprises upsells,  just clear pricing and expert guidance",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your UAE Event License in 5 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call",
+                "description": "Our expert consultants take the time to discuss your business goals. Based on this, we’ll map business activities and jurisdiction choices.",
+                "image": "/assets/eventLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare all Documentation",
+                "description": "Next, we’ll compile, verify, and submit all the necessary paperwork to the relevant government authorities to prevent costly delays.",
+                "image": "/assets/eventLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Issue Your License",
+                "description": "Once we’ve collected all the documents, we’ll submit your application to the UAE licensing authority and pay the necessary fees to obtain approvals.",
+                "image": "/assets/eventLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Your Permit",
+                "description": "After receiving the approval, we’ll issue the appropriate event license and send it your way through a courier or digitally.",
+                "image": "/assets/eventLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "List Your Events",
+                "description": "With your event license, you can now host and manage exciting sports, educational, and cultural events across the UAE.",
+                "image": "/assets/eventLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Secure Your Dubai Event License",
+        "description": "Navigate Dubai’s complex licensing requirements, extensive paperwork, and endless government back-and-forth with our team of seasoned consultants and PRO specialists by your side.",
+        "items": [
+            {
+                "title": "Slash Approval Times by 50%",
+                "description": "Our skilled business specialists streamline all the paperwork to cut down processing times by half, speeding up execution and reducing lead time.",
+                "image": "/assets/eventLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Unlock Custom-Built Solutions",
+                "description": "From luxury wedding planners right down to global expo organisers, we tailor our event licensing solutions to meet your unique needs.",
+                "image": "/assets/eventLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Get Post-Licensing Support",
+                "description": "Skip the hassle of staying up-to-date with the UAE's fast-evolving licensing requirements with ongoing compliance and renewal solutions.",
+                "image": "/assets/eventLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/eventLicenseInUae/grid/1.webp",
+        "title": "Build Influence through Powerful Live Experiences",
+        "description": "An event license empowers you to connect directly with customers, partners, and media in ways digital can't match. Get started in days with One Nexuz by your side.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“They made the entire licensing process effortless. I was worried about delays and paperwork, but One Nexuz had my event management license approved in just 4 days. Their guidance saved me weeks of stress.”",
+                "role": "Luxury Wedding Planning Founder",
+                "image": "/assets/eventLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We tried applying ourselves and got stuck in endless document revisions. One Nexuz stepped in, fixed everything, and got us approved fast. Their direct connections with authorities really make a difference.”",
+                "role": "Corporate Event Management Managing Director",
+                "image": "/assets/eventLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From day one, they were professional, transparent, and on top of every detail. I could focus on planning my first corporate event while they handled all the licensing formalities.”",
+                "role": "International Conference Organizing CEO",
+                "image": "/assets/eventLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Business — Explore Additional Licensing Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Import, export, and sell a plethora of products within and beyond the Emirates with a commercial license.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Professional License",
+                "description": "Offer specialised services, from consultancy to IT, with the best-fit professional license.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "E-commerce License",
+                "description": "Launch your online store, no storefront required, with a UAE e-commerce license.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Industrial License",
+                "description": "With an industrial license, manufacture, innovate, and package products in the heart of UAE.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Real Estate License",
+                "description": "Buy, sell, invest, appraise real estate, or offer consultancy solutions beyond the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Crypto & Web3 License",
+                "description": "Trade, invest, and manage virtual asset portfolios fully compliant with a UAE crypto license.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Freelancer Permit",
+                "description": "Start your creative venture, secure residency, and serve clients globally with a freelancer license.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dual License",
+                "description": "Scale your business onshore and offshore with our seamless dual licensing solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Launch Your Event Management Business in Dubai with One Nexuz",
+        "description": "Foster brand credibility with attendees, partners, and thought leaders with a professional event license. Our expert PRO specialists do all the legwork to expedite approval times for future events, prevent costly fines, and uplift your bottom line.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/eventLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to get a Dubai event management license ",
+                "answer": "Typically, it takes 1-7 working days to secure a Free Zone or Mainland event license, depending on your selected jurisdiction and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I operate across the UAE with an event permit?",
+                "answer": "Yes, a Mainland license allows you to operate within and beyond the UAE. However, you'll need a local service agent if you plan to launch in a Free Zone."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Will I have to secure a new permit for each event?",
+                "answer": "Yes, you'll have to secure an event permit for each individual event."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How many visas can I secure under an event license?",
+                "answer": "Your visa quotas can vary based on office space size and jurisdiction rules."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me renew my event license in the UAE?",
+                "answer": "Yes, our expert business consultants can assist with renewals, helping you compile documents and pay the necessary fees."
+            }
+        ]
+    }
+}

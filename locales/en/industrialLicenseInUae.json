@@ -1,0 +1,336 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/industrialLicenseInUae.webp",
+        "title": "Import, Innovate, & Package — Obtain Your UAE Industrial License in Days, Not Weeks",
+        "description": "Struggling with regulatory red tape, costly approvals, and complex compliance requirements? Launch, operate, and scale your industrial plant, manufacturing factory, or assembly unit in the UAE with our fully managed industrial licensing services. Our expert business consultants take care of every step, so you can start leasing and building 100% compliant and stress-free."
+    },
+    "leftSection_1": {
+        "title": "What is a UAE Industrial License & Why Your Business Needs It?",
+        "description": "Gain access to cost-efficient infrastructure, exciting tax incentives, and lucrative global markets with an industrial license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tap into Global Trade Links, Access International Markets, and Expand across Borders  ",
+                "subTitle": "Tap into Global Trade Links, Access International Markets, and Expand across Borders  ",
+                "description": "Position your business in the world’s #1 hub for global connectivity, giving your business access to 185+ international markets and 2B+ consumers.",
+                "image": "/assets/industrialLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Cut Down Land Rates by Half, Unlock Incentives, and Optimise Resource Allocation  ",
+                "subTitle": "Cut Down Land Rates by Half, Unlock Incentives, and Optimise Resource Allocation  ",
+                "description": "Save up on land leasing with exciting government incentives and redirect capital in core operations, including production, R&D, or expansion.",
+                "image": "/assets/industrialLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "From R&D to Market Success — Access Financial Support for Breakthroughs",
+                "subTitle": "From R&D to Market Success — Access Financial Support for Breakthroughs",
+                "description": "Qualify for grants, subsidies, and tax incentives during R&D phases to discover, produce, and package breakthrough technologies.",
+                "image": "/assets/industrialLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Navigate Regulations, Receive Industry-Specific Guidance, & Strategic Location Advantages ",
+                "subTitle": "Navigate Regulations, Receive Industry-Specific Guidance, & Strategic Location Advantages ",
+                "description": "Get priority in government procurement processes and expert guidance to launch and scale your industrial company in the ideal zone.",
+                "image": "/assets/industrialLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Choose from a Plethora of Eligible Business Activities with One Nexuz",
+        "description": "Set up your factory or workshop in the heart of the UAE and serve clients worldwide- all with a single license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Extraction & Casting of Metals",
+                "description": "Discover rich metal deposits, secure permits to mine and extract them to skyrocket revenue.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Fabrication of Machinery",
+                "description": "Produce innovative appliances and machinery with access to Dubai’s state-of-the-art business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Processing of Plastic",
+                "description": "Tap into the UAE’s innovation hubs to explore eco-friendly plastic production and craft sustainable products.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Production of Food",
+                "description": "Cash in on the UAE’s billion-dollar food and beverage market by introducing new delicacies or launching your food processing factory.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Processing of Wood & Furniture",
+                "description": "Choose from innumerable hardwoods, plywoods, and softwoods to craft vintage or modern furniture.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Production of Vehicles",
+                "description": "Take advantage of the UAE’s rich material resources and focus on renewable energy to create innovative motor vehicles.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Additive Manufacturing",
+                "description": "Capitalise on the UAE’s fast-growing 3D printing market with access to cutting-edge designing, shaping, & printing tools.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/industrialLicenseInUae/left4/1.webp",
+            "title": "Manufacturing Is Booming in Dubai—Industrial Licenses Up 25%, Grab Yours with One Nexuz ",
+            "description": "With thousands of new licenses issued, now is the time to enter the UAE's manufacturing economy. We handle all approvals, inspections, and submissions—so you can focus on production.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/industrialLicenseInUae/left4/2.webp",
+            "title": "Invest Smart, Launch Confidently — Receive Tailored Industrial License Costs in Dubai",
+            "description": "No rigid packages. No hidden charges. No unnecessary extras. Pay only for the approvals, services, and support your business actually needs—and scale seamlessly as your industrial venture grows.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your Industrial License in the UAE in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select Your Jurisdiction",
+                "description": "We’ll kick off your licensing journey with a discovery call to assess your business goals and suggest the ideal location and license type.",
+                "image": "/assets/industrialLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Secure the Necessary Approvals",
+                "description": "Next, our experts provide you with a checklist of the required documents and assist in obtaining pre-approvals.",
+                "image": "/assets/industrialLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Reserve a DED-Approved Name",
+                "description": "With the pre-approvals secured, our team provides a list of professional and unique trade names and reserves the one that matches your needs.",
+                "image": "/assets/industrialLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Lease a Facility & Office Space",
+                "description": "Once we reserve the best-fit name, the next step is to rent an Ejari-registered warehouse or factory, and office space.",
+                "image": "/assets/industrialLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Obtain Your Industrial License",
+                "description": "Lastly, we’ll help you submit all the necessary paperwork to the relevant regulatory bodies to receive your industrial license, valid for up to 5 years.",
+                "image": "/assets/industrialLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz to Secure Your UAE Industrial License",
+        "description": "Missing approvals, costly inspection delays, and incorrect legal structure selections- a single misstep can stall your licensing application. Our seasoned consultants manage every detail with precision so you can launch faster and fully compliant.",
+        "items": [
+            {
+                "title": "Enjoy Holistic Setup Support",
+                "description": "Our all-in-one licensing solutions empower you to secure warehouses in prime industrial locations and obtain approvals within seconds.",
+                "image": "/assets/industrialLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Slash Licensing Times in Half",
+                "description": "Get licensed in days, not weeks, with our direct government coordination channels and seamless registration processes.",
+                "image": "/assets/industrialLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Get Ongoing Compliance Support",
+                "description": "Mitigate the risk of hefty fines and penalties with timely alerts on renewal deadlines and changing compliance requirements.",
+                "image": "/assets/industrialLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/industrialLicenseInUae/grid/1.webp",
+        "title": "Get Licensed and Operational in Under 7 Days with Our Specialists",
+        "description": "We handle your industrial license, approvals, inspections, and submissions under one roof so you can go live and enter the market with zero delays!",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz took care of everything—facility lease, inspection approvals, even utilities. We launched weeks faster than expected.",
+                "role": "Light Manufacturing Company Owner",
+                "image": "/assets/industrialLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "I had no idea how complex industrial licensing could get. They simplified it all and saved me from making costly mistakes.",
+                "role": "Automotive Assembly Founder ",
+                "image": "/assets/industrialLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Their team helped us secure the right zone, cut our land lease costs in half, and get our license approved in under 2 weeks.",
+                "role": "Food Processing Co-owner",
+                "image": "/assets/industrialLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Our Diverse Trade Licensing Services in the Emirates",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Trade and purchase top-notch products fully compliant in the UAE with a commercial license.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Professional License",
+                "description": "Build global credibility by offering specialised services across borders with a compliant license.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Real Estate License",
+                "description": "Launch your real estate consultancy, manage portfolios, and strengthen your reputation with a real estate license.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Crypto & Web4 License",
+                "description": "Buy, sell, trade, and exchange virtual assets stress-free with a UAE-compliant crypto and web3 license.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Event License",
+                "description": "Plan, host, and manage local and global events across the UAE, 100% compliant with an event license.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "E-commerce License Setup",
+                "description": "Start selling across the UAE and beyond, fully compliant with seamless e-commerce licensing.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Freelancer Permit",
+                "description": "Grow your solo career in the UAE without the hassle of a local sponsor or agent with a freelancer permit.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dual License Processing",
+                "description": "Unlock limitless business growth by setting up onshore and offshore with our dual license processing expertise.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Scale Your Manufacturing Business with an Industrial License Powered by One Nexuz",
+        "description": "Build your warehouse or manufacturing plant from scratch by securing the best-fit UAE industrial license. Our business specialists at One Nexuz streamline the licensing process so you can launch and start producing in no time!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/industrialLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a UAE industrial license?",
+                "answer": "An industrial license in Dubai, UAE, allows manufacturing and industrial organisations to import and purchase raw materials, fabricate products, assemble, and package them fully legally. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to lease a warehouse or facility to apply for an industrial license?",
+                "answer": "Yes, you’ll have to lease or rent a warehouse, factory, or plant, and office space to obtain a Dubai industrial license. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to receive an industrial license?",
+                "answer": "It generally takes 1-21 days to secure an industrial license; however, our experts help slash licensing times by half by streamlining the process."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can expats enjoy 100% ownership with a professional industrial license?",
+                "answer": "Yes, an industrial license offers mainland and free zone companies full strategic ownership of their company. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I apply for visas under an industrial license?",
+                "answer": "Yes, our experts assist you in applying for the appropriate visa, depending on your location, facility size, and the region’s capacity guidelines."
+            }
+        ]
+    }
+}
