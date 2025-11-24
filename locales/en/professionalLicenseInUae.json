@@ -1,0 +1,330 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/professionalLicenseInUae.webp",
+        "title": "From Applications & Approvals to Visas & Bank Accounts — Your Full 360 Professional License Journey in Dubai, Done in One Platform",
+        "description": "Red tape, local sponsorship requirements, and complicated approvals shouldn't slow your business growth. At One Nexuz, our seasoned business consultants do all the heavy lifting, from paperwork to approvals, giving you full legal authority to operate, hire globally, and scale effortlessly in the UAE’s booming economy with a professional license."
+    },
+    "leftSection_1": {
+        "title": "What is a Professional License in Dubai & Why Your Business Needs It",
+        "description": "Set up and scale with 100% compliance in the UAE by securing the best-fit professional license. With this, you can refine your expertise and serve clients worldwide.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Zero Tax, Zero Sponsors, Zero Hassle — Gain Total Freedom to Build Your UAE Business",
+                "subTitle": "Zero Tax, Zero Sponsors, Zero Hassle — Gain Total Freedom to Build Your UAE Business",
+                "description": "Enjoy full strategic ownership of your business- no local shareholding or partner required, just seamless licensing that puts you in 100% control.",
+                "image": "/assets/professionalLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock Full Access to Local Opportunities & Expand Your Reach with a UAE Professional License",
+                "subTitle": "Unlock Full Access to Local Opportunities & Expand Your Reach with a UAE Professional License",
+                "description": "Bid for lucrative government contracts, scour prime office locations, and create multi-currency accounts with no border restrictions.",
+                "image": "/assets/professionalLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Win Instant Customer, Bank, & Partner Confidence, Strengthen Your Brand Presence, & Close More Deals",
+                "subTitle": "Win Instant Customer, Bank, & Partner Confidence, Strengthen Your Brand Presence, & Close More Deals",
+                "description": "Boost business trust and credibility with a government-recognised license, securing your operations and reputation.",
+                "image": "/assets/professionalLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Hire Globally, Grow Locally — Build Your Dream Team without Borders",
+                "subTitle": "Hire Globally, Grow Locally — Build Your Dream Team without Borders",
+                "description": "Hire and sponsor employees in the UAE to build a local team, foster loyalty, and stay compliant as your business scales.",
+                "image": "/assets/professionalLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Professional License Activities in Dubai with One Nexuz",
+        "description": "Launch as a solo operator or scale your multi-national firm with a flexible professional license and offer specialised solutions worldwide.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Consulting & Advisory Services",
+                "description": "Polish your professional skillset and serve clients in both the public and private market.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Creative & Media Services",
+                "description": "Make your mark in the creative world by launching your social media, branding, or PR company in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "IT & Technical Services",
+                "description": "Take advantage of the UAE’s innovative hubs to scale your tech company or offer freelance services.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Education & Training",
+                "description": "Run training programs, workshops, or freelance coaching with 100% compliance and visa residency.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Personal & Wellness Services",
+                "description": "Help folks boost their well-being by offering therapy or launching a licensed fitness brand.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Financial & Accounting Services",
+                "description": "Offer regulated financial services with full legal backing and compliance with stringent UAE standards.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/professionalLicenseInUae/left4/1.webp",
+            "title": "Operate Legally, Grow Boldly— All Under One Roof with One Nexuz",
+            "description": "With the right license, your business isn’t just compliant—it’s scalable. We help you register professionally so you can open bank accounts, hire legally, and access global opportunities.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/professionalLicenseInUae/left4/2.webp",
+            "title": "Your License, Your Way — Transparent Pricing That Works With Your Business",
+            "description": "No hidden fees, no confusing tiers, no surprises. Every processional license package in Dubai is unique, so your costs reflect only the service your business actually needs — pay only for what you need.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Proven 5-Step Process to Get Licensed Fast",
+        "items": [
+            {
+                "id": 1,
+                "title": "Speak with Our Experts",
+                "description": "We kick off your licensing journey by assessing your business model, services, and future goals.",
+                "image": "/assets/professionalLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect the Documents",
+                "description": "Based on your selected jurisdiction, we provide a checklist to compile and submit your documents to the appropriate authorities.",
+                "image": "/assets/professionalLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Select a Trade Name",
+                "description": "Next, our specialists provide you with a list of unique trade names and reserve the one that aligns with your business goals.",
+                "image": "/assets/professionalLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Submit Your Application",
+                "description": "Once everything is approved, we pay the government fees and submit the final paperwork to fast-track your application.",
+                "image": "/assets/professionalLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get All Approvals",
+                "description": "Lastly, your license is typically issued within 3-5 working days, depending on your business activity and legal structure.",
+                "image": "/assets/professionalLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Secure Your UAE-Based Professional License",
+        "description": "Most entrepreneurs waste weeks chasing approvals, navigating vague quotes, and completing piles of paperwork. Our expert consultants offer 24/7 support to ensure a seamless licensing journey.",
+        "items": [
+            {
+                "title": "Navigate UAE Licensing with Confidence",
+                "description": "With in-depth local knowledge, our expert consultants empower you to meet the Emirate’s stringent regulations and start operating.",
+                "image": "/assets/professionalLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Cut Setup Times by 50%",
+                "description": "We slash licensing times by half without compromising compliance, empowering you to launch your business within 3-5 working days.",
+                "image": "/assets/professionalLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Explore All-in-One Solutions",
+                "description": "Get company registration, licensing, and visa solutions under one roof to fast-track business setup in the UAE- all without breaking the bank.",
+                "image": "/assets/professionalLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/professionalLicenseInUae/grid/1.webp",
+        "title": "We Don’t Just License You—We Position You for Growth",
+        "description": "Beyond approvals, we help you structure your business for success. From activity selection to visa support, our experts guide every step of your professional license setup.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I was overwhelmed with all the licensing options and government processes. The professional license gave me full control, and everything was set up in less than a week. Now I’m legally operating and focused on growing.",
+                "role": "Digital Marketing Consultancy Founder",
+                "image": "/assets/professionalLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "As an independent financial advisor, I needed a structure that gave me ownership and compliance. This setup checked every box—no delays, no hidden fees, and I could start sponsoring staff immediately.",
+                "role": "Advisory Firm Managing Partner",
+                "image": "/assets/professionalLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Switching from freelance to a licensed entity was a game-changer. Clients take me more seriously, I can legally invoice, and I finally opened a proper business bank account.",
+                "role": "UX Consultant Solopreneur",
+                "image": "/assets/professionalLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover Other UAE Business License Types",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Industrial License",
+                "description": "Launch your manufacturing or industrial company within the designated industrial zones.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Commercial License",
+                "description": "Sell, buy, or import and export goods, services, and commodities across local and international markets.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "E-commerce License Setup",
+                "description": "Launch and expand your online store by taking advantage of the UAE’s 2B+ online customer base.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Freelancer Permit",
+                "description": "Offer consultancy or professional services globally with a UAE-registered freelancer permit.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Crypto & Web3 License",
+                "description": "Expand your VA portfolio stress-free with a fully compliant Crypto & Web3 license.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Event License",
+                "description": "Host local or global events in prime locations across the UAE with an Event License tailored to your business.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Real Estate License",
+                "description": "Kickstart your real estate agency or expand your professional portfolio with a real estate license.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dual Licensing Processing",
+                "description": "Diversify your revenue streams and qualify for tax exemptions with an expert-led dual licensing strategy.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Get Licensed Stress-Free and Start Scaling Today with One Nexuz",
+        "description": "Don’t let paperwork and red tape slow you down. Our expert consultants fast-track your license, eliminate costly mistakes, and streamline submission, giving you the green light to launch with confidence.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/professionalLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Real Estate License",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dual License",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Crypto & Web3 License",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Event License",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "E-commerce License",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Freelance Permit",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How do I apply for a professional license in the UAE?",
+                "answer": "You can apply for a professional license in Dubai, UAE, through the appropriate regulatory bodies, such as the DED or Free Zone authorities. Our experts simplify the licensing process by handling the paperwork and government back-and-forth."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to get a professional license in Dubai?",
+                "answer": "Our experts take 3-5 working days, depending on document readiness, your location, and legal structure."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I hire employees with a professional license?",
+                "answer": "Yes, you can sponsor visas for employees and dependents once your license and establishment card are active. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I operate across the UAE with a professional license?",
+                "answer": "Yes, a mainland-issued professional license allows you to serve clients worldwide."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What’s the difference between a professional and commercial license?",
+                "answer": "A professional license is for service-based activities, whereas a commercial license for trading physical goods and products."
+            }
+        ]
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/wealthManagement.webp",
+        "title": "Grow & Preserve Your Wealth with Personalised Investment Strategies",
+        "description": "Without strategic wealth management, you risk losing generational wealth to taxes, disputes, or poor financial decisions. At One Nexuz, our seasoned wealth management advisors empower you with up-to-date market deep dives, risk management strategies, and exclusive daily insights to build, multiply, and secure your wealth.  Hit all your financial goals by taking advantage of the Emirate’s hyper-connected financial infrastructure, extensive foreign direct investments, and high-performing real estate market."
+    },
+    "leftSection_1": {
+        "title": "Preserve Your Legacy, Diversify Your Portfolio, & Maximise After-Tax Returns with Wealth Management Services in Dubai, UAE",
+        "description": "Make confident economic decisions every market cycle to tap into Dubai’s cutting-edge infrastructure and fast-growing economy.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Diversify Your Assets, Limit Risk Exposure, & Shield Your Wealth Against Market Volatility ",
+                "subTitle": "Diversify Your Assets, Limit Risk Exposure, & Shield Your Wealth Against Market Volatility ",
+                "description": "Spread your investments across asset classes, regions, and sectors to limit exposure and safeguard your portfolio against market shocks.",
+                "image": "/assets/wealthManagement/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Build Your Legacy, Plan Succession, and Secure Generational Prosperity ",
+                "subTitle": "Build Your Legacy, Plan Succession, and Secure Generational Prosperity ",
+                "description": "Enjoy a 70% higher success rate in building your legacy across generations with tailored wealth transfer plans and financial advice.",
+                "image": "/assets/wealthManagement/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Eliminate Vulnerabilities, Secure Holdings, and Protect Privacy",
+                "subTitle": "Eliminate Vulnerabilities, Secure Holdings, and Protect Privacy",
+                "description": "Over 55% of UHNW families lack a structured wealth transfer plan, putting their legacy at serious risk. With our wealth management services, you can secure your assets and ensure seamless succession.",
+                "image": "/assets/wealthManagement/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Cut Tax Burden, Reinvest Profits, and Compound Your Wealth   ",
+                "subTitle": "Cut Tax Burden, Reinvest Profits, and Compound Your Wealth   ",
+                "description": "Reduce your tax liabilities across the UAE’s jurisdictions and beyond with optimal strategies to retain more of your wealth.",
+                "image": "/assets/wealthManagement/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Secure Your Legacy with One Nexuz’s Wealth Management Solutions",
+        "description": "Make your money work for you with our holistic wealth and asset management solutions:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Investment Management",
+                "description": "Diversify your real estate portfolio and discover lucrative opportunities with customised strategies.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Legacy & Estate Planning",
+                "description": "Safeguard your wealth with professionally crafted Wills, trusts, and tailored succession plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Retirement Planning",
+                "description": "Materialise a secure and comfortable life with smart pension and retirement income strategies.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Family Governance & Wealth Education",
+                "description": "Unlock in-depth financial insights and prep your heirs for the future with financial literacy programs.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business Succession Planning",
+                "description": "Globalise your business plan for leadership transitions with tailor-made succession strategies.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Tax Planning",
+                "description": "Navigate the UAE’s dynamic tax environment and discover opportunities to maximise your returns with our expert consultants.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Cross-Border Investments",
+                "description": "Amplify your wealth by tapping into fast-growing markets and unlocking global investment strategies.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Philanthropy Advisory",
+                "description": "Align your wealth with your values through charitable donations, foundations, and impact investing.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/wealthManagement/left4/1.webp",
+            "title": "Protect What You’ve Built for Your Loved Ones",
+            "description": "From offshore trusts to tax-efficient holding companies, we build custom plans that ensure your wealth works for your children—and their children after them.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/wealthManagement/left4/2.webp",
+            "title": "Your Wealth, Your Plan – Get Custom Quotes Tailored to Your Financial Goals ",
+            "description": "Your wealth deserves a plan as unique as you are. Our custom quotes break down every service, ensuring you receive a plan that’s aligned with your long-term goals — without hidden fees or unnecessary extras.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Start with a Discovery Call",
+                "description": "We kickstart with a confidential consultation to assess your financial goals and investment capabilities.",
+                "image": "/assets/wealthManagement/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get a Personalised Wealth Roadmap",
+                "description": "Next, our expert advisors design a tailored strategy based on your risk profile, asset structure, and objective to build or transfer wealth.",
+                "image": "/assets/wealthManagement/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Onboard Seamlessly",
+                "description": "Once you’re satisfied, we’ll assist you in compiling the necessary documents through a secure digital portal to ensure you’re fully compliant.",
+                "image": "/assets/wealthManagement/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Ongoing Market Advice",
+                "description": "Finally, we’ll help you hit all your wealth management goals through regular performance reviews and up-to-date insights.",
+                "image": "/assets/wealthManagement/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Wealth Management Advisor",
+        "description": "Spot wealth-building opportunities and steer clear of risky financial decisions by partnering with an expert Dubai wealth management company. Our team of wealth management advisors ensures you’re always one step ahead with structured advice.",
+        "items": [
+            {
+                "title": "Protect Your Legacy for Generations",
+                "description": "Over 90% of affluent families lose their wealth by the ​3rd generation due to a lack of planning. Our experts empower you to amplify it with tailored financial advice.",
+                "image": "/assets/wealthManagement/bgImage/1.webp"
+            },
+            {
+                "title": "Transfer Wealth without Losing Control",
+                "description": "Ensure you’re part of the 30% successfully transferring assets without any losses with our customised strategic succession and tax structuring.",
+                "image": "/assets/wealthManagement/bgImage/2.webp"
+            },
+            {
+                "title": "Navigate Market Volatility Confidently",
+                "description": "Access data-driven financial strategies and market insights to protect your wealth during downturns and capture opportunities when markets rebound.",
+                "image": "/assets/wealthManagement/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/wealthManagement/grid/1.webp",
+        "title": "Your Business Is Only Half the Equation — Protect the Rest",
+        "description": "We connect your business, real estate, offshore holdings, and family needs into one unified wealth structure. No gaps. No blind spots. No risk of erosion.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Before working with them, I had no idea how exposed my estate was. Now, everything is structured, protected, and I finally feel confident about succession planning.”",
+                "role": "Dubai-based Entrepreneur",
+                "image": "/assets/wealthManagement/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They helped us diversify internationally without losing control. Even through recent market volatility, our portfolio stayed stable and profitable.”",
+                "role": "Family Office Principal",
+                "image": "/assets/wealthManagement/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“What I appreciated most was the clarity—no jargon, no hidden fees, just a strategy that made sense and delivered results.”",
+                "role": "Senior Executive",
+                "image": "/assets/wealthManagement/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Diversify Your Wealth with Our Tailored Investment Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Golden Visa UAE",
+                "description": "Secure 10 years of UAE residency and exciting tax benefits with a Golden Visa.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Second Citizenship Programs",
+                "description": "Enjoy visa-free travel and unmatched asset protection with second citizenship strategies.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Family Office Setup",
+                "description": "Build, grow, and preserve your assets with a professionally structured UAE-based family office.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Family Foundation & Trust",
+                "description": "Control when and who can utilise your assets with strategic family foundation and trusts.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Will & Trust Preparation Services",
+                "description": "Secure your loved one’s future with a professional, legally compliant Will.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Bank Account Opening in UAE",
+                "description": "Streamline personal or business finances by setting up the best-fit bank account.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Treasury Management",
+                "description": "Optimise liquidity with tailored treasury solutions aligned to your investment goals.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Corporate Bank Account Opening Assistance",
+                "description": "Simplify corporate banking under nominee setups while maintaining full control.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Protect Your Wealth With a Powerful Financial Strategy Built by One Nexuz",
+        "description": "Diversify your investment portfolio and preserve your legacy for a secure present and future for your loved ones. With our trusted network of wealth management advisors, we empower you to stay agile in the UAE’s dynamic financial ecosystem.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/wealthManagement/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Bank Account Opening Assistance - banking and wealth",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Bank Account Opening in the UAE",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Treasury Management",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is wealth management in the UAE?",
+                "answer": "Wealth management services are comprehensive investment solutions that empower ultra-high-net-worth individuals and high-net-worth individuals to maximise and protect their finances for long-term economic stability."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What is the difference between a wealth management advisor and a financial advisor?",
+                "answer": "While both empower you with strategic financial advice, a wealth management advisor offers custom-tailored solutions to UHNWI and HNWI with exhaustive investment management and tax optimisation solutions. On the contrary, a financial advisor helps folks with varying wealth create retirement, budgeting, and investment plans."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "At what net worth should I seek a wealth management advisor?",
+                "answer": "It’s best to invest in wealth management services if you have over $1 million in investable assets. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Will I have access to global investment opportunities?",
+                "answer": "Yes! Our experts provide you access to global equities, private markets, fixed income, real estate, and alternative assets."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Are you services Shariah-compliant?",
+                "answer": "Yes. We offer Shariah-compliant portfolio options that align with Islamic investment principles, reviewed by certified scholars."
+            }
+        ]
+    }
+}

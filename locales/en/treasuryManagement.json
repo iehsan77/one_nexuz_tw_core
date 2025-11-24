@@ -1,0 +1,281 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/treasuryManagement.webp",
+        "title": "Track, Grow, and Protect Your Funds — Run Your Finances Effortlessly in the UAE with One Nexuz",
+        "description": "Navigate the UAE’s fast-evolving regulatory environment and economic fluctuations with efficient treasury management services. Our trusted network of financial advisors empower you to streamline liquidity and cash management by identifying, measuring, and analysing financial, regulatory, and operational risks."
+    },
+    "leftSection_1": {
+        "title": "Optimise Cash Flow, Maximise Working Capital, & Navigate Market Volatility with Confidence",
+        "description": "Proactively spot and mitigate financial risks, simplify cash flow management, and refine funds allocation with expert-led treasury services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Centralise Financial Control, Maximise Cash Flow, & Boost Financial Performance",
+                "subTitle": "Centralise Financial Control, Maximise Cash Flow, & Boost Financial Performance",
+                "description": "Build a recession-proof business by safeguarding your wealth against foreign exchange and interest rate fluctuations via scenario analysis, risk diversification, and hedging strategies.",
+                "image": "/assets/treasuryManagement/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access Data-Driven Reports, Get Real-Time Insights, & Make Informed Business Decisions",
+                "subTitle": "Access Data-Driven Reports, Get Real-Time Insights, & Make Informed Business Decisions",
+                "description": "Gain access to real-time analytics and financial advice to take data-driven investment, funding, and debt management decisions.",
+                "image": "/assets/treasuryManagement/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Stay Fully Compliant, Reduce Legal Risks, & Protect Your Business Reputation",
+                "subTitle": "Stay Fully Compliant, Reduce Legal Risks, & Protect Your Business Reputation",
+                "description": "Gain instant stakeholder and investor trust with real-time compliance monitoring and accurate financial reports. Save millions of dirhams by staying 100% compliant with the UAE’s stringent regulations.",
+                "image": "/assets/treasuryManagement/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Optimise Capital Allocation, Maintain Liquidity, and Strengthen Business Resilience ",
+                "subTitle": "Optimise Capital Allocation, Maintain Liquidity, and Strengthen Business Resilience ",
+                "description": "Meet all your financial obligations, enhance asset management, and build cash reserves to balance risks and stay ahead of market shifts.",
+                "image": "/assets/treasuryManagement/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Stay Agile with Our Full Range of Corporate Treasury Management Services",
+        "description": "Safeguard your business against market fluctuations and achieve sustainable growth with our holistic treasury management solutions:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Cash & Liquidity Management",
+                "description": "Centralise your finances, minimise FX loss, and optimise liquidity with confidence.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Payments & Collections",
+                "description": "Automate bulk payment processing, receivables, and collectibles for better cash control.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Investment Management",
+                "description": "Manage your investment portfolio and mitigate risks with insight-driven market analysis.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "FX & Currency Risk Management",
+                "description": "Uplift profit margins with personalised hedging strategies and tailored FX advisory.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Intercompany Transfers",
+                "description": "Spot revenue leaks and centralise global payments through netting arrangements",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Bank Relationship Management",
+                "description": "Manage accounts, fees, and compliance by maintaining strong global banking partnerships.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Cash Forecasting & Financial Planning",
+                "description": "Gain data-driven treasury insights to align funding with future business needs.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Regulatory Compliance",
+                "description": "Ensure audit readiness and stay compliant across all jurisdictions with proactive monitoring.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/treasuryManagement/left4/1.webp",
+            "title": "Stop Losing 30–50% to Decentralised Treasury with One Nexuz",
+            "description": "Centralise your global cash, funding, and FX operations to reduce redundancies, cut internal effort by up to half, and unlock cash flow efficiency.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/treasuryManagement/left4/2.webp",
+            "title": "Optimise Cash, Reduce Risk- Get Custom Treasury Solutions that Git Your Needs and Costs",
+            "description": "Don't overpay for treasury services that don't align with your business needs. Know your business setup costs upfront with our fully tailored treasury management quotes built to optimise your cash flow.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How One Nexuz Streamlines Treasury Management",
+        "items": [
+            {
+                "id": 1,
+                "title": "Assess Your Treasury Needs",
+                "description": "We begin with a deep dive into your current cash, risk, and banking landscape to identify inefficiencies, exposures, and opportunities.",
+                "image": "/assets/treasuryManagement/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Design a Custom Strategy",
+                "description": "Based on your structure and goals, our experts develop tailored cash, FX, and investment frameworks.",
+                "image": "/assets/treasuryManagement/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Implement & Integrate",
+                "description": "Next, we ensure a smooth rollout to streamline onboarding, bank coordination, and internal alignment.",
+                "image": "/assets/treasuryManagement/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Monitor, Report, & Optimise",
+                "description": "Lastly, we help you stay 100% compliant with real-time tracking, reporting, and performance reviews.",
+                "image": "/assets/treasuryManagement/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Top-Tier Treasury Management",
+        "description": "Unlock lucrative market opportunities, manage financial risks, and craft strategic financial strategies with expert treasury management services. Our seasoned advisors analyse the latest market trends to preserve your revenue.",
+        "items": [
+            {
+                "title": "Slash Operational Costs by 30%",
+                "description": "Reclaim time and cost navigating the complexities of treasury management by outsourcing to our dedicated consultants, freeing up resources for critical business activities.",
+                "image": "/assets/treasuryManagement/bgImage/1.webp"
+            },
+            {
+                "title": "Simplify Funds Management",
+                "description": "Gain real-time cash visibility, data-driven market forecasts, and efficient liquidity & cash management to optimise cash flow and hit all your financial goals.",
+                "image": "/assets/treasuryManagement/bgImage/2.webp"
+            },
+            {
+                "title": "Boster Financial Resilience",
+                "description": "Our treasury management experts help shock-proof your business with in-depth market insights and tailored risk diversification strategies.",
+                "image": "/assets/treasuryManagement/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/treasuryManagement/grid/1.webp",
+        "title": "Save Over $1.3 Million Annually with Our Treasury Management Solutions",
+        "description": "Eliminate hidden revenue losses with our streamlined cash forecasting, reconciliation, and FX controls, boosting profitability and system integrity.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Their treasury experts helped us mitigate FX risks during volatile markets. We now have a clear strategy that protects margins and improves liquidity.",
+                "role": "Manufacturing Company Finance Director",
+                "image": "/assets/treasuryManagement/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "From day one, the support was proactive and solutions-driven. We reduced idle cash by 30% and optimized intercompany transfers across multiple entities.",
+                "role": "Tech Enterprise Group Treasurer",
+                "image": "/assets/treasuryManagement/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "We gained full visibility over our global cash positions within weeks. Their team streamlined our payments and forecasting, saving us hours every month.",
+                "role": "Regional Logistics Firm CFO",
+                "image": "/assets/treasuryManagement/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Take Charge of Your Finances with Our All-in-One Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Wealth Management Services",
+                "description": "Preserve your legacy by gaining insights into economic trends and FX volatility.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Bank Account Opening in the UAE",
+                "description": "Link your UAE business with a 100% compliant personal or corporate bank account.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Corporate Bank Account Opening Assistance",
+                "description": "Access exciting local banking facilities with nominee-led account setup assistance.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Drive Business Growth with One Nexuz's Tailored Treasury Management Solutions",
+        "description": "Shield your business against market volatility, take data-driven investment decisions, and maximise cash reserves with professional treasury management solutions. Partner with our experts today to spot financial risks and boost profits!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/treasuryManagement/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Bank Account Opening Assistance - banking and wealth",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Bank Account Opening in the UAE",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Wealth Management",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are treasury management services?",
+                "answer": "Treasury management typically includes cash and liquidity planning, risk management, payments and collections, FX and interest rate hedging, investment management, and regulatory compliance support. Services can be tailored to your business needs and structure."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do your treasury management services work across multiple banks and currencies?",
+                "answer": "Absolutely, our approach support multi-bank, multi-currency operations, and offers centralised visibility and control."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How soon can One Nexuz onboard me?",
+                "answer": "Depending on the scope and complexity, setup can range from a few weeks to a few months. We work closely with your internal teams and banking partners to ensure a smooth rollout."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Are your treasury management solutions only for large enterprises?",
+                "answer": "Our treasury management services are ideal for all-sized businesses, empowering you to improve cash visibility, liquidity management, and operational efficiency."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do One Nexuz ensure compliance with local and international regulations?",
+                "answer": "We embed regulatory controls controls into your treasury framework and keep your systems up-to-date with evolving compliance requirements to keep you audit-ready at all times."
+            }
+        ]
+    }
+}
