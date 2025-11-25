@@ -1,0 +1,281 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/businessSetup.webp",
+    "title": "From Risk Assessment to Regulatory Approval — Expert AML Compliance Services That Protect Your Business",
+    "description": "Worried about hefty regulatory fines, licensing risks, or reputational damage as you expand into the UAE? Protect your business reputation and ensure 100% AML compliance with end-to-end Anti-Money Laundering and Counter-Financial Terrorism solutions tailored to the Emirates' stringent regulatory landscape. We empower you with robust IT infrastructures and proactive compliance programs to stay competitive."
+  },
+  "leftSection_1": {
+    "title": "Why Ensure Your UAE-Based Business is AML Compliant?",
+    "description": "Build instant customer trust, prevent hefty fines, and stay competitive with strategic AML compliance.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Stay Fully Compliant, Prevent Costly Penalties, & Save AED 50,000+ in Non-Compliance",
+        "subTitle": "Stay Fully Compliant, Prevent Costly Penalties, & Save AED 50,000+ in Non-Compliance",
+        "description": "Shield your business against financial losses by aligning your business with the UAE's stringent regulatory landscape, empowering you to cut costs by a whopping 85%.",
+        "image": "/assets/businessSetup/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "Spot Risks Early, Combat License Suspensions, & Maintain Business Operations",
+        "subTitle": "Spot Risks Early, Combat License Suspensions, & Maintain Business Operations",
+        "description": "Mitigate operational disruptions, nurture stakeholder confidence, and maintain business continuity with proactive AML compliance solutions.",
+        "image": "/assets/businessSetup/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "Protect Your Brand Reputation, Avoid Asset Freezes, & Win Instant Customer Trust",
+        "subTitle": "Protect Your Brand Reputation, Avoid Asset Freezes, & Win Instant Customer Trust",
+        "description": "Without a robust AML compliance setup, you risk ending up on the blacklist, having your assets seized, and credit lines denied. Secure your goAML certificate to build instant trust and secure contracts faster.",
+        "image": "/assets/businessSetup/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "From Registration to Reporting, Get DNFBP-Ready and Fully Protectedz",
+        "subTitle": "From Registration to Reporting, Get DNFBP-Ready and Fully Protectedz",
+        "description": "Safeguard your organisation against license suspensions, hefty fines, and instant closure with stress-free goAML registration.",
+        "image": "/assets/businessSetup/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Our Full Range of AML Compliance Services in the UAE",
+    "description": "Strengthen financial stability and enjoy audit peace of mind with our end-to-end AML compliance solutions.",
+    "items": [
+      {
+        "id": 1,
+        "title": "AML Registration",
+        "description": "Streamline goAML registration and configuration to meet UAE Central Bank requirements hassle-free.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Gap Assessment",
+        "description": "Identify blind spots and compliance vulnerabilities with in-depth custom goAML risk assessments.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "AML/CFT Policy Drafting",
+        "description": "Protect your business reputation with robust AMsL policies tailored to your business.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "KYC, CDD, & EDD Setup",
+        "description": "Get custom workflows to screen suspicious transactions, onboard clients, and more!",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Independent AML",
+        "description": "Stay up-to-date with the UAE's evolving regulations to ensure your business stays 100% compliant.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Specialised Crypto Support",
+        "description": "Navigate FATF regulations with confidence to preserve your virtual assets and secure digital transactions.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/businessSetup/left4/1.webp",
+      "title": "Non-Compliance Could Cost 68% of Your Customers- We Help You Keep Them",
+      "description": "AML compliance isn’t optional; it’s your brand’s last line of defense. Build trust, avoid fines, and protect customer loyalty with proactive compliance systems.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/businessSetup/left4/2.webp",
+      "title": "Your AML, Your Way — Transparent Pricing, Zero Surprises",
+      "description": "No rigid packages. No hidden fees. No unnecessary add-ons. Get a custom compliance setup tailored to your UAE business—pay only for what you need, scaling effortlessly as your operations grow.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "How We Protect Your Business against AML Risks",
+    "items": [
+      {
+        "id": 1,
+        "title": "Free AML Consultation",
+        "description": "We start with a no-obligation consultation to understand your business activity, risk profile, and regulatory obligations.",
+        "image": "/assets/businessSetup/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Gap Assessment & Roadmap",
+        "description": "Next, we'll provide you with a clear, actionable report outlining your AML/CFT gaps and a custom-built compliance timeline.",
+        "image": "/assets/businessSetup/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Submit Your Documents",
+        "description": "We'll provide you with a checklist of the required documents to create your goAML account, compliance policies, and risk matrix.",
+        "image": "/assets/businessSetup/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Train Your Team",
+        "description": "Next, we'll provide your team with practical AML training and implement real-time screening tools and recordkeeping systems.",
+        "image": "/assets/businessSetup/left5/4.svg"
+      },
+      {
+        "id": 5,
+        "title": "Stay Audit Ready",
+        "description": "Once you’re compliant, our experts provide regular audits to keep your systems aligned with the UAE’s AML requirements.",
+        "image": "/assets/businessSetup/left5/5.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why Thousands of UAE Businesses Trust Us to Stay AML Compliant",
+    "description": "Navigate the UAE's complex legislative landscape and ensure strategic compliance with our team of seasoned AML consultants.",
+    "items": [
+      {
+        "title": "Get Tailored Compliance Solutions",
+        "description": "Access custom-built AML compliance programs built around your unique industry needs, developed and delivered by seasoned specialists.",
+        "image": "/assets/businessSetup/bgImage/1.webp"
+      },
+      {
+        "title": "Real-Time Transaction Monitoring",
+        "description": "Save up to AED 110 for every AED 4 spent on AML compliance with our strategic solutions, mitigating hefty penalties and fines.",
+        "image": "/assets/businessSetup/bgImage/2.webp"
+      },
+      {
+        "title": "Stay Compliant, Stay Ahead",
+        "description": "Ensure you're always one step ahead with up-to-date alerts on changing AML compliance and seamless registration and renewal processes.",
+        "image": "/assets/businessSetup/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/businessSetup/grid/1.webp",
+    "title": "Future-Proof Your Compliance Stack with One Nexuz",
+    "description": "Scale your business hassle-free with our AML solutions tailored to combat financial risks without slowing operations.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“We were overwhelmed by the AML requirements, but this team broke everything down clearly and got us compliant fast. The peace of mind alone is worth it.”",
+        "role": "Real Estate Managing Director",
+        "image": "/assets/businessSetup/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“Thanks to their guidance, we passed our first AML audit without a single issue. They handled the registration, risk assessment, and reporting setup seamlessly.”",
+        "role": "Gold Trading Company CEO",
+        "image": "/assets/businessSetup/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“As a small consultancy, we had no idea how exposed we were. They helped us register on goAML, trained our staff, and implemented a simple compliance process that works.”",
+        "role": "Business Advisory Firm Founder",
+        "image": "/assets/businessSetup/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Drive Business Growth with Our Holistic Solutions",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Intellectual Property Rights Protection",
+        "description": "Keep counterfeiters from stealing your creative assets and diversify your revenue streams.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Audit Services",
+        "description": "Simplify financial, compliance, and IT audits to protect your business and prevent hefty fines.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Tax Residency Certificate",
+        "description": "Save millions of dirhams by preventing double taxation and taking advantage of zero withholding taxes.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "ISO Certificate Assistance",
+        "description": "Foster instant stakeholder confidence and gain a competitive edge with an industry-relevant ISO certificate.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "Secure Your Business with Custom-Built AML Compliance",
+    "description": "Cut compliance risks, stay audit-ready, and build trust with partners and banks with tailored AML compliance solutions. Partner with our certified experts to streamline all the paperwork, so you can focus on growing your brand with total peace of mind.",
+    "btn": "Connect with Our Experts",
+    "image": "/assets/businessSetup/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "Explore Other Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Audit Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Tax Residency Certificate",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "ISO Certificate Assistance",
+        "url": "#"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What is Anti-Money Laundering (AML) compliance in the UAE?",
+        "answer": "AML compliance involves numerous strategies, including risk assessments, health checks, and audits to ensure your business complies with the UAE’s evolving AML requirements."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Who is subject to the UAE’s AML compliance requirements?",
+        "answer": "The UAE AML compliance regulations apply to all financial institutions and Designated Non-Financial Businesses and Professions (DNFBPs), including precious metals, coloured stones, and diamond dealers, real estate firms, and corporate service providers."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Can One Nexuz help me set up an in-house AML compliance infrastructure?",
+        "answer": "Yes, our certified AML experts can assist you in creating and implementing an internal AML compliance infrastructure tailored to your unique industry needs."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Does my business have to undergo AML training under the UAE’s AML law?",
+        "answer": "Yes, AML training is mandatory for all employees handling client onboarding, funds transfer, transaction processing, and compliance. "
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How often do I need to update my AML infrastructure?",
+        "answer": "It’s best to audit, review, and update your AML compliance setup annually or whenever the UAE’s regulatory landscape undergoes significant changes."
+      }
+    ]
+  }
+}
