@@ -2,7 +2,7 @@
   "homeHeader": {
     "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
     "bookConsultation": "احجز استشارتك المجانية.",
-    "image": "/assets/header/businessSetup.webp",
+    "image": "/assets/header/proServicesSharjah.webp",
     "title": "من الأوراق إلى الموافقات - احصل على دعم كامل 360° مع خدمات PRO الشاملة في الشارقة",
     "description": "يمكن أن يكلفك مستند مفقود، تأشيرة متأخرة، أو رخصة منتهية الآلاف. يتولى متخصصو PRO لدينا التعامل مع التأشيرات والرخص والتجديدات، مما يقلل من وقت الانتظار لأسابيع ويعزز التنسيق مع الحكومة، مما يمكنك من الاستفادة من الموقع الاستراتيجي للشارقة. استعد لاستعادة 60 ساعة سنويًا، ومنع التأخيرات المكلفة، وزيادة كفاءة العمليات من خلال تقديم الوثائق بسلاسة وتجديدها في الوقت المحدد."
   },
@@ -15,28 +15,28 @@
         "title": "تعامل مع الوثائق والمتابعات والموافقات دون فوضى",
         "subTitle": "تعامل مع الوثائق والمتابعات والموافقات دون فوضى",
         "description": "وفر ما يصل إلى 20 ساعة لكل موظف من خلال القضاء على متاعب الأعمال الورقية اليدوية، والمتابعات التي لا تنتهي، والتقديمات الحكومية المعقدة.",
-        "image": "/assets/businessSetup/left1/1.webp"
+        "image": "/assets/proServicesSharjah/left1/1.webp"
       },
       {
         "id": 2,
         "title": "لا تفوت تجديدًا أو موعدًا نهائيًا أو تحديثًا للامتثال",
         "subTitle": "لا تفوت تجديدًا أو موعدًا نهائيًا أو تحديثًا للامتثال",
         "description": "يمكن أن تكلفك الملفات غير الصحيحة، وتأخيرات التأشيرات، والمستندات المنتهية، والتجديدات الفائتة آلاف الدراهم من الغرامات. يمكن أن يساعدك الاستعانة بالخبراء في مكافحة المخاطر القانونية وانتهاكات الامتثال.",
-        "image": "/assets/businessSetup/left1/2.webp"
+        "image": "/assets/proServicesSharjah/left1/2.webp"
       },
       {
         "id": 3,
         "title": "من التقديمات إلى الموافقات، احصل على أوقات استجابة أسرع وقلل من فترات التوقف",
         "subTitle": "من التقديمات إلى الموافقات، احصل على أوقات استجابة أسرع وقلل من فترات التوقف",
         "description": "قلل من أوقات الموافقة بنسبة تصل إلى 50% لتسريع معالجة التراخيص والتأشيرات، مما يقلل من فترات التوقف ويعزز كفاءة مكان العمل.",
-        "image": "/assets/businessSetup/left1/3.webp"
+        "image": "/assets/proServicesSharjah/left1/3.webp"
       },
       {
         "id": 4,
         "title": "من صداع التوظيف إلى الخبرة الاقتصادية — قلل النفقات من خلال دعم PRO الخارجي الكامل",
         "subTitle": "من صداع التوظيف إلى الخبرة الاقتصادية — قلل النفقات من خلال دعم PRO الخارجي الكامل",
         "description": "احصل على دعم PRO الكامل دون أعباء الرواتب والتأشيرات والتأمين من خلال الاستعانة بأخصائيي PRO الخبراء. تخطى متاعب التوظيف الداخلي وزد من أرباحك!",
-        "image": "/assets/businessSetup/left1/4.webp"
+        "image": "/assets/proServicesSharjah/left1/4.webp"
       }
     ]
   },
@@ -84,14 +84,14 @@
   },
   "leftSection_4": {
     "sec1": {
-      "image": "/assets/businessSetup/left4/1.webp",
+      "image": "/assets/proServicesSharjah/left4/1.webp",
       "title": "انضم إلى 60% الذين يتحركون بذكاء مع خدمات PRO الخارجية لدينا",
       "description": "تتخلص المزيد من الشركات في الإمارات من الروتين. نحن نبسط رخصك، تأشيراتك، والموافقات الحكومية، حتى لا تخاطر بالغرامات أو العقوبات.",
       "btn": "احجز مكالمة مجانية",
       "url": "#"
     },
     "sec2": {
-      "image": "/assets/businessSetup/left4/2.webp",
+      "image": "/assets/proServicesSharjah/left4/2.webp",
       "title": "خدمات PRO التي تعمل من أجلك - ادفع فقط مقابل ما تحتاجه",
       "description": "تجنب الحزم الصارمة والرسوم المخفية. احصل على حل PRO مخصص للشارقة ينمو مع عملك - سريع، مرن، وشفاف بالكامل.",
       "btn": "استكشف حزم التسعير لدينا",
@@ -105,37 +105,37 @@
         "id": 1,
         "title": "احجز مكالمة اكتشاف",
         "description": "نقوم بتقييم احتياجات عملك الفريدة لتحديد أي رخص، موافقات، ومستندات تحتاجها.",
-        "image": "/assets/businessSetup/left5/1.svg"
+        "image": "/assets/proServicesSharjah/left5/1.svg"
       },
       {
         "id": 2,
         "title": "تقييم المتطلبات والتخطيط",
         "description": "يقوم خبراؤنا بمراجعة احتياجاتك التنظيمية والتشغيلية المحددة، لإنشاء خارطة طريق واضحة للموافقات، التأشيرات، والرعاية، حتى تعرف بالضبط ما يمكن توقعه.",
-        "image": "/assets/businessSetup/left5/2.svg"
+        "image": "/assets/proServicesSharjah/left5/2.svg"
       },
       {
         "id": 3,
         "title": "إعداد وتقديم الوثائق",
         "description": "بعد ذلك، يساعد خبراؤنا في تجميع، تنسيق، وترجمة جميع الأوراق القانونية، والهجرة، والترخيص.",
-        "image": "/assets/businessSetup/left5/3.svg"
+        "image": "/assets/proServicesSharjah/left5/3.svg"
       },
       {
         "id": 4,
         "title": "تبسيط التنسيق الحكومي",
         "description": "بمجرد إعداد جميع الوثائق، نقوم بتقديم طلبك والمتابعة مع DED الشارقة، MoHRE، والسلطات المعنية الأخرى.",
-        "image": "/assets/businessSetup/left5/4.svg"
+        "image": "/assets/proServicesSharjah/left5/4.svg"
       },
       {
         "id": 5,
         "title": "استلم جميع الموافقات",
         "description": "بعد ذلك، نؤمن لك الرخص، التأشيرات، الرعايات، والهويات الإماراتية للحفاظ على سير عملك بسلاسة.",
-        "image": "/assets/businessSetup/left5/5.svg"
+        "image": "/assets/proServicesSharjah/left5/5.svg"
       },
       {
         "id": 6,
         "title": "احصل على تحديثات في الوقت المناسب",
         "description": "أخيرًا، يضمن متخصصو الاتصال لدينا أن تبقى على اطلاع دائم بالمتطلبات التنظيمية المتغيرة مع إشعارات فورية وتذكيرات بالتجديد.",
-        "image": "/assets/businessSetup/left5/6.svg"
+        "image": "/assets/proServicesSharjah/left5/6.svg"
       }
     ]
   },
@@ -146,22 +146,22 @@
       {
         "title": "معالجة الوثائق والتأشيرات بدون متاعب",
         "description": "نساعدك في الإعداد بدون ضغط مع معالجة سريعة للتأشيرات، وتخليص الوثائق، ودعم الامتثال المستمر.",
-        "image": "/assets/businessSetup/bgImage/1.webp"
+        "image": "/assets/proServicesSharjah/bgImage/1.webp"
       },
       {
         "title": "احصل على رؤى محلية",
         "description": "يتحدث فريقنا المدرب والخبير لغة النظام، مما يمكّنك من البدء بشكل أسرع، متوافق بالكامل، وخالي من الأخطاء.",
-        "image": "/assets/businessSetup/bgImage/2.webp"
+        "image": "/assets/proServicesSharjah/bgImage/2.webp"
       },
       {
         "title": "احصل على تذكيرات في الوقت الحقيقي",
         "description": "نضمن أنك دائمًا خطوة واحدة أمام الامتثال مع تنبيهات وإشعارات على مدار الساعة حول التجديدات، التقديمات، وتخليص التأشيرات.",
-        "image": "/assets/businessSetup/bgImage/3.webp"
+        "image": "/assets/proServicesSharjah/bgImage/3.webp"
       }
     ]
   },
   "leftSection_7": {
-    "image": "/assets/businessSetup/grid/1.webp",
+    "image": "/assets/proServicesSharjah/grid/1.webp",
     "title": "الإعداد، التوسع، والتجديد مع خدمات PRO الجاهزة لك",
     "description": "تبسيط الرخص، التأشيرات، والتجديدات دون الحاجة إلى بذل جهد. نحن ندير كل موافقة وتخليص حتى تظل أعمالك في الشارقة متوافقة، فعالة، وفي السيطرة.",
     "btn": "قم بتوسيع أعمالك اليوم!",
@@ -175,19 +175,19 @@
         "id": 1,
         "quote": "كنا نتعامل مع جميع تأشيراتنا وتقديمات DED يدويًا. منذ الانتقال إلى One Nexuz PRO، لم نفوت أي موعد نهائي.",
         "role": "مالك شركة إنشاءات",
-        "image": "/assets/businessSetup/client/1.webp"
+        "image": "/assets/proServicesSharjah/client/1.webp"
       },
       {
         "id": 2,
         "quote": "كان فريقهم يعرف بالضبط ما هو مطلوب لمؤسسة الشارقة. حصلنا على بطاقة المنشأة والتأشيرات في يدنا في غضون 6 أيام فقط.",
         "role": "خدمات الفعاليات",
-        "image": "/assets/businessSetup/client/2.webp"
+        "image": "/assets/proServicesSharjah/client/2.webp"
       },
       {
         "id": 3,
         "quote": "أوصي بشدة بهم لدعم PRO - خاصة إذا كنت جديدًا في إعدادات الأعمال في الإمارات العربية المتحدة.",
         "role": "مؤسس شركة ناشئة في التكنولوجيا",
-        "image": "/assets/businessSetup/client/3.webp"
+        "image": "/assets/proServicesSharjah/client/3.webp"
       }
     ]
   },
@@ -221,7 +221,7 @@
     "title": "تسريع نمو الأعمال مع حلول PRO الاحترافية لدينا",
     "description": "اقطع الروتين واستعد لاستعادة الوقت الضائع مع خدمات PRO الاحترافية في الشارقة. ثق بخبرائنا للتعامل مع كل تخليص، تأشيرة، وموافقة، مما يضمن سير عملياتك بسلاسة.",
     "btn": "تواصل مع خبرائنا",
-    "image": "/assets/businessSetup/grid/2.webp"
+    "image": "/assets/proServicesSharjah/grid/2.webp"
   },
   "exploreIndustry": {
     "title": "استكشاف خدمات أخرى",
@@ -244,74 +244,37 @@
     ]
   },
   "faq": {
-    "title": "",
+    "title": "إجابات واضحة، ورؤى خبيرة، وتجربة خالية من التعقيد تجربة استشارية",
     "items": [
       {
         "id": 1,
         "number": "01",
-        "question": "",
-        "answer": ""
+        "question": "ما هي خدمات PRO في الشارقة؟",
+        "answer": "تعمل خدمات PRO على تبسيط إعداد الأعمال من خلال تقديم طلبات التأشيرات وتجديدها، ومعالجة بطاقات العمل، وتوثيق المستندات وتصديقها، وتسجيل الرخص التجارية، وتسجيل الشركات."
       },
       {
         "id": 2,
         "number": "02",
-        "question": "",
-        "answer": ""
+        "question": "كيف يمكن أن تفيد خدمات PRO الاحترافية عملي في الشارقة؟",
+        "answer": "يمكن أن تقلل حلول PRO المتخصصة من العبء الإداري عن كاهل فريقك، مما يسمح لهم بالتركيز على الأنشطة الأساسية للأعمال بينما يتولى الخبراء جميع متطلبات الوثائق والقوانين."
       },
       {
         "id": 3,
         "number": "03",
-        "question": "",
-        "answer": ""
+        "question": "كم من الوقت يستغرق معالجة PRO في الشارقة؟",
+        "answer": "يبدأ خبراؤنا بالانضمام إلى فريقك بمجرد حجز مكالمة أولية وتقديم المستندات اللازمة."
       },
       {
         "id": 4,
         "number": "04",
-        "question": "",
-        "answer": ""
+        "question": "هل تقدم One Nexuz خدمات PRO للشركات في المنطقة الحرة والبر الرئيسي في الشارقة؟",
+        "answer": "نعم، يقدم خبراؤنا في PRO حلولاً شاملة مصممة لتلبية الاحتياجات الفريدة لشركتك في المنطقة الحرة أو البر الرئيسي في الشارقة."
       },
       {
         "id": 5,
         "number": "05",
-        "question": "",
-        "answer": ""
-      },
-      {
-        "id": 6,
-        "number": "06",
-        "question": "",
-        "answer": ""
-      }
-    ]
-  },
-  "iconTitleSec": {
-    "title": "",
-    "description": "",
-    "items": [
-      {
-        "id": 1,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/1.svg",
-        "title": ""
-      },
-      {
-        "id": 2,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/2.svg",
-        "title": ""
-      },
-      {
-        "id": 3,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/3.svg",
-        "title": ""
-      },
-      {
-        "id": 4,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/4.svg",
-        "title": ""
-      },
-      {
-        "id": 5,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/5.svg",
-        "title": ""
+        "question": "هل تشمل حلول PRO من One Nexuz تجديد التأشيرات، والرعاية، والإلغاء؟",
+        "answer": "بالتأكيد! تشمل خدمات PRO الشاملة لدينا طلبات تأشيرات الإقامة، والرعاية، والتجديدات، والإلغاءات."
       }
     ]
   }

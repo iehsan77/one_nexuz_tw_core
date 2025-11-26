@@ -1,0 +1,305 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/assetProtection.webp",
+    "title": "From Wealth Creation to Legacy Planning, Gain 360° Control Over Your Wealth with Strategic Asset Protection Solutions",
+    "description": "Secure your assets against market fluctuations, economic volatility, and legal claims through DIFC & ADGM-compliant asset structures and holistic financial insights. At One Nexuz,  we empower you with bespoke foundations, trusts, and holding vehicles to diversify and preserve your investments for long-term growth and success."
+  },
+  "leftSection_1": {
+    "title": "Shield Your Wealth, Minimise Risk, and Safeguard Generational Prosperity",
+    "description": "Tap into the UAE’s lucrative real estate market, strategic location, and strong banking relationships to safeguard your assets and preserve your legacy.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Map Out Succession, Ensure Smooth Wealth Transfers, and Future-Proof Your Family Legacy",
+        "subTitle": "Map Out Succession, Ensure Smooth Wealth Transfers, and Future-Proof Your Family Legacy",
+        "description": "Over 48% of HNWI have no succession strategy, placing their wealth at serious risk. A tailored asset protection plan allows you to decide when and who receives your wealth.",
+        "image": "/assets/assetProtection/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "Separate Business & Personal Risk, Protect Your Holdings, and Focus on Growth ",
+        "subTitle": "Separate Business & Personal Risk, Protect Your Holdings, and Focus on Growth ",
+        "description": "Without a legal barrier, your personal wealth can be seized to settle business debts. Strategic structuring ensures that even if your company faces litigation, your personal investments remain untouched.",
+        "image": "/assets/assetProtection/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "Boost Privacy, Reduce Exposure, and Protect Your Reputation",
+        "subTitle": "Boost Privacy, Reduce Exposure, and Protect Your Reputation",
+        "description": "Minimise liability exposure by securing your assets under tax-efficient legal structures, such as LLCs, independent trusts, or partnerships.",
+        "image": "/assets/assetProtection/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "Streamline Successions, Minimise Disputes, and Avoid Costly Litigation",
+        "subTitle": "Streamline Successions, Minimise Disputes, and Avoid Costly Litigation",
+        "description": "Without a clear estate plan, family disputes can take up to 10 years to resolve. A structured succession strategy prevents probate gridlock and ensures seamless asset transfer.",
+        "image": "/assets/assetProtection/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore One Nexuz’s Holistic UAE Asset Protection Services",
+    "description": "Safeguard your assets against creditors and lawsuits with our end-to-end asset protection solutions:",
+    "items": [
+      {
+        "id": 1,
+        "title": "Legal Structuring",
+        "description": "Bypass lengthy probate processes with the appropriate legal structures.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Trust & Foundation Formation",
+        "description": "Establish irrevocable trusts or DIFC & ADGM-compliant foundations to diversify your assets.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Risk Analysis & Crisis Preparedness",
+        "description": "Identify hidden liabilities and estate vulnerabilities through comprehensive risk audits.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Free Zone Company Structuring",
+        "description": "Set up a corporation in a Free Zone and enjoy limited liability and complete ownership.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Insurance Structures",
+        "description": "Protect your assets against claims and lawsuits with our custom-built insurance solutions.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Integrated Estate & Succession Planning",
+        "description": "Eliminate the risk of default heirship resolutions with tailored Wills & succession plans.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Ongoing Regulatory Updates",
+        "description": "Receive instant updates on evolving compliance requirements to adjust your protection strategies.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/assetProtection/left4/1.webp",
+      "title": "Secure Real Estate at Just 0.125% Transfer Fee with One Nexuz",
+      "description": "Why risk future claims or taxes? With the right asset structure, you can move property for just 0.125% and instantly insulate your wealth- legally, efficiently, and securely.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/assetProtection/left4/2.webp",
+      "title": "Protect What You've Built — Get Tailored Asset Protection Solutions that Fit Your Legacy",
+      "description": "Secure global assets, from trusts and foundations right down to multi-jurisdictional structures, with custom-built quotes that serve your goals. Pay only for the structures and services you need!",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Secure Your Wealth with One Nexuz 4-Step Asset Protection & Security Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Book a No-Obligation Call",
+        "description": "We’ll start by booking a discovery call where we’ll assess your family structure, risks, and goals.",
+        "image": "/assets/assetProtection/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Receive a Tailored Plan",
+        "description": "Next, our experts will recommend the best-fit asset protection solution: foundation, trust, or Will registration.",
+        "image": "/assets/assetProtection/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Get Your Assets Licensed",
+        "description": "Once you give us the green light, we’ll handle all the document attestation, notarisation, and registration to ensure 100% compliance.",
+        "image": "/assets/assetProtection/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Enjoy Ongoing Support",
+        "description": "Finally, we’ll execute all formalities to build, diversify, and protect your wealth. We’ll also send annual reminders to preserve your wealth for decades.",
+        "image": "/assets/assetProtection/left5/4.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why One Nexuz for Professional Asset Protection Solutions",
+    "description": "Reclaim time and cost lost in family disputes, court hearings, and frozen bank accounts with personalised asset protection solutions. We empower you with tax-efficient structures to diversify and secure your legacy.",
+    "items": [
+      {
+        "title": "Speed Up Settlement Times",
+        "description": "Our proactive asset protection solutions deter litigation and slash lawsuit settlement times, capping liabilities before they can escalate.",
+        "image": "/assets/assetProtection/bgImage/1.webp"
+      },
+      {
+        "title": "Get Tax-Efficient Structures",
+        "description": "Maximise your revenue with DIFC & ADGM-compliant asset structures and enjoy 0% personal income, inheritance, and capital gains tax.",
+        "image": "/assets/assetProtection/bgImage/2.webp"
+      },
+      {
+        "title": "Access Tailored Cross-Border Plans",
+        "description": "Preserve and diversify your assets and streamline succession planning with our custom-built Sharia-compliant and cross-border structures.",
+        "image": "/assets/assetProtection/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/assetProtection/grid/1.webp",
+    "title": "Turn Risk into Resilience with Our Strategic Asset Protection",
+    "description": "From family trusts to offshore SPVs, we use proven frameworks to keep your wealth untouchable—no matter what the future throws at you.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "They structured our DIFC foundation and free zone holding company in under two weeks—flawless execution and unmatched legal clarity.",
+        "role": "Private Investment Firm Managing Director",
+        "image": "/assets/assetProtection/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "I never realized how exposed my assets were until their audit. Their team gave me a structure I actually sleep well knowing exists.",
+        "role": "Family Business Owner",
+        "image": "/assets/assetProtection/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "Their grasp on both UAE law and cross-border succession is rare—our family estate plan finally feels future-proof.",
+        "role": "Regional Tech Holding CFO",
+        "image": "/assets/assetProtection/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Preserve & Multiply Your Wealth with One Nexuz’s Tailored Strategies ",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Golden Visa UAE",
+        "description": "Tap into the UAE’s local markets and unlock tax benefits with a UAE Golden Visa.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Wealth Management Services",
+        "description": "Secure your wealth for your loved one’s with tailored wealth management advice.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Will & Trust Preparation Services ",
+        "description": "Ensure seamless ownership transfers with a professional DIFC or ADJD-registered Will.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Office Setup",
+        "description": "Create strategic succession plans and centralise governance with a family office.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Family Foundation & Trust",
+        "description": "Build your wealth and engage in philanthropic work with structured trusts.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Second Citizenship Programs",
+        "description": "Enjoy global mobility and enticing tax incentives by securing second citizenship.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Private Office",
+        "description": "Cut the distractions and optimise productivity & efficiency with fully furnished private offices.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Escrow Account Assistance",
+        "description": "Secure high-value transactions and build your reputation with escrow account assistance.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "Build, Diversify, and Protect Your Digital & Tangible Assets with One Nexuz",
+    "description": "Safeguard your hard-earned money from malpractice claims, business disputes, and lawsuits with top-notch asset protection strategies. Our seasoned consultants secure your loved one’s future through smart legal structuring.",
+    "btn": "Connect with Our Experts",
+    "image": "/assets/assetProtection/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "Explore Other Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Audit Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Tax Residency Certificate",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "ISO Certificate Assistance",
+        "url": "#"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "Can I structure my assets through a free zone company?",
+        "answer": "Yes, structuring your assets as a Free Zone company can provide you with numerous benefits, including 100% foreign ownership, 0% income and inheritance tax, and simplified succession planning."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "How does asset protection assist in business succession planning?",
+        "answer": "Through asset protection planning, ultra-high-net-worth and high-net-worth individuals ensure the smooth transition of business ownership. Our experts offer tailored asset security solutions to protect your wealth against creditors and legal disputes."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "How can trusts or foundations be used for asset protection?",
+        "answer": "Trusts can protect your assets by placing all your investment under a trustee, whereas foundations offer unmatched confidentiality, safeguarding your wealth against potential claims. "
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "Does One Nexuz offer digital asset protection services?",
+        "answer": "Yes, our seasoned consultants offer asset protection solutions for digital and tangible assets."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How does structuring your assets ensure compliance with the UAE’s Shariah law?",
+        "answer": "Proper asset structuring ensures your wealth is distributed per the Shariah law without incurring losses."
+      }
+    ]
+  }
+}

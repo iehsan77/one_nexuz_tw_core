@@ -1,0 +1,299 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/familyFoundationAndTrusts.webp",
+    "title": "Protect Assets, Eliminate Family Disputes, & Ensure Seamless Succession With  UAE Family Foundation & Trust Set up Services",
+    "description": "Without the right structure, even abundant wealth can become fragmented, exposed, and difficult to preserve. With One Nexuz Family Foundation & Trust services, you gain access to the UAE’s tax advantages, stable economy, and world-class legal framework. Whether safeguarding multi-generational assets, streamlining succession, or establishing a legacy of philanthropy, our advisors deliver bespoke solutions trusted by ultra-high-net-worth families worldwide."
+  },
+  "leftSection_1": {
+    "title": "Why Ultra-High-Net-Worth Individuals Need Family Foundation & Trust",
+    "description": "Without a well-structured succession plan, you run the risk of losing millions to legal disputes, seized assets, and court fees. Protect, plan, and diversify your wealth with 100% compliant family foundations or trusts.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Eliminate Heavy Tax Burdens, Safeguard Generational Wealth, & Maximise Global Investments with Smart Multi-Tier UAE Structures",
+        "subTitle": "Eliminate Heavy Tax Burdens, Safeguard Generational Wealth, & Maximise Global Investments with Smart Multi-Tier UAE Structures",
+        "description": "Preserve and maximise your wealth with UAE-approved multi-tier structuring that qualifies you for 0% income and inheritance tax. Build a secure foundation for cross-border growth while ensuring your family legacy remains intact for generations.",
+        "image": "/assets/familyFoundationAndTrusts/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "Protect Your Legacy, Minimise Vulnerabilities, & Ensure Long-Term Stability for Your Family with a UAE Family Trust",
+        "subTitle": "Protect Your Legacy, Minimise Vulnerabilities, & Ensure Long-Term Stability for Your Family with a UAE Family Trust",
+        "description": "Place your assets in a foundation and shield your wealth from lawsuits, creditors, or business liabilities to safeguard your family’s future. With expert structuring, you gain control over how wealth is distributed, ensuring your family thrives well into the future.",
+        "image": "/assets/familyFoundationAndTrusts/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "Avoid Legal Complexities, Transfer Ownership Effortlessly, & Safeguard Business Continuity Across Generations",
+        "subTitle": "Avoid Legal Complexities, Transfer Ownership Effortlessly, & Safeguard Business Continuity Across Generations",
+        "description": "Avoid delays caused by lengthy inheritance procedures, court hearings, and stringent probate processing with structured succession planning. Ensure your family maintains uninterrupted control and clarity in wealth distribution through predefined wealth allocation. Gain full authority over how your legacy is passed down, keeping your vision alive without legal hurdles or operational risks.",
+        "image": "/assets/familyFoundationAndTrusts/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "Get Full Control Over Succession",
+        "subTitle": "Get Full Control Over Succession",
+        "description": "Retain full founder rights, appoint trusted advisors, and decide family representatives without lifting a single finger.",
+        "image": "/assets/familyFoundationAndTrusts/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Explore Our Holistic Family Trusts & Foundation Solutions",
+    "description": "Make your money work harder for you with our end-to-end family trusts and foundation setup services:",
+    "items": [
+      {
+        "id": 1,
+        "title": "DIFC & ADGM Foundations",
+        "description": "Set up robust, fully compliant UAE foundations under the DIFC or ADGM regimes.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Family Trust Formation",
+        "description": "Launch a personalised family trust that aligns with your legacy goals and ensures cross-border continuity.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Governance Frameworks",
+        "description": "Design tailored governance structures to define beneficiary rights and dispute resolution.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Onshore & Offshore Structuring",
+        "description": "Optimise global asset protection with legally recognised structures within and beyond the UAE’s jurisdiction.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Tax Structuring & Compliance",
+        "description": "Take advantage of the UAE’s 0% tax regime and stay compliant with FATCA, CRS, and ESR requirements.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Ongoing Admin & Nominee Services",
+        "description": "Delegate daily foundation, nominee directorships, and reporting requirements to experienced professionals.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/familyFoundationAndTrusts/left4/1.webp",
+      "title": "Future-Proof Your Family’s Financial Security with One Nexuz Structured Foundation Solutions",
+      "description": "Avoid family disputes, legal delays, and forced distributions. We set up family foundations and trusts that preserve your family’s wealth for generations, not just years.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/familyFoundationAndTrusts/left4/2.webp",
+      "title": "Tailored Quotes for Family Foundation & Trust Setup  Structured Around Your Legacy",
+      "description": "With One Nexuz, you invest only in what truly matters—no inflated fees, hidden costs, or unnecessary extras. We provide transparent, bespoke pricing for Family Foundation & Trust setup services, giving you absolute confidence in how your legacy is structured and preserved.",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Our Proven 4-Step Process To Establish Legally Compliant Family Foundations & Trusts in the UAE",
+    "items": [
+      {
+        "id": 1,
+        "title": "Book a Discovery Call",
+        "description": "We start with an in-depth consultation to understand your family structure, asset mix, and selected jurisdiction.",
+        "image": "/assets/familyFoundationAndTrusts/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Receive a Structure Blueprint",
+        "description": "Based on your goals, we recommend the optimal legal framework between DIFC, RAK ICC, and ADGM.",
+        "image": "/assets/familyFoundationAndTrusts/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Simplify Registration",
+        "description": "Next, our seasoned attorneys draft the foundation or trust charter, bylaws, and governance rules for seamless ownership transition.",
+        "image": "/assets/familyFoundationAndTrusts/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Get Ongoing Management",
+        "description": "After that, we provide trustee or admin support, update filings, and ensure you meet all UAE reporting obligations.",
+        "image": "/assets/familyFoundationAndTrusts/left5/4.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why UHNWIs Choose One Nexuz for Family Foundation & Trust Setup",
+    "description": "Over 70% of affluent families lose all family wealth by the second generation due to unclear succession planning. We ensure you’re part of the 30% who structure and multiply their wealth with holistic financial advice and seamless asset transfers.",
+    "items": [
+      {
+        "title": "Navigate Cross-Border Structures with Confidence",
+        "description": "With over a decade of experience navigating global tax laws and offshore holdings, our experts simplify multi-asset management across all jurisdictions.",
+        "image": "/assets/familyFoundationAndTrusts/bgImage/1.webp"
+      },
+      {
+        "title": "Save $2M+ Annually by Restructuring Your Trusts",
+        "description": "Reclaim a whopping $2M a year by setting up your trusts in a 0% tax environment. Redirect your savings toward new ventures to amplify your wealth.",
+        "image": "/assets/familyFoundationAndTrusts/bgImage/2.webp"
+      },
+      {
+        "title": "Establish a Philanthropic Legacy on Your Terms",
+        "description": "Create an endowment or charitable vehicle that reflects your values to grow your philanthropic impact across generations.",
+        "image": "/assets/familyFoundationAndTrusts/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/familyFoundationAndTrusts/grid/1.webp",
+    "title": "Secure Your Spot Among the 24% With a Future-Proof Legacy Plan—Start With One Nexuz Today",
+    "description": "Just 1 in 4 HNWIs in the UAE have formal estate structures. We position you among the elite few with bulletproof foundations and future-proof legacy structures.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Setting up a DIFC Foundation gave our family complete clarity over succession and safeguarded our assets across three jurisdictions.”",
+        "role": "Family Office Principal",
+        "image": "/assets/familyFoundationAndTrusts/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“The team helped us structure a cross-border trust that’s both tax-compliant and future-proof — we now sleep easier knowing our estate is protected.”",
+        "role": "Entrepreneur & Investor",
+        "image": "/assets/familyFoundationAndTrusts/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“Everything from governance to nominee setup was handled with precision. We finally have long-term continuity without sacrificing control.”",
+        "role": "Tech Founder & Second-Gen Heir",
+        "image": "/assets/familyFoundationAndTrusts/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Secure Your Legacy with Our Strategic Millionaire & Billionaire Services",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Golden Visa UAE",
+        "description": "Tap into the UAE’s local facilities and investment opportunities with a UAE Golden Visa.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Second Citizenship Programs",
+        "description": "Enjoy global mobility and tax flexibility with customised second citizenship strategies.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Wealth Management Services",
+        "description": "Build your wealth with tailored financial insights and strategic tax structuring solutions.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Office Setup",
+        "description": "Diversify your generational wealth with a fully compliant UAE single or multi-family office.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Asset Protection",
+        "description": "Safeguard your wealth from risk and creditors by separating personal and business assets.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Private Office",
+        "description": "Optimise employee productivity with a custom-built, fully furnished private office in the UAE.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Escrow Account Assistance",
+        "description": "Secure all funds and assets, win stakeholder trust, and promote smoother transactions.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Will & Trust Preparation Services",
+        "description": "Secure your spouse and children’s financial future with a professional & registered Will.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "Build, Secure, and Transfer Generational Wealth With One Nexuz Family Foundation & Trust Solutions",
+    "description": "Protect your assets and safeguard your family’s future with tax-efficient family foundations and trusts. Connect with our seasoned wealth management advisors to streamline succession planning and amplify your wealth.",
+    "btn": "Connect with Our Experts",
+    "image": "/assets/familyFoundationAndTrusts/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "Explore Other Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Audit Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Tax Residency Certificate",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "ISO Certificate Assistance",
+        "url": "#"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "How is a UAE family foundation different from a trust?",
+        "answer": "While both are legal structures used to manage your wealth, a family foundation is a separate legal entity established for philanthropic purposes, whereas a trust is set up for the beneficiaries."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Can I set up a family trust in the UAE?",
+        "answer": "Absolutely! You can set up family trusts in the UAE registered by the DIFC or ADGM."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "Are there any tax benefits of setting up a family foundation in the UAE?",
+        "answer": "Yes, our expert consultants help you structure a tax-transparent foundation, empowering you to qualify for 0% income and inheritance tax."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "What is the minimum amount I need to set up a family trust?",
+        "answer": "No! You can create a trust as long as you have assets with some value that can be transferred."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "How long does it take to establish a foundation or trust in the UAE?",
+        "answer": "It generally takes 1-21 days, depending on your family dynamics, selected jurisdiction, and diversity of assets."
+      }
+    ]
+  }
+}

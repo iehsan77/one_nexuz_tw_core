@@ -2,7 +2,7 @@
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
-    "image": "/assets/header/businessSetup.webp",
+    "image": "/assets/header/proServicesDubai.webp",
     "title": "Submit, Apply, Process, & Renew — End-to-End Dubai PRO Services to Launch Your Business in Days, Not Weeks",
     "description": "From visas to trade licenses and labor contracts to document clearances, Dubai-based PRO services are built to provide you with speed, accuracy, and 100% legal compliance. Skip the paperwork, legal complexities, and endless compliance requirements with our end-to-end solutions. With our experts, you can streamline every government interaction so your operations never skip a beat."
   },
@@ -15,28 +15,28 @@
         "title": "Prepare, Submit, and Get Every Document Approved—Fast and Hassle-Free",
         "subTitle": "Prepare, Submit, and Get Every Document Approved—Fast and Hassle-Free",
         "description": "Ensure every document is audit-proof and regulation-ready to minimise the risk of hefty fines, penalties, and rejections.",
-        "image": "/assets/businessSetup/left1/1.webp"
+        "image": "/assets/proServicesDubai/left1/1.webp"
       },
       {
         "id": 2,
         "title": "Cut Processing Times by 50%, Launch Faster, & Scale Seamlessly",
         "subTitle": "Cut Processing Times by 50%, Launch Faster, & Scale Seamlessly",
         "description": "Stay on top of the UAE’s dynamic regulatory landscape to streamline documentation, secure quicker approvals, and slash setup times.",
-        "image": "/assets/businessSetup/left1/2.webp"
+        "image": "/assets/proServicesDubai/left1/2.webp"
       },
       {
         "id": 3,
         "title": "Delegate Bureaucracy, Free Up Time, and Grow Your Business Without Distractions ",
         "subTitle": "Delegate Bureaucracy, Free Up Time, and Grow Your Business Without Distractions ",
         "description": "With PRO experts managing all government touchpoints, you free up time to focus on what you do best- scaling your business!",
-        "image": "/assets/businessSetup/left1/3.webp"
+        "image": "/assets/proServicesDubai/left1/3.webp"
       },
       {
         "id": 4,
         "title": "From License Applications to Visa Renewals — Efficient Processing That Keeps Your Business Moving",
         "subTitle": "From License Applications to Visa Renewals — Efficient Processing That Keeps Your Business Moving",
         "description": "Instead of juggling multiple points of contact across licensing and residency visas, PRO services centralise it under one roof. ",
-        "image": "/assets/businessSetup/left1/4.webp"
+        "image": "/assets/proServicesDubai/left1/4.webp"
       }
     ]
   },
@@ -96,14 +96,14 @@
   },
   "leftSection_4": {
     "sec1": {
-      "image": "/assets/businessSetup/left4/1.webp",
+      "image": "/assets/proServicesDubai/left4/1.webp",
       "title": "Save Weeks of Admin Time with Our Professional PRO Support",
       "description": "From visa stamping to license renewals, outsourcing PRO solutions empowers you to slash processing times and focus on core business activities. Trust our experts to fast-track through DED bureaucracy.",
       "btn": "Book a Free Call",
       "url": "#"
     },
     "sec2": {
-      "image": "/assets/businessSetup/left4/2.webp",
+      "image": "/assets/proServicesDubai/left4/2.webp",
       "title": "Cut Costs, Not Compliance — Flexible PRO Pricing for Your Business",
       "description": "Skip the confusion and surprise charges—our PRO services in Dubai are fully tailored to your business needs. Pay only for what you use, scale support as you grow, and stay compliant without the headaches.",
       "btn": "Explore Our Pricing Packages",
@@ -117,37 +117,37 @@
         "id": 1,
         "title": "Book a Delivery Call",
         "description": "We review your current structure, documents, and compliance needs to identify your unique PRO requirements.",
-        "image": "/assets/businessSetup/left5/1.svg"
+        "image": "/assets/proServicesDubai/left5/1.svg"
       },
       {
         "id": 2,
         "title": "Get Pre-Verifications",
         "description": "Next, our experts provide you with a checklist to collect the required documents, ensuring the formatting aligns with DED requirements.",
-        "image": "/assets/businessSetup/left5/2.svg"
+        "image": "/assets/proServicesDubai/left5/2.svg"
       },
       {
         "id": 3,
         "title": "Submit & Follow-Up",
         "description": "With all documents compiled, we streamline filings with DED, GDFRA, MOHRE, and DHA to avoid costly delays and accelerate licensing.",
-        "image": "/assets/businessSetup/left5/3.svg"
+        "image": "/assets/proServicesDubai/left5/3.svg"
       },
       {
         "id": 4,
         "title": "Secure Your Residence Visa",
         "description": "Next, our consultants assist you in applying for a residency visa and sponsoring your loved ones and business partners.",
-        "image": "/assets/businessSetup/left5/4.svg"
+        "image": "/assets/proServicesDubai/left5/4.svg"
       },
       {
         "id": 5,
         "title": "Receive Real-Time Updates",
         "description": "You’ll get instant alerts and notifications on your application, licensing, and renewals, ensuring a transparent setup process.",
-        "image": "/assets/businessSetup/left5/5.svg"
+        "image": "/assets/proServicesDubai/left5/5.svg"
       },
       {
         "id": 6,
         "title": "Get Ongoing Compliance Support",
         "description": "Lastly, we track visa expiry dates, labor card deadlines, and trade license renewals so you stay compliant year-round.",
-        "image": "/assets/businessSetup/left5/6.svg"
+        "image": "/assets/proServicesDubai/left5/6.svg"
       }
     ]
   },
@@ -158,22 +158,22 @@
       {
         "title": "Ensure 100% Compliance",
         "description": "Stay ahead of the curve with timely alerts and notifications on evolving compliance requirements, renewals, and expiry dates. No last-minute panics. No fines.",
-        "image": "/assets/businessSetup/bgImage/1.webp"
+        "image": "/assets/proServicesDubai/bgImage/1.webp"
       },
       {
         "title": "Get Holistic Business Solutions",
         "description": "Ensure a seamless business setup journey with our all-inclusive PRO services, including document pick-up, translation, and attestation, all under one fixed monthly plan.",
-        "image": "/assets/businessSetup/bgImage/2.webp"
+        "image": "/assets/proServicesDubai/bgImage/2.webp"
       },
       {
         "title": "Connect with a Dedicated PRO Expert",
         "description": "Our consultants are familiar with the nuances of Dubai’s intricate regulatory landscape, saving you time and money lost on delays, errors, and non-compliance.",
-        "image": "/assets/businessSetup/bgImage/3.webp"
+        "image": "/assets/proServicesDubai/bgImage/3.webp"
       }
     ]
   },
   "leftSection_7": {
-    "image": "/assets/businessSetup/grid/1.webp",
+    "image": "/assets/proServicesDubai/grid/1.webp",
     "title": "Stay 100% Compliant Across Every Government Touchpoint with Our All-in-One PRO Solutions",
     "description": "One missed step can cost you time and momentum. Our PRO services keep your business moving with zero compliance gaps and fully managed government processes.",
     "btn": "Scale Your Business Today!",
@@ -187,19 +187,19 @@
         "id": 1,
         "quote": "“We used to lose days navigating visa renewals and labor approvals. With Nexuz, everything is tracked, submitted, and delivered without us lifting a finger.”",
         "role": "Retail Chain Operations Lead",
-        "image": "/assets/businessSetup/client/1.webp"
+        "image": "/assets/proServicesDubai/client/1.webp"
       },
       {
         "id": 2,
         "quote": "“Their team didn’t just process our PRO work—they flagged compliance gaps we didn’t even know we had. We haven’t missed a single government deadline since.”",
         "role": "Consultancy Firm Managing Director",
-        "image": "/assets/businessSetup/client/2.webp"
+        "image": "/assets/proServicesDubai/client/2.webp"
       },
       {
         "id": 3,
         "quote": "“We scaled from 3 to 30 employees without hiring an in-house PRO. Nexuz handled every visa, contract, and renewal with zero disruption to our work.”",
         "role": "E-commerce Startup Founder",
-        "image": "/assets/businessSetup/client/3.webp"
+        "image": "/assets/proServicesDubai/client/3.webp"
       }
     ]
   },
@@ -233,7 +233,7 @@
     "title": "Scale in Dubai, UAE with Our Professional PRO Solutions",
     "description": "No queues. No rejections. No delays. Our end-to-end PRO support gives you direct access to Dubai’s government authorities without lifting a finger. We keep your business fully compliant, on time, and stress-free.",
     "btn": "Connect with Our Experts",
-    "image": "/assets/businessSetup/grid/2.webp"
+    "image": "/assets/proServicesDubai/grid/2.webp"
   },
   "exploreIndustry": {
     "title": "Explore Other Services",

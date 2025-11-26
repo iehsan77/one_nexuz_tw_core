@@ -2,7 +2,7 @@
   "homeHeader": {
     "getQuoteToday": "Get a Free Quote Today",
     "bookConsultation": "Book Your Free Consultation",
-    "image": "/assets/header/businessSetup.webp",
+    "image": "/assets/header/proServicesSharjah.webp",
     "title": "From Paperwork to Approvals — Get Full 360° Support with Sharjah’s All-in-One PRO Services",
     "description": "One missed document, delayed visa, or expired license can cost your business thousands. Our seasoned PRO specialists handle visas, licenses, and renewals, cutting weeks off your wait time and streamlining government coordination, empowering you to take advantage of Sharjah’s strategic location. Reclaim 60+ hours/year, prevent costly delays, and elevate operational efficiency through seamless documentation submission and on-time renewals."
   },
@@ -15,28 +15,28 @@
         "title": "Handle Documents, Follow-Ups & Approvals Without the Chaos",
         "subTitle": "Handle Documents, Follow-Ups & Approvals Without the Chaos",
         "description": "Save up to 20 hours per employee by eliminating the hassle of manual paperwork, endless follow-ups, and complex government submissions. ",
-        "image": "/assets/businessSetup/left1/1.webp"
+        "image": "/assets/proServicesSharjah/left1/1.webp"
       },
       {
         "id": 2,
         "title": "Never Miss a Renewal, Deadline, or Compliance Update ",
         "subTitle": "Never Miss a Renewal, Deadline, or Compliance Update ",
         "description": "Improper filings, visa delays, expired documents, and missed renewals can cost you thousands of dirhams in fines. Outsourcing to the experts can help combat legal risks and compliance violations.",
-        "image": "/assets/businessSetup/left1/2.webp"
+        "image": "/assets/proServicesSharjah/left1/2.webp"
       },
       {
         "id": 3,
         "title": "From Submissions to Approvals, Get Faster Turnarounds & Minimise Downtime ",
         "subTitle": "From Submissions to Approvals, Get Faster Turnarounds & Minimise Downtime ",
         "description": "Cut approval times by up to 50% to expedite licensing and visa processing, thereby minimising downtime and enhancing workplace efficiency.",
-        "image": "/assets/businessSetup/left1/3.webp"
+        "image": "/assets/proServicesSharjah/left1/3.webp"
       },
       {
         "id": 4,
         "title": "From Hiring Headaches to Cost-Efficient Expertise — Cut Expenses with Fully Outsourced PRO Support ",
         "subTitle": "From Hiring Headaches to Cost-Efficient Expertise — Cut Expenses with Fully Outsourced PRO Support ",
         "description": "Get full PRO support without the salary, visa, and insurance burdens by outsourcing to expert PRO specialists. Skip the hassle of hiring in-house and maximise your profits!",
-        "image": "/assets/businessSetup/left1/4.webp"
+        "image": "/assets/proServicesSharjah/left1/4.webp"
       }
     ]
   },
@@ -84,14 +84,14 @@
   },
   "leftSection_4": {
     "sec1": {
-      "image": "/assets/businessSetup/left4/1.webp",
+      "image": "/assets/proServicesSharjah/left4/1.webp",
       "title": "Join the 60% Moving Smarter With Our Outsourced PRO Services",
       "description": "More and more UAE businesses are ditching the red tape. We streamline your licenses, visas, and government approvals, so you don’t risk fines or penalties.",
       "btn": "Book a Free Call",
       "url": "#"
     },
     "sec2": {
-      "image": "/assets/businessSetup/left4/2.webp",
+      "image": "/assets/proServicesSharjah/left4/2.webp",
       "title": "PRO Services That Work Around You — Pay Only for What You Need",
       "description": "Skip rigid packages and hidden fees. Get a custom PRO solution for Sharjah that grows with your business—fast, flexible, and fully transparent.",
       "btn": "Explore Our Pricing Packages",
@@ -105,37 +105,37 @@
         "id": 1,
         "title": "Book a Discovery Call",
         "description": "We evaluate your unique business needs to determine which licenses, approvals, and documents you need.",
-        "image": "/assets/businessSetup/left5/1.svg"
+        "image": "/assets/proServicesSharjah/left5/1.svg"
       },
       {
         "id": 2,
         "title": "Assess Requirements & Plan",
         "description": "Our experts review your specific regulatory and operational needs, creating a clear roadmap for approvals, visas, and sponsorships, so you know exactly what to expect.",
-        "image": "/assets/businessSetup/left5/2.svg"
+        "image": "/assets/proServicesSharjah/left5/2.svg"
       },
       {
         "id": 3,
         "title": "Prepare & Submit Documents",
         "description": "Next, our experts assist in compiling, formatting, and translating all legal, immigration, and licensing paperwork.",
-        "image": "/assets/businessSetup/left5/3.svg"
+        "image": "/assets/proServicesSharjah/left5/3.svg"
       },
       {
         "id": 4,
         "title": "Streamline Government Coordination",
         "description": "Once all documents are prepared, we submit your application and follow up with Sharjah DED, MoHRE, and other relevant authorities.",
-        "image": "/assets/businessSetup/left5/4.svg"
+        "image": "/assets/proServicesSharjah/left5/4.svg"
       },
       {
         "id": 5,
         "title": "Receive All Approvals",
         "description": "Next, we secure your licenses, visas, sponsorships, and Emirates IDs to keep your business running smoothly.",
-        "image": "/assets/businessSetup/left5/5.svg"
+        "image": "/assets/proServicesSharjah/left5/5.svg"
       },
       {
         "id": 6,
         "title": "Get Timely Updates",
         "description": "Finally, our liaison specialists ensure you stay on top of evolving regulatory requirements with instant notifications and renewal reminders.",
-        "image": "/assets/businessSetup/left5/6.svg"
+        "image": "/assets/proServicesSharjah/left5/6.svg"
       }
     ]
   },
@@ -146,22 +146,22 @@
       {
         "title": "Hassle-Free Document & Visa Processing",
         "description": "We help you set up stress-free with expedited visa processing, document clearance, and ongoing compliance support.",
-        "image": "/assets/businessSetup/bgImage/1.webp"
+        "image": "/assets/proServicesSharjah/bgImage/1.webp"
       },
       {
         "title": "Get Local Insights",
         "description": "Our highly trained and experienced team speaks the system’s language, empowering you to get started faster, fully compliant, and error-free.",
-        "image": "/assets/businessSetup/bgImage/2.webp"
+        "image": "/assets/proServicesSharjah/bgImage/2.webp"
       },
       {
         "title": "Get Real-Time Reminders",
         "description": "We ensure you’re always one step ahead of compliance with round-the-clock alerts and notifications on renewals, filings, and visa clearances.",
-        "image": "/assets/businessSetup/bgImage/3.webp"
+        "image": "/assets/proServicesSharjah/bgImage/3.webp"
       }
     ]
   },
   "leftSection_7": {
-    "image": "/assets/businessSetup/grid/1.webp",
+    "image": "/assets/proServicesSharjah/grid/1.webp",
     "title": "Setup, Scale, and Renew with Done-for-You PRO Services",
     "description": "Streamline licenses, visas, and renewals without lifting a finger. We manage every approval and clearance so your Sharjah business stays compliant, efficient, and in control.",
     "btn": "Scale Your Business Today!",
@@ -175,19 +175,19 @@
         "id": 1,
         "quote": "“We used to handle all our visas and DED filings manually. Since switching to One Nexuz PRO, we’ve never missed a deadline.”",
         "role": "Construction Business Owner",
-        "image": "/assets/businessSetup/client/1.webp"
+        "image": "/assets/proServicesSharjah/client/1.webp"
       },
       {
         "id": 2,
         "quote": "“Their team knew exactly what was needed for Sharjah DED. We had our establishment card and visas in hand in just 6 days.”",
         "role": "Event Services",
-        "image": "/assets/businessSetup/client/2.webp"
+        "image": "/assets/proServicesSharjah/client/2.webp"
       },
       {
         "id": 3,
         "quote": "“I highly recommend them for PRO support—especially if you’re new to UAE business setups.”",
         "role": "Tech Startup Founder",
-        "image": "/assets/businessSetup/client/3.webp"
+        "image": "/assets/proServicesSharjah/client/3.webp"
       }
     ]
   },
@@ -221,7 +221,7 @@
     "title": "Fast-Track Business Growth with Our Expert PRO Solutions",
     "description": "Cut through the red tape and reclaim lost time with professional corporate PRO services in Sharjah. Trust our experts to handle every clearance, visa, and approval, ensuring your operations run smoothly.",
     "btn": "Connect with Our Experts",
-    "image": "/assets/businessSetup/grid/2.webp"
+    "image": "/assets/proServicesSharjah/grid/2.webp"
   },
   "exploreIndustry": {
     "title": "Explore Other Services",

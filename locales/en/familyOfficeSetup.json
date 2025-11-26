@@ -1,0 +1,287 @@
+{
+  "homeHeader": {
+    "getQuoteToday": "Get a Free Quote Today",
+    "bookConsultation": "Book Your Free Consultation",
+    "image": "/assets/header/familyOfficeSetup.webp",
+    "title": "From Wealth Protection to Legacy Planning, Gain Full 360° Control of Your Wealth With Single & Multi-Family Offices in Dubai",
+    "description": "Without the right structure, wealth in the UAE can leave your assets, privacy, and legacy exposed. One Nexuz UAE family office solutions protect, diversify, and grow your wealth. Whether you’re an entrepreneur expanding across borders, a family securing generational wealth, or an investor seeking global opportunities, we ensure your legacy moves forward without risk."
+  },
+  "leftSection_1": {
+    "title": "What is a Family Office & Why Should You Set Up in Dubai, UAE?",
+    "description": "Simplify wealth management by centralising governance of all your assets, from estates to stocks, under a single or multi-family office.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Unlock International Gateways, Diversify Across Regions, and Maximise Returns With Expert Family Office Services in Dubai",
+        "subTitle": "Unlock International Gateways, Diversify Across Regions, and Maximise Returns With Expert Family Office Services in Dubai",
+        "description": "Position your family office within one of the world’s most connected financial hubs and unlock exciting cross-border structuring opportunities.",
+        "image": "/assets/familyOfficeSetup/left1/1.webp"
+      },
+      {
+        "id": 2,
+        "title": "Protect Your Wealth, Reduce Liabilities, and Create Long-Term Value of Your UAE-Based Assets",
+        "subTitle": "Protect Your Wealth, Reduce Liabilities, and Create Long-Term Value of Your UAE-Based Assets",
+        "description": "Maximise after-tax returns by taking advantage of the UAE’s 0% personal income and inheritance tax environment. Get full strategic control of your family office and multiply your wealth! ",
+        "image": "/assets/familyOfficeSetup/left1/2.webp"
+      },
+      {
+        "id": 3,
+        "title": "Connect With Top-Tier Financial Partners, Streamline Multi-Currency Management, and Protect Your Assets With Global Wealth Management Strategies ",
+        "subTitle": "Connect With Top-Tier Financial Partners, Streamline Multi-Currency Management, and Protect Your Assets With Global Wealth Management Strategies ",
+        "description": "Connect with seasoned wealth managers, private bankers, and legal experts who specialise in ultra-high-net-worth portfolios to simplify multi-currency exchange.",
+        "image": "/assets/familyOfficeSetup/left1/3.webp"
+      },
+      {
+        "id": 4,
+        "title": "Preserve Wealth, Strengthen Protection, and Maintain Family Legacy With Robust Dubai Family Office Structures",
+        "subTitle": "Preserve Wealth, Strengthen Protection, and Maintain Family Legacy With Robust Dubai Family Office Structures",
+        "description": "Shield your assets against legal claims, lawsuits, and forced heirship laws by setting up DIFC or ADJD-compliant family offices.",
+        "image": "/assets/familyOfficeSetup/left1/4.webp"
+      }
+    ]
+  },
+  "leftSection_2": {
+    "title": "Discover Our Full Range of Family Office Services in the UAE",
+    "description": "Centralise wealth management and preserve your legacy with our holistic family office setup solutions:",
+    "items": [
+      {
+        "id": 1,
+        "title": "Jurisdiction Guidance",
+        "description": "Get access to custom advice to spot the ideal UAE Free Zone or Mainland region.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Licensing & Documentation",
+        "description": "Set up a 100% compliant office by streamlining all paperwork and receiving attested licenses and documents.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Multi-Generational Wealth Structuring",
+        "description": "Ensure seamless asset distribution and succession planning through strategic structuring.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Ongoing Compliance & Administrative Support",
+        "description": "Protect your wealth with timely updates on evolving ESR, AML, UBO filings, and administrative needs.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_4": {
+    "sec1": {
+      "image": "/assets/familyOfficeSetup/left4/1.webp",
+      "title": "Unify Wealth, Family, and Vision with One Nexuz Single & Multi-Office Solutions",
+      "description": "Consolidate your investments, tax planning, and family governance under one structure- your very own family office. We offer end-to-end support to help launch your DIFC or ADGM-registered office.",
+      "btn": "Book a Free Call",
+      "url": "#"
+    },
+    "sec2": {
+      "image": "/assets/familyOfficeSetup/left4/2.webp",
+      "title": "Bespoke Family Office Solutions — Pricing that Reflects Your Needs",
+      "description": "Your family office is as unique as your portfolio. Get a fully personalized family office solution that aligns with your legacy and goals. Request your custom quote today and create a strategic family office built to protect your wealth for generations!",
+      "btn": "Explore Our Pricing Packages",
+      "url": "#"
+    }
+  },
+  "leftSection_5": {
+    "title": "Our Tailored 4-Step Process to Establish  Your Family Office in the UAE",
+    "items": [
+      {
+        "id": 1,
+        "title": "Talk with Our Experts",
+        "description": "We’ll kickstart with a deep dive call to analyse your family structure, asset profile, and long-term goals.",
+        "image": "/assets/familyOfficeSetup/left5/1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Receive a Structure Blueprint",
+        "description": "Next, based on your priorities, our experts structure your licensing path, timelines, and documentation plan.",
+        "image": "/assets/familyOfficeSetup/left5/2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Set up in the Right Jurisdiction",
+        "description": "After that, we’ll assist you in selecting and launching in the ideal region, as well as submit all legal documents to expedite approvals.",
+        "image": "/assets/familyOfficeSetup/left5/3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Launch & Operate",
+        "description": "Once the application is approved, which can take up to 10 days, you’ll receive your e-license and registered office address, empowering you to thrive in the UAE.",
+        "image": "/assets/familyOfficeSetup/left5/4.svg"
+      }
+    ]
+  },
+  "leftSection_6": {
+    "title": "Why UHNWIs & HNWIs Outsource Family Office Services to One Nexuz",
+    "description": "Skip the hassle of navigating the UAE’s stringent regulatory requirements and build your wealth stress-free with our dedicated financial advisors. We handle all licensing and paperwork, ensuring your assets remain protected.",
+    "items": [
+      {
+        "title": "Launch in Less Than 10 Days",
+        "description": "We slash office setup times in half with pre-approved structures and direct government coordination. Go from planning to fully licensed within 1-10 days.",
+        "image": "/assets/familyOfficeSetup/bgImage/1.webp"
+      },
+      {
+        "title": "Flexible & Future-Proof Strategy",
+        "description": "Stay agile in the UAE’s fast-growing economy with a scalable family office. Integrate new asset classes or transform to an MFO stress-free!",
+        "image": "/assets/familyOfficeSetup/bgImage/2.webp"
+      },
+      {
+        "title": "One Point of Contact",
+        "description": "Connect with a dedicated financial advisor managing every step, from licensing right down to compliance, so you enjoy a seamless setup journey.",
+        "image": "/assets/familyOfficeSetup/bgImage/3.webp"
+      }
+    ]
+  },
+  "leftSection_7": {
+    "image": "/assets/familyOfficeSetup/grid/1.webp",
+    "title": "Secure Your Legacy Today with One Nexuz & Join the 100+ Families Growing Multi-million Dollar Wealth in the UAE",
+    "description": "Launch your family office in the region’s top jurisdiction, trusted by billionaires and ultra-high-net-worth individuals. We help you secure and amplify your assets under a single governance.",
+    "btn": "Scale Your Business Today!",
+    "url": "#"
+  },
+  "leftSection_8": {
+    "title": "What Customers Are Saying about ^One Nexuz^",
+    "description": "Learn what customers are saying about One Nexuz. ",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“They helped us navigate the UAE regulatory landscape with precision. Our family office was up and running in under two weeks.”",
+        "role": "Gulf-Based Family Business Owner",
+        "image": "/assets/familyOfficeSetup/client/1.webp"
+      },
+      {
+        "id": 2,
+        "quote": "“Their team understood the complexity of our global holdings and structured everything seamlessly. Truly private and professional.”",
+        "role": "Family Office Director",
+        "image": "/assets/familyOfficeSetup/client/2.webp"
+      },
+      {
+        "id": 3,
+        "quote": "“From trust planning to compliance, they handled every detail with care. We now have a future-proof setup we can build on.”",
+        "role": "Multi-Family Office Founder",
+        "image": "/assets/familyOfficeSetup/client/3.webp"
+      }
+    ]
+  },
+  "leftSection_9": {},
+  "leftSection_10": {
+    "title": "Diversify Your Portfolio with Our Strategic Wealth Services",
+    "btn": "Explore More",
+    "items": [
+      {
+        "id": 1,
+        "title": "Golden Visa UAE",
+        "description": "Enjoy 10-year UAE residency, unlimited access to local facilities, and exciting tax benefits with a Golden Visa.",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Second Citizenship Programs",
+        "description": "Multiply and preserve your wealth by accessing global markets with a second citizenship program.",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Wealth Management Services",
+        "description": "Amplify your wealth and navigate market volatility with confidence with expert wealth management advisors.",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Foundation & Trust",
+        "description": "Secure your wealth, protect assets, and engage in philanthropic activities via trusts or foundations.",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Asset Protection",
+        "description": "Preserve your wealth through strategic legal structuring and mitigate the risk of malpractice claims, lawsuits, and family disputes.",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Private Office",
+        "description": "Boost workplace productivity and employee satisfaction with tailored private offices.",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Escrow Account Assistance",
+        "description": "Secure high-value transactions across the UAE with our trustworthy escrow agents.",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Will & Trust Preparation Services",
+        "description": "Safeguard your spouse and children’s financial future with a professionally drafted & registered Will.",
+        "url": "#"
+      }
+    ]
+  },
+  "leftSection_11": {
+    "url": "#",
+    "title": "Secure and Grow Your Wealth with One Nexuz  Family Office Setup Services",
+    "description": "Our seasoned consultants offer local expertise, future-proof structures, and tailored financial strategies so you stay focused on what matters most- securing your assets.",
+    "btn": "Connect with Our Experts",
+    "image": "/assets/familyOfficeSetup/grid/2.webp"
+  },
+  "exploreIndustry": {
+    "title": "Explore Other Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Audit Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Tax Residency Certificate",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "ISO Certificate Assistance",
+        "url": "#"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+    "items": [
+      {
+        "id": 1,
+        "number": "01",
+        "question": "What is a single or multi-family office in Dubai?",
+        "answer": "A single family office caters to the needs of a single family, whereas a multi-family office serves multiple families, offering cost-saving benefits."
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "question": "Should I set up my family office in the UAE?",
+        "answer": "Setting up your family office in the UAE empowers you with a tax-friendly and politically stable landscape and access to a network of legal services and top-tier banks."
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "question": "How long does it take to set up a family office in the UAE?",
+        "answer": "Our experts help you launch your family office within 1-10 days, depending on your location, document readiness, and unique family structuring needs."
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "question": "What is the structure of a UAE-based family office?",
+        "answer": "A single family office structure involves a core team that oversees trusts, estates, investments, and lifestyle management to build and preserve your wealth."
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "question": "Is there a minimum capital requirement for setting up a UAE family office?",
+        "answer": "Yes, you’ll need a minimum of AED 500,000 in liquid assets to secure a SFO license."
+      }
+    ]
+  }
+}
