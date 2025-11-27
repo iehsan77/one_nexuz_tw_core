@@ -1,0 +1,299 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/willAndTrustPreparationServices.webp",
+        "title": "Distribute Assets Fairly, Reduce Legal Hassles, & Guarantee Financial Security With One Nexuz Trusted Will Preparation Services",
+        "description": "Worried your family could suffer costly legal battles without a valid UAE Will? Draft, register, and manage your wills and trusts with One Nexuz’ expert legal team. Whether you’re securing guardianship for your children, protecting real estate, or planning inheritance distribution, our Will Preparation Services keep your assets safe, compliant, and future-ready. With DIFC and ADJD-registered wills, you can protect your family, avoid asset freezes, and ensure your legacy passes on exactly as you intend."
+    },
+    "leftSection_1": {
+        "title": "Why You Need UAE Will & Trust Preparation Services",
+        "description": "Ensure all your wishes are honoured, from trust creation to charitable donations, with a legally compliant Will. Avoid disputes and distribute your assets with clarity and confidence.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Protect Your Child’s Rights, Ensure Financial Security, & Appoint Trusted Guardians",
+                "subTitle": "Protect Your Child’s Rights, Ensure Financial Security, & Appoint Trusted Guardians",
+                "description": "Specify guardianship for your children and allocate assets to secure their future needs, including housing, education, and healthcare. ",
+                "image": "/assets/willAndTrustPreparationServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Preserve, Grow, & Strategically Transfer Wealth Across Generations",
+                "subTitle": "Preserve, Grow, & Strategically Transfer Wealth Across Generations",
+                "description": "Preserve, manage, and grow your wealth across generations with strategic asset control. Maintain complete control over how and when your wealth is passed on to heirs.",
+                "image": "/assets/willAndTrustPreparationServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Protect Your Estate, Prevent Inheritance Disputes, & Cut Legal Fees",
+                "subTitle": "Protect Your Estate, Prevent Inheritance Disputes, & Cut Legal Fees",
+                "description": "Ambiguous or unfinished Wills can drain up to 10% of your real estate in court disputes and legal fees. A clear, legally binding document protects the full value of what you leave behind.",
+                "image": "/assets/willAndTrustPreparationServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Lower Legal Burdens and Unlock Funds Faster During Distressing Times",
+                "subTitle": "Lower Legal Burdens and Unlock Funds Faster During Distressing Times",
+                "description": "Funeral preparation costs can catch grieving families off guard, especially when accounts are frozen. A well-crafted Will ensures quick access to funds so your loved ones can focus on healing.",
+                "image": "/assets/willAndTrustPreparationServices/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Will & Trust Preparation Services",
+        "description": "Our network of seasoned legal consultants helps you choose the ideal Will service based on your unique situation:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Full Will",
+                "description": "Cover all your properties, bank accounts, guardianship, and inheritance in a single document.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Guardianship Will",
+                "description": "Secure your children's future by appointing legal guardians and ensuring your assets are preserved.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Property Will",
+                "description": "Transfer ownership to heirs in the UAE or beyond without costly delays or legal disputes.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Financial Assets Will",
+                "description": "Ensure the right beneficiaries receive your investments, pension funds, and cash holdings.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business Owner’s Will",
+                "description": "Mitigate the risk of internal disputes and ensure business continuity via succession planning.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Digital Assets Will",
+                "description": "Outline who benefits from your crypto wallets, domain names, and cloud accounts with a DIFC Will.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/willAndTrustPreparationServices/left4/1.webp",
+            "title": "90% of Expats in the UAE Are Unprepared for Asset Transfer—-One Nexuz Ensures You’re Not One of Them",
+            "description": "Without a DIFC or ADJD-registered Will, your family may face delays, frozen accounts, or default distribution. Eliminate uncertainty and simplify legal complexities with our expert Will & Trust Preparation services.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/willAndTrustPreparationServices/left4/2.webp",
+            "title": "Get Will & Trust Services Designed Around Your Needs—Without the Hefty Price Tag",
+            "description": "At One Nexuz, we craft wills that truly reflect your wishes, safeguard your assets, and protect your loved ones. With transparent Will preparation service costs, you only pay for what matters—expert guidance, legal compliance, and lasting peace of mind for generations to come.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Draft Your UAE Law Compliant Will in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Initial Call",
+                "description": "We’ll kick off with a discovery call to determine the Will type that matches your unique requirements.",
+                "image": "/assets/willAndTrustPreparationServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select the Best-Fit Plan",
+                "description": "After that, our experts collect the relevant information to provide you with a customised quotation.",
+                "image": "/assets/willAndTrustPreparationServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Review the First Draft",
+                "description": "Then, we’ll provide you with a draft of your Will, allowing you to review it and make changes based on your needs.",
+                "image": "/assets/willAndTrustPreparationServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Finalise & Register Your Will",
+                "description": "Once approved, our experts will share the final version and secure appointments to register with the relevant government & legal offices.",
+                "image": "/assets/willAndTrustPreparationServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Draft & Register Your Will",
+        "description": "Without a valid Will, your business shares can be frozen, your bank accounts locked, and your assets seized. Our team of attorneys ensures you stay in control with a legally binding plan.",
+        "items": [
+            {
+                "title": "Local Expertise in all UAE Jurisdictions",
+                "description": "Navigate the DIFC, ADJD, and Dubai Notary’s complex legal requirements confidently with our seasoned law consultants by your side.",
+                "image": "/assets/willAndTrustPreparationServices/bgImage/1.webp"
+            },
+            {
+                "title": "Protect Your Family’s Interests",
+                "description": "Ensure your real estate, business assets, investments, and bank accounts are distributed among your spouse and children with a well-drafted Will.",
+                "image": "/assets/willAndTrustPreparationServices/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Unlimited Amendments",
+                "description": "Get peace of mind knowing your UAE-registered Will is secure and safeguards your loved ones’ interests, assets, and future.",
+                "image": "/assets/willAndTrustPreparationServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/willAndTrustPreparationServices/grid/1.webp",
+        "title": "Plan for the Unexpected with One Nexuz Will Drafting & Preparation Services",
+        "description": "Without a registered will, Shariah law may apply by default- even for non-Muslims. We prepare legally binding Wills that protect your assets, children, and intentions.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As someone running multiple businesses in the UAE, I was worried about what would happen to my shares if something happened to me. The team walked me through every legal angle, structured everything around my companies, and made sure my successors are clearly documented.”",
+                "role": "Logistics Firm Founder ",
+                "image": "/assets/willAndTrustPreparationServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We finally appointed legal guardians for our kids with full peace of mind. The team made a complex process feel simple.”",
+                "role": "Real Estate Investor",
+                "image": "/assets/willAndTrustPreparationServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“My will now covers UAE property, offshore assets, and even digital holdings — all clearly documented and legally valid.”",
+                "role": "Property Owner",
+                "image": "/assets/willAndTrustPreparationServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Globalise Your Wealth with Our Strategic Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Golden Visa UAE",
+                "description": "Secure long-term UAE residency and investor privileges with a Golden Visa.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Second Citizenship Programs",
+                "description": "Unlock global mobility and tax flexibility with second investment options.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Wealth Management Services",
+                "description": "Maximise your capital’s potential with expert-led wealth structuring.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Family Office Setup",
+                "description": "Consolidate and grow your assets through a centralised private family office.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Family Foundation & Trust",
+                "description": "Protect your legacy and pass on wealth to your loved ones with custom foundations.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Asset Protection",
+                "description": "Shield your assets from creditors and unforeseen legal exposure.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Private Office",
+                "description": "Streamline decision-making with a single point of control across all corporate matters.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Escrow Account Assistance",
+                "description": "Hold, secure, and build assets and manage risks with a strategic escrow account.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Protect Your Family’s Future with Our  Legally Compliant Will Preparation Services",
+        "description": "Ensure your assets, real estate investments, and bank accounts stay in the right hands with a professionally drafted Will. Our seasoned lawyers simplify the writing and registration process to safeguard your spouse and children’s future.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/willAndTrustPreparationServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What happens if a person in the UAE dies without registering a Will?",
+                "answer": "Without a will, all assets and investments of a person who passes away are disbursed according to the Shariah Law. Our expert consultants streamline the drafting and registering process to protect your legacy."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do expats need to create a Will in the UAE?",
+                "answer": "Yes, you’ll need a registered, legally compliant Will in Dubai to ensure your real estate, bank accounts, and assets fall into the right hands."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What is the difference between a DIFC and an ADJD Will?",
+                "answer": "DIFC Wills are registered and recognised by the DIFC Courts and are ideal for non-Muslim expats with assets in Dubai or Ras Al Khaimah, whereas ADJD is well-suited for folks across the rest of the UAE. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What happens to bank accounts when somebody passes away?",
+                "answer": "The UAE’s regulatory bodies will freeze a bank account instantly after a person passes away and release it only after the court conducts a stringent probate process."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I include international or digital assets in my UAE Will?",
+                "answer": "Yes, with our expert consultants, you can register Wills that cover international real estate, crypto assets, and other digital holdings."
+            }
+        ]
+    }
+}

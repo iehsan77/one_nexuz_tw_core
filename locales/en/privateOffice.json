@@ -1,0 +1,305 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/privateOffice.webp",
+        "title": "Centralize, Coordinate, and Command Your Team’s Wealth Strategy from a Private Office in Dubai, UAE",
+        "description": "Struggling with inefficient workspaces, constant interruptions, and a lack of privacy? At One Nexuz, we empower you with private offices tailored to your unique culture, workflow, and ambitions, boosting employee engagement, motivation, and performance. Discover move-in-ready workspaces, flexible lease terms, high-speed connectivity, and other exciting amenities by surfing our extensive catalogue today!"
+    },
+    "leftSection_1": {
+        "title": "Protect Your Privacy, Impress Every Visitor, and Close Deals Faster Than Ever",
+        "description": "Transfer your team to a dedicated, ready-to-move space and watch workplace productivity skyrocket with top-notch physical offices in Dubai!",
+        "items": [
+            {
+                "id": 1,
+                "title": "Design Inspiring Workplaces, Energise Your Team, and Boost Engagement by 20%",
+                "subTitle": "Design Inspiring Workplaces, Energise Your Team, and Boost Engagement by 20%",
+                "description": "Design your private office to match your team’s unique needs and watch their motivation, efficiency, and performance improve.",
+                "image": "/assets/privateOffice/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Minimise Distractions, Spark Collaboration, and Increase Team Productivity by 25%",
+                "subTitle": "Minimise Distractions, Spark Collaboration, and Increase Team Productivity by 25%",
+                "description": "Break down communication silos and fuel deeper concentration by designing collaborative private spaces.",
+                "image": "/assets/privateOffice/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Attract, Recruit, and Retain Top Talent Worldwide and Reduce Turnover",
+                "subTitle": "Attract, Recruit, and Retain Top Talent Worldwide and Reduce Turnover",
+                "description": "Show employees you care about their well-being with private offices that offer the perfect blend of comfort, autonomy, and control.",
+                "image": "/assets/privateOffice/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Elevate Your Brand Image, Strengthen Your Reputation, and Win Client Confidence",
+                "subTitle": "Elevate Your Brand Image, Strengthen Your Reputation, and Win Client Confidence",
+                "description": "Make a lasting first impression by tailoring your workplace to your brand values. Build instant credibility and foster lasting relationships with investors or clients.",
+                "image": "/assets/privateOffice/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Unlock Top-Tier Amenities in Our Premium Private Offices in Dubai, UAE",
+        "description": "Get access to top-notch facilities by renting, leasing, or booking our dedicated, fully furnished private offices",
+        "items": [
+            {
+                "id": 1,
+                "title": "Advanced Connectivity",
+                "description": "Get enterprise-grade Wi-Fi and Ethernet- no lag, no downtime.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Daily Cleaning Services",
+                "description": "Ensure your space stays spick and span without lifting a finger.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Rooms",
+                "description": "Conduct client meetings, team huddles, and brainstorming sessions.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "24/7 Secure Access",
+                "description": "Work on your schedule with round-the-clock office and building access.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business Lounges",
+                "description": "Relax, focus, or network in designated business lounges.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Printing & Copying Facilities",
+                "description": "Enjoy on-site access to high-quality printing & scanning.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Phone Booths",
+                "description": "Step into soundproof phone booths for confidential calls.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/privateOffice/left4/1.webp",
+            "title": "Show Your Team You Care with Our Top-Tier Private Offices",
+            "description": "Over 52% of employees prefer private offices. Make them feel heard and valued by leasing our custom-built workspaces and watch productivity jump by a whopping 13%!",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/privateOffice/left4/2.webp",
+            "title": "Build Your Private Office Without Breaking the Bank- Book, Rent, or Lease in Top Locations",
+            "description": "No cookie-cutter models, no wasted resources, no compromises. Get a fully customised quote for private offices for rent in Dubai and scale as your vision grows.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Rent the Perfect Private Office Space with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tell Us What You Need",
+                "description": "Book a no-obligation call with our experts to share your team size, preferred location, and any custom workspace requirements.",
+                "image": "/assets/privateOffice/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get a Tailored Quote",
+                "description": "Next, we’ll match you with the best-fit private office space for rent  in minutes and clear pricing, including amenities.",
+                "image": "/assets/privateOffice/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Schedule a Tour",
+                "description": "Once you've selected the ideal space, we’ll provide you with a physical or virtual tour so you can get a feel for the layout, services, and community.",
+                "image": "/assets/privateOffice/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Move In & Start Working",
+                "description": "Finally, when you give us the green signal, we’ll help you move in and start operating in a fully furnished office within days, not months.",
+                "image": "/assets/privateOffice/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Rent Our Modern Private Office in Dubai",
+        "description": "Tired of long contracts, hidden fees, and noisy shared spaces? Our catalogue of elegant private offices provides the perfect blend of style and function, so you can focus on what truly matters - growing your business.",
+        "items": [
+            {
+                "title": "Premium Locations across Dubai",
+                "description": "Set up in key business hubs like DIFC, DMCC, or ADGM to impress clients and discover profitable opportunities.",
+                "image": "/assets/privateOffice/bgImage/1.webp"
+            },
+            {
+                "title": "Built-In Support & Business Perks",
+                "description": "Enhance employee satisfaction and workplace efficiency with access to grade-A amenities, including phone booths and business lounges.",
+                "image": "/assets/privateOffice/bgImage/2.webp"
+            },
+            {
+                "title": "Tailored Spaces for Every Team Size",
+                "description": "Whether you’re a solo founder or a 50-person team, One Nexuz’s extensive catalog of premium private offices ensures there’s something out there for you!",
+                "image": "/assets/privateOffice/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/privateOffice/grid/1.webp",
+        "title": "Build the Structure Billionaires Use with One Nexuz by Your Side",
+        "description": "Private offices aren’t a luxury; it’s how ultra-high-net-worth individuals grow and preserve their wealth. Get a fully furnished, tailored space and stay in control for generations.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We moved in within 48 hours, and everything—from IT to furniture—was ready to go. It felt like our own space from day one.”",
+                "role": "Managing Partner",
+                "image": "/assets/privateOffice/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“The flexibility and professionalism have been unmatched. We scaled from 3 desks to 10 without missing a beat.”",
+                "role": "Legal Consultants Founder",
+                "image": "/assets/privateOffice/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Their team handled everything behind the scenes so we could stay focused on growth. It's the kind of support every business needs.”",
+                "role": "Financial Group CEO",
+                "image": "/assets/privateOffice/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Grow, Preserve, and Multiply Your Wealth with One Nexuz",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Wealth Management Services",
+                "description": "Get strategic financial advice to protect and grow your wealth.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Will & Trust Preparation Services",
+                "description": "Safeguard your legacy with a legally sound, DIFC or ADGM-registered Will.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Family Office Setup",
+                "description": "Centralise governance of all your assets with a single or multi-family UAE office.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Family Foundation & Trust",
+                "description": "Create structured vehicles to preserve, govern, and transfer wealth.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Asset Protection",
+                "description": "Transfer their ownership seamlessly with secure asset protection.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Second Citizenship Programs",
+                "description": "Unlock visa-free access, tax benefits, and global freedom through second citizenship.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Golden Visa UAE",
+                "description": "Secure long-term UAE residency with real estate investment pathways.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Escrow Account Assistance",
+                "description": "Close high-value deals confidently with our expert escrow agents.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": " Lead Boldly from a Space that Matches Your Vision with One Nexuz",
+        "description": "Discover private offices to fuel your team’s focus, creativity, and well-being. Our extensive catalog of elegant workspaces empowers you to lead, grow, and win in the UAE’s dynamic business environment.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/privateOffice/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I rent a private office for one day in the UAE?",
+                "answer": "Yes, One Nexuz offers pay-as-you-go solutions and flexible lease contracts so you rent for as many days as you need. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What’s included in your private office package?",
+                "answer": "All private offices come fully furnished and include amenities, such as access to meeting rooms, high-speed internet, phone booths, printing facilities, and daily cleaning."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I customise the office layout or design?",
+                "answer": "Yes, we offer tailored workspace solutions to reflect your brand, team size, and functional needs."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How soon can I move into my private office?",
+                "answer": "Our private offices are move-in-ready and can be occupied within 24-48 hours. If you need a customised setup, our team will provide you with a clear timeline and quote."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What size teams do your private offices support?",
+                "answer": "We support all-sized teams, from soloprenuers to teams of up to 100+ people. Our experts will match you with the best-fit options based on your business needs and unique taste."
+            }
+        ]
+    }
+}

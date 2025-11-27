@@ -1,0 +1,257 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/bankAccountOpeningInTheUae.webp",
+        "title": "Secure, Compliant, and Fast —  Open Your UAE Bank Account with a Trusted Partner",
+        "description": "Endless paperwork, high minimum balances, and complex bank requirements can drain your time, hinder operations, and even lead to rejected applications. At One Nexuz, we connect you with the right banking partner, empowering you to benefit from the UAE's exciting tax incentives, seamless multi-currency transactions, zero personal income tax, and unmatched financial privacy."
+    },
+    "leftSection_1": {
+        "title": "Secure Global Banking Access, Build Financial Credibility, and Preserve Your Wealth",
+        "description": "Manage international transactions, protect your assets, and secure your business income with a UAE-based bank account. With flexible account types, the Emirates empowers investors and entrepreneurs to preserve their wealth. ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Send, Receive, & Hold in 40+ Currencies Hassle-Free to Drive Business Growth",
+                "subTitle": "Send, Receive, & Hold in 40+ Currencies Hassle-Free to Drive Business Growth",
+                "description": "Send, receive, and hold funds in AED, USD, EUR, and more- all from a single account. Seamlessly handle global payments without currency conversion delays.",
+                "image": "/assets/bankAccountOpeningInTheUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain Local Trust, Strengthen Your Reputation, and Win Client Trust from Day One",
+                "subTitle": "Gain Local Trust, Strengthen Your Reputation, and Win Client Trust from Day One",
+                "description": "Win better deals with investors, suppliers, and local clients by taking advantage of the UAE’s top-tier bank accounts.",
+                "image": "/assets/bankAccountOpeningInTheUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Cut Tax Liabilities to Zero, Reinvest Directly in Growth, and Accelerate Business Expansion",
+                "subTitle": "Cut Tax Liabilities to Zero, Reinvest Directly in Growth, and Accelerate Business Expansion",
+                "description": "Uplift your bottom line with 0% personal income tax and local funds transfer, and redirect savings to core business activities.",
+                "image": "/assets/bankAccountOpeningInTheUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Tap into Digital-First Banking, Simplify Payments, and Transact Globally Anytime, Anywhere",
+                "subTitle": "Tap into Digital-First Banking, Simplify Payments, and Transact Globally Anytime, Anywhere",
+                "description": "Streamline business finances with a single tap with intuitive mobile & online banking account opening in the UAE. Manage funds with fast SWIFT transfers and premium multi-currency services.",
+                "image": "/assets/bankAccountOpeningInTheUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Choose the Right Type of Bank Account in the UAE with One Nexuz",
+        "description": "Kickstart your business, manage offshore assets, and hit all your financial goals by setting up the right bank account.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Bank Account",
+                "description": "Perfect for Mainland, Offshore & Free Zone companies, this account empowers you to streamline multi-currency business finances.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Offshore Bank Account",
+                "description": "Ideal for Offshore companies seeking secure regional banking for asset protection, holding investments, or international trade.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Resident Bank Account",
+                "description": "Well-suited for individuals and corporations alike, this account offers multi-currency, interest-free earning opportunities, and online payment options.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Non-Resident Bank Account",
+                "description": "For expats who want access to UAE’s savings or fixed deposit banking solutions, allowing them to grow, diversify, and preserve their wealth via remote setup solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/bankAccountOpeningInTheUae/left4/1.webp",
+            "title": "Open Your Bank Account 50% Faster with One Nexuz",
+            "description": "Fast-track approvals with our banking partners, no local visit required! Get your account opened remotely with full compliance and zero hassle.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/bankAccountOpeningInTheUae/left4/2.webp",
+            "title": "No Guesswork, No Extra Fees — Open Your Business Account without the Surprises",
+            "description": "No confusing packages, unnecessary upsells, or costly add-ons. Know your costs upfront, pay only for the services you need, and get your account set up in days, not weeks.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Open Your Bank Account the Easy Way with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Consultation",
+                "description": "Our skilled business consultants kick off by taking the time to assess your business activities, goals, and residency status to find the perfect bank fit.",
+                "image": "/assets/bankAccountOpeningInTheUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect all Documents",
+                "description": "Next, we’ll help you compile and attest the necessary paperwork, including business licenses, copies of passports and residency visas, and proof of address.",
+                "image": "/assets/bankAccountOpeningInTheUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Pre-Compliance Review",
+                "description": "Following the submission of your application, we’ll coordinate with your banking partner to secure approvals and minimise the risk of rejection.",
+                "image": "/assets/bankAccountOpeningInTheUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Bank Onboarding",
+                "description": "Lastly, we’ll coordinate remote onboarding or in-person meetings depending on your eligibility and location, helping you set up in half the time.",
+                "image": "/assets/bankAccountOpeningInTheUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Set Up Your Bank Account in Dubai",
+        "description": "Over 50% of business owners find it impossible to open a bank account independently. Our dedicated consultants streamline company bank account opening in the UAE, ensuring quick setup and smooth multi-currency account management.",
+        "items": [
+            {
+                "title": "Enjoy a 99% Approval Rate",
+                "description": "Our stunning 99% success rate ensures your bank account is up and running within days, even for high-risk sectors like crypto or consulting.",
+                "image": "/assets/bankAccountOpeningInTheUae/bgImage/1.webp"
+            },
+            {
+                "title": "Minimize Delays by 30%",
+                "description": "Our seasoned consultants do all the legwork, from compiling documents to filing paperwork, combating the risk of delays and rejections.",
+                "image": "/assets/bankAccountOpeningInTheUae/bgImage/2.webp"
+            },
+            {
+                "title": "Get Customised Solutions",
+                "description": "We’ll take the time to understand your business activities, company type, and financial goals to connect you with a bank that aligns with your needs.",
+                "image": "/assets/bankAccountOpeningInTheUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/bankAccountOpeningInTheUae/grid/1.webp",
+        "title": "Zero Guesswork. Full Support Until Your Account is Live",
+        "description": "We don’t just consult—we execute. From bank matching to application submission, we handle it all so you don’t risk rejection.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Two firms failed before. One Nexuz got my UAE account opened remotely in just 3 weeks—super professional.",
+                "role": "Crypto Entrepreneur",
+                "image": "/assets/bankAccountOpeningInTheUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "I opened my account without a visa or visiting the UAE. These guys walked me through it clearly and quickly.",
+                "role": "Trading Company",
+                "image": "/assets/bankAccountOpeningInTheUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Seamless from start to finish. One Nexuz handled the process end-to-end, and I had my business account live in under a month.",
+                "role": "E-commerce Founder",
+                "image": "/assets/bankAccountOpeningInTheUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Diversify, Protect, & Manage your Assets Globally with One Nexuz ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Wealth Management Services",
+                "description": "Get tailored investment strategies to diversify your portfolio and preserve your wealth.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Treasury Management",
+                "description": "Manage cash flow, currency exposure, and financial risk with expert treasury solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Corporate Bank Account Opening Assistance",
+                "description": "Launch your UAE bank 100% remote and compliant through nominee directors.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Skip the Red Tape – Secure Your Business Bank Account in Days with One Nexuz",
+        "description": "Unlock exciting tax benefits, diversify your assets, and streamline global transactions with a UAE bank account. Our dedicated consultants guide you through every step, expediting approvals and simplifying your finances.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/bankAccountOpeningInTheUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is physical presence a must to open a bank account in Dubai? ",
+                "answer": "To open a local bank in the UAE, a physical presence is required. However, if you plan to open a bank account with an international bank, you can get a financial advisor in the UAE to act as your representative."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What are the different types of bank accounts in the UAE?",
+                "answer": "The country offers various types of bank accounts, including corporate, personal, and savings accounts. The choice depends on your unique personal or business financial needs."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Will my bank account be closed if I fail to renew my residency visa?",
+                "answer": "No, your account will not be closed; rather, it will be converted to a non-resident savings account. Keep in mind that a restriction or closure may be set if you fail to communicate with the bank."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does it take to set up a bank account?",
+                "answer": "Most bank accounts can be set up within 1 to 14 days; however, a corporate account can sometimes take a couple of months."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can a foreign investor open a bank account in Dubai?",
+                "answer": "Yes, expats can open their bank accounts in the city by submitting the appropriate documents and application, including a trade license, proof of business activities, passport copies, and a company profile."
+            }
+        ]
+    }
+}
