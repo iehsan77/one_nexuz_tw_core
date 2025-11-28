@@ -1,0 +1,315 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/greenVisa.webp",
+        "title": "Secure Stability, Win Clients, & Thrive as a Freelancer in the UAE With a 5-Year Residence Green Visa in the UAE",
+        "description": "Too many freelancers lose projects and income because of limited visa options, sponsor restrictions, and short renewals. With a Green Visa, you get 5 years of independent residency, the flexibility to work with multiple clients, longer grace periods, and the ability to bring your family along. At One Nexuz, our specialists cut through the red tape, fast-track your application, and handle all the paperwork so you can focus on growing your freelance career in the UAE."
+    },
+    "leftSection_1": {
+        "title": "Why Solopreneurs Need a UAE Green Visa",
+        "description": "Unlock long-term residency, exciting entrepreneurial opportunities, and speedy renewals- all without the need for a local employer to back you.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Secure Your Family’s Future, Eliminate Bureaucratic Delays, & Gain Hassle-Free Sponsorship",
+                "subTitle": "Secure Your Family’s Future, Eliminate Bureaucratic Delays, & Gain Hassle-Free Sponsorship",
+                "description": "Endless paperwork and long approval delays can turn family sponsorship into a stressful ordeal. With One Nexuz, sponsor your spouse, children, and first-degree relatives without administrative headaches. Enjoy total peace of mind knowing their residency lasts as long as yours.",
+                "image": "/assets/greenVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain Access to Financial Services, Long-Term Rentals, & Essential Resident Privileges in the UAE",
+                "subTitle": "Gain Access to Financial Services, Long-Term Rentals, & Essential Resident Privileges in the UAE",
+                "description": "Without the right residency, even basic tasks like opening a bank account or renting a home can turn into exhausting roadblocks. Make settling in the UAE faster, smoother, and far more convenient with access to world-class amenities, including local bank accounts, rent properties, telecom contracts, and resident services.",
+                "image": "/assets/greenVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Move Across Borders, Enjoy Career Freedom, & Start New Ventures With Flexible Multi-Entry Rights",
+                "subTitle": "Move Across Borders, Enjoy Career Freedom, & Start New Ventures With Flexible Multi-Entry Rights",
+                "description": "Most visas tie you down, making career moves or extended travel risky. Travel worldwide, switch jobs, or launch your own venture - all without risking your UAE residency with a Green Visa's multiple-entry permission.",
+                "image": "/assets/greenVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get Extra Time to Renew, Cancel, or Switch Your Status Without Penalties",
+                "subTitle": "Get Extra Time to Renew, Cancel, or Switch Your Status Without Penalties",
+                "description": "Avoid the stress of sudden deadlines or last-minute visa issues. Lock in stability with a 5-year residency and 6-month buffer period, empowering you to renew, cancel, or switch your visa status without legal pressure.",
+                "image": "/assets/greenVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Do You Get With a UAE Green Visa?",
+        "description": "Secure your Green Visa in the UAE to unlock the following necessary documents:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/greenVisa/iconTitleSec/1.svg",
+                "title": "Dependent Visa Documents"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/greenVisa/iconTitleSec/2.svg",
+                "title": "Emirates ID"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/greenVisa/iconTitleSec/3.svg",
+                "title": "Medical Fitness Test"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/greenVisa/iconTitleSec/4.svg",
+                "title": "Residence Visa Sticker or e-Visa"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/greenVisa/iconTitleSec/5.svg",
+                "title": "Visa Approval Notification"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/greenVisa/left4/1.webp",
+            "title": "Scale Your Startup & Gain 100% Foreign Ownership with One Nexuz",
+            "description": "Gain unmatched flexibility to sponsor skilled professionals worldwide and drive business growth. Stand out in the UAE’s hyper-competitive market with our end-to-end Green Visa assistance.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/greenVisa/left4/2.webp",
+            "title": "Custom Pricing That Works for Freelancers",
+            "description": "Why pay inflated costs for benefits you don’t even use? At One Nexuz, we believe freelancers deserve visa solutions that are transparent, affordable, and tailored to their unique needs.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6-Step Process to Get a UAE Green Visa",
+        "items": [
+            {
+                "id": 1,
+                "title": "Register on the ICA Portal",
+                "description": "We'll begin with a discovery call to determine your interest and help you register with the Federal Authority for ICA.",
+                "image": "/assets/greenVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Ensure Your Eligibility",
+                "description": "Next, we'll analyse your current qualifications to ensure you meet the UAE Green Visa's requirements.",
+                "image": "/assets/greenVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Gather All Documents",
+                "description": "Once we’ve reviewed your qualifications, our experts will then assist you in preparing all the documents necessary to become a Green Card Holder with a UAE Visa.",
+                "image": "/assets/greenVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Conduct a Medical Test",
+                "description": "Next, our PRO specialists will assist you in conducting health screenings at approved medical facilities.",
+                "image": "/assets/greenVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Submit Your Application",
+                "description": "With all the documents compiled, we'll submit your application through the ICA portal for a stress-free visa journey.",
+                "image": "/assets/greenVisa/left5/5.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Your Green Visa",
+                "description": "Once approved, we'll send your UAE Green Visa, along with your Emirates ID and Medical Fitness Certificate.",
+                "image": "/assets/greenVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Secure Your UAE Green Visa",
+        "description": "Prevent costly delays, missing paperwork, and unnecessary errors, leading to rejected applications, with our team of seasoned business consultants by your side.",
+        "items": [
+            {
+                "title": "Expedite Visa Processing",
+                "description": "Our local experts streamline all the paperwork, attestation, and government back-and-forth, empowering you to start earning stress-free.",
+                "image": "/assets/greenVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Cut Processing Costs by 30%",
+                "description": "Our optimised visa processing solutions eliminate document errors, hidden fees, and repeat submissions, helping you unlock exciting savings!",
+                "image": "/assets/greenVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Renew, Upgrade, or Shift Hassle-Free",
+                "description": "We take care of every step in your Green Visa renewal or status change, so you can focus on uncovering growth opportunities during the 180-day grace period.",
+                "image": "/assets/greenVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/greenVisa/grid/1.webp",
+        "title": "One Nexuz Helps Future-Proof Your Business with Flexible Grace Periods",
+        "description": "Tap into Dubai's thriving entrepreneurial ecosystem to launch and expand your business. We streamline all the paperwork, empowering you to grow, build, and diversify your income.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "The Green Visa gave me the stability I needed to expand my consultancy in Dubai. With longer residency and no need for a local sponsor, I finally had the freedom to plan for the long term without worrying about visa renewals.",
+                "role": "Business Consultancy Firm Managing Director",
+                "image": "/assets/greenVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "As a tech founder, flexibility is everything. The Green Visa allowed me to bring my family and hire key talent with ease. It gave me both professional freedom and personal security, which is priceless when scaling a startup.",
+                "role": "Technology Startup Founder",
+                "image": "/assets/greenVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "I wanted a residency option that matched my investment goals. The Green Visa gave me the right balance — longer validity, investor-friendly terms, and the peace of mind that my business and family are secure in the UAE.",
+                "role": "Real Estate Company Investor",
+                "image": "/assets/greenVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Launch, Grow, & Scale with the Ideal UAE Visa",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Freelancer Permit",
+                "description": "Polish your skills and serve clients globally with a DED-compliant license.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Digital Solutions",
+                "description": "Amplify your online presence with our end-to-end digital solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services UAE",
+                "description": "Simplify notarisation, verification, and attestation with our PRO agents.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Bank Account Opening in the UAE",
+                "description": "Hold, receive, and transact in 40+ currencies with the right banking partner.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Golden Visa UAE",
+                "description": "Secure 10-year residency and exclusive local benefits with a Golden Visa.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "UAE Residence Visa",
+                "description": "Live, work, and scale in the UAE with a 2 to 3-year UAE Residence Visa.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Family Relocation Support",
+                "description": "Relocate your loved ones stress-free with end-to-end assistance.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation",
+                "description": "Exit the UAE fully compliant with end-to-end visa cancellation solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Diversify Your Income Streams with a UAE Green Visa",
+        "description": "Build your future in the UAE with a Green Visa, offering unmatched freedom, stability, and extensions. Our expert PRO specialists do all the legwork, so you can focus on your venture, loved ones, and lifestyle.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/greenVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Partner Visa",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a green visa in the UAE?",
+                "answer": "The UAE green visa empowers individuals with 5-year, self-sponsored residency, empowering you to live, work, and thrive in the Emirates without the hassle of a local sponsor or agent."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who is eligible for a UAE green visa?",
+                "answer": "Skilled solopreneurs, freelancers, entrepreneurs, and investors can apply for the UAE green visa."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I apply for a UAE Green Visa while living in the Emirates?",
+                "answer": "Yes, our expert PRO specialists can help you transition to a Green Visa without leaving the country by updating your current status through the ICP."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How can I secure a Green Visa in the UAE?",
+                "answer": "You can partner with our skilled PRO agents to assess your eligibility, streamline your application, and secure initial approvals. Once the ICP approves your application, you’ll receive your Green Visa and Emirates ID. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I have to leave the UAE if I lose my job after receiving the Green Visa?",
+                "answer": "No, the UAE Green Visa involves a 6-months buffer period, allowing you to explore new business opportunities and career transitions."
+            }
+        ]
+    }
+}

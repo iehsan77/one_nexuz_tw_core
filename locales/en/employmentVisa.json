@@ -1,0 +1,314 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/employmentVisa.webp",
+        "title": "From Staff Sponsorship to Legal Paperwork, Empower Your Workforce Growth with Our End-to-End UAE Employment Visa Solutions",
+        "description": "Struggling with slow visa approvals, legal red tape, and onboarding delays? Hire, onboard, and manage your workforce seamlessly with our employment visa services. Whether you’re recruiting a few key specialists or scaling an entire team, our expert consultants handle the full visa process, cut down delays, and keep your business fully compliant, so you can grow confidently and focus on building your team."
+    },
+    "leftSection_1": {
+        "title": "Why Business Owners Need Employment Visa Services in Dubai",
+        "description": "Operate and scale your team in the UAE across the mainland and free zones by securing an employment visa. Ensure long-term staff retention and loyalty to skyrocket business growth.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Streamline Onboarding, Minimise Delays, & Speed Your Workforce Scalability",
+                "subTitle": "Streamline Onboarding, Minimise Delays, & Speed Your Workforce Scalability",
+                "description": "Struggling with slow approvals and operational bottlenecks? Mitigate the risk of onboarding delays and operational slowdowns, and fast-track approvals to scale your business stress-free.",
+                "image": "/assets/employmentVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enable Family Sponsorship, Strengthen Employee Loyalty, & Ensure Residency Compliance",
+                "subTitle": "Enable Family Sponsorship, Strengthen Employee Loyalty, & Ensure Residency Compliance",
+                "description": "Worried about losing top talent due to relocation hassles? Attract top talent worldwide by empowering employees to legally sponsor their spouse and children and enjoy residency.",
+                "image": "/assets/employmentVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Recruit Globally, Stay 100% Compliant, & Secure Your Workforce",
+                "subTitle": "Recruit Globally, Stay 100% Compliant, & Secure Your Workforce",
+                "description": "Worried about complex visa regulations and relocation delays? Streamline your hiring process and relocate talent while staying 100% compliant. Avoid costly fines, visa bans, and penalties by building your workforce the right way.",
+                "image": "/assets/employmentVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Secure UAE Residency, Access Local Services, & Upscale Your Lifestyle",
+                "subTitle": "Secure UAE Residency, Access Local Services, & Upscale Your Lifestyle",
+                "description": "Tired of complicated residency procedures and limited access to essential services? Gain instant UAE residency and enjoy access to local facilities, including local bank account creation and home rental. ",
+                "image": "/assets/employmentVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Do You Get with a UAE Employment Visa",
+        "description": "Now, you don’t have to chase PROs on your own. One Nexuz helps you with: ",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/employmentVisa/iconTitleSec/1.svg",
+                "title": "Initial approval and entry permit"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/employmentVisa/iconTitleSec/2.svg",
+                "title": "Medical fitness test"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/employmentVisa/iconTitleSec/3.svg",
+                "title": "Emirates ID application"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/employmentVisa/iconTitleSec/4.svg",
+                "title": "Labor contract registration"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/employmentVisa/iconTitleSec/5.svg",
+                "title": "Stamping of a residency visa"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/employmentVisa/iconTitleSec/6.svg",
+                "title": "Support for cancellations and renewals"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/employmentVisa/left4/1.webp",
+            "title": "One Nexuz Helps You Recruit Global Talent For Your UAE-Based Business in Half the Time",
+            "description": "Speed matters when you’re scaling. We fast-track your employee visa process with full PRO support, error-free application, and continuous follow-up until approval.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/employmentVisa/left4/2.webp",
+            "title": "Pay Only for What You Need With Our Custom Quotes for Employment Visa Services",
+            "description": "Every business has unique hiring needs — so why settle for one-size-fits-all visa solutions? Whether you’re bringing in a single specialist or scaling your entire workforce, we offer custom quotes that match your hiring strategy, budget, and business needs.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Proven 5-Step UAE Employment Visa Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a Free Consultation",
+                "description": "Our expert advisors assess your business activities and goals to suggest a jurisdiction and legal fit that aligns with your needs.",
+                "image": "/assets/employmentVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Ensure You Meet Employment Visa Requirements",
+                "description": "We’ll assess your eligibility and provide you with a checklist to compile and submit all the relevant documents.",
+                "image": "/assets/employmentVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Work Visa Application",
+                "description": "Our seasoned experts file for approval and handle all the government back-and-forth to secure your entry visa into the UAE.",
+                "image": "/assets/employmentVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Provide Medical Checkups & Health Insurance",
+                "description": "We pre-book and assist with medical clearance to show the UAE government you’re fit to live and work within the Emirates.",
+                "image": "/assets/employmentVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your Work Visa",
+                "description": "Once all clearances are in, our experts finalise and deliver your stamped Dubai employment visa.",
+                "image": "/assets/employmentVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Business Owners Trust Us to Simplify Employment Visa Processing",
+        "description": "Trying to navigate the intricacies of employment visas solo can cost you time and lead to missed deadlines or incomplete paperwork. Our seasoned consultants provide tailor-made visa solutions to support your expansion from the outset.",
+        "items": [
+            {
+                "title": "Leverage Local Expertise",
+                "description": "Our experts boast in-depth knowledge of the nuances, quotas, and workarounds across all major jurisdictions, so you can count on us to recommend the best-fit visa route.",
+                "image": "/assets/employmentVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Scale Your Team Stress-Free",
+                "description": "Onboard one or fifty employees with our agile employment visa solutions. We structure our visa strategies to support long-term expansion without costly slowdowns.",
+                "image": "/assets/employmentVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Stay Ahead with Transparent Pricing",
+                "description": "No hidden charges, no surprise fees. Our advisors provide clear costs upfront and keep you updated at every milestone, so you stay in control always.",
+                "image": "/assets/employmentVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/employmentVisa/grid/1.webp",
+        "title": "Hire Legally in the UAE and Avoid Fines Up to AED 10,000 with One Nexuz",
+        "description": "Securing the right employment visa can help you onboard staff faster and stay compliant. We help you issue and renew a visa with zero guesswork so you can keep your business running smoothly.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz helped us onboard our first three employees in under two weeks. Everything was handled—zero downtime.",
+                "role": "Fintech Startup Founder",
+                "image": "/assets/employmentVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "We tried going direct. Mistake. One Nexuz took over the process, corrected our application, and got approval fast.",
+                "role": "CEO of Digital Marketing Agency",
+                "image": "/assets/employmentVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "We needed 8 employment visas urgently for a government tender. Not only did One Nexuz deliver—they kept us in the loop the whole time.",
+                "role": "Facilities Management Firm Co-Founder",
+                "image": "/assets/employmentVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover Our Additional  UAE Visa Solutions for Your Business",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Secure your UAE visa within days, not weeks, with our expert PRO agents by your side.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Mainland",
+                "description": "Get exclusive access to market insights, real estate opportunities, and other local amenities.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Free Zone",
+                "description": "Pick from 40+ Free Zones across Dubai and 5 other Emirates to drive limitless business growth.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "UAE Offshore",
+                "description": "Diversify your assets, protect your identity, and multiply your wealth by setting up in the UAE Offshore.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business Licenses",
+                "description": "Pick from 100+ approved trade licenses, launch your business, and scale across the Emirates.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Investor Visa Processing",
+                "description": "Grow your presence and enjoy ownership and residency rights, and full business control.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa Services",
+                "description": "Sponsor co-founders under a legally compliant structure to live and thrive in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation Services",
+                "description": "Avoid hefty fines and future visa issues with timely and fully compliant visa cancellation services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Trust One Nexuz to Handle Your UAE Employment Visa Needs",
+        "description": "Don’t let complex paperwork and legalities hold you back. Our expert consultants help you stay on top of ever-changing rules to hire smarter, faster, and 100% compliant!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/employmentVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Golden Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Partner Visa",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are the perks of applying for an employment visa?",
+                "answer": "Securing an employment visa can help you attract top talent, foster staff loyalty, fill skill gaps, and sponsor families."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What is the eligibility criteria for an employment visa?",
+                "answer": "You can qualify for an employment visa by meeting specific education and experience requirements, demonstrating skills, and having a job offer from a qualified employer."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to secure an employment visa in the UAE?",
+                "answer": "It generally takes 7 to 14 working days to obtain a UAE employment visa. We help optimise processing times by eliminating unexpected delays, missing documents, and costly errors."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I apply for an employment visa if my employee is outside the UAE?",
+                "answer": "Yes. You can initiate the visa application process regardless of where your employee currently resides. We assist you in compiling the necessary documents and paperwork to simplify the visa process. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz assist with employment visa renewals or cancellations?",
+                "answer": "Yes, our expert consultants help you navigate employment visa renewals and cancellations, enabling you to scale your team efficiently. "
+            }
+        ]
+    }
+}

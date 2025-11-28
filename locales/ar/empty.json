@@ -393,27 +393,27 @@
     "items": [
       {
         "id": 1,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/1.svg",
+        "icon": "/assets/businessSetup/iconTitleSec/1.svg",
         "title": ""
       },
       {
         "id": 2,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/2.svg",
+        "icon": "/assets/businessSetup/iconTitleSec/2.svg",
         "title": ""
       },
       {
         "id": 3,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/3.svg",
+        "icon": "/assets/businessSetup/iconTitleSec/3.svg",
         "title": ""
       },
       {
         "id": 4,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/4.svg",
+        "icon": "/assets/businessSetup/iconTitleSec/4.svg",
         "title": ""
       },
       {
         "id": 5,
-        "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/5.svg",
+        "icon": "/assets/businessSetup/iconTitleSec/5.svg",
         "title": ""
       }
     ]

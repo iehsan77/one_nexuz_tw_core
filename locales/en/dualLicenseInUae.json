@@ -1,0 +1,330 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dualLicenseInUae.webp",
+        "title": "From Licences to Leads — Grow, Hire, and Sell Across the UAE with One All-in-One Dual License Solution",
+        "description": "Frustrated by endless paperwork, unclear approvals, and invisible free-zone restrictions that stop you from selling onshore? At One Nexuz, our business specialists handle all the eligibility checks, DED/ADRA filings, and government back-and-forth to help you tap into 2B+ customers in 40+ Free Zones and the Mainland market — all without the stress of forming multiple companies or branches. Secure your UAE dual business license to expand your customer reach, bid for high-value government contracts, and drive business revenue!"
+    },
+    "leftSection_1": {
+        "title": "Register, Expand, & Thrive — Unlock Every Corner of the UAE Market with a Dual License",
+        "description": "Capitalise on the UAE’s lucrative local markets, reduce overheads, hire global talent, and unlock limitless business growth by securing your dual business license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "No Second Company, No Extra Overhead — Operate Anywhere in the UAE Restriction-Free",
+                "subTitle": "No Second Company, No Extra Overhead — Operate Anywhere in the UAE Restriction-Free",
+                "description": "Tap into a diverse 2.2 billion consumer base across the Emirates, hire & retain global talent, and unlock new local sales channels — all while keeping your Free Zone advantage.",
+                "image": "/assets/dualLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access New Clients, Talent, and Contracts Faster Than Ever ",
+                "subTitle": "Access New Clients, Talent, and Contracts Faster Than Ever ",
+                "description": "Tap into a diverse 2.2 billion consumer base across the Emirates, hire & retain global talent, and unlock new local sales channels — all while keeping your Free Zone advantage.",
+                "image": "/assets/dualLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Explore New Revenue Streams, Unlock Tax Exemptions, & Maintain Strategic Control of Your UAE-Based Business",
+                "subTitle": "Explore New Revenue Streams, Unlock Tax Exemptions, & Maintain Strategic Control of Your UAE-Based Business",
+                "description": "Enjoy 100% foreign ownership of your Free Zone & Mainland business, discover exciting tax advantages, and bid for lucrative government tenders without the hassle of forming a new Mainland corporation.",
+                "image": "/assets/dualLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Launch Your Mainland Business in Days, Not Months — Fully Compliant and Ready to Operate Across the UAE",
+                "subTitle": "Launch Your Mainland Business in Days, Not Months — Fully Compliant and Ready to Operate Across the UAE",
+                "description": "Expedite your entry into the UAE Mainland with a dual license, empowering you to go from decision to onshore operations in a fraction of the time it takes to launch a separate branch or LLC.",
+                "image": "/assets/dualLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Top Eligible Dual Business License Activities in the UAE with One Nexuz",
+        "description": "Operate, trade, consult, and scale across UAE markets with full legal compliance.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Trading & Commercial Activities",
+                "description": "Buy, sell, import, and export goods across fast-growing local and global markets.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Professional & Consultancy Services",
+                "description": "Offer advisory, IT, marketing, and business consultancy services across Free Zone & Mainland markets. ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "E-commerce & Online Business",
+                "description": "Operate online stores, dropshipping, and digital product sales across UAE and beyond.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Events & Media",
+                "description": "Run training programs, workshops, or freelance coaching with 100% compliance and visa residency.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Education & Training Services",
+                "description": "Offer corporate training, workshops, or skill development programs stress-free.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Healthcare & Wellness Services",
+                "description": "Provide consultancy, clinics, or wellness services in the Free Zone or on Mainland.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dualLicenseInUae/left4/1.webp",
+            "title": "Slash Setup Costs & Scale UAE-Wide with Our Dual Licensing Solutions",
+            "description": "Skip the AED 50,000+ mainland setup and save over 80% of costs, while gaining full access across the Emirates. Serve local clients, bid for contracts, and grow your UAE business effortlessly.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dualLicenseInUae/left4/2.webp",
+            "title": "Tailored UAE Dual Licensing Solutions — Custom Pricing for Your Business",
+            "description": "No cookie-cutter packages. No hidden fees. Get a personalized dual licensing solution designed around your business objectives—flexible, transparent, and scalable as your operations grow.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Help You Secure Your Dual License — Fast, Legal, & Hassle-Free",
+        "items": [
+            {
+                "id": 1,
+                "title": "Assess Your Eligibility",
+                "description": "We'll start with a no-obligations call to analyze your business activity, Free Zone setup, and Mainland requirements to create a tailored dual license plan.",
+                "image": "/assets/dualLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Next, our team handles all paperwork, including NOCs and filings, ensuring every document is accurate and approved promptly.",
+                "image": "/assets/dualLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit & Secure Your Approvals",
+                "description": "Our seasoned business consultants then coordinate with Free Zone and Mainland authorities to streamline approvals and minimize costly delays.",
+                "image": "/assets/dualLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Activate Your License",
+                "description": "Once the DED or ADRA approves your application, we'll issue your dual license, empowering you to operate across the Free Zone and Mainland.",
+                "image": "/assets/dualLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "Beyond licensing, we offer ongoing guidance on renewals, compliance, and updates to help your business operate smoothly and scale confidently.",
+                "image": "/assets/dualLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Reliable Dual License Service in the UAE",
+        "description": "Navigate the maze of approvals, forms, and regulatory requirements confidently with our expert business specialists guiding you every step of the process, so you can operate and scale without headaches.",
+        "items": [
+            {
+                "title": "Fast-Track License Approvals",
+                "description": "Our seasoned business consultants coordinate all NOCs, filings, and DED/ADRA approvals, issuing your dual business license in 7-14 days.",
+                "image": "/assets/dualLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Get End-to-End Local Support",
+                "description": "From document preparation to license activation, our specialists handle everything, ensuring your application is fully compliant from start to finish.",
+                "image": "/assets/dualLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Receive Clear, Transparent Pricing",
+                "description": "No surprise upsells. No unnecessary add-ons. We provide a clear report on eligible activities and expected fees — so you can plan confidently before you invest.",
+                "image": "/assets/dualLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dualLicenseInUae/grid/1.webp",
+        "title": "Join the UAE’s Booming Business Network with Dual Licence Advantage — Powered by One Nexuz",
+        "description": "Be part of UAE’s fastest‑growing business ecosystem and enjoy Free Zone perks with full UAE-wide access — no second office or branch needed.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz made the dual licence process seamless and fast — I was up and running in the mainland within days without any paperwork headaches.",
+                "role": "E-commerce & Retail Operations Manager",
+                "image": "/assets/dualLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "The team guided us through every step of approvals and documentation, saving us weeks of back-and-forth and letting us focus on growing our IT consultancy.",
+                "role": "IT Consulting Services Founder",
+                "image": "/assets/dualLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Thanks to One Nexuz, we could expand our trading business into the mainland legally and efficiently while retaining our free-zone benefits.",
+                "role": "Trading Business Co-owner",
+                "image": "/assets/dualLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover All UAE Licenses Under One Roof with One Nexuz",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Unlock new markets and growth opportunities with the best-fit commercial license.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Crypto & Web3 License",
+                "description": "Launch your blockchain, crypto, or Web3 venture while staying fully compliant and secure.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Event License",
+                "description": "Host and manage exhibitions, workshops, or corporate events in prime locations in the Emirates.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "E-commerce License",
+                "description": "Sell products across borders with a single license, no physical storefront required.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Freelancer Permit",
+                "description": "Kickstart your solo career in the UAE and serve high-paying clients globally with a freelancer permit.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Industrial License",
+                "description": "Set up manufacturing, production, or industrial operations with all necessary approvals handled.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Professional License",
+                "description": "Launch your consultancy, offer advisory, or practice other professional services with a UAE-compliant license.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Real Estate License",
+                "description": "Buy, sell, or manage lucrative properties across the Emirates to expand your portfolio.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Secure Your Dual License & Expand Effortlessly across the UAE with One Nexuz",
+        "description": "Scale your business across borders while serving local clients, bidding for government & semi-government contracts, and minimizing the risk of hefty fines with a UAE-compliant dual business license!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dualLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Real Estate License",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Crypto & Web3 License",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Event License",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "E-commerce License",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Freelance Permit",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a dual license in the UAE?",
+                "answer": "A dual license allows your company to operate in both the UAE Free Zone and on the Mainland, empowering you with the flexibility to serve local clients and bid for government contracts while enjoying the benefits of a Free Zone company."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who is eligible for a dual license?",
+                "answer": "Most Free Zone companies with eligible activities can apply for a dual license, though approval depends on the specific Free Zone and Mainland authority. Our experts ensure your eligibility and guide you through every step of the process."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to get a dual license?",
+                "answer": "You can secure your dual license in 7-14 working days, depending on your selected jurisdiction, your selected business activities, and document readiness."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need a physical office to secure my UAE dual license?",
+                "answer": "Depending on your business activity and mainland regulations, a physical office may be required. Our specialists help you determine the optimal setup to minimize costs without risking compliance."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Will a dual license affect my Free Zone benefits?",
+                "answer": "No, your Free Zone advantages, from full foreign ownership and tax exemptions to export/import flexibility, remain 100% intact while you gain legal access to the Mainland market."
+            }
+        ]
+    }
+}

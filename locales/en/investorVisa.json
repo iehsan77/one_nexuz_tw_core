@@ -1,0 +1,325 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/investorVisa.webp",
+        "title": "From Capital Investments to Legal Residency, Secure Long-Term Stability & Exclusive Benefits With Our Dubai Investor Visa Services",
+        "description": "Tired of short-term visas limiting your plans and forcing constant renewals? Secure long-term residency, unlock full banking access, and retain 100% ownership of your business with our UAE investor visa solutions. Whether you’re an entrepreneur seeking independence or an investor planning for growth, enjoy flexible residency without employment ties or local sponsors."
+    },
+    "leftSection_1": {
+        "title": "Explore the Top Benefits of an Investor Visa in the UAE",
+        "description": "Get full freedom to reside, operate, and scale in the Emirates without restrictions. Keep your loved ones close while tapping into the country’s world-class facilities stress-free.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Protect Your Wealth, Gain Investor Residency, & Unlock Borderless Growth",
+                "subTitle": "Protect Your Wealth, Gain Investor Residency, & Unlock Borderless Growth",
+                "description": "Secure a 2-3-year renewable residency visa based on your investment with no ties to a job or employer. No matter where your business grows, your visa stays valid.",
+                "image": "/assets/investorVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Eliminate Local Sponsorship, Operate Independently, & Keep Every Dirham of Your Profits",
+                "subTitle": "Eliminate Local Sponsorship, Operate Independently, & Keep Every Dirham of Your Profits",
+                "description": "Set up and operate in mainland or free zones without needing a local partner. We’re talking full control, full equity, no compromises!",
+                "image": "/assets/investorVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enjoy Best Healthcare, Education, Banking Solutions & Local Lifestyle Privileges",
+                "subTitle": "Enjoy Best Healthcare, Education, Banking Solutions & Local Lifestyle Privileges",
+                "description": "Open corporate and personal bank accounts, apply for credit cards, utilities, and more by securing your legal residency status and Emirates ID.",
+                "image": "/assets/investorVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Invest, Reside, and Thrive With a UAE Investor Visa",
+                "subTitle": "Invest, Reside, and Thrive With a UAE Investor Visa",
+                "description": "Rent, sell, or purchase property in the UAE and get full access to essential resident services. Build your life and business in one place without compromise.",
+                "image": "/assets/investorVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Dubai Investor Visa Requirements",
+        "description": "Own lucrative properties, hold shares, and invest in government-approved funds with the UAE investor visa. Here are a few things you will need to apply for the visa with One Nexuz:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/investorVisa/iconTitleSec/1.svg",
+                "title": "Valid passport"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/investorVisa/iconTitleSec/2.svg",
+                "title": "Clean criminal record"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/investorVisa/iconTitleSec/3.svg",
+                "title": "Medical fitness certificate"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/investorVisa/iconTitleSec/4.svg",
+                "title": "Health insurance"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/investorVisa/iconTitleSec/5.svg",
+                "title": "Passport size photos"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/investorVisa/iconTitleSec/6.svg",
+                "title": "UAE Police Certificate for Good Conduct"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/investorVisa/iconTitleSec/7.svg",
+                "title": "Bank statements, title deeds, or license (per requirement)"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/investorVisa/left4/1.webp",
+            "title": "Join the 150,000 Investors in the UAE with One Nexuz",
+            "description": "With 0% corporate tax and world-class infrastructure, the UAE Investor Visa lets you build, own, and expand your business on your own terms. Work with One Nexuz to get expert-led visa processing.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/investorVisa/left4/2.webp",
+            "title": "Get Premium Investment Visa Services without The Premium Prices",
+            "description": "Every investment is unique — and so are the visa requirements that come with it. Whether you’re securing residency through property ownership or expanding with a business setup, we provide tailored quotes designed to fit your budget, streamline compliance, and meet your long-term residency goals.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Fast and Hassle-Free Investor Visa Application Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Call",
+                "description": "We assess your documents and unique business needs to confirm which investment route you qualify for.",
+                "image": "/assets/investorVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Map Out Your Investment Route",
+                "description": "Next, our expert consultants determine whether you meet the financial requirements to qualify for an investor visa.",
+                "image": "/assets/investorVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare & Submit Documents",
+                "description": "Once you share bank statements, we provide you with a checklist to compile all the necessary documents, including a passport, NOC, and share certificate.",
+                "image": "/assets/investorVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "File Your Application",
+                "description": "Then, our seasoned consultants file your visa application through the relevant UAE authority to get the entry permit.",
+                "image": "/assets/investorVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your Residency Stamp",
+                "description": "After this, our advisors guide you through the health check and Emirates ID to ensure your passport gets stamped.",
+                "image": "/assets/investorVisa/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Get Post-Visa Support",
+                "description": "Our support doesn’t end with your visa—we stay by your side before the application and approval process. We help with beyond residency approval, helping you sponsor your family and business partners.",
+                "image": "/assets/investorVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner For UAE Investor Visa",
+        "description": "Most founders waste weeks navigating endless paperwork. At One Nexuz, our expert consultants simplify everything, from document prep to final visa stamping.",
+        "items": [
+            {
+                "title": "Accelerate Setup Times",
+                "description": "Slash application processing times in half and get your investor visa in as little as 7 working days. Our local experts fast-track filing so you can scale confidently.",
+                "image": "/assets/investorVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Get Tailored Guidance",
+                "description": "We don’t take a one-size-fits-all approach. Our experts offer personalised solutions based on your setup, investment type, and timeline.",
+                "image": "/assets/investorVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Receive Real-Time Updates",
+                "description": "No vague timelines or hidden fees. We give you full cost breakdowns upfront and keep you updated at every milestone so you’re 100% compliant.",
+                "image": "/assets/investorVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/investorVisa/grid/1.webp",
+        "title": "With One Nexuz, Upgrade to Long-Term Residency without Red Tape",
+        "description": "Skip the sponsorship and renewals and get 10 years of residency, business freedom, and investment opportunities. Our experts make it seamless so you can scale fast.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I applied through my Dubai property but got stuck with the paperwork. I contacted One Nexuz. Their team stepped in, structured everything, and got my investor visa approved fast — no stress, no delays.”",
+                "role": "Real Estate Investor",
+                "image": "/assets/investorVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I’ve worked with other agencies in the UAE before, but none were this clear or efficient. One Nexuz handled my company documents, filed everything correctly, and kept me updated throughout.”",
+                "role": "Tech Founder",
+                "image": "/assets/investorVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a shareholder in a Dubai startup, I didn’t even realize I qualified. They reviewed my docs, explained everything, and managed the process from start to finish. It was seamless.”",
+                "role": "SaaS Co-Founder",
+                "image": "/assets/investorVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Get Complete UAE Visa Support Under One Roof at One Nexuz",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Fast-track visa attestation, processing, and verification with end-to-end PRO support in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Mainland",
+                "description": "Scale your business across the UAE and access local amenities with a Mainland license.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Free Zone",
+                "description": "Enjoy exciting tax breaks, 100% strategic control, and limitless growth opportunities in the UAE FZ.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "UAE Offshore",
+                "description": "Manage global assets, optimise taxation, and maximise profitability in the UAE offshore.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business Licenses",
+                "description": "Pick the ideal business activity and trade license to launch and grow your brand in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Employment Visa Assistance",
+                "description": "Simplify staff hiring with fast, compliant visa processing to build and scale your dream team.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa Services",
+                "description": "Support your business partners with visa options tailored for co-founders and shareholders.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation Services",
+                "description": "Avoid future visa issues with hassle-free, timely, and compliant visa cancellation solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Start Your Dubai Investor Visa Journey Today with One Nexuz!",
+        "description": "Open the doors to business freedom, long-term residency, and unmatched tax efficiency with the right visa. One Nexuz guides you through every phase of the process, helping you secure ",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/investorVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Partner Visa",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does an investor visa remain valid?",
+                "answer": "These last for 2-3 years, depending on your unique investment type. However, you can renew them to continue scaling your business."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I start a business or work in the UAE using an investor visa?",
+                "answer": "Yes, you can live, work, invest, and kickstart a business in the UAE with a Dubai investor visa. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Are there any perks of securing an investor visa?",
+                "answer": "You get legal residency, global banking access, business ownership rights, travel ease, family sponsorship, and an Emirates ID."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I open a corporate bank account using a UAE investor visa?",
+                "answer": "Yes! You can apply for a personal or corporate bank account using a valid investor visa or Emirates ID."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I sponsor my spouse and children with an investor visa?",
+                "answer": "Yes! A UAE investor visa allows you to sponsor your loved ones for a 5 to 10-year period."
+            }
+        ]
+    }
+}
