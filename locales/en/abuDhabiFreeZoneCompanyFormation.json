@@ -1,0 +1,332 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/abuDhabiFreeZoneCompanyFormation.webp",
+        "title": "Company Formation in Abu Dhabi Free Zone Made Simple — Launch, Scale & Grow With Confidence",
+        "description": "Complicated documentation, unclear approvals, and legal hurdles often delay business setup in the UAE. At One Nexuz, we take the stress away with a completely Free Zone business setup in Abu Dhabi. With its strong infrastructure and global connectivity, the Abu Dhabi Free Zone serves as a launchpad for startups, SMEs, and corporates. Our experts make company formation in Abu Dhabi Free Zone fast, compliant, and hassle-free — so you focus on growth while we handle the red tape."
+    },
+    "leftSection_1": {
+        "title": "Why Abu Dhabi Freezone is Ideal for Business Setup",
+        "description": "Abu Dhabi Free Zones offer more than just tax breaks; they promise long-term growth, credibility, and operational freedom.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Global Markets, Connect Seamlessly, and Expand Without Limits",
+                "subTitle": "Access Global Markets, Connect Seamlessly, and Expand Without Limits",
+                "description": "Finding global expansion costly and complicated? With Abu Dhabi’s strategic location and world-class networks, your company formation in Abu Dhabi's Free Zone unlocks access to over 2.5 billion consumers, fueling effortless growth across global markets.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Fast-track Business Setup, Save Time, and Start Scaling",
+                "subTitle": "Fast-track Business Setup, Save Time, and Start Scaling",
+                "description": "Overwhelmed by paperwork and complex requirements? You can cut down your waiting time by half with Abu Dhabi freezone’s efficient setup procedures, allowing you to get your business growing in as little as one week.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Register Your Company, Unlock Profitable Opportunities, and Earn Billions with Government Projects",
+                "subTitle": "Register Your Company, Unlock Profitable Opportunities, and Earn Billions with Government Projects ",
+                "description": "Breaking into high-value industries or a government contract isn’t easy. Register in fast-growing zones like Masdar and ADAFZ to tap into multi-billion-dirham sustainability and tech initiatives to boost your revenue.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Maximise profit, Minimise Taxes, & Elevate Your Bottom Line",
+                "subTitle": "Maximise profit, Minimise Taxes, & Elevate Your Bottom Line",
+                "description": "Frustrated by high corporate taxes eating into your profits? Register in fast-growing zones like Masdar and ADAFZ to tap into multi-billion-dirham sustainability and tech initiatives to boost your revenue.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore the Top Free Zones in Abu Dhabi with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "ADAFZ - Abu Dhabi Airport Free Zone",
+                "description": "",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "ADGM - Abu Dhabi Global Market ",
+                "description": "",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "KIZAD - Khalifa Industrial Zone Abu Dhabi ",
+                "description": "",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Masdar City Free Zone",
+                "description": "",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Twofour54 (Media & Creative)",
+                "description": "",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "One Nexuz Gets You Matched With the Right Legal Structure in Abu Dhabi Free Zone",
+        "description": "Abu Dhabi Free Zones boast countless company structures to meet your long-term business goals, including:",
+        "btn": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Free Zone Establishment",
+                "description": "Ideal for single-shareholder entities, an FZE provides solopreneurs and freelancers full operational control.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Branch of a Foreign Company",
+                "description": "Expand your existing overseas business into the UAE’s fastest-growing city by registering your parent company’s branch.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Free Zone Company",
+                "description": "Perfect for startups, partnerships, and group companies, an FZC offers businesses a multi-shareholder setup.  ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/abuDhabiFreeZoneCompanyFormation/left4/1.webp",
+            "title": "Pay 0% Corporate Tax and own 100% of Your Company with One Nexuz Strategic Guidance",
+            "description": "Abu Dhabi Free Zones offer full foreign ownership, global credibility, and tax benefits. Trust our experts to handle everything and start scaling your business stress-free.:",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/abuDhabiFreeZoneCompanyFormation/left4/2.webp",
+            "title": "Plan Your Free Zone Set Up with One Nexuz Without Breaking the Bank",
+            "description": "At One Nexuz, we offer custom quotes tailored to your business setup requirements and budget limits. Enjoy transparent prices with no hidden fees or add-on surprises; pay only for what you need.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6-Step Process to Launch Your Abu Dhabi Business",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Initial Consultation",
+                "description": "Our expert consultants take time to understand your business goals, assess suitable Abu Dhabi Free Zone options, and guide you in selecting from 1,200+ business activities while ensuring full compliance.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose the Right Legal Structure",
+                "description": "Once your business activity is finalized, we help you select the ideal structure—whether FZC or FZE— apply for a license, and bundle up to 10 business activities, perfect for companies with multiple revenue streams.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Find Your Ideal Workspace",
+                "description": "We assist in securing the right office solution for your needs—from flexi desks and coworking spaces to virtual or fully equipped offices. Whether you want to book, rent, or lease, we ensure your workspace matches your business model.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your Visa",
+                "description": "We collect and process your documents to obtain the relevant license and visas. With access to 5+ visas, you can sponsor family members and hire international talent. Residency visas for owners and employees are also included, making relocation and team expansion seamless.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open Your Bank Account",
+                "description": "With your license in hand, we streamline the process of opening a corporate or personal bank account. Our guidance ensures faster approvals, enabling you to manage transactions, receive payments, and fully operationalize your business.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/5.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Ongoing PRO Support",
+                "description": "Our support doesn’t end with company formation in Abu Dhabi. We handle renewals, compliance, and government formalities so your business remains fully compliant with UAE regulations. From license and visa renewals to ongoing PRO services, we keep your operations smooth and hassle-free.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Thousands of Businesses in the UAE Trust One Nexuz",
+        "description": "Streamline your free zone business setup in Abu Dhabi with our skilled consultants and advisors. Here’s why brands in the UAE choose us:",
+        "items": [
+            {
+                "title": "Enjoy Fast Approvals",
+                "description": "We streamline every step to minimize the risk of delays, ensuring you get your license issued within half the time.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/bgImage/1.webp"
+            },
+            {
+                "title": "All-in-One Business Services",
+                "description": "From licensing all the way to banking, our holistic business setup solutions get you ready to scale from day one.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/bgImage/2.webp"
+            },
+            {
+                "title": "Gain 24/7 Customer Support",
+                "description": "Our dedicated consultants offer round-the-clock support, ensuring you’re always compliant and focused on growth.",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/abuDhabiFreeZoneCompanyFormation/grid/1.webp",
+        "title": "Ride the Growth Wave in Abu Dhabi Free Zone with One Nexuz",
+        "description": "With a 9% annual growth rate, business activity is surging in the region. But this window won’t stay open forever. We’ll set up your license and visas to get you operational within days!",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We launched in Masdar within 6 days. The experts at One Nexuz handled everything—from paperwork to banking.”",
+                "role": "Clean Energy Startup",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Zero delays, full transparency, and no stress. I wouldn’t set up a business anywhere else.”",
+                "role": "Trading Company Owner",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“One Nexuz helped us launch in Khalifa Industrial Zone without a single hiccup. Licensing, approvals, even our visa—they managed it all flawlessly.”",
+                "role": "Logistics Entrepreneur",
+                "image": "/assets/abuDhabiFreeZoneCompanyFormation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover Business Setup Services Beyond Abu Dhabi",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Free Zone",
+                "description": "Streamline your setup in DFZ with complete licensing and visa support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Ras Al Khaimah Free Zone",
+                "description": "Gain easy access to industrial licenses with our seamless setup services.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Free Zone",
+                "description": "Scale in the Sharjah Free Zone to gain convenient access to a global market.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ajman Free Zone",
+                "description": "Build a global presence by setting up in the heart of the UAE with expert guidance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Umm Al Quwain Free Zone",
+                "description": "Launch cost-effectively in the UAE’s investor-friendly, most affordable free zones.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Fujairah Free Zone",
+                "description": "Gain access to a diverse customer base by tapping into the region’s port infrastructure.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Partner with One Nexuz & Launch Your Abu Dhabi Free Zone Company in 1 Week",
+        "description": "At One Nexuz, we handle all the complex paperwork, licensing, and compliance so you can enjoy a hassle-free, fast, and secure freezone business setup in Abu Dhabi.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/abuDhabiFreeZoneCompanyFormation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Ajman Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Fujairah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ras al Khaimah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Sharjah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "UAQ Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why set your business in the Abu Dhabi free zone?",
+                "answer": "Expanding into this region means you can enjoy 100% foreign ownership, tax exemptions, access to talent, and improved profits."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to set up a company in Abu Dhabi’s free zone?",
+                "answer": "With One Nexuz, you can get your business up and running within 5 to 7 working days, including securing a trade name and license."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I, as an expat, own my company in the Abu Dhabi free zone?",
+                "answer": "Yes, free zones allow you to own 100% of your business, eliminating the need for a local sponsor."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need to kick off my company in the Abu Dhabi free zone?",
+                "answer": "You’ll typically need a copy of your passport and visas, a passport-sized photo, a proposed business name, a certificate of incorporation (only for businesses), and a brief description of your business activity."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I get residency visas through my freezone Abu Dhabi company?",
+                "answer": "Yes, most Abu Dhabi free zones allow you to apply for 1 to 5 residency visas using a company license."
+            }
+        ]
+    }
+}

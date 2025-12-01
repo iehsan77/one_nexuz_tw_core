@@ -20,9 +20,11 @@ function LeftCard1({ data, locale }) {
           />
         </LanguageAwareLink>
       </div>
-      <Typography as="p" size="sm" weight="normal" color="gray">
-        {data?.description}
-      </Typography>
+      {data?.description && (
+        <Typography as="p" size="sm" weight="normal" color="gray">
+          {data?.description}
+        </Typography>
+      )}
     </div>
   );
 }

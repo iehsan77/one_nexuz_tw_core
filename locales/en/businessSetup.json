@@ -244,11 +244,31 @@
   "exploreIndustry": {
     "title": "^Explore More Services^",
     "items": [
-      { "id": 1, "title": "Corporate Services", "url": "#" },
-      { "id": 2, "title": "Banking & Wealth", "url": "#" },
-      { "id": 3, "title": "Digital & Branding Solutions", "url": "#" },
-      { "id": 4, "title": "Millionaire & Billionaire", "url": "#" },
-      { "id": 5, "title": "Logistics & Relocation", "url": "#" }
+      {
+        "id": 1,
+        "title": "Corporate Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Banking & Wealth",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Digital & Branding Solutions",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Millionaire & Billionaire",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation",
+        "url": "#"
+      }
     ]
   },
   "faq": {

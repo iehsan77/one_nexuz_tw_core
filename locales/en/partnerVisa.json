@@ -1,0 +1,314 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/partnerVisa.webp",
+        "title": "Launch Your Business and Secure UAE Residency with Our  Dubai Partner Visa Services",
+        "description": "Tired of bureaucratic delays and complicated setups holding your business back? Unlock UAE business opportunities, secure long-term residency, and sponsor your loved ones with ease. Whether you’re launching a new office or scaling an existing enterprise, effortlessly lease workspace, open corporate bank accounts, and grow your business in one of the world’s fastest-growing markets."
+    },
+    "leftSection_1": {
+        "title": "Get full ownership rights, long-term stability, and the flexibility to sponsor your family members with a business partner visa in Dubai..",
+        "description": "Get full ownership rights, long-term stability, and the flexibility to sponsor your family members with a business partner visa in Dubai..",
+        "items": [
+            {
+                "id": 1,
+                "title": "Live and Work Legally, Secure Residency, & Unlock Local Benefits",
+                "subTitle": "Live and Work Legally, Secure Residency, & Unlock Local Benefits",
+                "description": "Tired of legal uncertainty and risky setups? Live and operate legally in the UAE and unlock access to housing, utilities, healthcare, and financial services. Gain peace of mind knowing your residency and business are fully compliant, so you can focus on growth and opportunities.",
+                "image": "/assets/partnerVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Set Up Your Business Anywhere, Retain Full Control, & Maximise Profits",
+                "subTitle": "Set Up Your Business Anywhere, Retain Full Control, & Maximise Profits",
+                "description": "Worried that setting up a business in the UAE could mean sharing equity and having no control over your business? Keep full legal control of your company, your structure, operations, and profits. No local sponsor, no equity sharing- just independent ownership.",
+                "image": "/assets/partnerVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Open Corporate Bank Accounts, Manage Payments, & Attract Lucrative Financing Opportunities",
+                "subTitle": "Open Corporate Bank Accounts, Manage Payments, & Attract Lucrative Financing Opportunities",
+                "description": "Frustrated by complex banking rules and payment restrictions? Enjoy unlimited access to multi-currency business accounts, payment gateways, and financing options as a UAE resident with a partner visa.",
+                "image": "/assets/partnerVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Long-Term Residency, Secure Stability, & Scale Your Business Confidently",
+                "subTitle": "Unlock Long-Term Residency, Secure Stability, & Scale Your Business Confidently",
+                "description": "Worried about frequent visa renewals disrupting your business plans? Qualify for a 5 to 10-year residency visa as your revenue grows, and continue to thrive in the country. Secure your long-term future with stability, freedom, and full control over your business and lifestyle.",
+                "image": "/assets/partnerVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Do Our All-Inclusive Partner Visa Packages Include",
+        "description": "Focus on scaling your business while our expert consultants take care of the legal foundation. With this visa, you get:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/partnerVisa/iconTitleSec/1.svg",
+                "title": "Legal residency in the UAE"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/partnerVisa/iconTitleSec/2.svg",
+                "title": "Family sponsorship (spouse, children, & parents)"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/partnerVisa/iconTitleSec/3.svg",
+                "title": "Banking, property ownership, & contracts"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/partnerVisa/iconTitleSec/4.svg",
+                "title": "Stress-free entry and exit into the UAE"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/partnerVisa/iconTitleSec/5.svg",
+                "title": "Full freedom to run and manage your company"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/partnerVisa/left4/1.webp",
+            "title": "Live. Work. Co-Own- All With One Nexuz Partner Visa Services",
+            "description": "Whether you’re launching or joining an existing setup, the UAE Partner Visa gives you full legal residency tied directly to your business. We make it fast, compliant, and stress-free!",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/partnerVisa/left4/2.webp",
+            "title": "Save Time & Money with Our Custom Quotes for Partner Visa Services",
+            "description": "Get personalized partner visa solutions tailored to your business and lifestyle. Get custom pricing options and avoid hidden fees, and surprise add ons to get premium services without breaking the bank.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 5-Step Tried-and-Tested Partner Visa Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get a Free Eligibility Review",
+                "description": "We take the time to discuss your unique business goals, model, and shareholding structure to identify the best visa path with you.",
+                "image": "/assets/partnerVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Issue a Trade License & MOA",
+                "description": "Next, our experts ensure you hold a valid trade license and MOA, followed by securing all the relevant approvals.",
+                "image": "/assets/partnerVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Your Entry Permit",
+                "description": "We then assist in applying for an entry permit through the relevant regulatory portals to facilitate your relocation to the UAE.",
+                "image": "/assets/partnerVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Collect & Submit Documents",
+                "description": "After that, we provide you with a checklist to compile all necessary documents, including passports, Emirates IDs, and medical test results.",
+                "image": "/assets/partnerVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Your Partner Visa",
+                "description": "With the partner visa approved, all that’s left is to start operating and scaling your business with confidence.",
+                "image": "/assets/partnerVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why UAE Businesses Need One Nexuz to Secure a UAE Partner Visa",
+        "description": "Our experts provide custom-made visa solutions so you can focus on launching and scaling in one of the world’s most dynamic business environments.",
+        "items": [
+            {
+                "title": "Minimise Administrative Burden",
+                "description": "We streamline all the paperwork and government interaction so you can start operating your business stress-free.",
+                "image": "/assets/partnerVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Fast-Track Visa Processing",
+                "description": "Get your residency and license in as little as 7 days and enjoy the flexibility to travel and visit your loved ones without compromising your residency status.",
+                "image": "/assets/partnerVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Get Tailored Guidance",
+                "description": "Our dedicated consultants assess your business goals and timeline to recommend a visa and setup that actually fits your needs!",
+                "image": "/assets/partnerVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/partnerVisa/grid/1.webp",
+        "title": "Get Strategic Relocation Support Powered by One Nexuz & Expand Your Business",
+        "description": "No more red tape. From documentation to visa stamping, we fast-track the process so your partner can legally reside in the UAE — aligned with your business goals.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz.",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I’d spent weeks researching partner visas, and still got stuck. One Nexuz simplified everything and I got my license and visa in 9 days flat.”",
+                "role": "HealthTech Platform CoFounder",
+                "image": "/assets/partnerVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“This team knows founders. They helped me choose a Free Zone that made sense, and handled my visa while I was still abroad.”",
+                "role": "SaaS Entrepreneur ",
+                "image": "/assets/partnerVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“With One Nexuz, it wasn’t just a visa. They gave me clarity on structure, bank account support, and even helped bring my family here.”",
+                "role": "Boutique Agency Owner",
+                "image": "/assets/partnerVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand across the UAE with Our Strategic Visa Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Cut through the red tape and fast-track visa approvals and registration with expert PRO agents.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Free Zone",
+                "description": "Gain full strategic ownership, maximise profitability, and scale worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Mainland",
+                "description": "Unlock limited market access and tap into world-class local amenities by setting up in the Mainland.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "UAE Offshore",
+                "description": "Protect your assets globally and maximise tax efficiency with our strategic offshore setup.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business License",
+                "description": "Choose from countless UAE Mainland and Free Zone licenses tailored to your business needs.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Investor Visa Processing",
+                "description": "Get long-term residency through direct ownership and avoid employment ties.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Employment Visa Assistance",
+                "description": "Hire, relocate, and retain top talent with seamless employment visa services.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation Services",
+                "description": "Protect your legal standing in the UAE with our fully compliant visa termination services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Scale Confidently with Our Expert-Led Partner Visa Services in the UAE",
+        "description": "Residency. Ownership. Scalability. The UAE Partner Visa promises it all! Capitalise on the country’s dynamic ecosystem and business-friendly legal system with our seamless partner visa solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/partnerVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to obtain a partner visa in the UAE?",
+                "answer": "It typically takes 1-4 weeks to receive a UAE partner visa, depending on the readiness of the documents and the completion of medical tests."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How is a partner visa different from an investor visa?",
+                "answer": "Both visas are functionally the same and are issued to individuals who own a UAE business. The terminology varies depending on the jurisdiction, which is why our experts help find the ideal visa solution."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I apply for a partner visa while I’m outside the UAE?",
+                "answer": "Yes, you can kickstart the application process while abroad. Once your entry permit is issued, you can enter the country and complete the remaining procedures locally. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need a local sponsor to obtain a partner visa?",
+                "answer": "No. Most free zones and mainland structures offer 100% foreign ownership, meaning the visa is issued in your name as a legal shareholder."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I sponsor my family through a partner visa?",
+                "answer": "Yes. Once your visa is active, you can sponsor your spouse, children, and dependents under your file."
+            }
+        ]
+    }
+}

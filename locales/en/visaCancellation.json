@@ -1,0 +1,335 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/visaCancellation.webp",
+        "title": "Prevent Delays & Penalties with Our Hassle-Free Visa Cancellation Process in Dubai",
+        "description": "Switch jobs, sponsor loved ones, and travel across borders with the UAE's seamless visa cancellation process. Transition from one visa to another without losing your residency status with 100% compliant cancellation applications. Our skilled business advisors handle every step of the process to help minimise fines, maximise grace periods, and ensure a clean record."
+    },
+    "leftSection_1": {
+        "title": "Why Do Entrepreneurs Need the UAE Visa Cancellation Services",
+        "description": "Without timely visa cancellations, you run the risk of incurring hefty fines, facing legal disputes, and being banned from re-entering the country.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Avoid Daily Penalties, Stay 100% Compliant, & Save Over AED 700/Day in Fines ",
+                "subTitle": "Avoid Daily Penalties, Stay 100% Compliant, & Save Over AED 700/Day in Fines ",
+                "description": "Ensure timely visa cancellations to avoid overstaying and incurring AED 650-700/day in fines, e-services, and ICP smart services.",
+                "image": "/assets/visaCancellation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Eliminate Risk of Rejections, Prevent Immigration Delays, & Ensure Smooth Renewals",
+                "subTitle": "Eliminate Risk of Rejections, Prevent Immigration Delays, & Ensure Smooth Renewals",
+                "description": "Mitigate the risk of unpaid dues, incomplete forms, and missing paperwork that can lead to immigration system blocks. Create and maintain a clean track record for hassle-free entry and exits.",
+                "image": "/assets/visaCancellation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Switch Careers Seamlessly, Upgrade Skills, & Build a Stronger Career Path in the UAE",
+                "subTitle": "Switch Careers Seamlessly, Upgrade Skills, & Build a Stronger Career Path in the UAE",
+                "description": "Build your professional journey and unlock unlimited business growth with seamless job transitions and speedy visa changes.",
+                "image": "/assets/visaCancellation/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Eliminate Paperwork Errors, Prevent Costly Fines, & Ensure a Smooth Exit with Expert Visa Cancellation Services",
+                "subTitle": "Eliminate Paperwork Errors, Prevent Costly Fines, & Ensure a Smooth Exit with Expert Visa Cancellation Services",
+                "description": "Navigate the UAE's stringent visa cancellation regulations confidently with pro business consultants guiding you every step of the way.",
+                "image": "/assets/visaCancellation/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What You Need for a Stress-Free UAE Visa Cancellation Process",
+        "description": "Cancel and switch your UAE visa without the administrative headaches with One Nexuz. Share the following documents:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/visaCancellation/iconTitleSec/1.svg",
+                "title": "Passport & Emirates ID"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/visaCancellation/iconTitleSec/2.svg",
+                "title": "Employment Visa & Labor Card"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/visaCancellation/iconTitleSec/3.svg",
+                "title": "MOHRE Visa Cancellation Request"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/visaCancellation/iconTitleSec/4.svg",
+                "title": "GDFRA Visa Cancellation Request"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/visaCancellation/iconTitleSec/5.svg",
+                "title": "Final Settlement Agreement"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/visaCancellation/iconTitleSec/5.svg",
+                "title": "Signed Visa Cancellation Form"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/visaCancellation/left4/1.webp",
+            "title": "Cancel Your UAE Visa Quickly and Hassle-Free Way with One Nexuz",
+            "description": "Nearly 32,000+ overstayers were arrested in just six months- take action today to save weeks of stress and penalties.   ",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/visaCancellation/left4/2.webp",
+            "title": "Cancel Smart, Save Big with Custom Pricing",
+            "description": "At One Nexuz, we understand every case is different — whether you’re an employer ending multiple contracts or an individual wrapping up your stay. That’s why we offer flexible, custom quotes designed to fit your exact situation.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6-Step Roadmap That Simplifies Visa Cancellation in Dubai",
+        "items": [
+            {
+                "id": 1,
+                "title": "Collect the Relevant Documents",
+                "description": "We'll schedule a free consultation at your convenience to help compile the necessary documents.",
+                "image": "/assets/visaCancellation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Conduct a Compliance Check",
+                "description": "Next, our experts will verify your visa type and Emirates rules to determine your grace period.",
+                "image": "/assets/visaCancellation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "After that, we'll file and submit all the paperwork through the GDFRA, ICA, or Free Zone portal per your residence.",
+                "image": "/assets/visaCancellation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure All Clearances",
+                "description": "If you have an employment visa, we'll coordinate all MOHRE back-and-forth for seamless clearances.",
+                "image": "/assets/visaCancellation/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Confirmations",
+                "description": "Once your application is approved, we'll issue official visa cancellation documents and send them your way.",
+                "image": "/assets/visaCancellation/left5/5.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Personalised Guidance",
+                "description": "Beyond visa cancellation, we offer custom solutions, including bank closures and a change of visa.",
+                "image": "/assets/visaCancellation/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for Seamless Visa Cancellations in the UAE",
+        "description": "One missed step in visa cancellation can trigger year-long immigration blocks. Our skilled business advisors help combat overstay fines and legal disputes with fast, reliable, and affordable visa cancellations.",
+        "items": [
+            {
+                "title": "Speedy Visa Cancellation Approvals",
+                "description": "Our seasoned PRO specialists file your cancellation applications within 24-48 hours, mitigating the risk of an overstay and ensuring 100% fine avoidance.",
+                "image": "/assets/visaCancellation/bgImage/1.webp"
+            },
+            {
+                "title": "Maximise Your Grace Period",
+                "description": "We help you strategically use your grace period, empowering you with more breathing room to secure your next job, switch careers, or launch a business.",
+                "image": "/assets/visaCancellation/bgImage/2.webp"
+            },
+            {
+                "title": "End-to-End Clearance Solutions",
+                "description": "Enjoy a seamless exit from the UAE with our skilled advisors to guide you through bank clearances, utility account closures, and final settlements.",
+                "image": "/assets/visaCancellation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/visaCancellation/grid/1.webp",
+        "title": "Your Smooth Exit from the UAE Starts Here",
+        "description": "No more confusing forms or endless follow-ups. Our professionals ensure your visa cancellation is fast, seamless, and fully compliant.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The process was faster than I expected. I didn’t have to visit any government offices, and my cancellation approval arrived in two days. Saved me time and stress.” ",
+                "role": "Construction Project Manager",
+                "image": "/assets/visaCancellation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I was outside the UAE when my job ended and needed to cancel my visa remotely. They handled everything and kept me updated every step of the way.” ",
+                "role": "E-commerce Brand Co-Owner",
+                "image": "/assets/visaCancellation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Clear instructions, no hidden costs, and they even guided me on what to do after cancellation so I could start my new business smoothly.”",
+                "role": "Retail Company Entrepreneur",
+                "image": "/assets/visaCancellation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Power Business Growth with Our End-to-End Visa Assistance",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "UAE Free Zone",
+                "description": "Launch your company in the heart of the UAE with 100% ownership, zero corporate tax, and global market access.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Mainland",
+                "description": "Trade within and beyond the UAE, access local markets, and unlock limitless growth potential in the UAE Mainland.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Offshore",
+                "description": "Protect your assets, optimise taxes, and diversify your real estate portfolio by setting up in the UAE Offshore.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "PRO Services UAE",
+                "description": "Simplify visa processing, government approvals, and license renewals with our expert PRO agents.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Business License",
+                "description": "Pick from 10+ trade licenses throughout the UAE tailored to your unique business needs and future goals.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Investor Visa Processing",
+                "description": "Secure 2-3 year residency and tap into the UAE's top-notch amenities via government or real estate investments.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Employment Visa Assistance",
+                "description": "Scale your business and grow your team hassle-free, with seamless UAE employment visa assistance.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Partner Visa Services",
+                "description": "Gain co-ownership of your business and sponsor your spouse and children with a UAE partner visa.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Venture Onto New Paths & Unlock Better Opportunities with Our Professional Visa Cancellation Services",
+        "description": "Streamline financial clearances, paperwork submissions, and documentation without setting foot in a government office with our seasoned advisors. Secure cancellations in as little as 48 hours to begin your next chapter confidently.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/visaCancellation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How many days does it take to process the cancellation of a visa in the UAE?",
+                "answer": "Most visa cancellations are processed within 24-48 hours, given that you prepare and submit all the necessary documents."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to process my UAE visa?",
+                "answer": "Generally, you'll need an Emirates ID of your sponsor, passport copies, visa copies, family passport copies, and signed visa cancellation forms."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What is the process of visa cancellation in the UAE?",
+                "list": {
+                    "listTitle": "The UAE visa cancellation process involves six simple steps, including:",
+                    "items": [
+                        "Document collection",
+                        "Sponsor approval",
+                        "Application submission",
+                        "Fee payment",
+                        "Approval issuance",
+                        "Grace period determination"
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I have to leave the UAE immediately after the cancellation of my UAE visa?",
+                "answer": "Not necessarily. Most visa holders receive a 30 to 180-day grace period after visa cancellation, depending on their visa type and Emirate."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I need to cancel the dependents' visa separately?",
+                "answer": "Yes, dependent visas, such as those for spouses and children, must be cancelled before the main sponsor's visa. Our skilled PRO specialists can help you navigate this process to avoid fines or legal issues."
+            }
+        ]
+    }
+}

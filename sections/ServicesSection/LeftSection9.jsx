@@ -81,7 +81,7 @@ function LeftSection9() {
           </div>
           {/* 2 */}
           {/* 3 */}
-          <div className="flex flex-col gap-6">
+          <div className="hidden lg:flex flex-col gap-6">
             <Typography as="p" weight="bold" size="xl">
               {t?.counterSec?.sec3?.title}
             </Typography>
@@ -97,7 +97,8 @@ function LeftSection9() {
               <Typography
                 size="5xl"
                 weight="bold"
-                className="flex items-center">
+                className="flex items-center"
+              >
                 :
               </Typography>
               <div className="flex flex-col items-center border border-primary p-2 xl:p-4 rounded-lg w-full xl:min-w-[100px]">
@@ -111,7 +112,8 @@ function LeftSection9() {
               <Typography
                 size="5xl"
                 weight="bold"
-                className="flex items-center">
+                className="flex items-center"
+              >
                 :
               </Typography>
               <div className="flex flex-col items-center border border-primary p-2 xl:p-4 rounded-lg w-full xl:min-w-[100px]">
