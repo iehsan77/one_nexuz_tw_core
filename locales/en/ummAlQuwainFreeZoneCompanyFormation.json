@@ -1,0 +1,325 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/businessSetup.webp",
+        "title": "From Paperwork to Profitability, Start Smart with One Nexuz Umm Al Quwain Free Zone Business Setup Services",
+        "description": "Scale your business with full ownership, flexible visa options, and cost-effective license packages in Umm Al Quwain Free Zone. At One Nexuz, we do all the heavy lifting, from paperwork to license issuance, so you can start your UAQ business journey today!"
+    },
+    "leftSection_1": {
+        "title": "What Makes UAQ Free Zone a Top Business Choice in the UAE",
+        "description": "Take advantage of the Umm Al Quwain free zone’s budget-friendly business setup solutions and grow with fewer barriers.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Slash Startup Expenses and Grow Confidently With Umm Al Quwain",
+                "subTitle": "Slash Startup Expenses and Grow Confidently With Umm Al Quwain",
+                "description": "Tired of expensive and time-consuming business setups? Save up to 60% on Umm Al Quwain Free Zone company setup, with the region’s cost-effective, 100% remote business setup and licensing solutions. Secure your license quickly and enjoy full access to the UAE market without unnecessary overheads",
+                "image": "/assets/businessSetup/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Retain Full Control, Keep 100% Profits, & Operate Freely",
+                "subTitle": "Retain Full Control, Keep 100% Profits, & Operate Freely",
+                "description": "Break free from costly sponsorship agreements that limit your growth. With UAQ FTZ, you get the freedom to own and manage your business without the need for a local sponsor. Maximise your earnings, protect your ownership rights, and grow your business on your own terms.",
+                "image": "/assets/businessSetup/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Expand Seamlessly Across Local, Regional & Global Markets With Umm Al Quwain Free Zone Setup",
+                "subTitle": "Expand Seamlessly Across Local, Regional & Global Markets With Umm Al Quwain Free Zone Setup",
+                "description": "Are high logistics costs draining your budget? Located near key seaports, the UAQ Free Zone provides businesses with special concessions and convenient access to global markets. Its strategic location makes import, export, and distribution faster and more cost-efficient.",
+                "image": "/assets/businessSetup/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Keep More of What You Earn with 0% Corporate & Income Tax Advantages",
+                "subTitle": "Keep More of What You Earn with 0% Corporate & Income Tax Advantages",
+                "description": "Are heavy taxes weighing down your business? Elevate your bottom line by taking advantage of Umm Al Quwain Free Trade Zone’s zero corporate and personal taxes and 100% profit repatriation. Keep every dirham you earn and reinvest it directly into scaling your business.",
+                "image": "/assets/businessSetup/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore License Types in UAQ Free Zone with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Best for businesses buying, selling, or storing goods within the local or international market.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "description": "Manufacture, produce, or package goods by leasing UAQ’s cost-efficient units.",
+                "url": "#"
+            },
+            {
+                "id": 1,
+                "title": "Service License",
+                "description": "Ideal for professional service providers seeking expansion in the UAE’s booming economy.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Freelance Permit",
+                "description": "Well-suited for solopreneurs seeking the freedom to operate under their name rather than a brand name.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Pick the Best-Fit Legal Structure in UAQ Free Zone with One Nexuz",
+        "description": "Ensure a successful Umm al Quwain Free Zone business setup journey by choosing the ideal legal entity tailored to your unique business goals.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Free Zone Establishment",
+                "description": "Best suited for a single shareholder, an FZE provides strategic ownership of the brand.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Company",
+                "description": "Gain unmatched flexibility to scale your business as you grow.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Branch of a Local or Foreign Company",
+                "description": "Expand to the UAE without the stress of forming a brand-new entity.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/businessSetup/left4/1.webp",
+            "title": "One Nexuz: Your Gateway to Joining 9,000+ Winning Businesses in UAQ Free Zone",
+            "description": "With quick approvals, zero income tax, and multi-year license options, UAQ makes it easy to launch and expand. We take care of every step so you can stay focused on your business.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/businessSetup/left4/2.webp",
+            "title": "Transparent Pricing, Tailored to Your Needs",
+            "description": "When setting up your business in the Umm Al Quwain Free Zone, we believe in keeping costs clear and fair. Instead of rigid packages with hidden fees, we provide custom quotes based on your exact requirements—so you only pay for the services you truly need. Whether it’s licensing, activity selection, or support with documentation, our pricing adapts to your business goals and budget.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6-Step Umm Al Quwain Free Zone Company Setup Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Consultation",
+                "description": "We begin by understanding your goals and helping you choose the right license category in UAQ Free Zone, ensuring your business starts on the right track.",
+                "image": "/assets/businessSetup/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Legal Structure & Licensing",
+                "description": "Our team guides you through selecting the ideal legal structure, prepares all required documents, and handles the license application—so you don’t have to worry about the details.",
+                "image": "/assets/businessSetup/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Workspace Selection",
+                "description": "Whether you need a flexi-desk, office space, warehouse, or industrial facility, we help you find the workspace that best fits your business needs.",
+                "image": "/assets/businessSetup/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Visa Assistance",
+                "description": "From investor and employee visas to family sponsorship, we manage the entire process, making relocation and team building smooth and stress-free.",
+                "image": "/assets/businessSetup/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Bank Account Setup",
+                "description": "Once you’ve your visa and license ready, we help you in opening a corporate bank account, ensuring your company is financially operational without delays.",
+                "image": "/assets/businessSetup/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Ongoing PRO & Compliance Support",
+                "description": "Our commitment doesn’t stop at setup—we continue to assist with renewals, compliance, and documentation, keeping your UAQ Free Zone company fully compliant and future-ready.",
+                "image": "/assets/businessSetup/left5/6.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Launch Your Business in Umm Al Quwain Free Zone",
+        "description": "Say goodbye to piles of paperwork by trusting expert business consultants to handle the Umm Al Quwain Free Zone setup.",
+        "items": [
+            {
+                "title": "Get Expert Local Knowledge",
+                "description": "Our professional consultants boast over a decade of experience and intimate knowledge of the local regulations, so you can launch with clarity and confidence.",
+                "image": "/assets/businessSetup/bgImage/1.webp"
+            },
+            {
+                "title": "Ensure Hassle-Free Setup",
+                "description": "Get business setup, bank account creation, and PRO services under one roof to expand your brand across the UAE stress-free.",
+                "image": "/assets/businessSetup/bgImage/2.webp"
+            },
+            {
+                "title": "Accelerate Setup Times",
+                "description": "Slash processing times and receive your UAQ Free Trade Zone license within 48-72 hours. No delays, no errors, and no hidden costs.",
+                "image": "/assets/businessSetup/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/businessSetup/grid/1.webp",
+        "title": "Boost Brand Efficiency with One Nexuz UAQ Free Zone Business Setup Services",
+        "description": "Enjoy fast licensing, low overheads, and 100% foreign ownership—ideal for startups and SMEs with One Nexuz.",
+        "btn": "Scale Your Business Today!Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz saved me over AED 6,000 by guiding me to the right license structure. Their team was honest, fast, and fully transparent from the start.”“One Nexuz saved me over AED 6,000 by guiding me to the right license structure. Their team was honest, fast, and fully transparent from the start.”",
+                "role": "Logistics Company Owner",
+                "image": "/assets/businessSetup/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I had my trade license in just two days. Everything was handled smoothly—no stress, no delays. Honestly, I couldn’t have asked for better support.”",
+                "role": "E-commerce Entrepreneur",
+                "image": "/assets/businessSetup/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“What impressed me most was the personal consultant. One point of contact, every question answered, and the process explained clearly. Highly recommend One Nexuz if you want things done right.”",
+                "role": "Business Consultant",
+                "image": "/assets/businessSetup/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "One Nexuz Helps Expand Your Business Across UAE Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Free Zone",
+                "description": "Launch in Dubai’s premier business hubs to tap into its innovative infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Abu Dhabi Free Zone",
+                "description": "Take advantage of the UAE’s fastest-growing economy by establishing in the Abu Dhabi Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Ras Al Khaimah Free Zone",
+                "description": "Cut down processing costs by setting up your business in the RAK free zone.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Sharjah Free Zone",
+                "description": "Unlock affordable licensing in Sharjah’s thriving commercial hub.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Ajman Free Zone",
+                "description": "Enjoy minimal overhead and maximum strategic control with our seamless setup.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Fujairah Free Zone",
+                "description": "Access lucrative local and global markets by leveraging FFZA’s strategic location.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Take the First Step with One Nexuz Today",
+        "description": "Unlock sustainable business growth with seamless business setup in UAQ Free Zone. Our expert consultants take the stress away, providing you with a clear path to succeeding in the UAE’s dynamic market.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/businessSetup/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Ajman Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Fujairah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Ras al Khaimah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Sharjah Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What documents do business owners need to register a UAQ FTZ company?",
+                "answer": "You’ll need copies of UAE entry stamps, passport-sized photos, and recent utility bills for address proof."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do businesses have to pay in the Umm al Quwain free zone?",
+                "answer": "With new regulations, businesses in UAQ free zone now enjoy 0% corporate and personal taxes and low import/expert duties."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What business activities can I engage in Umm Al Quwain’s free zones??",
+                "answer": "The region offers a diverse range of over 1,500 business activities tailored to your unique needs."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need to secure a physical office to register in UAQ FTZ?",
+                "answer": "No! You can set up your business in UAQ free zone using cost-effective alternatives like flexi-desk or co-sharing offices."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I bundle multiple business activities under a single UAQ free zone license?",
+                "answer": "Yes, you can consolidate numerous activities under a single trade license. For instance, commercial licenses allow for ten categories, whereas freelancer permits can accommodate up to two activities."
+            }
+        ]
+    }
+}

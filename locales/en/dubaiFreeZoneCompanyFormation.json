@@ -1,0 +1,366 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dubaiFreeZoneCompanyFormation.webp",
+        "title": "Dubai Free Zone Business Setup Simplified — Start, Grow & Unlock Global Opportunities",
+        "description": "Choosing the wrong Free Zone, or lacking local knowledge and trusted guidance, can make starting a business in Dubai overwhelming. At One Nexuz,  we simplify the process with a tailored Free Zones business setup across 25+ high-growth free zones. With the UAE's booming economy, 100% foreign ownership, zero taxes, and direct access to major sea ports and airports, Dubai Free Zones are the ideal starting point. Our expert consultants offer tailored freezone company setup solutions in Dubai."
+    },
+    "leftSection_1": {
+        "title": "Why Join the 150 Million Businesses in Dubai Free Zone?",
+        "description": "Expand into the Dubai free zones to grow faster, spend smarter, and reach local & global markets. The city’s dynamic tax environment makes it the perfect launchpad for startups and multinational firms alike.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Uplift Business Growth, Tap Into Opportunities, and Expand Confidently",
+                "subTitle": "Uplift Business Growth, Tap Into Opportunities, and Expand Confidently",
+                "description": "With 4.4% YoY economic growth and a location bridging Asia, Europe, and Africa, Dubai stands as one of the world’s most dynamic business hubs. Its Free Zones provide streamlined setup, world-class infrastructure, and access to thriving global trade routes — giving businesses the speed, stability, and scale to grow with confidence.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain 100% Foreign Ownership, Retain Control, and Maximise Profits",
+                "subTitle": "Gain 100% Foreign Ownership, Retain Control, and Maximise Profits",
+                "description": "Unlike traditional setups, Dubai Free Zones grant complete foreign ownership and 100% profit repatriation. Entrepreneurs and investors enjoy full decision-making authority and operational freedom, ensuring their businesses remain globally competitive while maximising returns.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Benefit from a Tax-Friendly Landscape, Boost Revenue, and Reinvest in Growth",
+                "subTitle": "Benefit from a Tax-Friendly Landscape, Boost Revenue, and Reinvest in Growth",
+                "description": "Dubai’s Free Zones offer 0% corporate and personal income tax, allowing businesses to retain more of their earnings. This tax-friendly environment boosts profitability and creates greater capacity for reinvestment, accelerating expansion across local and international markets.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Access Global & Regional Markets With Seamless Connectivity",
+                "subTitle": "Access Global & Regional Markets With Seamless Connectivity",
+                "description": "Dubai’s Free Zones are strategically positioned with world-class air, sea, and land logistics. Direct access to international airports, major seaports, and modern road networks ensures smooth trade flows and global reach — giving businesses a clear competitive edge in regional and international markets.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover the Ideal Free Zone in Dubai with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai South - Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "One Nexuz Helps You Choose the Right Company Formation in Dubai Free Zone",
+        "description": "Simplify Dubai free zone business setup by identifying which company structure aligns with your needs:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Free Zone Establishment",
+                "description": "Ideal for solo entrepreneurs, allowing a single shareholder to own a business fully.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Company",
+                "description": "FZ Co’s suits businesses with over two shareholders, offering flexibility for partnerships or corporate entities.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Branch Office",
+                "description": "For existing companies seeking expansion, Branch Office empowers growth without the risk of losing business ownership.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dubaiFreeZoneCompanyFormation/left4/1.webp",
+            "title": "One Nexuz Connects You with 40,000+ Businesses that are Already Thriving",
+            "description": "With streamlined setup, zero tax burdens, and full foreign ownership, your business is primed to thrive from day one. Let our experts guide you every step of the way—so you can focus on scaling, not settling.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dubaiFreeZoneCompanyFormation/left4/2.webp",
+            "title": "Launch Your Dubai Free Zone Business Affordably with One Nexuz",
+            "description": "Free Zone Business setup costs don’t have to be confusing or overpriced. With one Nexuz, you can get a custom price plan tailored to your business needs — clear, affordable, and built for growth. No hidden fees, no surprises — just a smooth start for your Dubai Free Zone Journey.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Set Up Your Business in the Dubai Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Initial Consultation",
+                "description": "We assess your business goals and help identify the right Dubai Free Zone — from DIFC to DMCC — aligning with your activity.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select Legal Structure",
+                "description": "Our team finalizes your structure (FZE, FZCO, or branch office), bundles your activities, and applies for the license in line with Dubai’s requirements.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Find Your Workspace",
+                "description": "Choose from coworking hubs, flexi-desks, private offices, or retail spaces. Dubai Free Zones provide world-class infrastructure to fit every business model.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your Visa",
+                "description": "We manage visas for investors, employees, and family members, with flexible quotas depending on your chosen free zone.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open Your Bank Account",
+                "description": "We assist in opening a business bank account in Dubai, ensuring smooth operations and global transactions.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Ongoing PRO & Compliance",
+                "description": "From license renewals to immigration formalities, our support keeps your Dubai Free Zone business compliant, efficient, and growth-ready.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/left5/6.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Set Up Your Business in Dubai Free Zone?",
+        "description": "Streamline free zone business setup in Dubai and kickstart your journey in Dubai’s thriving business landscape with One Nexuz.",
+        "items": [
+            {
+                "title": "Unlock Holistic Business Solutions",
+                "description": "Our all-in-one business setup services go beyond company formation, offering compliance, residency, and PRO services under one roof.",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/bgImage/1.webp"
+            },
+            {
+                "title": "Get Tailored Guidance",
+                "description": "Our highly experienced consultants provide custom-made business solutions at competitive pricing, helping you scale your business confidently.  ",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Round-the-Clock Support",
+                "description": "With our dedicated consultants by your side, you get expert 24/7 customer support for business setup and beyond!",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dubaiFreeZoneCompanyFormation/grid/1.webp",
+        "title": "Dubai Free Zone Setup Built for Speed and Scale by One Nexuz",
+        "description": "Set up your Dubai Free Zone company without a physical space or local partner. We make it fast, affordable, and 100% compliant — so you can launch lean and scale fast.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz’s fast-track process got my e-commerce business up and running in Dubai South within a week. Their clear pricing and dedicated support made all the difference!”",
+                "role": "E-commerce Entrepreneur",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Setting up in Sharjah Media City with One Nexuz was seamless. Their personalized approach and ongoing support ensured our media company hit the ground running without any hassle.”",
+                "role": "Film Production Creative Director",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I had my trade license, visa, and bank account ready in just days. One Nexuz made the entire Dubai free zone setup smooth, professional, and completely stress-free.”",
+                "role": "Digital Marketing Agency Founder",
+                "image": "/assets/dubaiFreeZoneCompanyFormation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Free Zones Beyond Dubai",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Free Zone",
+                "description": "Take advantage of the UAE’s fastest-growing economy by setting up in this region.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Ras Al Khaimah Free Zone",
+                "description": "Scale your brand without breaking the bank by setting up in RAK Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Free Zone",
+                "description": "Reduce processing times with Sharjah’s seamless business solutions.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ajman Free Zone",
+                "description": "Scale by tapping into Ajman’s flourishing economy and unparalleled tax benefits.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Umm Al Quwain Free Zone",
+                "description": "Fast-track licensing with UAQ free zone’s low-cost setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Fujairah Free Zone",
+                "description": "Access the UAE’s local and global markets with Fujairah’s strategic location.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "One Nexuz Helps You Start Your Success Story in Dubai Today",
+        "description": "Let One Nexuz guide you to a thriving business in Dubai’s free zones! Our one-stop freezone company formation solutions streamline and expedite the process, empowering you to kickstart your journey.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dubaiFreeZoneCompanyFormation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Ajman Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Fujairah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ras al Khaimah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Sharjah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "UAQ Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How does a mainland company differ from a free zone company?",
+                "answer": "A mainland company in Dubai offers users unrestricted trading access across the city, as well as property ownership in these areas, whereas free zone companies operate in designated free zones, providing a tax-free environment."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can expats own 100% of their mainland business in Dubai?",
+                "answer": "Yes, foreign investors can enjoy 100% ownership of a mainland company in Dubai, ensuring complete control over their business."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can my mainland company operate internationally?",
+                "answer": "Yes, Dubai mainland companies can operate all across the UAE and the globe without restrictions."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need a physical office space to set up a Dubai mainland company?",
+                "answer": "Yes, mainland companies in Dubai must own a physical office space. Our expert consultants can help you find a cost-effective office solution to ensure compliance."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What are the average Dubai mainland company formation costs?",
+                "answer": "The cost of setting up a mainland company can vary depending on the location, type of business activity, legal structure, and licenses. Typically, it ranges between AED 2,000 and AED 15,000. "
+            }
+        ]
+    }
+}

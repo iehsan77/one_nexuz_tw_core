@@ -1,0 +1,312 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/businessSetup.webp",
+        "title": "From Gateway to Global Growth — Business Setup in Fujairah Free Zone Made Effortless",
+        "description": "Starting a business in the UAE can feel overwhelming — piles of paperwork, shifting approvals, and endless formalities that drain time and energy. At One Nexuz, we make Fujairah Free Zone company setup simple, clear, and stress-free. Positioned on the Eastern Coast with unmatched access to the goal trade routes, Fujairah Free Zone opens doors for freelancers, solopreneurs, SMBs, and enterprises alike. With multi-visa packages, zero personal tax, and no mandatory office space, our specialists streamline every step, so you launch faster, stay compliant, and focus on growth while we handle the details."
+    },
+    "leftSection_1": {
+        "title": "Why Thousands of Business Owners Choose Fujairah",
+        "description": "Fujairah Free Zone offers flexible licensing, low operating costs, and unrivaled access to shipping and logistics routes. Positioned along the Gulf of Oman, it connects businesses directly to international trade corridors, making it a powerful hub for startups, SMEs, and global companies.",
+        "items": [
+            {
+                "id": 1,
+                "title": "From Limited Options to Total Business Flexibility",
+                "subTitle": "From Limited Options to Total Business Flexibility",
+                "description": "Endless red tape and rising costs often slow business growth. Fujairah Free Zone simplifies company formation with streamlined procedures, affordable packages, and diverse license options, enabling entrepreneurs to reduce setup time and adapt operations easily to market demands.",
+                "image": "/assets/businessSetup/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Save on Costs, Retain Profit, & Uplift Your Bottom Line",
+                "subTitle": "Save on Costs, Retain Profit, & Uplift Your Bottom Line",
+                "description": "In Fujairah Free Zone, businesses enjoy 0% corporate and personal income taxes along with 100% profit repatriation. This tax-friendly environment ensures stronger margins, allowing you to reinvest earnings into growth, innovation, and market expansion.",
+                "image": "/assets/businessSetup/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Connect Faster, Ship Smarter, and Grow Beyond Borders",
+                "subTitle": "Connect Faster, Ship Smarter, and Grow Beyond Borders",
+                "description": "Fujairah’s unique location outside the Strait of Hormuz provides direct access to the Indian Ocean, bypassing regional bottlenecks. With proximity to major seaports, international airports, and modern road links, businesses benefit from faster logistics, reduced transit costs, and seamless global trade access.",
+                "image": "/assets/businessSetup/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "From Limited Access to Diverse Global Markets Opportunities",
+                "subTitle": "From Limited Access to Diverse Global Markets Opportunities",
+                "description": "From trading and logistics to services, consultancy, and manufacturing, Fujairah Free Zone supports a broad spectrum of industries. Its adaptable frameworks empower businesses to diversify, pivot, and scale without restrictions — ensuring long-term resilience and growth.",
+                "image": "/assets/businessSetup/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "One Nexuz Helps You Discover the Ideal Free Zone in Fujairah",
+        "items": [
+            {
+                "id": 1,
+                "title": "FCC-Fujairah Creative City",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Right Legal Structure in Fujairah",
+        "description": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Free Zone Company",
+                "description": "Ideal for SMEs and startups looking to form a multi-shareholder entity.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Establishment",
+                "description": "Perfect for solo founders seeking full strategic control and limited liability.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Branch of a Foreign Company",
+                "description": "Expand your overseas business while maintaining your parent company.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Branch of a UAE Company",
+                "description": "Establish a branch of an existing UAE entity to access lucrative local markets.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/businessSetup/left4/1.webp",
+            "title": "One Nexus Helps You Join 2,000+ Companies Growing in Fujairah Free Zone",
+            "description": "From industrial firms to digital entrepreneurs, Fujairah is becoming a hub for growth-minded businesses. Gain an instant local edge with our full-service business setup solutions.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/businessSetup/left4/2.webp",
+            "title": "Fujairah Free Zone Company Setup Costs Made Transparent — No Hidden Charges",
+            "description": "Fujairah Free Zone makes business setups simple and cost-effective, with clear packages for every activity. With One Nexuz, you get upfront quotes, zero surprises, and a smooth path to growth.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Fujairah Free Zone Company Setup Made Simple in 6 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Initial Consultation",
+                "description": "We align your goals with Fujairah Free Zone advantages — especially trade, shipping, and logistics — and finalize the right activity license.",
+                "image": "/assets/businessSetup/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Legal Structure Setup",
+                "description": "Choose between FZE or FZC. We assist in license applications, bundling activities if needed, for a smooth Fujairah Free Zone formation.",
+                "image": "/assets/businessSetup/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Workspace Selection",
+                "description": "Whether it’s a flexi-desk, shared office, or warehouse facility, Fujairah offers flexible options. We secure the right setup for your operations.",
+                "image": "/assets/businessSetup/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Visa Processing",
+                "description": "We handle visa applications for investors, employees, and family sponsorships. Fujairah Free Zone allows multiple visas per license to support growth.",
+                "image": "/assets/businessSetup/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Bank Account Opening",
+                "description": "We help you open a UAE bank account, streamlining transactions and ensuring your Fujairah company is financially ready.",
+                "image": "/assets/businessSetup/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "PRO & Renewals",
+                "description": "Stay compliant with ongoing government and immigration support. We manage renewals, reporting, and PRO services for peace of mind.",
+                "image": "/assets/businessSetup/left5/6.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Streamline FFZA Setup",
+        "description": "Simplify Fujairah free zone company formation with our expert consultants to guide you every step of the way.",
+        "items": [
+            {
+                "title": "Get Licensed 75% Faster",
+                "description": "We mitigate the risk of potential rejections, missed forms, and time-consuming back-and-forths, allowing you to get licensed in 1-3 working days.",
+                "image": "/assets/businessSetup/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy All-in-One Support",
+                "description": "Unlock compliance management, licensing, visa, and round-the-clock IT support under one roof to grow your business confidently.",
+                "image": "/assets/businessSetup/bgImage/2.webp"
+            },
+            {
+                "title": "Cut Operational Costs in Half",
+                "description": "Save thousands by skipping the unplanned expenses that come with activity mismatches and visa rejections with our expert consultants.",
+                "image": "/assets/businessSetup/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/businessSetup/grid/1.webp",
+        "title": "Uplift Your ROI with One Nexuz Fujairah Free Zone Setup",
+        "description": "With strategic access to the Gulf and Indian Ocean, Fujairah Free Zone businesses benefit from strong logistics and 100% foreign ownership. Our experts simplify the setup so you can  scale faster .",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As someone launching a business remotely, I needed a partner I could trust. One Nexuz not only helped me register in the Fujairah Free Zone without visiting the UAE, but they also took care of compliance, visa processing, and renewals. Truly an all-in-one solution.”",
+                "role": "E-commerce Business Owner",
+                "image": "/assets/businessSetup/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I compared multiple service providers and what stood out about One Nexuz was how transparent they were. There were no hidden costs, no vague answers — just clear steps and fast execution. Within days, my Fujairah license and business bank account were sorted.”",
+                "role": "Digital Marketing Freelancer",
+                "image": "/assets/businessSetup/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I had no idea where to start, but One Nexuz handled everything — from helping me choose the right license to getting my visa approved. The whole process took less than a week, and I was kept in the loop the entire time. I couldn’t have done it without them.”",
+                "role": "IT Consultant",
+                "image": "/assets/businessSetup/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Setup Options across the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Free Zone",
+                "description": "Streamline licensing in this zone and access local and global markets.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Abu Dhabi Free Zone",
+                "description": "Scale your business by setting up in the UAE’s fastest-growing economy.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Ras Al Khaimah Free Zone",
+                "description": "Expand hassle-free with the RAK free zone’s affordable solutions.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Sharjah Free Zone",
+                "description": "Gain strategic access to the UAE’s global markets by launching in Sharjah.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Ajman Free Zone",
+                "description": "Benefit from Ajman’s tax-friendly environment and strategic location.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Umm al Quwain Free Zone",
+                "description": "Set up remotely in UAQ free zone with 100% ownership and easy access to key seaports.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Launch and Scale in Fujairah Free Zone With One Nexuz?",
+        "description": "Launch solo or expand stress-free in Fujairah Free Zone with our team of expert consultants and advisors! At One Nexuz, we offer seamless and 100% compliant business setup solutions to help kickstart your entrepreneurial journey.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/businessSetup/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Ajman Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ras al Khaimah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Sharjah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "UAQ Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What documents do I need to register in Fujairah Free Zone?",
+                "answer": "You’ll need copies of your passport, passport-sized photographs, application forms, and financial documents."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to get a local sponsor or partner to setup in FFZA?",
+                "answer": "No, Fujairah free zone offers businesses 100% foreign ownership, meaning you get full strategic control of your business."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to setup my Fujairah Free Zone business?",
+                "answer": "Setting up in FFZA can take 1 to 14 days, depending on your business activity, legal structure, selected free zone, and document readiness. Our expert consultants cutdown processing times in half, helping you get licensed within 3-5 days."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need to rent a physical office to kickstart my FFZA business?",
+                "answer": "No! You can explore cost-effective alternatives like a flexi-desk and virtual options."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I operate my Fujairah Free Zone business from outside the UAE?",
+                "answer": "Yes, you can manage and operate your FFZA-based business remotely."
+            }
+        ]
+    }
+}
