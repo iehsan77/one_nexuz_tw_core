@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
         "bookConsultation": "احجز استشارتك المجانية.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/ummAlQuwainFreeZoneCompanyFormation.webp",
         "title": "من الأوراق إلى الربحية، ابدأ بذكاء مع خدمات تأسيس الأعمال في منطقة أم القيوين الحرة من ون نكز",
         "description": "قم بتوسيع عملك مع ملكية كاملة، خيارات تأشيرات مرنة، وحزم تراخيص اقتصادية في منطقة أم القيوين الحرة. في ون نكز، نقوم بكل العمل الشاق، من الأوراق إلى إصدار التراخيص، حتى تتمكن من بدء رحلتك التجارية في أم القيوين اليوم!"
     },
@@ -15,28 +15,28 @@
                 "title": "قلل من نفقات بدء التشغيل وازدهر بثقة مع أم القيوين",
                 "subTitle": "قلل من نفقات بدء التشغيل وازدهر بثقة مع أم القيوين",
                 "description": "هل سئمت من إعداد الأعمال المكلفة والتي تستغرق وقتاً طويلاً؟ وفر حتى 60% على إعداد شركة منطقة أم القيوين الحرة، مع حلول إعداد وترخيص الأعمال عن بُعد 100% وبأسعار معقولة. احصل على ترخيصك بسرعة واستمتع بالوصول الكامل إلى سوق الإمارات دون أعباء غير ضرورية.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "احتفظ بالتحكم الكامل، واحتفظ بـ 100% من الأرباح، وكن حراً في التشغيل",
                 "subTitle": "احتفظ بالتحكم الكامل، واحتفظ بـ 100% من الأرباح، وكن حراً في التشغيل",
                 "description": "تحرر من اتفاقيات الرعاية المكلفة التي تحد من نموك. مع منطقة أم القيوين الحرة، تحصل على حرية امتلاك وإدارة عملك دون الحاجة إلى راعٍ محلي. زِد من أرباحك، واحمِ حقوق ملكيتك، وازدهر بعملك وفق شروطك.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "توسع بسلاسة عبر الأسواق المحلية والإقليمية والعالمية مع إعداد منطقة أم القيوين الحرة",
                 "subTitle": "توسع بسلاسة عبر الأسواق المحلية والإقليمية والعالمية مع إعداد منطقة أم القيوين الحرة",
                 "description": "هل تكاليف اللوجستيات العالية تستنزف ميزانيتك؟ تقع منطقة أم القيوين الحرة بالقرب من الموانئ البحرية الرئيسية، مما يوفر للشركات تنازلات خاصة والوصول المريح إلى الأسواق العالمية. موقعها الاستراتيجي يجعل الاستيراد والتصدير والتوزيع أسرع وأكثر كفاءة من حيث التكلفة.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "احتفظ بمزيد مما تكسبه مع مزايا الضرائب على الشركات والدخل بنسبة 0%",
                 "subTitle": "احتفظ بمزيد مما تكسبه مع مزايا الضرائب على الشركات والدخل بنسبة 0%",
                 "description": "هل الضرائب الثقيلة تثقل كاهل عملك؟ عزز أرباحك من خلال الاستفادة من منطقة أم القيوين الحرة التي تقدم ضرائب صفرية على الشركات والأفراد وإعادة 100% من الأرباح. احتفظ بكل درهم تكسبه وأعد استثماره مباشرة في توسيع عملك.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -95,14 +95,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexuz: بوابتك للانضمام إلى أكثر من 9000 شركة ناجحة في منطقة UAQ الحرة",
             "description": "مع الموافقات السريعة، وعدم وجود ضريبة دخل، وخيارات ترخيص متعددة السنوات، تجعل UAQ من السهل إطلاق وتوسيع الأعمال. نحن نتولى كل خطوة حتى تتمكن من التركيز على عملك.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left4/2.webp",
             "title": "أسعار شفافة، مصممة وفقًا لاحتياجاتك",
             "description": "أسعار شفافة، مصممة وفقًا لاحتياجاتك",
             "btn": "استكشف حزم التسعير لدينا",
@@ -116,37 +116,37 @@
                 "id": 1,
                 "title": "استشارة",
                 "description": "نبدأ بفهم أهدافك ومساعدتك في اختيار فئة الترخيص المناسبة في منطقة أم القيوين الحرة، لضمان بدء عملك على المسار الصحيح.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "الهيكل القانوني والترخيص",
                 "description": "فريقنا يوجهك لاختيار الهيكل القانوني المثالي، ويعد جميع الوثائق المطلوبة، ويتولى تقديم طلب الترخيص - لذا لا داعي للقلق بشأن التفاصيل.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "اختيار مساحة العمل",
                 "description": "سواء كنت بحاجة إلى مكتب مرن، أو مساحة مكتبية، أو مستودع، أو منشأة صناعية، نساعدك في العثور على مساحة العمل التي تناسب احتياجات عملك.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "مساعدة في الفيزا",
                 "description": "من تأشيرات المستثمرين والموظفين إلى رعاية العائلة، ندير العملية بالكامل، مما يجعل الانتقال وبناء الفريق سلسين وخاليين من التوتر.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "إعداد حساب بنكي",
                 "description": "بمجرد أن تكون لديك تأشيرتك وترخيصك جاهزين، نساعدك في فتح حساب بنكي للشركات، مما يضمن أن تكون شركتك قادرة على العمل مالياً دون تأخير.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "دعم مستمر في العلاقات العامة والامتثال",
                 "description": "التزامنا لا يتوقف عند الإعداد - نستمر في المساعدة في التجديدات، والامتثال، والوثائق، مما يحافظ على امتثال شركتك في منطقة أم القيوين الحرة وجاهزيتها للمستقبل.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -157,22 +157,22 @@
             {
                 "title": "احصل على معرفة محلية خبراء",
                 "description": "يتمتع مستشارونا المحترفون بأكثر من عقد من الخبرة ومعرفة عميقة باللوائح المحلية، لذا يمكنك الإطلاق بوضوح وثقة.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "ضمان إعداد خالٍ من المتاعب",
                 "description": "احصل على إعداد الأعمال، وإنشاء حساب بنكي، وخدمات العلاقات العامة تحت سقف واحد لتوسيع علامتك التجارية عبر الإمارات العربية المتحدة بدون توتر.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "تسريع أوقات الإعداد",
                 "description": "قلل من أوقات المعالجة واحصل على ترخيص منطقة التجارة الحرة في أم القيوين خلال 48-72 ساعة. لا تأخيرات، لا أخطاء، ولا تكاليف مخفية.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/grid/1.webp",
         "title": "تعزيز كفاءة العلامة التجارية مع خدمات إعداد الأعمال في منطقة أم القيوين الحرة من One Nexuz",
         "description": "استمتع بترخيص سريع، وتكاليف تشغيل منخفضة، وملكية أجنبية بنسبة 100% - مثالي للشركات الناشئة والصغيرة والمتوسطة مع One Nexuz.",
         "btn": "قم بتوسيع أعمالك اليوم!",
@@ -186,19 +186,19 @@
                 "id": 1,
                 "quote": "أنقذني One Nexuz بأكثر من 6000 درهم من خلال توجيهي إلى الهيكل الصحيح للرخصة. كان فريقهم صادقاً وسريعاً وشفافاً تماماً من البداية.",
                 "role": "مالك شركة لوجستيات",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "حصلت على رخصة التجارة الخاصة بي في يومين فقط. تم التعامل مع كل شيء بسلاسة - لا توتر، لا تأخيرات. بصراحة، لم أستطع أن أطلب دعماً أفضل.",
                 "role": "رائد أعمال في التجارة الإلكترونية",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "ما أعجبني أكثر هو المستشار الشخصي. نقطة اتصال واحدة، كل سؤال تم الإجابة عليه، والعملية تم شرحها بوضوح. أوصي بشدة بـ One Nexuz إذا كنت تريد إنجاز الأمور بشكل صحيح.",
                 "role": "استشاري أعمال",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -250,7 +250,7 @@
         "title": "اتخذ الخطوة الأولى مع One Nexuz اليوم",
         "description": "افتح آفاق النمو المستدام للأعمال مع إعداد الأعمال السلس في منطقة أم القيوين الحرة. مستشارونا الخبراء يخففون من الضغط، مما يوفر لك مساراً واضحاً للنجاح في السوق الديناميكية في الإمارات.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/ummAlQuwainFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",

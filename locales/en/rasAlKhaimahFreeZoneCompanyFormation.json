@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/rasAlKhaimahFreeZoneCompanyFormation.webp",
         "title": "Business Setup In Ras Al Khaimah Free Zone — Seamless Solutions for Every Entrepreneur & Enterprise",
         "description": "Finding the right location, accessing global markets, and ensuring long-term stability are big questions for any entrepreneur. Look no further because One Nexuz takes the complexity out of establishing your company in the RAK lucrative Free Zone, with solutions designed around your goals. With zero corporate taxes and full capital repatriation, the region empowers you to maximise your profits. Get expert help to streamline business setup in RAK."
     },
@@ -15,28 +15,28 @@
                 "title": "From Partial Ownership to 100% Control of Your Business",
                 "subTitle": "From Partial Ownership to 100% Control of Your Business",
                 "description": "Worried about losing control or sharing profits with local sponsors? RAK Free Zone eliminates this concern by offering complete foreign ownership. Business owners enjoy full strategic autonomy and decision-making power while retaining 100% of their profits.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Cut Costs, Protect Profits, and Enjoy Unmatched Tax Incentives",
                 "subTitle": "Cut Costs, Protect Profits, and Enjoy Unmatched Tax Incentives",
                 "description": "Taxes can limit business growth, but RAK Free Zone offers 0% corporate and personal income tax along with 100% profit repatriation. This tax-free structure ensures businesses maximize earnings, safeguard margins, and reinvest savings directly into expansion.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Benefit from Low Entry Costs, Scale Strategically, & Expand Faster",
                 "subTitle": "Benefit from Low Entry Costs, Scale Strategically, & Expand Faster",
                 "description": "Launching a business doesn’t need to drain resources. Known for some of the UAE’s lowest setup and operating costs, RAK Free Zone makes company formation accessible to startups and cost-conscious investors while providing a scalable environment for long-term growth.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "From Regional Market to Global Expansion, Driving Revenue Across Borders",
                 "subTitle": "From Regional Market to Global Expansion, Driving Revenue Across Borders",
                 "description": "RAK Free Zone’s strategic location near major seaports and transport networks positions businesses at the heart of international trade. With seamless logistics and cross-border access, companies gain a competitive edge to expand beyond the UAE and reach global markets efficiently.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -89,14 +89,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexuz Guides You to Launch Smarter, Scale Faster- Build in Ras al Khaimah",
             "description": "RAK’s strategic location, low overheads, and flexible licensing make it ideal for startups and global firms alike. We handle every step—from paperwork to visa—so you can launch with confidence.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left4/2.webp",
             "title": "Set Up Your Business in Sharjah Free Zone With One Nexuz",
             "description": "At One Nexuz, you only pay for what you need. Whether you need end-to-end business setup solutions or standalone services, you get a custom quote per your business needs and budget.",
             "btn": "Explore Our Pricing Packages",
@@ -110,37 +110,37 @@
                 "id": 1,
                 "title": "Consultation",
                 "description": "Our advisors help you identify the right license category in RAK Free Zone, known for its affordable setup and wide range of industries.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Legal Structure & License",
                 "description": "We guide you through selecting the appropriate legal structure, registering your company, and obtaining the license with minimal hassle.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Workspace Options",
                 "description": "RAK Free Zone offers flexi-desks, shared spaces, and industrial facilities. We match you with the most suitable option for your activity.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Visa Facilitation",
                 "description": "Residency visas for owners, employees, and family sponsorship are handled end-to-end, ensuring smooth relocation and team building.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Bank Account Setup",
                 "description": "Open a UAE bank account with our assistance, ensuring your business in RAK Free Zone is fully operational financially.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Ongoing PRO Support",
                 "description": "We provide complete support for renewals, compliance, and documentation to keep your RAK entity compliant and future-ready.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -151,22 +151,22 @@
             {
                 "title": "Enjoy Round-the-Clock Support",
                 "description": "Our dedicated consultants offer 24/7 customer support, answering all your queries so you can enjoy a hassle-free business setup procedure in the RAK free zone.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Connect with Expert Consultants",
                 "description": "Our team of business consultants boasts over a decade of experience and intimate local knowledge, so you can count on us for speedy business setup.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Get Holistic Business Solutions",
                 "description": "From initial consultation to post-setup renewals, we handle everything. So, while we do all the legwork, you can focus on growing and expanding your business.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/grid/1.webp",
         "title": "Scale in the UAE with One Nexuz & Enjoy Low Fees and High Flexibility",
         "description": "Ras Al Khaimah Free Zone makes it easy for businesses to register and scale. We manage the full setup, licensing, and visa process so you can grow with zero restrictions.",
         "btn": "Scale Your Business Today!",
@@ -180,19 +180,19 @@
                 "id": 1,
                 "quote": "“I got my RAK license and visa in 3 days. What impressed me most was the clarity—no hidden fees, no headaches.”",
                 "role": "Logistics  Business Owner",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“One Nexuz helped me compare DAO and RAKEZ, and made the banking process smooth. Highly recommended.”",
                 "role": "Tech Entrepreneur",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“Setting up in RAKEZ felt complex until I spoke with One Nexuz. They handled the paperwork, approvals, and even helped with office space—all faster than I expected.”",
                 "role": "E-commerce Founder",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -244,7 +244,7 @@
         "title": "Set Up Smart & Scale Confidently with One Nexuz",
         "description": "Tap into the Ras Al Khaimah free zone’s wealth of tax incentives, global market access, and unparalleled business facilities with our expert consultants.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

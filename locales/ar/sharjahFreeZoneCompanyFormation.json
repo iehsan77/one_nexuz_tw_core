@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
         "bookConsultation": "احجز استشارتك المجانية.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/sharjahFreeZoneCompanyFormation.webp",
         "title": "تأسيس الأعمال في المنطقة الحرة بالشارقة أصبح سهلاً — سريع، متوافق، وبتكلفة فعالة",
         "description": "يمكن أن تجعل الإجراءات الرسمية، والنفقات الكبيرة، واللوائح الصعبة بدء عمل تجاري تحديًا حقيقيًا. مع One Nexuz، يصبح تأسيس عمل في المنطقة الحرة بالشارقة بسيطًا — تراخيص منخفضة التكلفة، خيارات تأشيرات مرنة، وسهولة الوصول إلى مراكز النقل الجوي والبحري والبري. قم بتأسيس عملك في المنطقة الحرة بالشارقة دون عناء. مع One Nexuz بجانبك، سيكون عملك جاهزًا للعمل في غضون أيام!"
     },
@@ -15,28 +15,28 @@
                 "title": "احصل على الحرية مع ملكية أجنبية 100%",
                 "subTitle": "احصل على الحرية مع ملكية أجنبية 100%",
                 "description": "غالبًا ما تعتمد إعدادات الأعمال التقليدية على الرعاة المحليين، مما يحد من السيطرة والاستقلالية. تلغي المناطق الحرة في الشارقة هذا القيد من خلال تقديم ملكية أجنبية كاملة، مما يمنح رواد الأعمال والمستثمرين السلطة الكاملة لإدارة وتوسيع أعمالهم وفقًا لشروطهم.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "توسع عالميًا، افتح طرق تجارة جديدة، وزد من نطاق سوقك",
                 "subTitle": "توسع عالميًا، افتح طرق تجارة جديدة، وزد من نطاق سوقك",
                 "description": "الدخول إلى الأسواق العالمية أسهل مع الموقع الاستراتيجي والبنية التحتية العالمية للشارقة. تستفيد الأعمال من الوصول المباشر إلى المطارات الدولية، والموانئ البحرية المزدحمة، وشبكات الطرق الإقليمية - مما يجعل الشارقة مركزًا طبيعيًا للتجارة واللوجستيات والتوسع العالمي.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "قلل من تكاليف التأسيس، وسرّع الترخيص، وتوسع بلا حدود",
                 "subTitle": "قلل من تكاليف التأسيس، وسرّع الترخيص، وتوسع بلا حدود",
                 "description": "يمكن أن تعيق التأخيرات غير الضرورية والنفقات الخفية النمو. توفر المناطق الحرة في الشارقة هياكل رسوم شفافة، وترخيص سريع، وخيارات تأشيرات مرنة، ومرافق قابلة للتوسع - مما يساعد الأعمال على تقليل التكاليف، والإطلاق بسرعة، والتوسع بثقة.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "أطلق أي مشروع، استكشف أنشطة تجارية متنوعة، وازدهر في منطقة حرة",
                 "subTitle": "أطلق أي مشروع، استكشف أنشطة تجارية متنوعة، وازدهر في منطقة حرة",
                 "description": "من الإعلام والتجارة الإلكترونية إلى الاستشارات والخدمات والتجارة والتصنيع، تلبي المناطق الحرة في الشارقة مجموعة واسعة من الصناعات. تضمن هذه التنوع أنه مهما كانت فكرة عملك، ستجد الإطار والدعم المناسبين للإطلاق والنمو والنجاح.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -95,14 +95,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/sharjahFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexuz يبسط الانضمام إلى أكثر من 60,000 شركة عالمية تبني النجاح في الشارقة",
             "description": "قم ببناء عملك في مناطق الحمريه وSAIF — موطن لآلاف الشركات العالمية. تتولى One Nexuz إجراءات الترخيص، والتأشيرات، وكل ما بينهما، لذا ستكون جاهزًا للعمل من اليوم الأول.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/sharjahFreeZoneCompanyFormation/left4/2.webp",
             "title": "ابدأ رحلتك في المنطقة الحرة مع One Nexuz بالسعر المناسب",
             "description": "في One Nexuz، نخصص كل حزمة تأسيس حسب احتياجاتك — واضحة، شفافة، وبتكلفة فعالة. لا رسوم خفية، ولا تكاليف مفاجئة — فقط تكلفة ترخيص المنطقة الحرة بالشارقة المعقولة وطريق سلس لإطلاق عملك.",
             "btn": "استكشف حزم التسعير لدينا",
@@ -116,37 +116,37 @@
                 "id": 1,
                 "title": "احجز استشارة أولية",
                 "description": "نقوم بتقييم رؤيتك، واستكشاف الفرص في المناطق الحرة بالشارقة، وتحديد الأنشطة التجارية المناسبة عبر صناعاتها المتنوعة.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "اختر الهيكل القانوني",
                 "description": "استنادًا إلى نشاطك، نقوم بتأسيس نوع الكيان الصحيح وتأمين ترخيص التجارة الخاص بك، مع ضمان التوافق مع الأنشطة المتعددة عند الحاجة.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "ابحث عن مساحة عملك",
                 "description": "تقدم المناطق الحرة بالشارقة حلولًا مرنة — مساحات عمل مشتركة، مكاتب مرنة، ومكاتب خاصة. نساعدك في اختيار الإعداد المناسب ليتناسب مع ميزانيتك واحتياجات الترخيص.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "احصل على تأشيرتك",
                 "description": "قدم طلبًا للحصول على تأشيرات الإقامة لنفسك، وفريقك، وعائلتك. مع المناطق الحرة بالشارقة، تجعل الحصص المرنة للتأشيرات التوسع بسيطًا.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "افتح حسابك البنكي",
                 "description": "نوجهك خلال عملية فتح حساب مصرفي تجاري حتى تتمكن من إدارة المدفوعات، والمعاملات، والنمو بسلاسة.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "خدمات PRO والامتثال المستمرة",
                 "description": "من تجديد التراخيص إلى خدمات الهجرة، نضمن أن تظل شركتك في المنطقة الحرة بالشارقة متوافقة ومستعدة للمستقبل.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -157,22 +157,22 @@
             {
                 "title": "تواصل مع خبراء الصناعة",
                 "description": "يمتلك مستشارونا المعتمدون المهارات والخبرة اللازمة للتنقل في عملية تأسيس الأعمال المعقدة وتقديم حلول مخصصة.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "قلل من أوقات الترخيص",
                 "description": "مع عملية تأسيس شفافة وسلسة، نقلل من أوقات المعالجة إلى النصف، مما يساعدك على الاستعداد والتشغيل في غضون ثلاثة أيام.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "احصل على دعم على مدار الساعة",
                 "description": "يقدم مستشارونا المحترفون دعمًا للعملاء على مدار الساعة، ويحلون جميع الاستفسارات في ثوانٍ، حتى تتمكن من التركيز على إدارة عملك دون أي عوائق.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/sharjahFreeZoneCompanyFormation/grid/1.webp",
         "title": "أطلق بسرعة وازدهر بذكاء مع One Nexuz في المناطق الحرة بالشارقة",
         "description": "بدأ أكثر من 900 عمل هنا العام الماضي — يمكن أن يكون عملك التالي! نحن نتولى إجراءات الترخيص، والتأشيرات، والموافقات — لذا توفر الوقت، وتقلل التكاليف، وتبدأ بقوة.",
         "btn": "قم بتوسيع أعمالك اليوم!",
@@ -186,19 +186,19 @@
                 "id": 1,
                 "quote": "ساعدتنا One Nexuz في الحصول على ترخيص شمس في 4 أيام فقط. كان الفريق سريع الاستجابة، واضحًا، وصادقًا طوال الوقت.",
                 "role": "مالك وكالة رقمية",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "شرحوا الفروقات بين منطقة SPC ومنطقة SAIF بوضوح. اخترنا المنطقة الصحيحة وأطلقنا دون تأخيرات.",
                 "role": "رائد أعمال التجارة الإلكترونية",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "أطلقنا في المنطقة الحرة SPC في 3 أيام فقط. تعاملت One Nexuz مع التأسيس، والتأشيرات، وحتى طلب البنك الخاص بنا - كل ذلك دون الحاجة لمتابعتنا.",
                 "role": "مالك استشارات مساعدة ذاتية",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -250,7 +250,7 @@
         "title": "هل أنت مستعد لإطلاق عملك في منطقة الشارقة الحرة مع One Nexuz؟",
         "description": "قم بتوسيع نطاق عملك اليوم مع المناطق الحرة المتنوعة وذات التكلفة المنخفضة في الشارقة. تعاون مع One Nexuz وابدأ إعداد عملك في منطقة الشارقة الحرة اليوم.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/sharjahFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",

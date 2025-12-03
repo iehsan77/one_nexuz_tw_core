@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/sharjahFreeZoneCompanyFormation.webp",
         "title": "Business Setup in Sharjah Free Zone Made Easy — Quick, Complaint, and Cost-Effective",
         "description": "Official procedures, heavy expenses, and tough regulations can make starting a business a real challenge. With One Nexuz, setting up a Sharjah Free Zone business becomes simple — low-cost licenses, flexible visa options, and easy access to air, sea, and land transport hubs. Set up your business in Sharjah’s free zone without the hassle. With One Nexuz by your side, your business will be operational in days!"
     },
@@ -15,28 +15,28 @@
                 "title": "Gain Freedom With 100% Foreign Ownership",
                 "subTitle": "Gain Freedom With 100% Foreign Ownership",
                 "description": "Traditional business setups often rely on local sponsors, limiting control and independence. Sharjah Free Zones eliminate this restriction by offering complete foreign ownership, giving entrepreneurs and investors full authority to manage and expand their businesses on their terms.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Expand Globally, Unlock New Trade Routes, and Boost Your Market Reach",
                 "subTitle": "Expand Globally, Unlock New Trade Routes, and Boost Your Market Reach",
                 "description": "Breaking into global markets is easier with Sharjah’s strategic location and world-class infrastructure. Businesses benefit from direct access to international airports, busy seaports, and regional road networks — making Sharjah a natural hub for trade, logistics, and global expansion.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Slash Setup Cost, Speed Up Licensing, and Scale Without Limits",
                 "subTitle": "Slash Setup Cost, Speed Up Licensing, and Scale Without Limits",
                 "description": "Unnecessary delays and hidden expenses can hinder growth. Sharjah Free Zones provide transparent fee structures, quick licensing, flexible visa options, and scalable facilities — helping businesses lower costs, launch faster, and expand with confidence.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Launch Any Venture, Explore Diverse Business Activities, Grow in a Free Zone",
                 "subTitle": "Launch Any Venture, Explore Diverse Business Activities, Grow in a Free Zone",
                 "description": "From media and e-commerce to consultancy, services, trading, and manufacturing, Sharjah Free Zones cater to a wide variety of industries. This diversity ensures that whatever your business idea, you’ll find the right framework and support to launch, grow, and succeed.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -95,14 +95,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/sharjahFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexuz Simplifies Joining 60,000+ Global Businesses Building Success in Sharjah",
             "description": "Build your business in Hamriyah and SAIF Zones—home to thousands of global companies. One Nexuz handles licensing, visas, and everything in between, so you’re fully operational from day one.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/sharjahFreeZoneCompanyFormation/left4/2.webp",
             "title": "Start Your Free Zone Journey with One Nexuz at the Right Price",
             "description": "At One Nexuz, we tailor every setup package to your needs — clear, transparent, and cost-effective. No hidden charges, no surprise costs — just an affordable Sharjah Free Zone license cost and a smooth path to launching your business.",
             "btn": "Explore Our Pricing Packages",
@@ -116,37 +116,37 @@
                 "id": 1,
                 "title": "Book an Initial Consultation",
                 "description": "We evaluate your vision, explore Sharjah Free Zone opportunities, and identify the right business activities across its diverse industries.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Choose the Legal Structure",
                 "description": "Based on your activity, we set up the correct entity type and secure your trade license, ensuring multi-activity compatibility where needed.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Find Your Workspace",
                 "description": "Sharjah Free Zones offer flexible solutions — coworking, flexi-desks, and private offices. We help select the right setup to match your budget and licensing needs.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Secure Your Visa",
                 "description": "Apply for residency visas for yourself, your team, and your family. With Sharjah Free Zones, flexible visa quotas make expansion simple.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Open Your Bank Account",
                 "description": "We guide you through opening a business bank account so you can manage payments, transactions, and growth smoothly.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Ongoing PRO & Compliance",
                 "description": "From license renewals to immigration services, we ensure your Sharjah Free Zone company stays compliant and future-ready.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -157,22 +157,22 @@
             {
                 "title": "Connect with Industry Experts",
                 "description": "Our certified business consultants have the skills and expertise to navigate the complex business setup process and offer customized solutions.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Cut Down Licensing Times",
                 "description": "With a transparent and seamless setup process, we reduce processing times by half, helping you get ready and operating in as little as three days.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Get Round-the-Clock Support",
                 "description": "Our proficient consultants offer 24/7 customer support, resolving all queries within seconds, so you can focus on running your business with zero roadblocks.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/sharjahFreeZoneCompanyFormation/grid/1.webp",
         "title": "Launch Fast and Grow Smart with One Nexuz in Sharjah Free Zones",
         "description": "Over 900 businesses started here last year—yours can be next! We take care of licensing, visas, and approvals—so you save time, cut costs, and start stronger.",
         "btn": "Scale Your Business Today!",
@@ -186,19 +186,19 @@
                 "id": 1,
                 "quote": "“One Nexuz helped us get our Shams license in just 4 days. The team was responsive, clear, and honest throughout.”",
                 "role": "Digital Agency Business Owner",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“They explained the differences between SPC and SAIF Zone so clearly. We picked the right zone and launched without delays.”",
                 "role": "E-commerce Entrepreneur ",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“We launched in SPC Free Zone in just 3 days. One Nexuz handled the setup, visa, and even our bank application—all without us chasing.”",
                 "role": "Self-Help Consultancy Business Owner",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/sharjahFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -250,7 +250,7 @@
         "title": "Ready to Launch Your Business in Sharjah Free Zone with One Nexuz?",
         "description": "Expand your business reach today with Sharjah’s low-cost and diverse free zones. Partner with One Nexuz and start your business setup in the Sharjah Free Zone today.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/sharjahFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

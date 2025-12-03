@@ -21,11 +21,12 @@ function LeftSection10({ data, locale }) {
         <Typography size="3xl" weight="bold" as="p">
           {data?.title}
         </Typography>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 relative z-15">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 relative z-15">
           {data?.items?.map((item) => (
             <div
               key={item?.id}
-              className="bg-white py-6 sm:min-h-[230px] px-5 rounded-lg shadow-lg flex flex-col gap-6">
+              className="bg-white py-6 sm:min-h-[230px] px-5 rounded-lg shadow-lg flex flex-col gap-6"
+            >
               <div className="space-y-4 ">
                 <Typography as="p" weight="medium" size="lg">
                   {item?.title}
@@ -34,7 +35,8 @@ function LeftSection10({ data, locale }) {
                   as="p"
                   weight="normal"
                   size="base"
-                  className="!text-gray-500">
+                  className="!text-gray-500"
+                >
                   {item?.description}
                 </Typography>
               </div>
@@ -42,7 +44,8 @@ function LeftSection10({ data, locale }) {
               <LanguageAwareLink
                 href={item?.url}
                 variant=""
-                className="!text-sm w-fit !text-gray flex items-center gap-1 font-medium mt-auto">
+                className="!text-sm w-fit !text-gray flex items-center gap-1 font-medium mt-auto"
+              >
                 {data?.btn}
                 <Icon
                   icon={locale ? "uil:angle-left" : "uil:angle-right"}

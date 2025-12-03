@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
         "bookConsultation": "احجز استشارتك المجانية.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/rasAlKhaimahFreeZoneCompanyFormation.webp",
         "title": "إعداد الأعمال في منطقة رأس الخيمة الحرة - حلول سلسة لكل رائد أعمال ومؤسسة",
         "description": "البحث عن الموقع المناسب، والوصول إلى الأسواق العالمية، وضمان الاستقرار على المدى الطويل هي أسئلة كبيرة لأي رائد أعمال. لا تبحث أكثر لأن One Nexuz تأخذ التعقيد من إنشاء شركتك في المنطقة الحرة المربحة في رأس الخيمة، مع حلول مصممة حول أهدافك. مع عدم وجود ضرائب على الشركات وإعادة رأس المال بالكامل، تمكّنك المنطقة من تحقيق أقصى قدر من الأرباح. احصل على مساعدة الخبراء لتبسيط إعداد الأعمال في رأس الخيمة."
     },
@@ -15,28 +15,28 @@
                 "title": "من الملكية الجزئية إلى السيطرة الكاملة على عملك",
                 "subTitle": "من الملكية الجزئية إلى السيطرة الكاملة على عملك",
                 "description": "هل تقلق من فقدان السيطرة أو مشاركة الأرباح مع الرعاة المحليين؟ منطقة رأس الخيمة الحرة تلغي هذه القلق من خلال تقديم ملكية أجنبية كاملة. يتمتع أصحاب الأعمال بالاستقلالية الاستراتيجية الكاملة وسلطة اتخاذ القرار مع الاحتفاظ بـ 100% من أرباحهم.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "خفض التكاليف، حماية الأرباح، والاستمتاع بحوافز ضريبية لا مثيل لها",
                 "subTitle": "خفض التكاليف، حماية الأرباح، والاستمتاع بحوافز ضريبية لا مثيل لها",
                 "description": "يمكن أن تحد الضرائب من نمو الأعمال، لكن منطقة رأس الخيمة الحرة تقدم ضريبة 0% على الشركات والدخل الشخصي مع إعادة 100% من الأرباح. تضمن هذه الهيكلية الخالية من الضرائب تحقيق أقصى قدر من الأرباح، وحماية الهوامش، وإعادة استثمار المدخرات مباشرة في التوسع.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "استفد من تكاليف دخول منخفضة، وزد من حجمك بشكل استراتيجي، ووسع نطاقك بشكل أسرع",
                 "subTitle": "استفد من تكاليف دخول منخفضة، وزد من حجمك بشكل استراتيجي، ووسع نطاقك بشكل أسرع",
                 "description": "لا يجب أن يؤدي إطلاق عمل إلى استنزاف الموارد. تُعرف منطقة رأس الخيمة الحرة بأنها من بين أدنى تكاليف التأسيس والتشغيل في الإمارات، مما يجعل تشكيل الشركات متاحًا للشركات الناشئة والمستثمرين الذين يهتمون بالتكاليف، مع توفير بيئة قابلة للتوسع للنمو على المدى الطويل.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "من السوق الإقليمية إلى التوسع العالمي، وزيادة الإيرادات عبر الحدود",
                 "subTitle": "من السوق الإقليمية إلى التوسع العالمي، وزيادة الإيرادات عبر الحدود",
                 "description": "تضع منطقة رأس الخيمة الحرة موقعها الاستراتيجي بالقرب من الموانئ الكبرى وشبكات النقل الشركات في قلب التجارة الدولية. مع اللوجستيات السلسة والوصول عبر الحدود، تحصل الشركات على ميزة تنافسية للتوسع خارج الإمارات والوصول إلى الأسواق العالمية بكفاءة.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -89,14 +89,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexuz ترشدك لإطلاق أعمالك بذكاء، وتوسيعها بسرعة - ابني في رأس الخيمة",
             "description": "الموقع الاستراتيجي لرأس الخيمة، وانخفاض التكاليف، والترخيص المرن يجعلها مثالية للشركات الناشئة والشركات العالمية على حد سواء. نحن نتولى كل خطوة - من الأوراق إلى التأشيرات - حتى تتمكن من الإطلاق بثقة.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left4/2.webp",
             "title": "قم بإعداد عملك في المنطقة الحرة بالشارقة مع One Nexuz",
             "description": "في One Nexuz، تدفع فقط مقابل ما تحتاجه. سواء كنت بحاجة إلى حلول إعداد أعمال شاملة أو خدمات مستقلة، ستحصل على عرض مخصص وفقًا لاحتياجات عملك وميزانيتك.",
             "btn": "استكشف حزم التسعير لدينا",
@@ -110,37 +110,37 @@
                 "id": 1,
                 "title": "استشارة",
                 "description": "يساعدك مستشارونا في تحديد فئة الترخيص المناسبة في منطقة رأس الخيمة الحرة، المعروفة بتكاليف الإعداد المعقولة وتنوع الصناعات.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "الهيكل القانوني والترخيص",
                 "description": "نرشدك في اختيار الهيكل القانوني المناسب، وتسجيل شركتك، والحصول على الترخيص بأقل قدر من المتاعب.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "خيارات مساحة العمل",
                 "description": "تقدم منطقة رأس الخيمة الحرة مكاتب مرنة، ومساحات مشتركة، ومرافق صناعية. نحن نطابقك مع الخيار الأنسب لنشاطك.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "تسهيل الفيزا",
                 "description": "تتم معالجة تأشيرات الإقامة للمالكين والموظفين ورعاية العائلة بشكل كامل، مما يضمن انتقال سلس وبناء فريق.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "إعداد حساب بنكي",
                 "description": "افتح حسابًا بنكيًا في الإمارات بمساعدتنا، مما يضمن أن عملك في منطقة رأس الخيمة الحرة يعمل ماليًا بشكل كامل.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "دعم مستمر من PRO",
                 "description": "نقدم دعمًا كاملاً للتجديدات، والامتثال، والوثائق للحفاظ على كيانك في رأس الخيمة متوافقًا ومستعدًا للمستقبل.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -151,22 +151,22 @@
             {
                 "title": "استمتع بدعم على مدار الساعة",
                 "description": "يقدم مستشارونا الم dedicated 24/7 دعم العملاء، مجيبين على جميع استفساراتك حتى تتمكن من الاستمتاع بإجراءات إعداد الأعمال بدون متاعب في منطقة رأس الخيمة الحرة.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "تواصل مع مستشارين خبراء",
                 "description": "يتمتع فريق مستشارينا للأعمال بأكثر من عقد من الخبرة ومعرفة محلية عميقة، لذا يمكنك الاعتماد علينا لإعداد الأعمال بسرعة.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "احصل على حلول أعمال شاملة",
                 "description": "من الاستشارة الأولية إلى تجديدات ما بعد الإعداد، نتولى كل شيء. لذا، بينما نقوم بكل الأعمال، يمكنك التركيز على نمو وتوسيع عملك.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/grid/1.webp",
         "title": "توسع في الإمارات مع One Nexuz واستمتع برسوم منخفضة ومرونة عالية",
         "description": "تسهل منطقة رأس الخيمة الحرة على الشركات التسجيل والتوسع. نحن ندير عملية الإعداد والترخيص والتأشيرات بالكامل حتى تتمكن من النمو بدون قيود.",
         "btn": "قم بتوسيع أعمالك اليوم!",
@@ -180,19 +180,19 @@
                 "id": 1,
                 "quote": "حصلت على ترخيص RAK والتأشيرة في 3 أيام. ما أعجبني أكثر هو الوضوح - لا رسوم خفية، لا صداع.",
                 "role": "مالك عمل لوجستي",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "ساعدني One Nexuz في مقارنة DAO وRAKEZ، وجعل عملية فتح الحساب المصرفي سلسة. أوصي بشدة.",
                 "role": "رائد أعمال تقني",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "شعرت أن التأسيس في RAKEZ كان معقدًا حتى تحدثت مع One Nexuz. لقد تعاملوا مع الأوراق، والموافقات، وساعدوني حتى في مساحة المكتب - كل ذلك أسرع مما كنت أتوقع.",
                 "role": "مؤسس تجارة إلكترونية",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -244,7 +244,7 @@
         "title": "قم بالإعداد بذكاء وتوسع بثقة مع One Nexuz",
         "description": "استفد من ثروة الحوافز الضريبية والوصول إلى الأسواق العالمية والمرافق التجارية الفريدة في منطقة رأس الخيمة الحرة مع مستشارينا الخبراء.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/rasAlKhaimahFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",

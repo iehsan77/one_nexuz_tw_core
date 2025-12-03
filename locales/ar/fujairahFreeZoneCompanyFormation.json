@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
         "bookConsultation": "احجز استشارتك المجانية.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/fujairahFreeZoneCompanyFormation.webp",
         "title": "من البوابة إلى النمو العالمي - تأسيس الأعمال في منطقة الفجيرة الحرة أصبح سهلاً",
         "description": "يمكن أن يبدو بدء عمل تجاري في الإمارات العربية المتحدة أمرًا مرهقًا - أكوام من الأوراق، والموافقات المتغيرة، والرسميات التي لا تنتهي والتي تستنزف الوقت والطاقة. في One Nexuz، نجعل تأسيس شركة في منطقة الفجيرة الحرة بسيطًا وواضحًا وخاليًا من التوتر. تقع على الساحل الشرقي مع وصول لا مثيل له إلى طرق التجارة الرئيسية، تفتح منطقة الفجيرة الحرة الأبواب للمستقلين، ورواد الأعمال الفرديين، والشركات الصغيرة والمتوسطة، والشركات الكبرى على حد سواء. مع حزم تأشيرات متعددة، وعدم وجود ضريبة شخصية، وعدم وجود مساحة مكتبية إلزامية، يقوم متخصصونا بتبسيط كل خطوة، حتى تتمكن من الانطلاق بشكل أسرع، والبقاء متوافقًا، والتركيز على النمو بينما نتولى التفاصيل."
     },
@@ -15,28 +15,28 @@
                 "title": "من خيارات محدودة إلى مرونة كاملة في الأعمال",
                 "subTitle": "من خيارات محدودة إلى مرونة كاملة في الأعمال",
                 "description": "غالبًا ما تؤدي الإجراءات المعقدة والتكاليف المتزايدة إلى إبطاء نمو الأعمال. تبسط منطقة الفجيرة الحرة تشكيل الشركات من خلال إجراءات مبسطة، وحزم بأسعار معقولة، وخيارات ترخيص متنوعة، مما يمكّن رواد الأعمال من تقليل وقت التأسيس وتكييف العمليات بسهولة مع متطلبات السوق.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "وفر في التكاليف، احتفظ بالأرباح، وزد من عائداتك",
                 "subTitle": "وفر في التكاليف، احتفظ بالأرباح، وزد من عائداتك",
                 "description": "في منطقة الفجيرة الحرة، تستمتع الشركات بإعفاء من الضرائب على الشركات والدخل الشخصي بنسبة 0% مع إمكانية إعادة 100% من الأرباح. يضمن هذا البيئة الصديقة للضرائب هوامش أقوى، مما يسمح لك بإعادة استثمار الأرباح في النمو والابتكار وتوسيع السوق.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "تواصل بشكل أسرع، وشحن بشكل أذكى، ونمو خارج الحدود",
                 "subTitle": "تواصل بشكل أسرع، وشحن بشكل أذكى، ونمو خارج الحدود",
                 "description": "توفر موقع الفجيرة الفريد خارج مضيق هرمز وصولًا مباشرًا إلى المحيط الهندي، متجاوزًا الاختناقات الإقليمية. مع القرب من الموانئ البحرية الرئيسية، والمطارات الدولية، وروابط الطرق الحديثة، تستفيد الأعمال من لوجستيات أسرع، وتكاليف نقل مخفضة، والوصول السلس إلى التجارة العالمية.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "من وصول محدود إلى فرص متنوعة في الأسواق العالمية",
                 "subTitle": "من وصول محدود إلى فرص متنوعة في الأسواق العالمية",
                 "description": "من التجارة واللوجستيات إلى الخدمات والاستشارات والتصنيع، تدعم منطقة الفجيرة الحرة مجموعة واسعة من الصناعات. تمكّن أطرها القابلة للتكيف الأعمال من التنويع، والتغيير، والتوسع دون قيود - مما يضمن المرونة والنمو على المدى الطويل.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -82,14 +82,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/fujairahFreeZoneCompanyFormation/left4/1.webp",
             "title": "One Nexus تساعدك في الانضمام إلى أكثر من 2000 شركة تنمو في منطقة الفجيرة الحرة",
             "description": "من الشركات الصناعية إلى رواد الأعمال الرقميين، أصبحت الفجيرة مركزًا للأعمال التي تركز على النمو. احصل على ميزة محلية فورية مع حلول تأسيس الأعمال الشاملة لدينا.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/fujairahFreeZoneCompanyFormation/left4/2.webp",
             "title": "تكاليف تأسيس شركة في منطقة الفجيرة الحرة أصبحت شفافة - لا رسوم خفية",
             "description": "تجعل منطقة الفجيرة الحرة تأسيس الأعمال بسيطًا وفعالًا من حيث التكلفة، مع حزم واضحة لكل نشاط. مع One Nexuz، تحصل على عروض أسعار مسبقة، وعدم وجود مفاجآت، وطريق سلس نحو النمو.",
             "btn": "استكشف حزم التسعير لدينا",
@@ -103,37 +103,37 @@
                 "id": 1,
                 "title": "استشارة أولية",
                 "description": "نقوم بتوافق أهدافك مع مزايا منطقة الفجيرة الحرة - خاصة التجارة، والشحن، واللوجستيات - وننهي الترخيص المناسب للنشاط.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "إعداد الهيكل القانوني",
                 "description": "اختر بين FZE أو FZC. نحن نساعد في طلبات الترخيص، وتجميع الأنشطة إذا لزم الأمر، لتسهيل تشكيل منطقة الفجيرة الحرة.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "اختيار مساحة العمل",
                 "description": "سواء كانت مكتب مرن، أو مكتب مشترك، أو منشأة تخزين، تقدم الفجيرة خيارات مرنة. نحن نؤمن الإعداد المناسب لعملياتك.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "معالجة التأشيرات",
                 "description": "نتولى طلبات التأشيرات للمستثمرين، والموظفين، ورعاية العائلة. تسمح منطقة الفجيرة الحرة بتعدد التأشيرات لكل ترخيص لدعم النمو.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "فتح حساب مصرفي",
                 "description": "نساعدك في فتح حساب مصرفي في الإمارات، مما يسهل المعاملات ويضمن أن شركتك في الفجيرة جاهزة ماليًا.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "PRO والتجديدات",
                 "description": "ابق متوافقًا مع الدعم الحكومي والهجرة المستمر. نحن ندير التجديدات، والتقارير، وخدمات PRO لراحة البال.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -144,22 +144,22 @@
             {
                 "title": "احصل على الترخيص أسرع بنسبة 75%",
                 "description": "نخفف من مخاطر الرفض المحتمل، والأشكال المفقودة، والذهاب والإياب المستهلك للوقت، مما يسمح لك بالحصول على الترخيص في 1-3 أيام عمل.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "استمتع بدعم شامل",
                 "description": "افتح إدارة الامتثال، والترخيص، والتأشيرات، ودعم تكنولوجيا المعلومات على مدار الساعة تحت سقف واحد لتنمية عملك بثقة.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "خفض التكاليف التشغيلية إلى النصف",
                 "description": "وفر آلاف الدراهم من خلال تجنب النفقات غير المخطط لها التي تأتي مع عدم تطابق الأنشطة ورفض التأشيرات مع مستشارينا الخبراء.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/fujairahFreeZoneCompanyFormation/grid/1.webp",
         "title": "رفع عائد الاستثمار الخاص بك مع إعداد One Nexuz في منطقة الفجيرة الحرة",
         "description": "مع الوصول الاستراتيجي إلى الخليج والمحيط الهندي، تستفيد شركات منطقة الفجيرة الحرة من اللوجستيات القوية وملكية أجنبية بنسبة 100%. يقوم خبراؤنا بتبسيط الإعداد حتى تتمكن من التوسع بشكل أسرع.",
         "btn": "قم بتوسيع أعمالك اليوم!",
@@ -173,19 +173,19 @@
                 "id": 1,
                 "quote": "كشخص يطلق عملًا عن بُعد، كنت بحاجة إلى شريك يمكنني الوثوق به. لم تساعدني One Nexuz فقط في التسجيل في منطقة الفجيرة الحرة دون زيارة الإمارات، بل اعتنت أيضًا بالامتثال، ومعالجة التأشيرات، والتجديدات. حقًا حل شامل.",
                 "role": "مالك عمل إلكتروني",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "قمت بمقارنة عدة مزودي خدمات، وما لفت انتباهي في One Nexuz هو مدى شفافية العملية. لم تكن هناك تكاليف خفية، ولا إجابات غامضة - فقط خطوات واضحة وتنفيذ سريع. خلال أيام، تم ترتيب ترخيصي في الفجيرة وحسابي البنكي التجاري.",
                 "role": "مستقل في التسويق الرقمي",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "لم أكن أعرف من أين أبدأ، لكن One Nexuz تعاملت مع كل شيء - من مساعدتي في اختيار الترخيص المناسب إلى الحصول على تأشيرة العمل الخاصة بي. استغرق الأمر أقل من أسبوع، وتم إطلاعي على كل شيء طوال الوقت. لم أكن لأستطيع القيام بذلك بدونهم.",
                 "role": "استشاري تكنولوجيا المعلومات",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/fujairahFreeZoneCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -237,7 +237,7 @@
         "title": "هل أنت مستعد للإطلاق والتوسع في المنطقة الحرة بالفجيرة مع One Nexuz؟",
         "description": "أطلق مشروعك بمفردك أو وسع أعمالك بدون ضغوط في المنطقة الحرة بالفجيرة مع فريقنا من المستشارين والخبراء! في One Nexuz، نقدم حلول إعداد الأعمال بسلاسة وامتثال 100% لمساعدتك في بدء رحلتك الريادية.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/fujairahFreeZoneCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",
