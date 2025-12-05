@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/dubaiOffshoreCompanyFormation.webp",
         "title": "Experience Seamless Offshore Company Formation in Dubai with One Nexuz—Eliminate Risks, Protect Assets, & Stay 100% Compliant",
         "description": "Frustrated with lengthy relocation procedures that delay your business launch? Enjoy Dubai’s world-class infrastructure and strategic location to unlock boundless business opportunities from the comfort of your home. Establish your company in the city and get full ownership without relocating to the UAE. Get expert consultation to set up and launch your business in days, not weeks."
     },
@@ -15,28 +15,28 @@
                 "title": "From Confidential Ownership to Worldwide Asset Protection — Safeguard What Matters Most",
                 "subTitle": "From Confidential Ownership to Worldwide Asset Protection — Safeguard What Matters Most",
                 "description": "Managing assets across multiple jurisdictions can be complex and risky. Structure international assets, intellectual properties, and global holdings under a single secure legal umbrella to simplify ownership and mitigate financial risks. Gain peace of mind knowing your wealth is protected and strategically managed.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Run Your Business Anywhere, Manage Operations Remotely, & Grow Beyond Boundaries",
                 "subTitle": "Run Your Business Anywhere, Manage Operations Remotely, & Grow Beyond Boundaries",
                 "description": "Expanding internationally often comes with high costs and operational hurdles. Scale your business across the globe with minimal local operations, all the while streamlining finances with multi-currency accounts. Stay agile, reduce overheads, and keep your business ready for global opportunities.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Position Your Business in a World-Class Economic Hub to Expand Faster, Trade Smarter, and Grow Globally ",
                 "subTitle": "Position Your Business in a World-Class Economic Hub to Expand Faster, Trade Smarter, and Grow Globally ",
                 "description": "Complex logistics and costly distribution often slow down global expansion. Located in the heart of major global trade routes, Dubai offshore empowers businesses with seamless logistics and distribution channels. Reach international markets faster and operate with greater efficiency.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Streamline Operations, Minimise Waste, and Grow Your Bottom Line with Confidence",
                 "subTitle": "Streamline Operations, Minimise Waste, and Grow Your Bottom Line with Confidence",
                 "description": "Heavy taxes can drain your profits and slow down business growth. Reinvest and double your income with Dubai offshore’s 0% corporate and personal income tax and 100% return on profits. Build long-term wealth and expand your business without financial roadblocks.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -46,26 +46,22 @@
             {
                 "id": 1,
                 "title": "Holding Company",
-                "description": "Ideal for global investors and multinationals consolidating assets in the UAE.",
-                "url": "#"
+                "description": "Ideal for global investors and multinationals consolidating assets in the UAE."
             },
             {
                 "id": 2,
                 "title": "Limited Liability Company",
-                "description": "Best suited for solopreneurs wanting to safeguard personal assets.",
-                "url": "#"
+                "description": "Best suited for solopreneurs wanting to safeguard personal assets."
             },
             {
                 "id": 3,
                 "title": "Private Limited Company",
-                "description": "Perfect for investors and business partners seeking asset protection.",
-                "url": "#"
+                "description": "Perfect for investors and business partners seeking asset protection."
             },
             {
                 "id": 4,
                 "title": "Special Purpose Vehicles",
-                "description": "Tailored to your business, this flexible structure helps isolate financial risks.",
-                "url": "#"
+                "description": "Tailored to your business, this flexible structure helps isolate financial risks."
             }
         ]
     },
@@ -95,14 +91,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/dubaiOffshoreCompanyFormation/left4/1.webp",
             "title": "One Neuxz Unlocks Dubai’s 3.5 Billion Consumers for You through Lucrative Trade Gateways",
             "description": "Set up your offshore company and capitalize on fast-growing markets across the Middle East, Africa, Asia, and Europe. With One Nexuz, you can get set up in as little as 3-5 days and start scaling from day one!",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/dubaiOffshoreCompanyFormation/left4/2.webp",
             "title": "Get Premium Offshore Company Formation Services Without the Premium Price Tag",
             "description": "At One Nexuz, we believe business setup should be simple, transparent, and cost-effective. That’s why we don’t lock you into rigid packages with unnecessary add-ons. Instead, we offer custom quotes designed around your exact requirements—so you only pay for the services you truly need.",
             "btn": "Explore Our Pricing Packages",
@@ -116,37 +112,37 @@
                 "id": 1,
                 "title": "Book a Free Consultation ",
                 "description": "We'll kickstart with a no-obligations call to discuss your business goals, whether investment, asset protection, or holding, and match you with the ideal jurisdiction and ownership structure.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Connect with a Registered Agent ",
                 "description": "Based on your needs, we'll connect you with a local registered agent in Dubai Offshore, who will become your dedicated point of contact in Dubai, streamlining business setup and ensuring compliance.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Prepare and Submit the Necessary Documents",
                 "description": "Next, our reliable registered agents will help you draft, attest, and notarise the necessary documents, including the MoA, AoA, passport copies, and business plan (if necessary), and submit them on your behalf.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Collect Your Company Incorporation Certification",
                 "description": "Once your application is approved, the government issues your official company documents, including a Certificate of Incorporation, Share Certificates, and Board Resolution, empowering you to start operating.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Open Your Offshore Bank Account ",
                 "description": "With your incorporation documents in hand, our experts guide you through the banking process, expediting approvals for high-risk structures and allowing you to hold, send, and transact in 20+ currencies worldwide. ",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Get Ongoing Support  ",
                 "description": "Beyond offshore company setup, our reliable local registered agents help you stay compliant with Dubai Offshore's fast-changing requirements through annual renewals, potential share transfers, accounting records, and PRO services.   ",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/dubaiOffshoreCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -157,22 +153,22 @@
             {
                 "title": "Accelerate Setup Times ",
                 "description": "Cut down processing times in days and accelerate your time-to-market with our seamless offshore setup solutions in Dubai.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Receive Customised Guidance",
                 "description": "Our highly experienced consultants assess your unique business goals to tailor solutions that help you succeed in Dubai’s dynamic business landscape.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Stay 100% Compliant ",
                 "description": "Receive regular updates to ensure your business meets Dubai offshore regulations, mitigating the risk of hefty fines and penalties. ",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/dubaiOffshoreCompanyFormation/grid/1.webp",
         "title": "Uncover Infinite Global Possibilities for Your Business with One Nexuz  ",
         "description": "With top-tier legal protection, zero tax liability, and no physical presence required, Dubai offshore is the perfect zone for billionaires and international firms. Trust our experts to streamline the setup so you can focus on protecting global assets.",
         "btn": "Scale Your Business Today!",
@@ -186,19 +182,19 @@
                 "id": 1,
                 "quote": "“I needed an offshore company to manage my overseas assets. One Nexuz got me set up in 5 days with full documentation and banking. Highly efficient.”",
                 "role": " Asset Manager",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“They explained everything clearly and delivered exactly what was promised. I use my Dubai offshore company now for consulting across 3 continents.”",
                 "role": "Business Consultant",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“What impressed me most was how smooth the banking setup was. I had heard horror stories—One Nexuz made it easy.”  ",
                 "role": "E-commerce Operator",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/dubaiOffshoreCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -232,7 +228,7 @@
         "title": "Build Your Dubai Offshore Company the Right Way with One Nexuz",
         "description": "Secure your Dubai offshore company with zero hassle—fast, compliant, and confidential. Expand globally with 100% ownership, zero tax, and expert support.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/dubaiOffshoreCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

@@ -41,6 +41,7 @@ function ServicesPage({
   businessActivitiesTable,
   secondCitizenshipTable,
   IconTitleDiv,
+  sec10,
 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
@@ -96,7 +97,7 @@ function ServicesPage({
       <OurClients data={data?.leftSection_8} />
       <LookingFor />
       <LeftSection9 />
-      <LeftSection10 data={data?.leftSection_10} locale={locale} />
+      {!sec10 && <LeftSection10 data={data?.leftSection_10} locale={locale} />}
       <GridSec data={data?.leftSection_11} />
       <GuideSec />
       <BlogSec />

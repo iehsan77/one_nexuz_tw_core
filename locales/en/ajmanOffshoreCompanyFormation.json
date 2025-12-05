@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/ajmanOffshoreCompanyFormation.webp",
         "title": "From Advisory to Compliance, Get Seamless End-to-End Offshore Company Formation Solutions in Ajman With One Nexuz",
         "description": "Tap into the UAE’s fastest-growing economy by expanding to Ajman Offshore. With 100% foreign ownership, 0% corporate tax, and seamless operations, the region is ideal for holding assets and discovering profitable investments. Our expert business consultants streamline all the paperwork so you don’t get lost in compliance."
     },
@@ -15,28 +15,28 @@
                 "title": "Expand Internationally Without Leasing Offices or Managing Visas",
                 "subTitle": "Expand Internationally Without Leasing Offices or Managing Visas",
                 "description": "Struggling with high setup costs and ongoing overheads? Cut down operational costs with Ajman Offshore’s no office or UAE residence visa requirements, you save on unnecessary expenses while keeping full flexibility. Start growing from day one and reinvest your capital where it matters most—into scaling your business.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Keep More Profits and Scale Faster with 100% Tax-Free Advantage",
                 "subTitle": "Keep More Profits and Scale Faster with 100% Tax-Free Advantage",
                 "description": "High taxes can significantly reduce your hard-earned profits. Elevate your bottom line with the region’s full repatriation and zero corporate and personal income tax requirements. Enjoy greater financial flexibility and use your profits to expand your business faster.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Seamless Multi-Currency Banking to Simplify and Scale Your Business Finances",
                 "subTitle": "Seamless Multi-Currency Banking to Simplify and Scale Your Business Finances",
                 "description": "Tired of banking limitations that slow down your business operations? Operate bank accounts within and beyond the UAE to streamline finances and exchange currencies without any restrictions. Enjoy full control over your funds and manage your business globally with ease.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Accelerate Your Business Setup and Start Operating in Days",
                 "subTitle": "Accelerate Your Business Setup and Start Operating in Days",
                 "description": "Slow registration can keep you from starting your business. Get registered in as little as 48-72 hours with Ajman Offshore’s seamless and 100% remote setup process. Start operating immediately and focus on building your business from day one.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -47,26 +47,22 @@
             {
                 "id": 1,
                 "title": "Limited Liability Company",
-                "description": "Ideal for international trade or asset holding with liability limited to shares.",
-                "url": "#"
+                "description": "Ideal for international trade or asset holding with liability limited to shares."
             },
             {
                 "id": 2,
                 "title": "Company Limited by Guarantee",
-                "description": "Best suited for non-profit organisations, allowing them to limit liability to a certain amount.",
-                "url": "#"
+                "description": "Best suited for non-profit organisations, allowing them to limit liability to a certain amount."
             },
             {
                 "id": 3,
                 "title": "Intellectual Property Holding",
-                "description": "Perfect for global brands seeking to own and manage multiple IP assets.",
-                "url": "#"
+                "description": "Perfect for global brands seeking to own and manage multiple IP assets."
             },
             {
                 "id": 4,
                 "title": "Company Limited by Shares",
-                "description": "Well-suited for international trade or asset holding with liability limited to their shares.",
-                "url": "#"
+                "description": "Well-suited for international trade or asset holding with liability limited to their shares."
             }
         ]
     },
@@ -95,14 +91,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/ajmanOffshoreCompanyFormation/left4/1.webp",
             "title": "Drive 45% Faster Growth with Your Ajman Offshore Setup via One Nexuz",
             "description": "Launch in the UAE’s fastest-growing offshore hubs to hold assets, discover investment opportunities, and diversify your real estate portfolio. Partner with our experts to get growing today!",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/ajmanOffshoreCompanyFormation/left4/2.webp",
             "title": "Compare Ajman Offshore Company Setup Costs",
             "description": "Get your company up and running without breaking the bank. Pay for exactly what you need—licenses, approvals, and services tailored to your company’s growth.",
             "btn": "Explore Our Pricing Packages",
@@ -116,37 +112,37 @@
                 "id": 1,
                 "title": "Get A Free Consultation",
                 "description": "Book a complimentary, no-obligation session. We’ll review your goals (holding, asset protection, investment, etc.), confirm whether Ajman offshore is the right fit, and recommend the ideal business activities and ownership structure.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Connect With A Registered Agent",
                 "description": "We assign a trusted UAE-registered agent to act as your local representative — providing a registered office address, managing all government paperwork, and ensuring smooth compliance. Alongside, we help you choose the best-fit legal structure that matches your goals while meeting Ajman offshore regulations.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Prepare & Submit Documents",
                 "description": "Next, you provide KYC and company documents, passport copies, proof of address, and a business plan. We draft and notarize the MOA/AOA, prepare the incorporation file, and submit everything to the authority on your behalf.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Receive License & Incorporation Certificate",
                 "description": "After approval and fee payment, you’ll receive the Certificate of Incorporation, Share Certificate, Board Resolution, trade license, and statutory documents — delivered to you along with a company kit and official records.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Open A Corporate Bank Account",
                 "description": "We prepare a bank-ready package (business plan, beneficial-owner details, proof of funds), introduce you to suitable banks, and support the account-opening process and due diligence.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Ongoing Compliance & Dedicated Support",
                 "description": "We handle annual renewals, corporate secretarial tasks,  and advise on accounting and record keeping where relevant. Plus, we provide ongoing PRO support for share transfers, director changes, and bank queries.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/ajmanOffshoreCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -157,22 +153,22 @@
             {
                 "title": "Connect with Local Experts",
                 "description": "Partner with seasoned UAE-based consultants to gain region-specific insights, fast-track paperwork, and up-to-date compliance.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Get Holistic Business Solutions",
                 "description": "Our expert business consultants offer end-to-end setup support, helping you streamline your finances, payroll, and PRO processes.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Ensure ESR & Tax Compliance",
                 "description": "Mitigate regulatory risks with proactive guidance on ESR and UAE corporate tax registration. Get regular updates to ensure 100% compliance.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/ajmanOffshoreCompanyFormation/grid/1.webp",
         "title": "One Nexuz Unlocks Ajman’s Booming Economy For Your Business to Scale Limitlessly",
         "description": "We manage the entire setup to help you expand worldwide without the guesswork. Maximise your profits with zero tax, full ownership, and no physical presence requirements.",
         "btn": "Scale Your Business Today!",
@@ -186,19 +182,19 @@
                 "id": 1,
                 "quote": "“The team was honest, fast, and responsive. I had my mainland license and visa in under 10 days, with no surprise costs.”",
                 "role": "Business Consultant",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“Other firms tried to oversell Free Zone options. One Nexuz actually advised what made sense for me. That made all the difference.”",
                 "role": "Fitness Studio Owner",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“One Nexuz handled everything from approvals to bank account setup. They made the entire process stress-free, and I felt supported every step of the way.”",
                 "role": "Marketing Agency Founder",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/ajmanOffshoreCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -232,7 +228,7 @@
         "title": "Partner with One Nexuz to Launch Your Offshore Company and Scale Confidently",
         "description": "Partner with our expert business consultants and advisors to simplify business setup and earn global credibility!",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/ajmanOffshoreCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

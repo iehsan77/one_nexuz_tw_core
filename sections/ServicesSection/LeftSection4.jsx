@@ -17,7 +17,8 @@ function LeftSection4({ data, locale }) {
         <div
           className={`${
             locale ? "left-0" : "right-0"
-          } absolute z-5 top-0 opacity-30`}>
+          } absolute z-5 top-0 opacity-30`}
+        >
           <Image
             src={
               locale
@@ -43,30 +44,32 @@ function LeftSection4({ data, locale }) {
         </div>
       </div>
       {/*  */}
-      <div className="p-6 bg-primary grid md:grid-cols-3 gap-10 items-center">
-        <div className="col-span-3 md:col-span-2 space-y-4">
-          {data?.sec2?.title && (
-            <Typography as="p" color="white" size="lg" weight="bold">
-              {data?.sec2?.title}
-            </Typography>
-          )}
-          {data?.sec2?.description && (
-            <Typography as="p" color="white" size="base" weight="normal">
-              {data?.sec2?.description}
-            </Typography>
-          )}
-          <ModalBtn text={data?.sec2?.btn} className={"!text-sm"} />
+      {data?.sec2?.title && (
+        <div className="p-6 bg-primary grid md:grid-cols-3 gap-10 items-center">
+          <div className="col-span-3 md:col-span-2 space-y-4">
+            {data?.sec2?.title && (
+              <Typography as="p" color="white" size="lg" weight="bold">
+                {data?.sec2?.title}
+              </Typography>
+            )}
+            {data?.sec2?.description && (
+              <Typography as="p" color="white" size="base" weight="normal">
+                {data?.sec2?.description}
+              </Typography>
+            )}
+            <ModalBtn text={data?.sec2?.btn} className={"!text-sm"} />
+          </div>
+          <div className="col-span-3 md:col-span-1">
+            <Image
+              src={data?.sec2?.image || "/assets/businessSetup/left4/2.webp"}
+              alt="img"
+              width={510}
+              height={346}
+              className="w-auto h-auto"
+            />
+          </div>
         </div>
-        <div className="col-span-3 md:col-span-1">
-          <Image
-            src={data?.sec2?.image || "/assets/businessSetup/left4/2.webp"}
-            alt="img"
-            width={510}
-            height={346}
-            className="w-auto h-auto"
-          />
-        </div>
-      </div>
+      )}
     </div>
   );
 }

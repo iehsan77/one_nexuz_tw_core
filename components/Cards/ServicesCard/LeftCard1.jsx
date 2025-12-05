@@ -10,15 +10,17 @@ function LeftCard1({ data, locale }) {
         <Typography as="p" weight="bold">
           {data?.title}
         </Typography>
-        <LanguageAwareLink href={data?.url || "#"}>
-          <Image
-            src={locale ? "/icons/right1_ar.svg" : "/icons/right1_en.svg"}
-            alt="icon"
-            width={20}
-            height={20}
-            className="w-auto h-auto object-contain"
-          />
-        </LanguageAwareLink>
+        {data?.url && (
+          <LanguageAwareLink href={data?.url || "#"}>
+            <Image
+              src={locale ? "/icons/right1_ar.svg" : "/icons/right1_en.svg"}
+              alt="icon"
+              width={20}
+              height={20}
+              className="w-auto h-auto object-contain"
+            />
+          </LanguageAwareLink>
+        )}
       </div>
       {data?.description && (
         <Typography as="p" size="sm" weight="normal" color="gray">

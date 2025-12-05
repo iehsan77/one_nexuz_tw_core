@@ -1,0 +1,295 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/businessSetup.webp",
+        "title": "From Registration to Expansion, Unlock Full Control & Global Reach with One Nexuz RAK Offshore Company Formation Services",
+        "description": "Frustrated by restrictive ownership rules and high taxes that limit your growth? Enjoy 100% foreign ownership, 0% corporate tax, and full confidentiality by launching in the RAK offshore. With a fast-growing economy and boundless expansion opportunities, the zone is the perfect launchpad for international business. At One Nexuz, we make it simple for you to start, scale, and dominate internationally."
+    },
+    "leftSection_1": {
+        "title": "Why Choose RAK Offshore to Scale Your Business",
+        "description": "RAK offshore boasts tax-efficient infrastructure, a robust regulatory environment, and 100% foreign ownership. Cut down set-up costs by eliminating the need for local operations.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Safeguard Wealth Across Borders: Hold, Manage & Grow Global Assets 100% Legally",
+                "subTitle": "Safeguard Wealth Across Borders: Hold, Manage & Grow Global Assets 100% Legally",
+                "description": "Worried about facing legal complications with your UAE assets? Own real estate, intellectual property, and shares in the UAE without risking compliance throughout the Emirates. Protect your wealth under a secure and recognized legal structure.",
+                "image": "/assets/businessSetup/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Protect Wealth & Retain Earnings with RAK’s Tax-Friendly Framework",
+                "subTitle": "Protect Wealth & Retain Earnings with RAK’s Tax-Friendly Framework",
+                "description": "Tired of limited investment options that restrict your global reach? Boost your profits by benefiting from the region’s zero corporate and personal income taxes. Enjoy more savings to reinvest and grow your global footprint.",
+                "image": "/assets/businessSetup/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Keep Your Identity, Assets, and Transactions Fully Confidential with Our Secure Corporate Setup",
+                "subTitle": "Keep Your Identity, Assets, and Transactions Fully Confidential with Our Secure Corporate Setup",
+                "description": "Many businesses face challenges when sensitive information becomes public, risking reputation and competitive advantage. Expand across the UAE while enjoying high levels of privacy, ensuring no confidential information goes public. Your business remains discreet, giving you complete peace of mind.",
+                "image": "/assets/businessSetup/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Transact in Any Currency, Anytime, & Maximise Your Offshore Business Opportunities",
+                "subTitle": "Transact in Any Currency, Anytime, & Maximise Your Offshore Business Opportunities",
+                "description": "Tired of strict currency controls and hidden transfer restrictions slowing down your business? With zero restrictions on currency exchange, setting up in RAK offshore promotes free capital movement. Transact globally without limitations or hidden barriers.",
+                "image": "/assets/businessSetup/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Our Multiple  RAK Offshore Company Formation Structures Tailored to Your Needs",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Limited by Shares",
+                "description": "Ideal for businesses seeking shareholder-based ownership with limited liability."
+            },
+            {
+                "id": 2,
+                "title": "Company Limited by Guarantee",
+                "description": "Best suited for non-profit entities or foundations with multiple members."
+            },
+            {
+                "id": 3,
+                "title": "Unlimited Company",
+                "description": "Designed for high-trust arrangements where members are fully liable for the company’s obligations."
+            },
+            {
+                "id": 4,
+                "title": "Intellectual Property Holding Company",
+                "description": "Hold, license, and protect trademarks, patents, and copyrights with a registered entity."
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "One Nexuz Unlocks the Best-Fit Offshore License in RAK",
+        "description": "Simplify RAK offshore company setup by securing a valid license. Get started by selecting the license that aligns with your unique business goals:",
+        "btn": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Lease a warehouse or streamline the distribution of goods.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Trading License",
+                "description": "Buy, sell, and trade beyond the Emirates with minimal taxes.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Grow your personal brand or agency by serving global clients.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Investment License",
+                "description": "Invest in global projects and joint ventures without risking compliance.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/businessSetup/left4/1.webp",
+            "title": "Run Your Business Remotely, & Slash Operating Costs in Half with One Nexuz",
+            "description": "Minimise overheads and maximise legal privacy by launching in RAK offshore. Uplift your profit margins by saving on physical locations and visa requirements. Get started today with our seamless solutions!",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/businessSetup/left4/2.webp",
+            "title": "Set Up Your Offshore Company in RAK & Break Barriers Not Your Bank Account",
+            "description": "Why pay for services you don’t need? From licenses and visas to bank accounts and workspace solutions, we craft a personalised quotes so you only invest in what truly matters for your business",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Set Up in RAK Offshore in 6 Simple Steps with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Start With a Free Consultation",
+                "description": "Kick off your RAK Offshore journey with a personalized session. We’ll explore your objectives — from holding assets to international investment — and recommend the ideal company structure and business activities.",
+                "image": "/assets/businessSetup/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Engage a Local Registered Agent",
+                "description": "We assign a licensed RAK Offshore agent to act as your UAE representative. They handle all local correspondence, manage paperwork, and ensure your company setup complies with RAK regulations — without the need for a physical office.",
+                "image": "/assets/businessSetup/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare & Submit Your Documents",
+                "description": "Our team guides you in gathering and preparing the necessary paperwork, including MOA, AOA, shareholder IDs, and board resolutions. Your agent will file everything with the RAK Offshore authorities for approval.",
+                "image": "/assets/businessSetup/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Official Incorporation Documents",
+                "description": "Once approved, you’ll receive your Certificate of Incorporation, Share Certificates, and Board Resolutions — giving you full legal recognition as an RAK Offshore company.",
+                "image": "/assets/businessSetup/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open Your Offshore Bank Account",
+                "description": "We assist in setting up your corporate bank account, ensuring smooth onboarding for multi-currency transactions, international payments, and banking in line with global compliance standards.",
+                "image": "/assets/businessSetup/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Ongoing Compliance & Support",
+                "description": "Our experts continue to provide end-to-end support — annual renewals, ownership changes, statutory record maintenance, and PRO services — keeping your RAK Offshore company fully compliant and operational.",
+                "image": "/assets/businessSetup/left5/6.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Entrepreneurs Worldwide Trust One Nexuz with RAK Offshore Business Setup",
+        "description": "Planning to uptake the RAK offshore setup independently? Our expert consultants simplify the entire setup process and mitigate compliance risks, so you can focus on scaling your brand hassle-free.",
+        "items": [
+            {
+                "title": "Unlock Expert Guidance",
+                "description": "Our business consultants boast the experience and local regulatory knowledge to help you navigate the RAK offshore business landscape.",
+                "image": "/assets/businessSetup/bgImage/1.webp"
+            },
+            {
+                "title": "Gain Remote Compliance Updates",
+                "description": "Stay compliant in RAK offshore’s dynamic regulatory environment with proactive alerts for renewals and upcoming policy changes.",
+                "image": "/assets/businessSetup/bgImage/2.webp"
+            },
+            {
+                "title": "Get Unmatched Affordability",
+                "description": "Cut processing costs in half with our transparent setup packages, including only services that add real value- no surprise renewals and no markups!",
+                "image": "/assets/businessSetup/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/businessSetup/grid/1.webp",
+        "title": "Go Global with One Nexuz Tax-Free RAK Offshore Company Setup Services",
+        "description": "Enjoy 0% corporate and income tax, no currency restrictions, and full repatriation of profits in RAK offshore. Unlock a compliant, secure gateway to manage international investments with our expert-led guidance.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Clients Say About Working with ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz helped me structure my family assets in RAK ICC with total confidentiality. The process was seamless.”",
+                "role": "Private Wealth Advisor ",
+                "image": "/assets/businessSetup/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They delivered exactly what they promised: fast setup, legal clarity, and bank support. Perfect for our consulting firm.”",
+                "role": "Business Consultant",
+                "image": "/assets/businessSetup/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I’ve worked with other firms before, but One Nexuz was by far the most transparent and responsive.”",
+                "role": "Real Estate Investor",
+                "image": "/assets/businessSetup/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover More UAE Offshore Options",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Offshore",
+                "description": "Register in Dubai offshore and discover lucrative properties and asset holding opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Jebel Ali Offshore",
+                "description": "Trade goods across the globe stress-free with our seamless JAFZA setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Ajman Offshore",
+                "description": "Discover a cost-effective and speedy setup by expanding to Ajman offshore.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Secure Your RAK Offshore Company with Our Expert-Led Guidance",
+        "description": "With our team of expert consultants, you can set up your RAK ICC company with precision- no loopholes, no hidden fees!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/businessSetup/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Ajman Offshore",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Offshore",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "RAK Offshore",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to set up a RAK offshore company?",
+                "answer": "It typically takes 3-5 business days, depending on your unique business activity, location, and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to set up in RAK offshore?",
+                "answer": "You’ll need copies of your passports, address proof, passport-sized pictures, and company purpose."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can a RAK offshore company trade across the UAE?",
+                "answer": "A RAK ICC company can sell, buy, and trade, but cannot conduct business within the UAE; however, you can transact globally."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What taxes do I need to pay in RAK offshore?",
+                "answer": "A RAK offshore company is free from corporate and personal income tax. You’ll only have to pay about 5% import tax for bringing goods into the Emirates."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I get 100% foreign ownership of my RAK offshore company?",
+                "answer": "Yes, RAK offshore provides you with full ownership of your company."
+            }
+        ]
+    }
+}
