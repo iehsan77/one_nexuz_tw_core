@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/copyrightRegistration.webp",
         "title": "Protect Your Ideas & Secure Your Creative Work with Our Hassle-Free Copyright Registration Solutions in the UAE",
         "description": "Worried your original content, designs, or software could be copied — or lost forever? Too many entrepreneurs discover the hard way that brand names, domain registration, or business licences don't give real IP protection. At One Nexuz, our consultants put full legal control back in your hands, simplifying every step of the registration process and empowering you to safeguard your original content, designs, software, or creative assets to prevent misuse and unlock new revenue opportunities."
     },
@@ -15,21 +15,21 @@
                 "title": "From Concept to Certified Ownership — Secure Your Work Against Legal Risks",
                 "subTitle": "From Concept to Certified Ownership — Secure Your Work Against Legal Risks",
                 "description": "Mitigate the risk of hefty fines with an official certificate from the UAE Ministry as your timestamped proof.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/copyrightRegistration/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Enjoy Global Coverage & Safeguard Your Work across 170+ Countries",
                 "subTitle": "Enjoy Global Coverage & Safeguard Your Work across 170+ Countries",
                 "description": "Get cross-border protection and global recognition with the UAE copyright registration backed by international treaties.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/copyrightRegistration/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Unlock New Income Streams & Grow Your Revenue by Monetizing Your Copyrights",
                 "subTitle": "Unlock New Income Streams & Grow Your Revenue by Monetizing Your Copyrights",
                 "description": "License your work for use by others and create passive income streams while retaining full ownership.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/copyrightRegistration/left1/3.webp"
             }
         ]
     },
@@ -39,56 +39,56 @@
         "items": [
             {
                 "id": 1,
-                "icon": "/assets/businessSetup/iconTitleSec/1.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/1.svg",
                 "title": "Mobile Apps & Software"
             },
             {
                 "id": 2,
-                "icon": "/assets/businessSetup/iconTitleSec/2.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/2.svg",
                 "title": "Websites & Designs"
             },
             {
                 "id": 3,
-                "icon": "/assets/businessSetup/iconTitleSec/3.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/3.svg",
                 "title": "Marketing Content"
             },
             {
                 "id": 4,
-                "icon": "/assets/businessSetup/iconTitleSec/4.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
                 "title": "Literary Works"
             },
             {
                 "id": 5,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
                 "title": "Sound Recordings"
             },
             {
                 "id": 6,
-                "icon": "/assets/businessSetup/iconTitleSec/4.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
                 "title": "Aristic Works"
             },
             {
                 "id": 7,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
                 "title": "Videos & Motion Graphics"
             },
             {
                 "id": 8,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
                 "title": "Training Material & Courses"
             }
         ]
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/copyrightRegistration/left4/1.webp",
             "title": "Copyright Protection, Priced for Your Needs",
             "description": "No rigid packages. No hidden fees. Get custom copyright registration costs in the UAE — pay only for the protection your work requires, with flexible support as your portfolio grows.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/copyrightRegistration/left4/2.webp",
             "title": "",
             "description": "",
             "btn": "",
@@ -102,25 +102,25 @@
                 "id": 1,
                 "title": "Get a Free Consultation",
                 "description": "We’ll kickstart the registration journey by assessing your creative work and goals to identify the best copyright path.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/copyrightRegistration/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Collect the Documents",
                 "description": "Next, we provide you with a checklist to streamline all the paperwork, legal declarations, and translations.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/copyrightRegistration/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Undergo an Evaluation",
                 "description": "We file your application with the UAE Ministry of Economy & handle all government coordination to resolve all conflicts.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/copyrightRegistration/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Issue Your Certificate",
                 "description": "Once approved, we deliver your official certificate, empowering you to protect your intellectual property worldwide.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/copyrightRegistration/left5/4.svg"
             }
         ]
     },
@@ -131,48 +131,48 @@
             {
                 "title": "Enjoy Faster Turnarounds",
                 "description": "We expedite turnaround times by 70% through expert handling, accurate categorisation, and efficient government coordination.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/copyrightRegistration/bgImage/1.webp"
             },
             {
                 "title": "Get Proactive Infringement Defense",
                 "description": "Stay ahead of copycats and counterfeiters with round-the-clock monitoring and early infringement risk assessments.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/copyrightRegistration/bgImage/2.webp"
             },
             {
                 "title": "Unlock Dedicated Legal Support",
                 "description": "Our well-equipped specialists handle your case end-to-end, minimising unexpected delays or costly mistakes.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/copyrightRegistration/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/copyrightRegistration/grid/1.webp",
         "title": "Don’t Just Publish- Protect What’s Yours with One Nexuz",
         "description": "With over 30 million pieces of content shared daily, copyright protection isn’t optional- it’s essential. We make it easy to register and protect your creative work with our seamless copyright registration solutions.",
         "btn": "Scale Your Business Today!",
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
+        "title": "What Customers Are Saying about ^One Nexuz^",
         "description": "Learn what customers are saying about One Nexuz. ",
         "items": [
             {
                 "id": 1,
                 "quote": "“One Nexuz registered my training material in under a week. Their team explained everything clearly and made sure nothing was missed.”",
                 "role": "Corporate Trainer",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/copyrightRegistration/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“I had no idea my website design could be copyrighted. They handled the entire process, and now I feel fully protected going into a product launch.”",
                 "role": "E-commerce Startup Founder",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/copyrightRegistration/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“Getting my app registered gave me peace of mind before talking to investors. I wanted to make sure my IP was protected, and One Nexuz made the whole process fast, clear, and affordable.”",
                 "role": "Mobile App Developer",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/copyrightRegistration/client/3.webp"
             }
         ]
     },
@@ -181,7 +181,7 @@
         "title": "Ready to Protect Your Artistic Creations Today?",
         "description": "In the UAE's fast-paced market, ideas are currency, and unprotected work is an open target. Our expert copyright registration services ensure you’re not just the creator, but the legal owner of all your creative marks.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/copyrightRegistration/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

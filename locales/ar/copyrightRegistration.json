@@ -1,101 +1,94 @@
 {
     "homeHeader": {
-        "getQuoteToday": "Get a Free Quote Today",
-        "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
-        "title": "Protect Your Ideas & Secure Your Creative Work with Our Hassle-Free Copyright Registration Solutions in the UAE",
-        "description": "Worried your original content, designs, or software could be copied — or lost forever? Too many entrepreneurs discover the hard way that brand names, domain registration, or business licences don't give real IP protection. At One Nexuz, our consultants put full legal control back in your hands, simplifying every step of the registration process and empowering you to safeguard your original content, designs, software, or creative assets to prevent misuse and unlock new revenue opportunities."
+        "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
+        "bookConsultation": "احجز استشارتك المجانية.",
+        "image": "/assets/header/copyrightRegistration.webp",
+        "title": "احمِ أفكارك وامنح عملك الإبداعي الأمان مع حلول تسجيل حقوق الطبع والنشر الخالية من المتاعب في الإمارات العربية المتحدة",
+        "description": "هل تقلق من أن محتواك الأصلي أو تصاميمك أو برامجك قد تُنسخ - أو تُفقد إلى الأبد؟ يكتشف العديد من رواد الأعمال بالطريقة الصعبة أن أسماء العلامات التجارية أو تسجيل النطاقات أو تراخيص الأعمال لا توفر حماية حقيقية للملكية الفكرية. في One Nexuz، يعيد مستشارونا السيطرة القانونية الكاملة إلى يديك، مما يبسط كل خطوة في عملية التسجيل ويمكّنك من حماية محتواك الأصلي وتصاميمك وبرامجك أو أصولك الإبداعية لمنع سوء الاستخدام وفتح فرص جديدة للإيرادات."
     },
     "leftSection_1": {
-        "title": "Benefits of Copyright Registration for Creators & Companies",
-        "description": "Get exclusive legal rights to use, sell, license, or enforce your creative assets with copyright registration, and keep copycats from imitating your original work.",
+        "title": "فوائد تسجيل حقوق الطبع والنشر للمبدعين والشركات",
+        "description": "احصل على حقوق قانونية حصرية لاستخدام أو بيع أو ترخيص أو فرض حقوقك على أصولك الإبداعية مع تسجيل حقوق الطبع والنشر، وابقِ المحتالين بعيدًا عن تقليد عملك الأصلي.",
         "items": [
             {
                 "id": 1,
-                "title": "From Concept to Certified Ownership — Secure Your Work Against Legal Risks",
-                "subTitle": "From Concept to Certified Ownership — Secure Your Work Against Legal Risks",
-                "description": "Mitigate the risk of hefty fines with an official certificate from the UAE Ministry as your timestamped proof.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "title": "من الفكرة إلى الملكية المعتمدة - احمِ عملك من المخاطر القانونية",
+                "subTitle": "من الفكرة إلى الملكية المعتمدة - احمِ عملك من المخاطر القانونية",
+                "description": "قلل من خطر الغرامات الكبيرة مع شهادة رسمية من وزارة الإمارات كدليل موثق لحقوقك.",
+                "image": "/assets/copyrightRegistration/left1/1.webp"
             },
             {
                 "id": 2,
-                "title": "Enjoy Global Coverage & Safeguard Your Work across 170+ Countries",
-                "subTitle": "Enjoy Global Coverage & Safeguard Your Work across 170+ Countries",
-                "description": "Get cross-border protection and global recognition with the UAE copyright registration backed by international treaties.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "title": "استمتع بتغطية عالمية واحمِ عملك في أكثر من 170 دولة",
+                "subTitle": "استمتع بتغطية عالمية واحمِ عملك في أكثر من 170 دولة",
+                "description": "احصل على حماية عبر الحدود واعتراف عالمي مع تسجيل حقوق الطبع والنشر في الإمارات المدعوم بالمعاهدات الدولية.",
+                "image": "/assets/copyrightRegistration/left1/2.webp"
             },
             {
                 "id": 3,
-                "title": "Unlock New Income Streams & Grow Your Revenue by Monetizing Your Copyrights",
-                "subTitle": "Unlock New Income Streams & Grow Your Revenue by Monetizing Your Copyrights",
-                "description": "License your work for use by others and create passive income streams while retaining full ownership.",
-                "image": "/assets/businessSetup/left1/3.webp"
-            },
-            {
-                "id": 4,
-                "title": "",
-                "subTitle": "",
-                "description": "",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "title": "افتح مصادر دخل جديدة وزد إيراداتك من خلال تحقيق الأرباح من حقوق الطبع والنشر الخاصة بك",
+                "subTitle": "افتح مصادر دخل جديدة وزد إيراداتك من خلال تحقيق الأرباح من حقوق الطبع والنشر الخاصة بك",
+                "description": "رخص عملك للاستخدام من قبل الآخرين وأنشئ مصادر دخل سلبية مع الاحتفاظ بالملكية الكاملة.",
+                "image": "/assets/copyrightRegistration/left1/3.webp"
             }
         ]
     },
     "iconTitleSec": {
-        "title": "What Can You Legally Safeguard with Our Copyright Registration Services in Dubai",
-        "description": "What Can You Legally Safeguard with Our Copyright Registration Services in Dubai",
+        "title": "ما الذي يمكنك حمايته قانونيًا مع خدمات تسجيل حقوق الطبع والنشر لدينا في دبي",
+        "description": "احمِ عملك الأصلي، من المنتجات التقنية إلى المحتوى الإبداعي، مع حلول تسجيل حقوق الطبع والنشر المتخصصة لدينا.",
         "items": [
             {
                 "id": 1,
-                "icon": "/assets/businessSetup/iconTitleSec/1.svg",
-                "title": "Mobile Apps & Software"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/1.svg",
+                "title": "تطبيقات الهواتف المحمولة والبرامج"
             },
             {
                 "id": 2,
-                "icon": "/assets/businessSetup/iconTitleSec/2.svg",
-                "title": "Websites & Designs"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/2.svg",
+                "title": "المواقع الإلكترونية والتصاميم"
             },
             {
                 "id": 3,
-                "icon": "/assets/businessSetup/iconTitleSec/3.svg",
-                "title": "Marketing Content"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/3.svg",
+                "title": "محتوى التسويق"
             },
             {
                 "id": 4,
-                "icon": "/assets/businessSetup/iconTitleSec/4.svg",
-                "title": "Literary Works"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
+                "title": "الأعمال الأدبية"
             },
             {
                 "id": 5,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
-                "title": "Sound Recordings"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "title": "التسجيلات الصوتية"
             },
             {
                 "id": 6,
-                "icon": "/assets/businessSetup/iconTitleSec/4.svg",
-                "title": "Aristic Works"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
+                "title": "الأعمال الفنية"
             },
             {
                 "id": 7,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
-                "title": "Videos & Motion Graphics"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "title": "الفيديوهات والرسوم المتحركة"
             },
             {
                 "id": 8,
-                "icon": "/assets/businessSetup/iconTitleSec/5.svg",
-                "title": "Training Material & Courses"
+                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "title": "مواد التدريب والدورات"
             }
         ]
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
-            "title": "Copyright Protection, Priced for Your Needs",
-            "description": "No rigid packages. No hidden fees. Get custom copyright registration costs in the UAE — pay only for the protection your work requires, with flexible support as your portfolio grows.",
-            "btn": "Book a Free Call",
+            "image": "/assets/copyrightRegistration/left4/1.webp",
+            "title": "حماية حقوق الطبع والنشر، بأسعار تناسب احتياجاتك",
+            "description": "لا حزم صارمة. لا رسوم خفية. احصل على تكاليف تسجيل حقوق الطبع والنشر المخصصة في الإمارات — ادفع فقط مقابل الحماية التي يحتاجها عملك، مع دعم مرن مع نمو محفظتك.",
+            "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/copyrightRegistration/left4/2.webp",
             "title": "",
             "description": "",
             "btn": "",
@@ -103,255 +96,200 @@
         }
     },
     "leftSection_5": {
-        "title": "Get Unmatched Copyright Protection in 4 Easy Steps",
+        "title": "احصل على حماية حقوق الطبع والنشر لا مثيل لها في 4 خطوات سهلة",
         "items": [
             {
                 "id": 1,
-                "title": "Get a Free Consultation",
-                "description": "We’ll kickstart the registration journey by assessing your creative work and goals to identify the best copyright path.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "title": "احصل على استشارة مجانية",
+                "description": "سنبدأ رحلة التسجيل من خلال تقييم عملك الإبداعي وأهدافك لتحديد أفضل مسار لحقوق الطبع والنشر.",
+                "image": "/assets/copyrightRegistration/left5/1.svg"
             },
             {
                 "id": 2,
-                "title": "Collect the Documents",
-                "description": "Next, we provide you with a checklist to streamline all the paperwork, legal declarations, and translations.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "title": "اجمع الوثائق",
+                "description": "بعد ذلك، نقدم لك قائمة مرجعية لتبسيط جميع الأوراق، والإعلانات القانونية، والترجمات.",
+                "image": "/assets/copyrightRegistration/left5/2.svg"
             },
             {
                 "id": 3,
-                "title": "Undergo an Evaluation",
-                "description": "We file your application with the UAE Ministry of Economy & handle all government coordination to resolve all conflicts.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "title": "خضع لتقييم",
+                "description": "نقوم بتقديم طلبك إلى وزارة الاقتصاد الإماراتية ونتولى جميع التنسيق الحكومي لحل جميع النزاعات.",
+                "image": "/assets/copyrightRegistration/left5/3.svg"
             },
             {
                 "id": 4,
-                "title": "Issue Your Certificate",
-                "description": "Once approved, we deliver your official certificate, empowering you to protect your intellectual property worldwide.",
-                "image": "/assets/businessSetup/left5/4.svg"
-            },
-            {
-                "id": 5,
-                "title": "",
-                "description": "",
-                "image": "/assets/businessSetup/left5/5.svg"
-            },
-            {
-                "id": 6,
-                "title": "",
-                "description": "",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "title": "أصدر شهادتك",
+                "description": "بمجرد الموافقة، نقدم لك شهادتك الرسمية، مما يمكنك من حماية ملكيتك الفكرية في جميع أنحاء العالم.",
+                "image": "/assets/copyrightRegistration/left5/4.svg"
             }
         ]
     },
     "leftSection_6": {
-        "title": "Why Choose One Nexuz for Your Copyright Registration Needs",
-        "description": "Tired of confusing paperwork and legal jargon? Our specialists combine expert handling with personalised support to help you register and protect your rights with complete confidence.",
+        "title": "لماذا تختار One Nexuz لاحتياجات تسجيل حقوق الطبع والنشر الخاصة بك",
+        "description": "هل سئمت من الأوراق المعقدة والمصطلحات القانونية؟ يجمع متخصصونا بين التعامل الخبير والدعم الشخصي لمساعدتك في تسجيل وحماية حقوقك بثقة كاملة.",
         "items": [
             {
-                "title": "Enjoy Faster Turnarounds",
-                "description": "We expedite turnaround times by 70% through expert handling, accurate categorisation, and efficient government coordination.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "title": "استمتع بأوقات استجابة أسرع",
+                "description": "نسرع أوقات الاستجابة بنسبة 70% من خلال التعامل الخبير، والتصنيف الدقيق، والتنسيق الفعال مع الحكومة.",
+                "image": "/assets/copyrightRegistration/bgImage/1.webp"
             },
             {
-                "title": "Get Proactive Infringement Defense",
-                "description": "Stay ahead of copycats and counterfeiters with round-the-clock monitoring and early infringement risk assessments.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "title": "احصل على دفاع استباقي ضد الانتهاكات",
+                "description": "ابقَ متقدمًا على النسخ والمزيفين من خلال المراقبة على مدار الساعة وتقييمات مبكرة لمخاطر الانتهاك.",
+                "image": "/assets/copyrightRegistration/bgImage/2.webp"
             },
             {
-                "title": "Unlock Dedicated Legal Support",
-                "description": "Our well-equipped specialists handle your case end-to-end, minimising unexpected delays or costly mistakes.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "title": "افتح دعمًا قانونيًا مخصصًا",
+                "description": "يتولى متخصصونا المجهزين جيدًا قضيتك من البداية إلى النهاية، مما يقلل من التأخيرات غير المتوقعة أو الأخطاء المكلفة.",
+                "image": "/assets/copyrightRegistration/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
-        "title": "Don’t Just Publish- Protect What’s Yours with One Nexuz",
-        "description": "With over 30 million pieces of content shared daily, copyright protection isn’t optional- it’s essential. We make it easy to register and protect your creative work with our seamless copyright registration solutions.",
-        "btn": "Scale Your Business Today!",
+        "image": "/assets/copyrightRegistration/grid/1.webp",
+        "title": "لا تكتفِ بالنشر - احمِ ما هو لك مع One Nexuz",
+        "description": "مع مشاركة أكثر من 30 مليون قطعة محتوى يوميًا، فإن حماية حقوق الطبع والنشر ليست خيارًا - إنها ضرورة. نحن نجعل من السهل تسجيل وحماية عملك الإبداعي من خلال حلول تسجيل حقوق الطبع والنشر السلسة لدينا.",
+        "btn": "قم بتوسيع أعمالك اليوم!",
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
-        "description": "Learn what customers are saying about One Nexuz. ",
+        "title": "آراء العملاء حول^ ون نيكزوز^",
+        "description": "تعرف على ما يقوله العملاء عن One Nexuz.",
         "items": [
             {
                 "id": 1,
-                "quote": "“One Nexuz registered my training material in under a week. Their team explained everything clearly and made sure nothing was missed.”",
-                "role": "Corporate Trainer",
-                "image": "/assets/businessSetup/client/1.webp"
+                "quote": "سجلت One Nexuz مواد تدريبي في أقل من أسبوع. شرح فريقهم كل شيء بوضوح وتأكدوا من عدم تفويت أي شيء.",
+                "role": "مدرب مؤسسي",
+                "image": "/assets/copyrightRegistration/client/1.webp"
             },
             {
                 "id": 2,
-                "quote": "“I had no idea my website design could be copyrighted. They handled the entire process, and now I feel fully protected going into a product launch.”",
-                "role": "E-commerce Startup Founder",
-                "image": "/assets/businessSetup/client/2.webp"
+                "quote": "لم أكن أعلم أن تصميم موقعي يمكن أن يكون محميًا بحقوق الطبع والنشر. لقد تعاملوا مع العملية بالكامل، والآن أشعر بالحماية الكاملة قبل إطلاق المنتج.",
+                "role": "مؤسس شركة تجارة إلكترونية",
+                "image": "/assets/copyrightRegistration/client/2.webp"
             },
             {
                 "id": 3,
-                "quote": "“Getting my app registered gave me peace of mind before talking to investors. I wanted to make sure my IP was protected, and One Nexuz made the whole process fast, clear, and affordable.”",
-                "role": "Mobile App Developer",
-                "image": "/assets/businessSetup/client/3.webp"
-            }
-        ]
-    },
-    "leftSection_9": {},
-    "leftSection_10": {
-        "title": "",
-        "btn": "",
-        "items": [
-            {
-                "id": 1,
-                "title": "",
-                "description": "",
-                "url": "#"
-            },
-            {
-                "id": 2,
-                "title": "",
-                "description": "",
-                "url": "#"
-            },
-            {
-                "id": 3,
-                "title": "",
-                "description": "",
-                "url": "#"
-            },
-            {
-                "id": 4,
-                "title": "",
-                "description": "",
-                "url": "#"
-            },
-            {
-                "id": 5,
-                "title": "",
-                "description": "",
-                "url": "#"
-            },
-            {
-                "id": 6,
-                "title": "",
-                "description": "",
-                "url": "#"
+                "quote": "تسجيل تطبيقي منحني راحة البال قبل التحدث إلى المستثمرين. أردت التأكد من حماية حقوق الملكية الفكرية الخاصة بي، وجعلت One Nexuz العملية سريعة وواضحة وميسورة التكلفة.",
+                "role": "مطور تطبيقات موبايل",
+                "image": "/assets/copyrightRegistration/client/3.webp"
             }
         ]
     },
     "leftSection_11": {
         "url": "#",
-        "title": "Ready to Protect Your Artistic Creations Today?",
-        "description": "In the UAE's fast-paced market, ideas are currency, and unprotected work is an open target. Our expert copyright registration services ensure you’re not just the creator, but the legal owner of all your creative marks.",
-        "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "title": "هل أنت مستعد لحماية إبداعاتك الفنية اليوم؟",
+        "description": "في سوق الإمارات العربية المتحدة السريعة، الأفكار هي العملة، والأعمال غير المحمية هي هدف مفتوح. تضمن لك خدمات تسجيل حقوق الطبع والنشر المتخصصة لدينا أنك لست مجرد مبتكر، بل المالك القانوني لجميع علاماتك الإبداعية.",
+        "btn": "تواصل مع خبرائنا",
+        "image": "/assets/copyrightRegistration/grid/2.webp"
     },
     "exploreIndustry": {
-        "title": "Explore Other Services",
+        "title": "استكشاف خدمات أخرى",
         "items": [
             {
                 "id": 1,
-                "title": "Copyright Registration",
+                "title": "تسجيل الشركة",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "Company Registration",
+                "title": "حجز الاسم التجاري",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "Trade Name Reservation",
+                "title": "تسجيل العلامة التجارية وتجديدها",
                 "url": "#"
             },
             {
                 "id": 4,
-                "title": "Trademark Registration & Renewal",
+                "title": "تسجيل الرخصة وتجديدها",
                 "url": "#"
             },
             {
                 "id": 5,
-                "title": "License Registration & Renewal",
+                "title": "تسجيل ضريبة القيمة المضافة وتقديم الإقرارات",
                 "url": "#"
             },
             {
                 "id": 6,
-                "title": "VAT Registration & Filing",
+                "title": "إيجاري (تسجيل عقد الإيجار)",
                 "url": "#"
             },
             {
-                "id": 5,
-                "title": "Ejari (Tenancy Contract Registration)",
+                "id": 7,
+                "title": "تسجيل ضريبة الشركات وتقديم الإقرارات",
                 "url": "#"
             },
             {
-                "id": 6,
-                "title": "Corporate Tax Registration & Filing",
+                "id": 8,
+                "title": "تصديق الوثائق",
                 "url": "#"
             },
             {
-                "id": 5,
-                "title": "Document Attestation",
+                "id": 9,
+                "title": "الترجمة القانونية",
                 "url": "#"
             },
             {
-                "id": 6,
-                "title": "Legal Translation",
+                "id": 10,
+                "title": "صياغة توكيل",
                 "url": "#"
             },
             {
-                "id": 5,
-                "title": "Power of Attorney Drafting",
+                "id": 11,
+                "title": "خدمات التوثيق",
                 "url": "#"
             },
             {
-                "id": 6,
-                "title": "Notarisation Services",
+                "id": 12,
+                "title": "تقديم إقرارات تنظيم المادة الاقتصادية (ESR)",
                 "url": "#"
             },
             {
-                "id": 5,
-                "title": "Economic Substance Regulation (ESR) Filing",
+                "id": 13,
+                "title": "تقديم إقرارات المالك المستفيد النهائي (UBO)",
                 "url": "#"
             },
             {
-                "id": 6,
-                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "id": 14,
+                "title": "تقديم إقرارات المالك المستفيد النهائي (UBO)",
                 "url": "#"
             }
         ]
     },
     "faq": {
-        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "title": "إجابات واضحة، ورؤى خبيرة، وتجربة خالية من التعقيد تجربة استشارية",
         "items": [
             {
                 "id": 1,
                 "number": "01",
-                "question": "Can I copyright content that was created years ago?",
-                "answer": "Yes, as long as the work is original, you can safeguard it under the UAE’s copyright law. "
+                "question": "هل يمكنني تسجيل حقوق الطبع والنشر لمحتوى تم إنشاؤه منذ سنوات؟",
+                "answer": "نعم، طالما أن العمل أصلي، يمكنك حمايته بموجب قانون حقوق الطبع والنشر في الإمارات."
             },
             {
                 "id": 2,
                 "number": "02",
-                "question": "Why does copyright registration matter in the UAE?",
-                "answer": "Professional copyright registration provides you with exclusive rights to your original work and empowers you to take legal action against infringers."
+                "question": "لماذا تعتبر تسجيل حقوق الطبع والنشر مهمًا في الإمارات؟",
+                "answer": "يوفر لك تسجيل حقوق الطبع والنشر الاحترافي حقوقًا حصرية لعملك الأصلي ويمكّنك من اتخاذ إجراءات قانونية ضد المنتهكين."
             },
             {
                 "id": 3,
                 "number": "03",
-                "question": "Is UAE copyright valid internationally?",
-                "answer": "Yes! Since the UAE is a member of the Berne Convention, you get work protection across 170 countries. "
+                "question": "هل حقوق الطبع والنشر في الإمارات صالحة دوليًا؟",
+                "answer": "نعم! نظرًا لأن الإمارات عضو في اتفاقية برن، ستحصل على حماية العمل في 170 دولة."
             },
             {
                 "id": 4,
                 "number": "04",
-                "question": "What happens if someone copies my work after copyright registration?",
-                "answer": "If someone tries to exploit your copyrighted work, you’ll have official legal grounds to file a claim, demand a takedown, and seek compensation."
+                "question": "ماذا يحدث إذا قام شخص ما بنسخ عملي بعد تسجيل حقوق الطبع والنشر؟",
+                "answer": "إذا حاول شخص ما استغلال عملك المحمي بحقوق الطبع والنشر، سيكون لديك أسس قانونية رسمية لتقديم دعوى، والمطالبة بإزالة المحتوى، وطلب التعويض."
             },
             {
                 "id": 5,
                 "number": "05",
-                "question": "Can I make any changes after registering my work in the UAE?",
-                "answer": "Yes! You can still modify your copyrighted work post-registration. However, you will have to resubmit a new application if you make significant changes. "
+                "question": "هل يمكنني إجراء أي تغييرات بعد تسجيل عملي في الإمارات؟",
+                "answer": "نعم! يمكنك تعديل عملك المحمي بحقوق الطبع والنشر بعد التسجيل. ومع ذلك، سيتعين عليك إعادة تقديم طلب جديد إذا قمت بإجراء تغييرات كبيرة."
             }
         ]
     }

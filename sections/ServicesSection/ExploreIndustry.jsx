@@ -10,13 +10,13 @@ function ExploreIndustry({ data, locale }) {
       </Typography>
       <div className="space-y-2">
         {data?.items?.map((item) => (
-          <div
-            key={item?.id}
-            className="py-1">
+          <div key={item?.id} className="py-1">
             <LanguageAwareLink
               href={item?.url}
-              className={`${locale ? "pr-2" : "pl-2"
-                } text-sm text-gray font-semibold flex items-center gap-2`}>
+              className={`${
+                locale ? "pr-2" : "pl-2"
+              } text-sm text-gray font-semibold flex items-center gap-2 w-fit`}
+            >
               <div className="p-[2px] bg-gray rounded-full"></div>
               {item?.title}
             </LanguageAwareLink>

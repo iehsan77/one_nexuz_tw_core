@@ -42,7 +42,7 @@ function OurClients({ data }) {
           <div className="lg:absolute lg:w-[70%] lg:mt-10 overflow-hidden z-10">
             <div className="bg-secondary shadow-xl">
               {/*  */}
-              <div className="relative">
+              <div className="h-auto lg:min-h-[270px] relative">
                 {/*  */}
                 <div className="absolute top-0 right-0">
                   <Image

@@ -15,7 +15,7 @@ function IconTitleSec({ data }) {
         </Typography>
       </div>
       {/*  */}
-      <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
+      <div className="grid sm:grid-cols-2 gap-5">
         {data?.items?.map((item) => (
           <div key={item?.id} className="flex items-center gap-3">
             <Image src={item?.icon} alt={"icon"} width={30} height={30} />

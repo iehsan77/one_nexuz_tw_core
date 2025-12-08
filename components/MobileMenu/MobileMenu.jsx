@@ -26,7 +26,8 @@ function MobileMenu() {
               animate={{ x: 0, opacity: 1 }}
               exit={{ x: 200, opacity: 0 }}
               transition={{ duration: 0.4 }}
-              className="fixed bottom-36.5 right-18 flex items-center z-40">
+              className="fixed bottom-[8.8rem] right-18 flex items-center z-40 gap-1"
+            >
               {data?.map((s, i) => (
                 <Link key={i} href={s?.url || "#"}>
                   <Image
@@ -34,7 +35,7 @@ function MobileMenu() {
                     alt="icon"
                     width={72}
                     height={72}
-                    className="object-contain"
+                    className="h-16 w-16 object-contain"
                   />
                 </Link>
               ))}
@@ -45,7 +46,8 @@ function MobileMenu() {
         {/* Chat button */}
         <button
           onClick={() => setShowSocial((prev) => !prev)}
-          className="cursor-pointer flex items-center justify-center bg-secondary h-13 w-13 rounded-full">
+          className="cursor-pointer flex items-center justify-center bg-secondary h-13 w-13 rounded-full"
+        >
           <Image
             src="/logo/chat.svg"
             alt="icon"

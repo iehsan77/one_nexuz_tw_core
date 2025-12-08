@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احصل على عرض سعر مجاني اليوم.",
         "bookConsultation": "احجز استشارتك المجانية.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/jebelAliOffshoreCompanyFormation.webp",
         "title": "من حماية الثروة إلى التوسع العالمي، احصل على كل شيء مع خدمات إعداد الشركات الخارجية من نكز.",
         "description": "هل سئمت من خيارات الاستثمار المحدودة التي تقيد نطاقك العالمي؟ استثمر في عقارات مربحة، وأسواق عالمية سريعة النمو، وبنية تحتية من الدرجة الأولى من خلال الإعداد في منطقة JAFZA الخارجية. مع ملكية أجنبية بنسبة 100%، وضريبة بنسبة 0%، ومصداقية دولية عالية، تعد المنطقة الخيار الأمثل للمستثمرين العالميين."
     },
@@ -15,28 +15,28 @@
                 "title": "قم بإعداد شركة خارجية في جبل علي للاحتفاظ بالمزيد، والتوسع بشكل أسرع، والعمل بدون ضرائب",
                 "subTitle": "قم بإعداد شركة خارجية في جبل علي للاحتفاظ بالمزيد، والتوسع بشكل أسرع، والعمل بدون ضرائب",
                 "description": "هل سئمت من مشاهدة الضرائب تأكل من أرباحك التي كسبتها بصعوبة؟ عزز أرباحك مع إعفاء ضريبي كامل على الدخل الدولي. استمتع بإعادة تحويل كل الأرباح وضرائب الشركات والأفراد بنسبة 0%. أعد استثمار كل دولار في نموك بدلاً من فقدانه بسبب التزامات غير ضرورية.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "افتح حقوق ملكية 100%، واحتفظ بالتحكم الكامل، وتولى زمام أعمالك بدون أي تدخل",
                 "subTitle": "افتح حقوق ملكية 100%، واحتفظ بالتحكم الكامل، وتولى زمام أعمالك بدون أي تدخل",
                 "description": "هل تشعر بالإحباط من قواعد تقاسم الأسهم؟ ودع عنك عناء البحث عن راعٍ محلي أو مساهم واحصل على السيطرة الاستراتيجية الكاملة على شركتك الخارجية في JAFZA. ابني، وازدهر، وتوسع وفق شروطك الخاصة بدون قيود غير ضرورية.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "تبسيط إدارة الأصول العالمية، وحماية ثروتك، وتقليل مخاطر الامتثال",
                 "subTitle": "تبسيط إدارة الأصول العالمية، وحماية ثروتك، وتقليل مخاطر الامتثال",
                 "description": "هل تشعر بالقلق بشأن حماية أصولك للأجيال القادمة؟ احتفظ بالعقارات، أو الملكية الفكرية، أو الأسهم الدولية، أو أصول أخرى بدون المخاطرة بالامتثال تحت كيان خارجي مرخص من JAFZA. حافظ على إرثك وضمان تخطيط وراثي سلس لنقل الثروة بأمان.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "افتح حسابات بنكية عالمية، وتداول في عملات متعددة، واحصل على مرونة مالية كاملة",
                 "subTitle": "افتح حسابات بنكية عالمية، وتداول في عملات متعددة، واحصل على مرونة مالية كاملة",
                 "description": "هل تواجه صعوبة مع خيارات البنوك المحدودة التي تبطئ المعاملات العالمية؟ قم بتبسيط التجارة الدولية من خلال الاتصال بجميع البنوك الدولية الكبرى. إدارة أموالك بكفاءة مع حسابات متعددة العملات موثوقة. استمتع بعمليات عبر الحدود سلسة واحتفظ بتدفق أموالك بلا توقف.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -98,14 +98,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/jebelAliOffshoreCompanyFormation/left4/1.webp",
             "title": "وصل إلى 3.5 مليار عميل مع إعداد شركة JAFZA الخارجية من نكز.",
             "description": "قم بالإعداد في مركز تجارة عالمي رئيسي مع وصول مباشر إلى الأسواق سريعة النمو. نحن نتولى إعدادك الخارجي بسرعة - بدون مكتب، بدون متاعب.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/jebelAliOffshoreCompanyFormation/left4/2.webp",
             "title": "ادفع فقط مقابل الخدمات التي تحتاجها لإعداد شركة JAFZA الخارجية",
             "description": "في نكز، لا نؤمن بحلول تناسب الجميع. نحن نصمم خطة إعداد مخصصة تتناسب مع أهداف ملكيتك، ونموذج عملك، ومتطلبات الامتثال.",
             "btn": "استكشف حزم التسعير لدينا",
@@ -119,37 +119,37 @@
                 "id": 1,
                 "title": "حدد موعدًا لمكالمة استراتيجية مجانية",
                 "description": "نبدأ بفهم أهدافك - من حماية الثروة إلى التوسع العالمي - ونوجهك نحو أنسب نموذج خارجي في جبل علي وإعداد الملكية.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "اعمل مع وكيل مسجل مخصص",
                 "description": "يصبح وكيلك المعتمد من JAFZA في دبي شريكك على الأرض، مما يسهل إعداد الشركة، وإدارة الأوراق، وضمان تلبية كل متطلبات التنظيم.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "اجمع وقدم طلبك",
                 "description": "يساعد فريقنا في إعداد جميع الوثائق الأساسية - MOA، AOA، تفاصيل المساهمين، نسخ جوازات السفر، وخطط العمل عند الحاجة - ويقدمها إلى JAFZA للمعالجة السريعة.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "احصل على حزمة التأسيس الخاصة بك",
                 "description": "بمجرد الانتهاء، ستتلقى مجموعة كاملة من الوثائق الرسمية - بما في ذلك شهادة التأسيس، وشهادات الأسهم، وقرارات المجلس - تؤكد حالة شركتك الخارجية.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "قم بإعداد حسابك المصرفي الخارجي",
                 "description": "نحن نربطك بشركاء مصرفيين موثوقين ونعجل عملية فتح الحساب، مما يمنحك الوصول إلى حسابات متعددة العملات ومعاملات عالمية آمنة.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "احصل على دعم مستمر وثابت",
                 "description": "بجانب التأسيس، نقدم دعمًا مستمرًا للتجديدات، وتغييرات الملكية، والسجلات القانونية، وخدمات PRO - مما يحافظ على امتثال شركتك الخارجية في جبل علي وجاهزيتها للمستقبل.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -160,48 +160,48 @@
             {
                 "title": "احصل على إرشادات الخبراء",
                 "description": "فريقنا من المستشارين الخبراء يفهم تفاصيل قوانين JAFZA الخارجية، مما يوفر لك راحة البال لتوسيع نطاق عملك بثقة.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "قلل من أوقات الترخيص",
                 "description": "كن جاهزًا للعمل في أقل من ثلاثة أيام عمل مع سير العمل الفعالة لدينا والوصول المباشر، مما يسرع من وقت دخولك السوق.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "استمتع بدعم شامل من البداية للنهاية",
                 "description": "ثق بمستشارينا المخصصين للتعامل مع كل شيء، من صياغة الوثائق والتواصل إلى الخدمات المصرفية والإرشادات بعد التسجيل.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/jebelAliOffshoreCompanyFormation/grid/1.webp",
         "title": "قم بالإعداد في JAFZA الخارجية واذهب عالميًا بشكل أسرع مع نكز",
         "description": "تواصل مع طرق البحر والجو والبر الرئيسية من خلال التوسع إلى JAFZA الخارجية. نحن ندير عملية الإعداد بالكامل، من الوثائق القانونية إلى دعم البنوك، حتى تتمكن من التوسع بدون متاعب.",
         "btn": "قم بتوسيع أعمالك اليوم!",
         "url": "#"
     },
     "leftSection_8": {
-        "title": "ماذا يقول العملاء عن العمل مع One Nexuz",
+        "title": "آراء العملاء حول^ ون نيكزوز^",
         "description": "تعرف على ما يقوله العملاء عن One Nexuz.",
         "items": [
             {
                 "id": 1,
                 "quote": "لقد حصلوا على موافقة شركتي القابضة في JAFZA في 4 أيام. كان الفريق نشطًا وشفافًا - لا ذهاب وإياب، فقط نتائج.",
                 "role": "مدير أصول",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "كأول مؤسس، لم يكن لدي أي معرفة بالخارج. هؤلاء الأشخاص تعاملوا مع كل شيء وشرحوا كل خطوة بوضوح.",
                 "role": "استشاري تكنولوجيا مالية",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "حزمة إعداد JAFZA الخاصة بهم تضمنت الخدمات المصرفية، مما أنقذني من أسابيع. لا تكاليف خفية، لا توتر.",
                 "role": "تاجر دولي",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/jebelAliOffshoreCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -235,7 +235,7 @@
         "title": "هل أنت مستعد لفتح النمو العالمي في JAFZA الخارجية؟",
         "description": "قم بتوسيع محفظتك العقارية وتأمين استثمارك من خلال الإعداد في JAFZA الخارجية. يوجهك مستشارونا الخبراء خلال كل خطوة، مما يمكنك من تشغيل عملك بدون متاعب أو رسوم خفية.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/jebelAliOffshoreCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",
