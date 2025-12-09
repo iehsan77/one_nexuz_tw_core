@@ -1,0 +1,294 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/ajmanMainlandCompanyFormation.webp",
+        "title": "From Paperwork to Profitability, Fast Track Legally Compliant Bu   siness Setup in Ajman Mainland with One Nexuz",
+        "description": "Struggling with complex procedures and hidden fees that slow down your business launch? With streamlined government procedures, competitive license fees, and 100% foreign ownership, Ajman Mainland gives forward-thinking businesses everything they need to succeed. One Nexuz takes care of the entire setup process—from licensing and legal structures to visas and bank accounts—so you can launch quickly, skip hidden fees, and focus on growing your business."
+    },
+    "leftSection_1": {
+        "title": "Why  Entrepreneurs Worldwide Are Choosing the Ajman Mainland",
+        "description": "Can’t decide whether a mainland company set up in Ajman is worth the risk? With lucrative business opportunities and fully supported infrastructure, it's the smartest move you can make today!",
+        "items": [
+            {
+                "id": 1,
+                "title": "Cut down on Rent, Overhead Costs, and Administrative Expenses for Maximum Profitability",
+                "subTitle": "Cut down on Rent, Overhead Costs, and Administrative Expenses for Maximum Profitability",
+                "description": "Worried about overspending on business setup in the UAE? Save up to 40% of business setup costs by choosing Ajman mainland over highly competitive spots like Dubai and Abu Dhabi. Maximise your budget while getting all the benefits of a strategic mainland setup.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain Direct Access to Local Customers, Suppliers, & Business Networks for Broader Expansion",
+                "subTitle": "Gain Direct Access to Local Customers, Suppliers, & Business Networks for Broader Expansion",
+                "description": "Limited trading rights in Free Zones hold back your revenue potential. An Ajman mainland license empowers you to tap into the city’s diverse local market and trade directly. Expand your reach, grow your customer base, and unlock full business potential.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Streamline Licensing & Registration Process to Unlock Better Opportunities",
+                "subTitle": "Streamline Licensing & Registration Process to Unlock Better Opportunities",
+                "description": "Tired of long delays holding back your business launch? Cut down processing times in half with Ajman mainland’s speedy application process, requiring no more than 5-7 days. Start operating faster and focus on growing your business from day one.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Connect with Global Markets, Expand Reach, & Grow Your Business with Ajman's Strategic Trade Hub",
+                "subTitle": "Connect with Global Markets, Expand Reach, & Grow Your Business with Ajman's Strategic Trade Hub",
+                "description": "Struggling with limited market reach and logistical bottlenecks? Unlock limitless business opportunities through convenient access to the Arabian Gulf coast and other key transportation hubs. Expand your operations seamlessly while reducing shipping times and costs.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Choose the Right Ajman Mainland License for Your Business with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Professional License",
+                "description": "Ideal for consultants, IT professionals, freelancers, and service-based companies.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Commercial License",
+                "description": "For businesses and entrepreneurs that trade, import, export, and engage in wholesale activities without risking compliance.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "description": "Essential for manufacturing, packaging, and industrial businesses seeking a warehouse or factory space.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "One Nexuz Unlock The Best Fit Company Structures for Your Ajman Mainland Business",
+        "description": "A successful business setup in the Ajman mainland starts with the right infrastructure. Kick off business activities today without the risk of hefty penalties and fines, having One Nexuz by your side.",
+        "btn": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Limited Liability Company",
+                "description": "Ideal for SMEs and startups, an LLC offers 100% foreign ownership, flexible visa quotas, and convenient local market access.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Sole Proprietorship",
+                "description": "Perfect for solopreneurs and consultants, a sole proprietorship provides businesses full ownership and simple compliance.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Civil Company",
+                "description": "Best for partnerships in professional services, such as doctors or accountants, a civil company requires a UAE national services agent.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Branch Office",
+                "description": "Ideal for international businesses expanding into Ajman, a branch office enables foreigners to set up subsidiaries within the area.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/ajmanMainlandCompanyFormation/left4/1.webp",
+            "title": "Ajman Mainland is Booming- Join the 15% Surge with One Nexuz Before It's Too Late",
+            "description": "The market is moving fast. Get your business licensed and ready to operate while costs are still low and competition is light.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/ajmanMainlandCompanyFormation/left4/2.webp",
+            "title": "Start Your Business in Ajman Mainland Without Hidden Costs",
+            "description": "See the full Ajman mainland license cost upfront and pay only for the services your company actually needs. Scale your registration services as your business grows, guided by experienced UAE consultants.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Proven 6-Step Roadmap For Ajman Mainland Business Setup",
+        "description": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a Free Consultation",
+                "description": "Start with a personalised session where our experts assess your business goals, recommend the most suitable Ajman Mainland location, and advise on the activities that comply with local regulations.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select Your Legal Structure",
+                "description": "Choose the appropriate legal entity, register your trade name, and apply for a license that’s tailored to your business model and objectives.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Set Up a Compliant Workspace",
+                "description": "Arrange a physical office that meets Ajman Mainland requirements (minimum 200 sq. ft.), draft your Memorandum of Association (MOA), or appoint a local sponsor as required by your business structure.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Prepare Documents & Complete Fees",
+                "description": "Gather and submit all necessary documentation to the Department of Economic Development (DED) and the applicable government and registration fees.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Obtain Your Trade License",
+                "description": "Receive approvals from the relevant authorities, secure your trade license, open a corporate bank account, and apply for employee visas based on your office capacity.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Ongoing Support & Compliance",
+                "description": "Rely on our continued assistance with license renewals, visa management, annual audits, and other compliance matters to ensure your Ajman Mainland company operates smoothly.",
+                "image": "/assets/ajmanMainlandCompanyFormation/left5/6.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Company Setup in Ajman?",
+        "description": "Planning to set up your business in Ajman Mainland? Our expert consultants save you weeks of paperwork and countless missed opportunities, ensuring you’re ready to scale from day one. ",
+        "items": [
+            {
+                "title": "Access Local Expertise",
+                "description": "With over a decade of experience, our team of business consultants and advisors help simplify the setup and licensing process in Ajman Mainland.",
+                "image": "/assets/ajmanMainlandCompanyFormation/bgImage/1.webp"
+            },
+            {
+                "title": "Cut Down Time & Costs",
+                "description": "Our skilled consultants in Ajman promise operational ease and speedy turnaround times, taking anywhere from 1 to 7 working days.",
+                "image": "/assets/ajmanMainlandCompanyFormation/bgImage/2.webp"
+            },
+            {
+                "title": "Get Round-the-Clock Support",
+                "description": "Our dedicated business consultants provide tailored guidance, helping you navigate the complexities of business setup in Ajman.",
+                "image": "/assets/ajmanMainlandCompanyFormation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/ajmanMainlandCompanyFormation/grid/1.webp",
+        "title": "Scale 4X in Ajman With One Nexuz Custom Mainland Visa Solutions",
+        "description": "Ajman's economy is on the rise with over 4% growth and pro-business reforms. Start smart, scale fast, and stay ahead with a partner who handles the heavy lifting for you. ",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I got my Ajman license, visa, and bank account in 6 days flat. No back-and-forth. Highly recommend.",
+                "role": "E-Commerce Business",
+                "image": "/assets/ajmanMainlandCompanyFormation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "They helped me save AED 5,000 compared to a Dubai setup. I’d go with them again in a heartbeat.",
+                "role": "Digital Agency HR Consultant",
+                "image": "/assets/ajmanMainlandCompanyFormation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Setting up in Ajman Mainland was quick and cost-effective. One Nexuz managed everything from approvals to office lease without a single delay.”",
+                "role": "Facilities Management Owner",
+                "image": "/assets/ajmanMainlandCompanyFormation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Go Beyond Ajman with Our Holistic Business Setup Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Mainland",
+                "description": "Get premium access to the UAE’s most dynamic economy, making it ideal for high-end B2B, retail, and global ventures.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Abu Dhabi Mainland",
+                "description": "Take advantage of Abu Dhabi’s fast-growing economy through our seamless business setup and licensing solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Mainland",
+                "description": "Expand to this budget-friendly hub with end-to-end business setup and licensing services and access the local market.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "One Nexuz Scales Your Ajman Mainland Business the Right Way",
+        "description": "Ready to set up and grow your Ajman-based business? Our expert Ajman mainland company formation solutions handle everything, allowing you to focus on what you do best- taking your business to new heights.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/ajmanMainlandCompanyFormation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Sharjah Mainland",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Mainland",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Abu Dhabi Mainland",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is the cost of setting up my business in Ajman Mainland?",
+                "answer": "Business setup can vary between AED 8,500 to 20,000, depending on the type of license you select, your business activities, and the number of visas required."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to get my Ajman-based business setup?",
+                "answer": "Generally, it takes 5-7 working days, depending on whether all your documents are compiled and approved."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I, as an expat, own 100% of my company in Ajman Mainland?",
+                "answer": "Yes! Thanks to the updated UAE Commercial Companies Law, foreign investors can now own 100% of their business in mainland sectors. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can foreigners sell their goods in Ajman’s local market? ",
+                "answer": "Absolutely! The city’s law permits you to sell goods in its local markets, as well as other Emirates. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Is a physical office a must to set up my Ajman mainland business?",
+                "answer": "Yes, a physical office address is required to apply and register as a mainland company. Our skilled consultants can help you secure an affordable space to ensure compliance without breaking the bank. "
+            }
+        ]
+    }
+}

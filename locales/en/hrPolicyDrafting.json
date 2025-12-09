@@ -1,0 +1,294 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/hrPolicyDrafting.webp",
+        "title": "Attract Top Talent, Empower Your People, & Protect Your Business with Our Custom HR Policy Writing Solutions",
+        "description": "Navigating UAE labour laws and regulatory requirements can be overwhelming. One misstep can cost your business time, money, and credibility. At One Nexuz, our seasoned attorneys draft custom, legally sound HR policies, covering everything from contracts and leaves to grievances and end-of-service. Prevent costly disputes, safeguard your business reputation, and cultivate a healthy, happy workplace culture that attracts and retains top talent worldwide!"
+    },
+    "leftSection_1": {
+        "title": "Why Your UAE-Based Business Needs Professional HR Policy & Employee Handbook Solutions",
+        "description": "Stay ahead of the curve, streamline onboarding, safeguard your business’s interests, and empower your workforce with reliable HR policy writing.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Draft, Implement, and Protect — Stop HR Complaints Before They Start",
+                "subTitle": "Draft, Implement, and Protect — Stop HR Complaints Before They Start",
+                "description": "Prevent minor issues and complaints from snowballing into lengthy disputes, litigation risks, and costly claims with future-proof, well-documented HR policies, protecting your business, reputation, and time",
+                "image": "/assets/hrPolicyDrafting/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Onboard Smoothly, Empower Teams, & Drive Business Success",
+                "subTitle": "Onboard Smoothly, Empower Teams, & Drive Business Success",
+                "description": "Attract top talent worldwide, improve job satisfaction, and boost employee retention by 80%+ with strategic UAE-compliant employee handbooks, policies, and onboarding, maximising efficiency and minimising turnover.",
+                "image": "/assets/hrPolicyDrafting/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Reduce Turnover, Retain Talent, and Keep Your Business Thriving",
+                "subTitle": "Reduce Turnover, Retain Talent, and Keep Your Business Thriving",
+                "description": "Reduce employee churn, cut turnover costs, and protect your bottom line with structured rules for leave, grievances, and conduct, saving your business up to 6 to 9 months' salary per employee.",
+                "image": "/assets/hrPolicyDrafting/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "From Policies to Practice — Drive Engagement and Strengthen Your Workplace Culture",
+                "subTitle": "From Policies to Practice — Drive Engagement and Strengthen Your Workplace Culture",
+                "description": "Build a professional brand image, reinforce company values, and streamline team collaboration to increase employee engagement and reduce workplace conflicts with well-crafted policies.",
+                "image": "/assets/hrPolicyDrafting/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Our End-to-End HR Policy Drafting Services, Designed for Your Business",
+        "description": "Foster a positive workplace culture, ensure compliance, and protect your business against costly disputes with our comprehensive HR policy writing services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employee Lifecycle Policies",
+                "description": "Ensure clarity and consistency at every stage to improve focus, reduce disputes, and boost engagement.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Compliance & Legal Alignment",
+                "description": "Stay audit-ready and risk-free with UAE-compliant policies, protecting your business against fines",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Employee Onboarding Handbook",
+                "description": "Attract, hire, and retain top talent worldwide, reduce turnover, and increase retention with clear rules. ",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Workplace Rules & Conduct ",
+                "description": "Improve job satisfaction and maintain professionalism with clear rules on attendance, leave, conduct, and grievances.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Health, Safety, & Wellbeing Policies",
+                "description": "Protect your team and business with robust safety, well-being, and emergency procedures.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Digital, Social Media, & IT Policies",
+                "description": "Reduce risk of breaches, misuse, or downtime with clear digital, social media, & IT guidelines.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/hrPolicyDrafting/left4/1.webp",
+            "title": "Avoid Emiratisation Fines Before They Hit You with Our Experts",
+            "description": "Slash AED 6,000/month in Emiratisation fines—our annex keeps your HR policies fully compliant, protecting your bottom line and reputation.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/hrPolicyDrafting/left4/2.webp",
+            "title": "HR Policies That Protect Your Business Without Breaking the Bank",
+            "description": "Get legally sound HR policies tailored to your UAE business. No hidden fees, no confusing packages—just the right services for your business at the right time.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Proven 4 Step Process to Clear & Compliant HR Policies",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call",
+                "description": "We'll kick off with a free consultation to analyse your current HR policies, processes, and workflows, identify gaps, and assess compliance risks.",
+                "image": "/assets/hrPolicyDrafting/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get a Custom Policy Draft",
+                "description": "Next, our experts empower you with tailored, UAE-compliant policies aligned to your organisational structure, culture, and employee lifecycle.",
+                "image": "/assets/hrPolicyDrafting/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Simplify Rollout & Adoption",
+                "description": "We guide your HR team and managers through structured rollout, training, and communication, ensuring smooth adoption.",
+                "image": "/assets/hrPolicyDrafting/left5/4.svg"
+            },
+            {
+                "id": 4,
+                "title": "Review, Refine, & Scale",
+                "description": "Finally, we provide ongoing support and updates to keep policies aligned with evolving UAE regulations and workforce needs",
+                "image": "/assets/hrPolicyDrafting/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for Expert HR Policy Drafts",
+        "description": "Stop vague HR policies, operational inefficiencies, and compliance pitfalls from stalling your business growth. Our team of expert lawyers and attorneys empowers you with tailored, practical policies that reduce risk and secure your business.",
+        "items": [
+            {
+                "title": "Custom-Drafted, UAE-Compliant Policies",
+                "description": "Our seasoned lawyers build policies from scratch to match your unique business structure, risk profile, workflows, and UAE labour laws. No templates — ever",
+                "image": "/assets/hrPolicyDrafting/bgImage/1.webp"
+            },
+            {
+                "title": "Effortless Implementation & Scalability",
+                "description": "Beyond policy drafting, our experts guide your HR team through rollout, training, and communication, ensuring smooth adoption while building a scalable framework.",
+                "image": "/assets/hrPolicyDrafting/bgImage/2.webp"
+            },
+            {
+                "title": "Executive-Level Confidentiality",
+                "description": "We handle all your employee data, operational processes, and internal cases with absolute discretion, giving you complete peace of mind.",
+                "image": "/assets/hrPolicyDrafting/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/hrPolicyDrafting/grid/1.webp",
+        "title": "Maximise Efficiency & Drive Results with Our Clear HR Policies",
+        "description": "With 7.5% of all paper documents getting lost, it’s time to switch to digital filing. Streamline your workflows, save time, and operate smarter with our end-to-end edocument management and filing solutions.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Navigating UAE labour laws felt impossible for our small team, but One Nexuz made it effortless. Their HR policies are clear, fully compliant, and gave us the confidence to scale without worrying about fines or disputes.”",
+                "role": " Tech Startup Founder & CEO ",
+                "image": "/assets/hrPolicyDrafting/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“One Nexuz helped us draft professional HR policies that reflect our company culture while staying 100% compliant with UAE regulations. It has streamlined our HR processes and improved team trust.”",
+                "role": "Restaurant Operations Manager",
+                "image": "/assets/hrPolicyDrafting/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a growing consultancy, we struggled with contracts, leave policies, and employee documentation. One Nexuz handled everything professionally, saving us time and reducing risk. Their expertise is invaluable.”",
+                "role": "Consultancy Managing Director ",
+                "image": "/assets/hrPolicyDrafting/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Future-Proof Your Company with Our Expert Legal Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Governance",
+                "description": "Minimise legal risks, get tax exemptions, and win stakeholder trust with strategic governance structures",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Board Resolution Drafting",
+                "description": "Streamline decision-making and document key actions with legally sound board resolution drafts.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Shareholder Agreement Drafting",
+                "description": "Prevent costly litigations and court disputes with clear, tailored shareholder agreements.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Safeguard Your Business with Smart HR Policies?",
+        "description": "Combat costly compliance issues, foster employee satisfaction, boost retention, and resolve corporate disputes with our professional, UAE-compliant HR policy and employee handbook services.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/hrPolicyDrafting/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why does my company need professional HR policies?",
+                "answer": "Expert HR policy drafting empowers you to protect your business against legal risks, ensure compliance, avoid hefty penalties, minimise turnover, and maximise efficiency."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to create HR policies?",
+                "answer": "Typically, it takes 3–6 weeks, depending on your company's size and complexity. We ensure thorough discovery, drafting, and implementation for maximum impact"
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I draft HR policies on my own?",
+                "answer": "While you can draft policies yourself, doing so risks gaps, non-compliance with UAE labour laws, and unclear rules that lead to disputes. Our experts provide you with legally sound, custom-built policies that protect your team and drive success."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Will you help us implement these policies?",
+                "answer": "Yes. Our experts provide rollout guidance, manager training, and communication support to ensure policies are adopted effectively and embedded in daily operations."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can you tailor policies to match our company culture?",
+                "answer": "Absolutely! Our experts take your values, workflows, and organisational structure into account to create policies that match your unique business culture."
+            }
+        ]
+    }
+}

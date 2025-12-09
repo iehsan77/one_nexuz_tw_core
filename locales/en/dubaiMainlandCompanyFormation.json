@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/dubaiMainlandCompanyFormation.webp",
         "title": "From Licensing to Launch, Accelerate Your Market Entry & Maximize Profits With One Nexuz Dubai Mainland Company Formation Services",
         "description": "From selecting the right license and business structure to handling government approvals, visas, and compliance, One Nexuz streamlines every step of your Dubai mainland setup so you can focus on growth, not red tape. Whether you’re launching a new venture or expanding into Dubai’s thriving economy, our all-in-one business setup solution puts licensing, structuring, and expert guidance in one seamless process—helping you start faster and scale with confidence."
     },
@@ -15,28 +15,28 @@
                 "title": "Customize Your Business Activities, Expand Geographies, & Run Your Company Without Operational Limits",
                 "subTitle": "Customize Your Business Activities, Expand Geographies, & Run Your Company Without Operational Limits",
                 "description": "Struggling with restrictions that limit your ability to expand locally and globally? Access the UAE’s local facilities and scale across the region by establishing multiple branches. Boost operational reach and establish a global presence without additional bureaucracy.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Get Access to Lucrative Public Sector Projects, Bid on High-Value Tenders, & Win Government Contracts",
                 "subTitle": "Get Access to Lucrative Public Sector Projects, Bid on High-Value Tenders, & Win Government Contracts",
                 "description": "Missing out on high-value contracts can limit your business potential. Take advantage of Dubai’s lucrative government projects to unlock exciting growth opportunities and achieve sustainable revenue streams. Position your company as a trusted partner in one of the world’s fastest-growing economies.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "From Local Deals to Global Exports — Enjoy Seamless Trade Opportunities & Scale Freely",
                 "subTitle": "From Local Deals to Global Exports — Enjoy Seamless Trade Opportunities & Scale Freely",
                 "description": "Limited market access can restrict your business growth. Set up in the heart of the UAE and trade in local and international markets with strategic access to emerging markets in the GCC, South Asia, and Africa. Expand your reach and secure a stronger foothold in some of the world’s fastest-growing economies.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Own 100% of Your Dubai Mainland Business Without Local Sponsor Dependency",
                 "subTitle": "Own 100% of Your Dubai Mainland Business Without Local Sponsor Dependency",
                 "description": "Losing equity and control to local sponsors can hold back your ambitions. Skip the hassle of partnering with a local sponsor and enjoy full foreign ownership of your business. Hire, expand, and thrive anywhere in Dubai, with zero hassle. Protect your profits and retain complete independence as you grow.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -57,7 +57,7 @@
             },
             {
                 "id": 3,
-                "title": "E-Trader License",
+                "title": "E-Commerce License",
                 "description": "Save thousands on office spaces by setting up your digital store or home-based business.",
                 "url": "#"
             },
@@ -76,8 +76,7 @@
             {
                 "id": 6,
                 "title": "SME License",
-                "description": "Drive business growth with exclusive government support and funding programs.",
-                "url": "#"
+                "description": "Drive business growth with exclusive government support and funding programs."
             }
         ]
     },
@@ -125,14 +124,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/dubaiMainlandCompanyFormation/left4/1.webp",
             "title": "Turn 1.5 Billion Dubai Mainland Consumers into Your Customers with Our Experts",
             "description": "Tap into booming trade routes across Africa, West Asia, and Europe. We set up your business where it counts at the global crossroads of growth.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/dubaiMainlandCompanyFormation/left4/2.webp",
             "title": "Compare Our Dubai Mainland Company Formation Costs",
             "description": "At One Nexuz, we create tailored quotes based on your exact requirements—license type, visas, office space, and more. You get a clear breakdown, pay only for what’s essential, and keep more capital free to grow your business.",
             "btn": "Explore Our Pricing Packages",
@@ -146,37 +145,37 @@
                 "id": 1,
                 "title": "Identify Your Business Activities",
                 "description": "Our expert consultants guide you in selecting the most suitable business activities, ensuring you apply for the correct license category and remain fully compliant with Dubai Mainland regulations.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Select the Company Formation Structure",
                 "description": "We help you choose the right legal entity—LLC, branch, or sole establishment—and secure your trade name, aligning everything with your long-term business goals.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Compile the Necessary Documents",
                 "description": "Enjoy a smooth, hassle-free setup while our team prepares, collects, and submits all required paperwork to the Dubai Department of Economic Development (DED) and other relevant authorities.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Secure Your Office Space",
                 "description": "Meet the mandatory Mainland workspace requirements with our assistance in selecting the ideal location. We’ll help you arrange a cost-effective office solution and finalise your Memorandum of Association (MOA) or appoint a local sponsor.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Receive Your License",
                 "description": "Once your application is approved, we secure your trade license based on your chosen activities, enabling you to officially begin operations in Dubai.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Register & Open Your Bank Account",
                 "description": "Post-licensing, our PRO agents assist with VAT registration under the Federal Tax Authority (FTA) and guide you in opening a reliable corporate bank account, ensuring smooth financial operations from day one.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/dubaiMainlandCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -187,22 +186,22 @@
             {
                 "title": "Secure Your License within Days",
                 "description": "Our business consultants work closely with the DED to expedite approvals, empowering you to set up and start operating within 3-5 business days.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Receive Custom-Tailored Solutions",
                 "description": "Our expert consultants help you choose from 2000+ business activities to match you with the perfect legal structure and license, streamlining the setup process.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Get End-to-End Services Under One Roof",
                 "description": "From business licensing to securing visas and leasing office space, our certified consultants handle it all, so you won’t have to juggle multiple providers.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/dubaiMainlandCompanyFormation/grid/1.webp",
         "title": "Partner with One Nexuz For Professional Mainland License Services & Operate Anywhere in the UAE",
         "description": "Unlike free zone companies, mainland entities can operate across the UAE, giving you maximum flexibility, client access, and scaling freedom.",
         "btn": "Scale Your Business Today!",
@@ -216,19 +215,19 @@
                 "id": 1,
                 "quote": "“One Nexuz’s personalized approach made setting up my F&B business in Dubai Mainland stress-free. From trade name approval to visa processing, they delivered beyond expectations!”",
                 "role": "Business Founder",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“One Nexuz handled everything—from document prep to approvals—so I could focus on growing my business.”",
                 "role": "Tech Startup Owner",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“With One Nexuz’s support, launching my consultancy in Dubai Mainland was effortless. Their expertise in local regulations and PRO services saved us time and ensured a smooth setup.”",
                 "role": "Beauty Brand Owners",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/dubaiMainlandCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -262,7 +261,7 @@
         "title": "Trade Across the UAE & Scale Your Business Seamlessly With One Nexuz",
         "description": "Build a global market presence, bid for lucrative government contracts, and enjoy 100% capital repatriation by securing your DED-registered Mainland license. We handle every phase of the setup process to fast-track your time-to-market!",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/dubaiMainlandCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

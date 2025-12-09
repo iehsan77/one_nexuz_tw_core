@@ -1,0 +1,269 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/trademarkRegistration.webp",
+        "title": "From Filing to Legal Protection — Shield Your Brand with Our Expert Trademark Registration Services",
+        "description": "Your brand is your most valuable asset—don't risk it in the UAE market. Secure exclusive rights to your name, logo, or slogan across the Emirates with trademark registration solutions that actually work. Protect your brand identity and win credibility in the country’s hyper-competitive market with our team of trademark registration specialists."
+    },
+    "leftSection_1": {
+        "title": "Why Your Brand Needs Trademark Registration in the UAE",
+        "description": "Gain a competitive edge by protecting your intellectual property and creative assets in the local and global market with registered logos, names, designs, and slogans.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Register, Protect, and Own Your Brand for 10+ Years—Safeguard Your Identity Fast",
+                "subTitle": "Register, Protect, and Own Your Brand for 10+ Years—Safeguard Your Identity Fast",
+                "description": "Get sole ownership of your trademark across all seven Emirates and prevent competitors from stealing your registered marks.",
+                "image": "/assets/trademarkRegistration/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Stop Imitators, Build Trust, and Turn Your Brand into a Market Authority",
+                "subTitle": "Stop Imitators, Build Trust, and Turn Your Brand into a Market Authority",
+                "description": "Keep counterfeiters and copycats from imitating your brand identity and build brand trust by securing your unique signs, designs, and expressions. ",
+                "image": "/assets/trademarkRegistration/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Expand Without Limits—Secure Your Brand and Unlock International Markets ",
+                "subTitle": "Expand Without Limits—Secure Your Brand and Unlock International Markets ",
+                "description": "Make your mark in local and global markets by distinguishing your creative assets through seamless GCC trademark filings.  ",
+                "image": "/assets/trademarkRegistration/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What’s Cove   red in Our UAE Trademark Registration Services",
+        "description": "Protect your original work, diversify your income stream, and create a unique brand identity with our end-to-end trademark registration and renewal solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/1.svg",
+                "title": "Trademark Search & Advisory "
+            },
+            {
+                "id": 2,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/2.svg",
+                "title": "Application Drafting & Filing "
+            },
+            {
+                "id": 3,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/3.svg",
+                "title": "Objection Handling & Appeals"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/4.svg",
+                "title": "Publication & Monitoring"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/5.svg",
+                "title": "Final Registration Certificate "
+            },
+            {
+                "id": 6,
+                "icon": "/assets/trademarkRegistration/iconTitleSec/6.svg",
+                "title": "Optional Renewals & Global Filing"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/trademarkRegistration/left4/1.webp",
+            "title": "Protect Your Brand Without Breaking the Bank — Get a Quote Built Around Your Goals",
+            "description": "No bundled fluff, no last-minute charges. Just clear, flexible UAE trademark registration costs tailored to your business needs. Start with exactly what you need and upgrade your protection as your brand grows.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Secure Your UAE Trademark with Our Proven 4-Step Solution ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book Your Consultation ",
+                "description": "We’ll kick off your trademark registration journey in Dubai by discussing your unique trademark registration needs. ",
+                "image": "/assets/trademarkRegistration/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Undergo an Eligibility Check",
+                "description": "Next, our expert consultants conduct an exhaustive search of existing trademarks to ensure your creative mark is eligible.",
+                "image": "/assets/trademarkRegistration/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get the Necessary Approvals",
+                "description": "Once cleared, we’ll submit your application, publish your trademark in official newspapers, and monitor it for 30 days to resolve any conflicts.",
+                "image": "/assets/trademarkRegistration/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Issue Your Certificate ",
+                "description": "Lastly, our experts will help you receive a registration certificate valid for over 10 years and renewable indefinitely.",
+                "image": "/assets/trademarkRegistration/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Reliable Trademark Registration Solutions ",
+        "description": "Prevent unauthorised use of your brand’s creative marks with specialised trademark registration services. Our team of seasoned lawyers simplifies the process and handles all legal jargon to get you registered in half the time.",
+        "items": [
+            {
+                "title": "Connect with Expert Consultants ",
+                "description": "Our specialists boast in-depth local knowledge of the nuances of UAE IP laws and regulations, ensuring your creative work is 100% protected.",
+                "image": "/assets/trademarkRegistration/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy Fast Turnaround Times ",
+                "description": "Cut down processing times by mitigating the risk of hefty legal penalties, unexpected delays, and complex legal requirements.",
+                "image": "/assets/trademarkRegistration/bgImage/2.webp"
+            },
+            {
+                "title": "Gain 24/7 Customer Support ",
+                "description": "Get ongoing legal support to combat potential objections and stay up-to-date with the latest trademark registration laws. ",
+                "image": "/assets/trademarkRegistration/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/trademarkRegistration/grid/1.webp",
+        "title": "Don’t Risk Your Brand- Register It Now with One Nexuz",
+        "description": "In the UAE, trademark infringement can lead to fines of up to AED 1 million. We combat hefty fines by simplifying registration, ensuring you're fully compliant. ",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As a foreign entrepreneur, I wasn’t familiar with the UAE’s trademark process. What impressed me was the level of care and clarity—they got us ready for international filing through the Madrid Protocol.” ",
+                "role": "Tech Company CEO",
+                "image": "/assets/trademarkRegistration/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We faced an unexpected objection after submission, and I was worried it would delay everything. But they immediately stepped in with a legal response. Within weeks, we had our trademark registered without any extra back-and-forth.”",
+                "role": "E-commerce Startup Founder",
+                "image": "/assets/trademarkRegistration/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I honestly thought trademark registration would be a legal maze, but the team made it so simple. I had my certificate in just under 4 weeks—with no surprises on cost.”",
+                "role": "Media & Content Agency",
+                "image": "/assets/trademarkRegistration/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Your Brand is Your Identity- Don't Leave It Exposed ",
+        "description": "With a registered   trademark, you gain full legal protection, licensing rights, and serious brand credibility. Our expert consultants handle clearance, application, and final approval- you focus on building.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/trademarkRegistration/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does UAE trademark registration take?",
+                "answer": "It typically takes 3-6 weeks, depending on the location, application accuracy, and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does the trademark remain valid?",
+                "answer": "The trademark remains valid for approximately 10 years and can be renewed indefinitely with proper filings."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What happens if someone objects to my trademark?",
+                "answer": "Yes! Since the UAE is a member of the Berne Convention, you get work protection across 170 countries. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need to apply for trademark registration?",
+                "answer": "You’ll need copies of your passport or trade license and power of attorney."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Will my UAE trademark protect me internationally?",
+                "answer": "Not automatically, but it’s a strong foundation. We can help extend protection to GCC countries without reapplying in each jurisdiction."
+            }
+        ]
+    }
+}

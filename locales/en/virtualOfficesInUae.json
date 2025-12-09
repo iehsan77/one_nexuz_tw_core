@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/virtualOfficesInUae.webp",
         "title": "Browse, Compare, Lease, & Launch — Find Smart Virtual Offices in the UAE & Get Business-Ready Fast",
         "description": "High rents, long-term leases, and endless paperwork can burn your cash and stall your plans before you even launch. At One Nexuz, we empower you with a curated listing of handpicked virtual offices in prime locations across the UAE. Cut through the bureaucracy, fast-track your launch, work remotely, and scale effortlessly- all the while maintaining a credible local presence."
     },
@@ -15,28 +15,28 @@
                 "title": "Cut Distractions, Collaborate Seamlessly, and Increase Team Efficiency",
                 "subTitle": "Cut Distractions, Collaborate Seamlessly, and Increase Team Efficiency",
                 "description": "Eliminate unnecessary distractions, reduce commute times, and put your team in control with an agile virtual office in Dubai, boosting workplace flexibility and employee productivity by 25%.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/virtualOfficesInUae/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Reduce Fixed Costs, Save Thousands, & and Reinvest in Your Growth",
                 "subTitle": "Reduce Fixed Costs, Save Thousands, & and Reinvest in Your Growth",
                 "description": "Save AED 10,000+ on physical office space, utility, and maintenance fees with a cutting-edge virtual office. Pay only for the services you use, from mail and call handling to meeting room bookings. ",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/virtualOfficesInUae/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Make First Impressions Count — Premium Address, Calls, & Meeting Rooms",
                 "subTitle": "Make First Impressions Count — Premium Address, Calls, & Meeting Rooms",
                 "description": "Win instant customer trust, gain investor confidence, and strengthen your brand identity with a professional virtual office in prime locations across the Emirates. Book meeting rooms on the go to impress partners or clients.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/virtualOfficesInUae/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Work Remotely, Respond Instantly, and Build a Professional Local Presence",
                 "subTitle": "Work Remotely, Respond Instantly, and Build a Professional Local Presence",
                 "description": "Maintain a prestigious UAE presence without being tied to a desk. Your team can work anytime, anywhere, handle calls, access mail, and meet clients — all while saving thousands on office rent.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/virtualOfficesInUae/left1/4.webp"
             }
         ]
     },
@@ -68,14 +68,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/virtualOfficesInUae/left4/1.webp",
             "title": "Save Up to 75% and Get a Prime UAE Address with One Nexuz",
             "description": "Cut traditional office costs, keep overhead low, and land a prestigious Dubai business address with full mail, call, and support services. Perfect for SMEs and remote teams.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/virtualOfficesInUae/left4/2.webp",
             "title": "Virtual Offices for Business in the UAE — Pricing That Fits Your Needs",
             "description": "No rigid packages. No hidden fees. Get a custom virtual office solution tailored to your business—pay only for the services you require, with full flexibility as your operations grow.",
             "btn": "Explore Our Pricing Packages",
@@ -89,25 +89,25 @@
                 "id": 1,
                 "title": "Choose Your Package",
                 "description": "We'll help you compare and select a virtual office plan that fits your business needs, from a premium UAE business address to call handling and mail management.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/virtualOfficesInUae/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Complete Your Setup Online",
                 "description": "Next, our experts help you compile and submit all the necessary documents and handle all compliance checks, so your virtual office is ready within minutes, not days.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/virtualOfficesInUae/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Activate Your UAE Presence",
                 "description": "Once approved, your UAE address is live, calls are forwarded, and mail is managed professionally, providing you with a credible local presence at a fraction of the cost.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/virtualOfficesInUae/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Operate, Grow, and Scale",
                 "description": "Start running your business instantly, work from anywhere, attend meetings, receive mail, and grow without overhead. We’ll help you upgrade as your business expands",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/virtualOfficesInUae/left5/4.svg"
             }
         ]
     },
@@ -118,22 +118,22 @@
             {
                 "title": "Slash Leasing Times in Half",
                 "description": "Lease and launch next-gen virtual offices in prime spots across the UAE within 48 hours. No long wait times, no unnecessary delays, no costly rejections.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/virtualOfficesInUae/bgImage/1.webp"
             },
             {
                 "title": "Explore Premium UAE Locations",
                 "description": "Pick recognizable UAE business addresses to win investor trust, capture clients, and fast-track bank account setup — all at a fraction of the cost.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/virtualOfficesInUae/bgImage/2.webp"
             },
             {
                 "title": "Enjoy All-in-One Solutions",
                 "description": "Simplify business licensing, tax registration, and bank account setup with our holistic office setup services, bundling address services with PRO assistance.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/virtualOfficesInUae/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/virtualOfficesInUae/grid/1.webp",
         "title": "Flexible. Affordable. Fully Compliant — Get Started at Half the Rent with One Nexuz",
         "description": "Strengthen your brand identity, win client trust, and claim a prestigious UAE address — all while running your business remotely. Browse our extensive catalogue of prime virtual office addresses to build instant credibility.",
         "btn": "Scale Your Business Today!",
@@ -147,19 +147,19 @@
                 "id": 1,
                 "quote": "Setting up my UAE business used to feel impossible — the rents, the paperwork, the endless visits. One Nexuz made it effortless. I had a fully compliant UAE address in just 24 hours and could focus on growing my business instead of chasing approvals.",
                 "role": "E-commerce Operations Manager",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/virtualOfficesInUae/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "We needed a credible UAE presence to onboard clients and open a corporate bank account quickly. One Nexuz handled everything — mail, calls, and compliance documents — so we could launch immediately without renting a physical office.",
                 "role": "Tech Startup Founder ",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/virtualOfficesInUae/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "Our team works remotely, but we wanted a professional UAE address to maintain trust with partners. One Nexuz gave us a fully functional virtual office with call handling and meeting rooms — saving us thousands in overhead while keeping productivity high.",
                 "role": "Consulting Firm CEO",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/virtualOfficesInUae/client/3.webp"
             }
         ]
     },
@@ -217,7 +217,7 @@
         "title": "Launch Your UAE Business in Days — No Office Needed",
         "description": "Operate, scale, and impress clients while saving thousands in rent and admin costs with our cutting-edge virtual offices across the UAE. Get instant access to ready-to-use addresses to fast-track licensing and bank account opening.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/virtualOfficesInUae/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

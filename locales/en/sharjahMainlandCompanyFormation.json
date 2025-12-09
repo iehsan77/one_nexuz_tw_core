@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/sharjahMainlandCompanyFormation.webp",
         "title": "From Trade License to Office Space Setup, Get End-to-End Support & Launch Faster in Sharjah With One Nexuz",
         "description": "High setup costs and compliance hurdles can slow down your entry into Sharjah’s booming market. From low startup costs to full market access, licensing, documentation, and hassle-free setup, One Nexuz unifies every step you need to establish your business in Sharjah with speed and confidence. Whether you’re a first-time entrepreneur or an expanding enterprise, our expert-led solutions put your growth, compliance, and success in one seamless process."
     },
@@ -15,28 +15,28 @@
                 "title": "Streamline Setup & Licensing to Cut Operating Costs by Up to 30%",
                 "subTitle": "Streamline Setup & Licensing to Cut Operating Costs by Up to 30%",
                 "description": "High setup costs can drain your budget before your business even begins. Save up on license fees and office space without compromising quality by picking favorable locations on the Sharjah mainland. Position your company strategically and reinvest your savings into sustainable growth.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "Unlock Direct Access to the UAE’s Local Market & Reach Millions of Ready Buyers Instantly",
                 "subTitle": "Unlock Direct Access to the UAE’s Local Market & Reach Millions of Ready Buyers Instantly",
                 "description": "Poor connectivity can slow down operations and limit your reach. Take advantage of the Sharjah mainland’s strategic location and enjoy convenient access to all Emirates, ports, and major road networks. Expand your footprint with ease and keep your business closer to customers and partners across the UAE.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Eliminate Bottlenecks, Accelerate Approvals, & Cut Down Waiting Times in Half",
                 "subTitle": "Eliminate Bottlenecks, Accelerate Approvals, & Cut Down Waiting Times in Half",
                 "description": "Lengthy approval times can delay your launch and cost you opportunities. Speed up licensing approvals and have your business set up in as little as 5-7 working days, complete with all the necessary documentation. Get started quickly and stay ahead of the competition.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Unlock Tax Breaks That Boost Margins & Maximise Profitability ",
                 "subTitle": "Unlock Tax Breaks That Boost Margins & Maximise Profitability ",
                 "description": "High operating costs can erode profits and hinder business growth. The city’s competitive tax landscape, including exciting incentives and exemptions from corporate income tax, can uplift your bottom line.  This advantage makes Dubai one of the most business-friendly hubs in the region.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/left1/4.webp"
             }
         ]
     },
@@ -94,14 +94,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/sharjahMainlandCompanyFormation/left4/1.webp",
             "title": "With One Nexuz Tap into Sharjah’s AED 130 Billion Economy Today",
             "description": "Scale your business to new heights by taking advantage of Sharjah’s booming markets and strategic location. Our proficient business consultants simplify the setup so you can get growing from day one.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/sharjahMainlandCompanyFormation/left4/2.webp",
             "title": "Get Sharjah Mainland License Cost with One Nexuz",
             "description": "No two businesses are the same—so why pay for a generic package? We create tailored quotes based on your exact setup needs, from licenses and visas to office space and approvals. With transparent pricing and zero hidden fees, you get a cost-effective start and keep more capital for growth.",
             "btn": "Explore Our Pricing Packages",
@@ -115,37 +115,37 @@
                 "id": 1,
                 "title": "Book a Free Consultation",
                 "description": "Our expert consultants take the time to understand your business vision and objectives, recommending the most suitable Sharjah Mainland structure and license type to ensure compliance and long-term success.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Curate a Unique Trade Name",
                 "description": "We help you craft and register a trade name that reflects your brand identity. From submission to approval, our team ensures smooth filings with the Sharjah Economic Development Department (SEDD).",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Compile All Relevant Documents",
                 "description": "Forget the hassle of paperwork—we guide you in preparing, collecting, and submitting all required documents, including your Memorandum of Association (MOA) and sponsor agreements where necessary.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Secure Your Mainland License",
                 "description": "Once approvals are in place, our consultants help you obtain your Sharjah Mainland trade license—often within 1–7 working days—so you can officially start operations without delay.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/4.svg"
             },
             {
                 "id": 5,
                 "title": "Apply for the Right Visa",
                 "description": "Through our integrated PRO and immigration support, we handle your visa processing smoothly, whether it’s investor, partner, or employee visas, based on your office size and license type.",
-                "image": "/assets/businessSetup/left5/5.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/5.svg"
             },
             {
                 "id": 6,
                 "title": "Enjoy Post-Licensing Support",
                 "description": "Our support doesn’t end with license issuance—we assist with opening a compliant corporate bank account, VAT registration, and ongoing renewals so your business continues to run seamlessly.",
-                "image": "/assets/businessSetup/left5/6.svg"
+                "image": "/assets/sharjahMainlandCompanyFormation/left5/6.svg"
             }
         ]
     },
@@ -156,22 +156,22 @@
             {
                 "title": "Connect with Expert Consultants",
                 "description": "Our team of consultants and advisors boasts intimate local knowledge and a decade of experience to ease the company formation process.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/bgImage/1.webp"
             },
             {
                 "title": "Unlock Customised Solutions",
                 "description": "With tailored, end-to-end business setup services, our proficient consultants promise a hassle-free and cost-effective procedure.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/bgImage/2.webp"
             },
             {
                 "title": "Get Round-the-Clock Support",
                 "description": "Got a query? Struggling to find the ideal license? Our dedicated consultants offer 24/7 customer support to ensure a seamless business setup journey.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/sharjahMainlandCompanyFormation/grid/1.webp",
         "title": "Expand Your Business to Sharjah Mainland with One Nexuz at Half the Cost",
         "description": "Tired of paying extra for every visa or getting stuck mid-process? We manage every step, from labour file to Emirates ID, so you don't have to chase approvals or consultants.",
         "btn": "Scale Your Business Today!",
@@ -185,19 +185,19 @@
                 "id": 1,
                 "quote": "“The license was just the beginning. One Nexuz helped us get our visas, our bank account, and even saved us AED 4,000 on our office lease.”",
                 "role": "Digital Services Business Owner",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“I had no clue how the local laws worked. Their team explained everything clearly, and I was registered in 6 days.”",
                 "role": "Import/Export HR Director",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“We launched in Sharjah Mainland without a single delay. One Nexuz sorted the approvals, tenancy, and even got us a better rate on our trade license.”",
                 "role": "Auto Parts Business Owner",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/sharjahMainlandCompanyFormation/client/3.webp"
             }
         ]
     },
@@ -231,7 +231,7 @@
         "title": "Fast Track Business Setup in Sharjah Mainland",
         "description": "We make launching a business in the Sharjah Mainland stress-free. At One Nexuz, our expert consultants guide you from idea to execution, promising full clarity and round-the-clock support!",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/sharjahMainlandCompanyFormation/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

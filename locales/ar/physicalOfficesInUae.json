@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "احجز استشارتك المجانية.",
         "bookConsultation": "احصل على عرض سعر مجاني اليوم.",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/physicalOfficesInUae.webp",
         "title": "من البحث عن مكتب إلى توقيع العقد - احصل على حل مكتبي كامل 360° في الإمارات العربية المتحدة",
         "description": "تواجه صعوبة في العثور على مكتب استراتيجي ومطابق بالكامل في دبي؟ تصفح كتالوجنا الواسع من المساحات المكتبية العالمية المستوى للإيجار في دبي، الإمارات العربية المتحدة، والذي يمتد عبر مواقع متميزة لتعزيز الرؤية وتوسيع شبكة علاقاتك المهنية. عزز ثقافة الشركة القوية، وسهل التعاون بين الأقسام، وزد من كفاءة الموظفين مع المكاتب التجارية المجهزة بالكامل."
     },
@@ -15,28 +15,28 @@
                 "title": "أشعل إنتاجية الفريق، وزد التركيز، وابقِ الفرق مزدهرة",
                 "subTitle": "أشعل إنتاجية الفريق، وزد التركيز، وابقِ الفرق مزدهرة",
                 "description": "عزز رفاهية الموظفين بمكاتب جسدية مريحة ومخصصة لزيادة إنتاجية العمل بنسبة مذهلة تصل إلى 25%.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/physicalOfficesInUae/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "من الأفكار إلى التنفيذ - اجعل التعاون سهلاً بين فريقك",
                 "subTitle": "من الأفكار إلى التنفيذ - اجعل التعاون سهلاً بين فريقك",
                 "description": "شجع التواصل السلس وزود الإبداع بمساحة مخصصة لجلسات العصف الذهني، واجتماعات الفريق، وورش العمل، وأنشطة بناء الفريق.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/physicalOfficesInUae/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "افتح حصص التأشيرات المرنة وابنِ فريق أحلامك عبر الحدود",
                 "subTitle": "افتح حصص التأشيرات المرنة وابنِ فريق أحلامك عبر الحدود",
                 "description": "احصل على ما يصل إلى 15 طلب تأشيرة مع مكتب جسدي مصمم بشكل جيد. تأكد من الامتثال بنسبة 100% واستقطب المواهب داخل وخارج الإمارات.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/physicalOfficesInUae/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "بناء مصداقية محلية، وإلهام الثقة، وكسب العملاء بسهولة",
                 "subTitle": "بناء مصداقية محلية، وإلهام الثقة، وكسب العملاء بسهولة",
                 "description": "احصل على ثقة العملاء على الفور مع عنوان جسدي يعكس علامتك التجارية. عزز شرعية العلامة التجارية لتسهيل إعداد حسابات البنوك وترخيص التجارة.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/physicalOfficesInUae/left1/4.webp"
             }
         ]
     },
@@ -72,14 +72,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/physicalOfficesInUae/left4/1.webp",
             "title": "تصفح مكاتبنا الواسعة المصممة لتوسيع أعمالك في الإمارات العربية المتحدة",
             "description": "احصل على مساحة مخصصة تتجاوز الفحوصات الحكومية، تدعم هيكل الترخيص الخاص بك، وتوفر لعملك الحضور الفعلي الذي يحتاجه للتوسع دون دفع إيجار.",
             "btn": "احجز مكالمة مجانية",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/physicalOfficesInUae/left4/2.webp",
             "title": "مساحات مصممة، أسعار شفافة - استأجر مكاتب تناسب عملك وميزانيتك",
             "description": "مكتبك، شروطك، وتيرتك. أسعار شفافة، عقود إيجار مرنة، ومساحة تنمو مع عملك - لا أكثر، لا أقل.",
             "btn": "استكشف حزم التسعير لدينا",
@@ -93,25 +93,25 @@
                 "id": 1,
                 "title": "أخبرنا باحتياجاتك",
                 "description": "سنبدأ بمكالمة بدون التزام لمناقشة حجم فريقك، الموقع المفضل، ومتطلبات الترخيص.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/physicalOfficesInUae/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "تصفح واختر مكتبك",
                 "description": "بعد ذلك، سيقوم خبراؤنا بمطابقتك مع المساحة المثالية، مما يتيح لك تصفح خيارات متعددة قبل اتخاذ القرار النهائي.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/physicalOfficesInUae/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "أكمل عقد الإيجار الخاص بك",
                 "description": "بمجرد أن تجد المساحة المثالية، سنتولى جميع الوثائق ونقدم الأوراق نيابة عنك لتوفير مساحة جاهزة للترخيص.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/physicalOfficesInUae/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "انتقل وابدأ التشغيل",
                 "description": "أخيرًا، يمكنك نقل فريقك إلى مساحات تجارية جاهزة للعمل في غضون دقائق وبدء معالجة ترخيص التجارة أو التأشيرة بدون متاعب.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/physicalOfficesInUae/left5/4.svg"
             }
         ]
     },
@@ -122,22 +122,22 @@
             {
                 "title": "اكتشف مساحات متوافقة بالكامل",
                 "description": "استفد من مكاتبنا التجارية المسجلة لتلبية متطلبات الترخيص في الإمارات، وتسريع تسجيل الشركة، وتبسيط الرعاية.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/1.webp"
             },
             {
                 "title": "افتح ميزات عالمية المستوى",
                 "description": "تقع في مواقع تجارية رئيسية، يضم كتالوجنا مكاتب فعلية مفروشة بالكامل مزودة بمرافق من الدرجة الأولى لتعزيز الإنتاجية.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/2.webp"
             },
             {
                 "title": "احصل على مكاتب جاهزة للتأشيرات",
                 "description": "تمكنك قائمتنا من المكاتب الجاهزة للعمل من تكوينات مكتبية مصممة لتعظيم تصاريح الإقامة والرعاية.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/physicalOfficesInUae/grid/1.webp",
         "title": "حوّل إيجار المكتب إلى أصل لنمو الأعمال مع One Nexuz",
         "description": "نحن لا نستأجر فقط مساحات مكتبية؛ بل نقدم مكاتب متوافقة قانونيًا تساعدك على فتح تراخيص التجارة، وتأمين ثقة المستثمرين، وتلبية حصص التأشيرات.",
         "btn": "قم بتوسيع أعمالك اليوم!",
@@ -151,19 +151,19 @@
                 "id": 1,
                 "quote": "ساعدتنا One Nexuz في تأمين مكتب متوافق تمامًا في منطقة الأعمال خلال 24 ساعة. تعاملوا مع الإيجاري والأوراق حتى نتمكن من التركيز على إطلاق ترخيص التجارة دون تأخير.",
                 "role": "الشريك الإداري لشركة استشارية",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/physicalOfficesInUae/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "تجاوزنا مساحة العمل المشتركة واحتجنا إلى شيء أكثر ديمومة لأغراض التأشيرات. أرشدتنا One Nexuz في كل شيء - من اختيار المساحة إلى الإعداد القانوني. تجربة سلسة وخالية من التوتر.",
                 "role": "مؤسس شركة ناشئة في مجال التكنولوجيا",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/physicalOfficesInUae/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "فريق One Nexuz فهم تمامًا ما نحتاجه كشركة ناشئة تتوسع في دبي. جاء مكتبنا جاهزًا للاستخدام، وساعدونا أيضًا في تسريع عملية ترخيص DED.",
                 "role": "الرئيس التنفيذي لوكالة تسويق وإبداع",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/physicalOfficesInUae/client/3.webp"
             }
         ]
     },
@@ -221,7 +221,7 @@
         "title": "زد من معنويات الموظفين مع مكاتبنا التجارية الجاهزة للإيجار",
         "description": "قم بتوسيع عملك إلى آفاق جديدة مع كتالوجنا من المساحات التجارية المفروشة بالكامل المجهزة بمرافق من الدرجة الأولى لزيادة الإنتاجية، وتعظيم حصص تأشيرات الإمارات، ورعاية المواهب في جميع أنحاء العالم.",
         "btn": "تواصل مع خبرائنا",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/physicalOfficesInUae/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",

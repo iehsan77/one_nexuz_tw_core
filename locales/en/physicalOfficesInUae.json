@@ -2,7 +2,7 @@
     "homeHeader": {
         "getQuoteToday": "Get a Free Quote Today",
         "bookConsultation": "Book Your Free Consultation",
-        "image": "/assets/header/businessSetup.webp",
+        "image": "/assets/header/physicalOfficesInUae.webp",
         "title": "From Office Search to Lease Signing — Get a Full 360° Physical Office Solution in the UAE",
         "description": "Struggling to find a strategically located, fully-compliant office in Dubai? Browse our extensive catalogue of world-class office spaces for lease in Dubai, UAE, spanning across premium locations to maximise visibility and expand your professional network. Foster a strong company culture, streamline intra-department collaboration, and increase employee efficiency with fully-equipped commercial offices."
     },
@@ -15,28 +15,28 @@
                 "title": "Ignite Team Productivity, Elevate Focus, & Keep Teams Thriving",
                 "subTitle": "Ignite Team Productivity, Elevate Focus, & Keep Teams Thriving",
                 "description": "Enhance employee well-being with ergonomic and tailored physical offices to skyrocket workplace productivity by a whopping 25%.",
-                "image": "/assets/businessSetup/left1/1.webp"
+                "image": "/assets/physicalOfficesInUae/left1/1.webp"
             },
             {
                 "id": 2,
                 "title": "From Ideas to Execution — Make Collaboration Effortless Across Your Team",
                 "subTitle": "From Ideas to Execution — Make Collaboration Effortless Across Your Team",
                 "description": "Encourage seamless communication and fuel creativity with a dedicated space for brainstorming sessions, team meetings, workshops, and team-building activities.",
-                "image": "/assets/businessSetup/left1/2.webp"
+                "image": "/assets/physicalOfficesInUae/left1/2.webp"
             },
             {
                 "id": 3,
                 "title": "Unlock Flexible Visa Quotas and Build Your Dream Team Across Borders",
                 "subTitle": "Unlock Flexible Visa Quotas and Build Your Dream Team Across Borders",
                 "description": "Secure up to 15 visa applications with an expansive, well-designed physical office. Ensure 100% compliance and recruit talent within and beyond the UAE.",
-                "image": "/assets/businessSetup/left1/3.webp"
+                "image": "/assets/physicalOfficesInUae/left1/3.webp"
             },
             {
                 "id": 4,
                 "title": "Build Local Credibility, Inspire Confidence, and Win Clients Effortlessly",
                 "subTitle": "Build Local Credibility, Inspire Confidence, and Win Clients Effortlessly",
                 "description": "Gain instant customer trust with a physical address that reflects your brand. Boost brand legitimacy to streamline bank account setup and trade licensing.",
-                "image": "/assets/businessSetup/left1/4.webp"
+                "image": "/assets/physicalOfficesInUae/left1/4.webp"
             }
         ]
     },
@@ -72,14 +72,14 @@
     },
     "leftSection_4": {
         "sec1": {
-            "image": "/assets/businessSetup/left4/1.webp",
+            "image": "/assets/physicalOfficesInUae/left4/1.webp",
             "title": "Browse Our Spacious Offices Designed to Scale Your UAE Business",
             "description": "Get a dedicated space that clears government inspections, supports your licensing structure, and gives your business the physical presence it needs to scale without paying rent.",
             "btn": "Book a Free Call",
             "url": "#"
         },
         "sec2": {
-            "image": "/assets/businessSetup/left4/2.webp",
+            "image": "/assets/physicalOfficesInUae/left4/2.webp",
             "title": "Tailored Spaces, Transparent Pricing — Lease Offices that Fit Your Business and Your Budget",
             "description": "Your office, your terms, your pace. Transparent pricing, flexible leases, and space that grows with your business—nothing more, nothing less.",
             "btn": "Explore Our Pricing Packages",
@@ -93,25 +93,25 @@
                 "id": 1,
                 "title": "Tell Us Your Needs",
                 "description": "We’ll kick off with a no-obligation call to discuss your team size, preferred location, and licensing requirements.",
-                "image": "/assets/businessSetup/left5/1.svg"
+                "image": "/assets/physicalOfficesInUae/left5/1.svg"
             },
             {
                 "id": 2,
                 "title": "Surf & Select Your Office",
                 "description": "Next, our experts will match you with the ideal space, allowing you to browse multiple options before making the final choice.",
-                "image": "/assets/businessSetup/left5/2.svg"
+                "image": "/assets/physicalOfficesInUae/left5/2.svg"
             },
             {
                 "id": 3,
                 "title": "Finalise Your Lease",
                 "description": "Once you find the ideal space, we’ll handle all the documentation and submit the paperwork on your behalf to provide you with a license-ready space.",
-                "image": "/assets/businessSetup/left5/3.svg"
+                "image": "/assets/physicalOfficesInUae/left5/3.svg"
             },
             {
                 "id": 4,
                 "title": "Move In & Start Operating",
                 "description": "Finally, you can shift your team to ready-to-work commercial spaces within minutes and start processing your trade license or visa hassle-free.",
-                "image": "/assets/businessSetup/left5/4.svg"
+                "image": "/assets/physicalOfficesInUae/left5/4.svg"
             }
         ]
     },
@@ -122,22 +122,22 @@
             {
                 "title": "Discover Fully-Compliant Spaces",
                 "description": "Take advantage of our registered commercial offices to meet the UAE's licensing requirements, expedite company registration, and streamline sponsorship.",
-                "image": "/assets/businessSetup/bgImage/1.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/1.webp"
             },
             {
                 "title": "Unlock World-Class Amenities",
                 "description": "Located in prime business locations, our catalogue boasts fully furnished physical offices equipped with top-tier amenities to optimise productivity.",
-                "image": "/assets/businessSetup/bgImage/2.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/2.webp"
             },
             {
                 "title": "Get Visa-Ready Offices",
                 "description": "Our list of ready-to-work offices empowers you with office configurations designed to maximise residency permits and sponsorships.",
-                "image": "/assets/businessSetup/bgImage/3.webp"
+                "image": "/assets/physicalOfficesInUae/bgImage/3.webp"
             }
         ]
     },
     "leftSection_7": {
-        "image": "/assets/businessSetup/grid/1.webp",
+        "image": "/assets/physicalOfficesInUae/grid/1.webp",
         "title": "Turn Office Rent Into a Business Growth Asset with One Nexuz",
         "description": "We don’t just lease office space; we provide legally compliant offices that help you unlock trade licenses, secure investor trust, and meet visa quotas.",
         "btn": "Scale Your Business Today!",
@@ -151,19 +151,19 @@
                 "id": 1,
                 "quote": "“One Nexuz helped us secure a fully compliant office in Business Bay within 24 hours. They handled the Ejari and paperwork so we could focus on launching our trade license without delays.”",
                 "role": "Consulting FirmS Managing Partner",
-                "image": "/assets/businessSetup/client/1.webp"
+                "image": "/assets/physicalOfficesInUae/client/1.webp"
             },
             {
                 "id": 2,
                 "quote": "“We outgrew our coworking space and needed something more permanent for visa purposes. One Nexuz guided us through everything — from space selection to legal setup. Seamless, stress-free experience.”",
                 "role": "Tech Startup Founder",
-                "image": "/assets/businessSetup/client/2.webp"
+                "image": "/assets/physicalOfficesInUae/client/2.webp"
             },
             {
                 "id": 3,
                 "quote": "“The team at One Nexuz understood exactly what we needed as a startup expanding into Dubai. Our office came ready-to-use, and they even helped fast-track our DED licensing process.”",
                 "role": "Marketing & Creative Agency CEO",
-                "image": "/assets/businessSetup/client/3.webp"
+                "image": "/assets/physicalOfficesInUae/client/3.webp"
             }
         ]
     },
@@ -221,7 +221,7 @@
         "title": "Boost Employee Morale with Our Business-Ready Physical Offices for Lease",
         "description": "Scale your business to new heights with our catalogue of fully furnished commercial spaces equipped with top-tier amenities to increase productivity, maximise UAE visa quotas, and sponsor talent worldwide.",
         "btn": "Connect with Our Experts",
-        "image": "/assets/businessSetup/grid/2.webp"
+        "image": "/assets/physicalOfficesInUae/grid/2.webp"
     },
     "exploreIndustry": {
         "title": "Explore Other Services",

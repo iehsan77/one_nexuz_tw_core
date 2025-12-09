@@ -1,0 +1,297 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/coWorkingOfficesInUae.webp",
+        "title": "Slash Leasing Costs, Collaborate with Visionaries, & Grow without Limits with Our Turnkey Co-Working Spaces",
+        "description": "Struggling to secure an office space without breaking the bank or drowning in paperwork? At One Nexuz, we empower you with ready-to-go, license-compliant co-working spaces in top locations, connecting you with thriving business hubs. Launch fast, stay compliant, and scale your team without sweat — across Dubai, Abu Dhabi, and beyond."
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Choose Co-Working Spaces in the UAE",
+        "description": "Maximize productivity, cut through the red tape, and save AED 1,000+ on business setup and running with strategically-located, cheap co-working spaces in Dubai and 5+ Emirates.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Save Up to 50% per Employee, Optimise Resource Allocation, & Scale Faster ",
+                "subTitle": "Save Up to 50% per Employee, Optimise Resource Allocation, & Scale Faster ",
+                "description": "Skip long leases, expensive fit-outs, and sky-high utility bills with flexible desk and office options, empowering you to minimise overheads and freeing up cash to reinvest in scaling your business. ",
+                "image": "/assets/coWorkingOfficesInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enter Designed-for-Work Environments to Boost Workplace Productivity by 70%+ ",
+                "subTitle": "Enter Designed-for-Work Environments to Boost Workplace Productivity by 70%+ ",
+                "description": "Redefine team efficiency, boost motivation, and supercharge creativity with purpose-built environments that feature quiet zones, collaborative lounges, and ergonomic setups.",
+                "image": "/assets/coWorkingOfficesInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Unlock All the Tools You Need to Work Smarter, Not Harder",
+                "subTitle": "Unlock All the Tools You Need to Work Smarter, Not Harder",
+                "description": "With high-speed enterprise Wi-Fi, printing and scanning, mail handling, and on-site reception, co-working spaces offer you instant access to a professional infrastructure- all without the headache of setup.",
+                "image": "/assets/coWorkingOfficesInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Connect, Collaborate, and Unlock New Business Opportunities",
+                "subTitle": "Connect, Collaborate, and Unlock New Business Opportunities",
+                "description": "Join a vibrant community of entrepreneurs, startups, and global teams to expand your professional network, forge strategic partnerships, and unlock lucrative business opportunities.",
+                "image": "/assets/coWorkingOfficesInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Everything You Need to Thrive — Powered by One Nexuz",
+        "description": "Increase workplace efficiency, job satisfaction, and team collaboration with our state-of-the-art co-working spaces.",
+        "items": [
+            {
+                "id": 1,
+                "title": "High-Speed Internet & IT Infrastructure ",
+                "description": "Stay connected with robust IT setups and enterprise-grade Wi-Fi, powering seamless business operations."
+            },
+            {
+                "id": 2,
+                "title": "Mail & Reception Services",
+                "description": "Build a professional brand image and never lose a vital business document with round-the-clock front-desk support."
+            },
+            {
+                "id": 3,
+                "title": "Printing, Scanning, & Office Essentials",
+                "description": "Gain unrestricted access to all the tools you need to operate efficiently without the hassle of setting them up."
+            },
+            {
+                "id": 4,
+                "title": "Lounge & Breakout Areas",
+                "description": "Relax, brainstorm, and innovate in comfortable lounges and breakout spaces that foster creativity & collaboration."
+            },
+            {
+                "id": 5,
+                "title": "Private & Hot Desk Options",
+                "description": "Explore and choose the workspace that fits your team, from flexible hot desks for solo work to private offices for increased focus."
+            },
+            {
+                "id": 6,
+                "title": "Meeting & Conference Rooms",
+                "description": "Book fully equipped meeting rooms anytime, ideal for client pitches, team meetings, or strategy sessions. "
+            },
+            {
+                "id": 7,
+                "title": "Community Events & Networking",
+                "description": "Connect with like-minded entrepreneurs, startups, and global teams through workshops, networking events, & more."
+            },
+            {
+                "id": 8,
+                "title": "24/7 Access & Security",
+                "description": "Work anytime, anywhere with round-the-clock access, secure entry systems, and CCTV surveillance for complete peace of mind."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/coWorkingOfficesInUae/left4/1.webp",
+            "title": "Work Smarter, Collaborate Better, & Grow Faster with One Nexuz",
+            "description": "Increase motivation, fuel innovation, and improve productivity with our premium UAE co-working spaces designed for entrepreneurs and innovators.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/coWorkingOfficesInUae/left4/2.webp",
+            "title": "Your Workspace, Your Terms — Transparent Pricing That Adapts as You Grow",
+            "description": "No rigid packages. No surprise fees. No paying for facilities you don't use. Start with exactly the space you require and scale effortlessly. Add more desks, upgrade to private offices, or book extra meeting rooms as your team grows.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Discover, Register, & Lease Top Co-Working Spaces Near You in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose Your Plan & Location",
+                "description": "We’ll start with a discovery call and help you compare top co-working spaces in locations that fit your business type and visa needs.",
+                "image": "/assets/coWorkingOfficesInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get License-Ready Registration ",
+                "description": "Next, we handle your business address, Ejari, and licensing support paperwork so you meet UAE legal requirements before moving in.",
+                "image": "/assets/coWorkingOfficesInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Move In & Plug In Immediately",
+                "description": "With all the formalities taken care of, you can walk into fully equipped workspaces and start operating your business from day one.",
+                "image": "/assets/coWorkingOfficesInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Scale or Adapt as You Grow",
+                "description": "Whether you need more desks or visa quota changes, you can easily upgrade or adjust your plan — no locking leases or extra overhead.",
+                "image": "/assets/coWorkingOfficesInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz Find the Best Co-Working Space in Dubai & Beyond",
+        "description": "Expensive office overheads, rigid leases, and complex UAE licensing can stall your growth and drain resources. With our flexible, turnkey co-working solutions, we simplify office setup, cut expenses, and match you with the best-fit space.",
+        "items": [
+            {
+                "title": "Explore Prime Locations UAE-wide",
+                "description": "Browse our extensive catalogue of premium UAE co-working spaces strategically located near thriving business ecosystems.",
+                "image": "/assets/coWorkingOfficesInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Accelerate Your Time-to-Market",
+                "description": "Go from registration to operational in days, not weeks, with our speedy renting or leasing solutions. We do all the heavy lifting, so you can focus on building momentum.",
+                "image": "/assets/coWorkingOfficesInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Visa & Talent Support",
+                "description": "Build your dream team or launch your solo venture with our custom co-working space solutions, helping you secure the best-fit visa quota plans.",
+                "image": "/assets/coWorkingOfficesInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/coWorkingOfficesInUae/grid/1.webp",
+        "title": "Join the 45% Who Found Their Edge in Our Co-Working Spaces",
+        "description": "Our UAE plug-and-play offices give you the environment to experiment, collaborate, and turn ideas into action — all without the overhead of a traditional office.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz made setting up our UAE office effortless. From handling the paperwork to providing a fully equipped workspace, we were up and running in no time.”",
+                "role": " Tech Startup Founder",
+                "image": "/assets/coWorkingOfficesInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“The flexibility and support at One Nexuz allowed our team to scale quickly without the stress of long-term leases or hidden costs. It’s perfect for growing businesses.”",
+                "role": "Marketing Agency Operations Manager",
+                "image": "/assets/coWorkingOfficesInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Working here gives us credibility with clients and access to a vibrant professional community. The workspace and administrative support make daily operations seamless.”",
+                "role": "Creative Services Consultant",
+                "image": "/assets/coWorkingOfficesInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Find the Perfect Work space for Your Business with One Nexuz ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Physical Office Leasing",
+                "description": "Unlock flexible visa quotas, strengthen your brand image, and build credibility with fully equipped physical offices.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Flexi-Desk/Smart Desk Solutions",
+                "description": "Maximize efficiency, minimize overheads, and scale as your business grows with flexi-desk solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Office Services",
+                "description": "Operate from across the globe while building a local presence with a prestigious virtual office address.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Private Offices",
+                "description": "Improve team efficiency and productivity with tailored, fully equipped, clutter-free private offices in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "UAE Residence Visa",
+                "description": "Secure your long-term stay, access world-class amenities, and sponsor your family with a UAE residence visa.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Employment Visa",
+                "description": "Scale your team stress-free and unlock exciting career growth opportunities with employment visa.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Green Visa ",
+                "description": "Enjoy extended residency and the freedom to sponsor dependents with a Green Visa. ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Find an Office That Works as Hard as You Do?",
+        "description": "Step into a plug-and-play, fully equipped UAE co-working space to spark creativity, boost productivity, and inspire innovation. Browse, compare, and lease the best-fit office space to scale your business, stress-free.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/coWorkingOfficesInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Physical Office Leasing",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Flexi Desk / Smart Desk Solutions",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Office Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I obtain my Dubai trade license with a co-working space?",
+                "answer": "Yes, most trade licenses allow business owners to choose from flexible office setup solutions, including co-working spaces, flexi-desks, and virtual offices."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Does the coworking address qualify for visa quotas if I want to hire or get an investor visa?",
+                "answer": "The ideal place depends on the nature of your business and your target audience. For instance, industrial companies are best-suited for strategic locations like Jebel Ali & Ras Al Khor, whereas service-based companies will thrive in Downtown Dubai or Business Bay."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do you provide meeting rooms, mail handling, printing, and other office services?",
+                "answer": "Yes, our co-working spaces feature all standard business services, including meeting rooms, phone booths, mail/reception handling, printing, and high‑speed internet."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Why should I choose a UAE coworking space instead of a traditional office?",
+                "answer": "Coworking spaces save you time, money, and hassle. Additionally, they offer license-ready addresses, flexible visa quotas, and fully equipped workspaces, so you can start operating legally and efficiently from day one without navigating complex leases or setup procedures."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I scale my team or office space easily in a coworking setup?",
+                "answer": "Absolutely. Our coworking office plans are flexible, allowing you to upgrade desks, add private offices, or adjust your plan as your team grows, without being locked into long-term leases."
+            }
+        ]
+    }
+}

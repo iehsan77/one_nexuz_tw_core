@@ -4,7 +4,7 @@
     "bookConsultation": "Book Your Free Consultation",
     "image": "/assets/header/itServices.webp",
     "title": "From System Uptime to Data Protection, Get Nonstop IT Services That Power Seamless Business Operations",
-    "description": "Slow systems, rising cyber threats, and outdated IT can stall growth and put your UAE business at risk. Boost IT security, data protection, system performance, and scalability with One Nexuz IT services. Whether you’re a growing startup or an established organization, safeguard confidential data, prevent costly breaches, and scale operations seamlessly with expert-driven solutions designed to keep your business ahead in the digital age"
+    "description": "Slow systems, rising cyber threats, and outdated IT can stall growth and put your UAE business at risk. Boost IT security, data protection, system performance, and scalability with One Nexuz IT services. Whether you’re a growing startup or an established organization, safeguard confidential data, prevent costly breaches, and scale operations seamlessly with expert-driven solutions designed to keep your business ahead in the digital age."
   },
   "leftSection_1": {
     "title": "Why Smart UAE Businesses Invest in IT Services",
@@ -47,38 +47,22 @@
       {
         "id": 1,
         "title": "IT Infrastructure Setup",
-        "description": "Secure your business with firewalls, proactive monitoring, and robust network designs.",
-        "url": "#"
+        "description": "Secure your business with firewalls, proactive monitoring, and robust network designs."
       },
       {
         "id": 2,
-        "title": "Web Hosting",
-        "description": "Launch and scale online with reliable, secure services to capture your target audience.",
-        "url": "#"
+        "title": "Office 365 Subscription",
+        "description": "Collaborate anytime, anywhere with cloud storage, sharing, and editing tools."
       },
       {
         "id": 3,
         "title": "Domain Name & DNS Management",
-        "description": "Secure and point your domain to the right service with expert DNS handling.",
-        "url": "#"
+        "description": "Secure and point your domain to the right service with expert DNS handling."
       },
       {
         "id": 4,
-        "title": "Hosted Exchange Mailbox",
-        "description": "Ensure seamless business communication with enterprise-grade security.",
-        "url": "#"
-      },
-      {
-        "id": 5,
-        "title": "Office 365 Subscription",
-        "description": "Collaborate anytime, anywhere with cloud storage, sharing, and editing tools.",
-        "url": "#"
-      },
-      {
-        "id": 6,
         "title": "Managed IT Support",
-        "description": "Get 24/7 remote helpdesk and incident resolution from certified engineers.",
-        "url": "#"
+        "description": "Get 24/7 remote helpdesk and incident resolution from certified engineers."
       }
     ]
   },
@@ -186,48 +170,30 @@
     "items": [
       {
         "id": 1,
-        "title": "Digital Solutions",
-        "description": "Drive online traffic, generate leads, and boost sales with custom-built business management solutions.",
-        "url": "#"
-      },
-      {
-        "id": 2,
-        "title": "Event Planning & Management Services",
-        "description": "Build brand awareness, win investor trust, and uplift your bottom line with professional events or expo planning.",
-        "url": "#"
-      },
-      {
-        "id": 3,
-        "title": "Marketing & Branding",
-        "description": "Create a unique brand identity, generate buzz, and enhance credibility with strategic branding solutions.",
-        "url": "#"
-      },
-      {
-        "id": 4,
         "title": "Logistics & Courier Coordination",
         "description": "Transition seamlessly to the UAE with our trusted global logistics and courier coordination solutions.",
         "url": "#"
       },
       {
-        "id": 5,
+        "id": 2,
         "title": "Document Management & Filing Services",
         "description": "Reclaim time and cost spent filing & storing documents, streamline workflows, and boost productivity.",
         "url": "#"
       },
       {
-        "id": 6,
+        "id": 3,
         "title": "Procurement Support",
         "description": "Optimise your entire value chain, win stakeholder trust, and foster credibility with procurement support.",
         "url": "#"
       },
       {
-        "id": 7,
+        "id": 4,
         "title": "Virtual Receptionist",
         "description": "Build brand and foster long-term loyalty with round-the-clock, custom-tailored virtual receptionist solutions.",
         "url": "#"
       },
       {
-        "id": 8,
+        "id": 5,
         "title": "Mail Management",
         "description": "Ensure you never overlook another vital document or parcel with our secure mail management solutions.",
         "url": "#"
@@ -244,9 +210,46 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Digital Solutions", "url": "#" },
-      { "id": 2, "title": "Event Planning & Management Services", "url": "#" },
-      { "id": 3, "title": "Marketing & Branding", "url": "#" }
+      {
+        "id": 1,
+        "title": "Mail Management",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Virtual Receptionist",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "HR & Recruitment Assistance",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Document Management & Filing Services",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Courier Coordination",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Procurement Support",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Supplier & Vendor Registration Support",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Government Tender Registration Assistance",
+        "url": "#"
+      }
     ]
   },
   "faq": {

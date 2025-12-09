@@ -1,0 +1,314 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/documentManagementAndFilingServices.webp",
+        "title": "Save Time, Reduce Paperwork, & Optimise Operational Efficiency with Innovative UAE Digital Document Management Solutions",
+        "description": "Drowning in paperwork? Lost hours, missed deadlines, and filing chaos slowing your growth? At One Nexuz, we digitize, manage, and organize all your documents in one secure, digital hub. Spend less time searching, more time scaling — reclaim hours every week, reduce clutter, prevent costly mistakes, and grow your UAE-based business  without limits."
+    },
+    "leftSection_1": {
+        "title": "Key Benefits of eDocument Management & Filing Services",
+        "description": "Go paperless, boost operational productivity, and free your team to focus on priority tasks with cutting-edge document management and digital filing services in the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Automate Filing, Streamline Workflows, & Boost Productivity by Nearly 40%",
+                "subTitle": "Automate Filing, Streamline Workflows, & Boost Productivity by Nearly 40%",
+                "description": "Break data silos, collaborate in real-time, and instantly access files with auto-filing, version control, and quick document retrievals —turning every minute saved into meaningful results.",
+                "image": "/assets/documentManagementAndFilingServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Reduce Paperwork, Cut Filing Costs, & Save $80 per Employee Annually",
+                "subTitle": "Reduce Paperwork, Cut Filing Costs, & Save $80 per Employee Annually",
+                "description": "Slash up to 30% of office supply expenses, cut down administrative overheads by 15%+, and reclaim $80 per year to optimise resource allocation and focus on scaling your business to new heights",
+                "image": "/assets/documentManagementAndFilingServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Stop Losing Credibility to Chaos—Digitize Documents and Strengthen Your Brand Image",
+                "subTitle": "Stop Losing Credibility to Chaos—Digitize Documents and Strengthen Your Brand Image",
+                "description": "Win instant trust, build brand credibility, and impress clients and stakeholders with audit-ready, error-free documents, signaling professionalism and reinforcing confidence in every interaction.",
+                "image": "/assets/documentManagementAndFilingServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Secure, Backup, and Monitor Every Document—Safeguard Data Without Slowing Down Operations",
+                "subTitle": "Secure, Backup, and Monitor Every Document—Safeguard Data Without Slowing Down Operations",
+                "description": "Safeguard sensitive business information, disaster-proof your documents, cut costly errors, and ensure your records are 100% safe, organised, and ready whenever you need them",
+                "image": "/assets/documentManagementAndFilingServices/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Document Management & Digital Filing Services in the UAE",
+        "description": "Organise, track, and retrieve all your business documents from one secure hub with our all-in-one document management and filing services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Digitise Documents",
+                "description": "Convert physical files into searchable digital formats, freeing up office space and ensuring instant retrievals."
+            },
+            {
+                "id": 2,
+                "title": "Organise Documents",
+                "description": "Structure, manage, and store all your documents with folders and custom labels, so every file is easy to locate."
+            },
+            {
+                "id": 3,
+                "title": "Secure Storage & Compliance",
+                "description": "Keep all documents protected with encryption and access controls, ensuring confidentiality & compliance."
+            },
+            {
+                "id": 4,
+                "title": "Disaster Recovery & Business Continuity",
+                "description": "Secure confidential data and maintain business momentum with our future-proof solutions."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/documentManagementAndFilingServices/left4/1.webp",
+            "title": "Join the 55% That Work Smarter — Go Paperless with One Nexuz",
+            "description": "Nearly half of small businesses still rely on paper, slowing operations and tying teams in administrative tasks. We simplify your workflow, reduce clutter, and make document retrieval effortless, so you can scale effortlessly.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/documentManagementAndFilingServices/left4/2.webp",
+            "title": "Cut Costs, Not Corners — Custom Digital Filing & Document Management Solutions",
+            "description": "No hidden fees, no unnecessary packages. Get a personalised quote tailored to your filing needs, whether it’s digital archiving or secure cloud storage. Start small or go-big—scale storage or upgrade features as your business grows.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify, Secure, and Scale: Our 5-Steps  to Smarter Document Management",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We start with a discovery call to discuss your business’s document management needs. Our experts will assess your workflows and compliance requirements.",
+                "image": "/assets/documentManagementAndFilingServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Map Out Requirements",
+                "description": "Based on our initial call, we’ll determine which documents you need to digitise, organise, manage, and store to fit your specific business operations.",
+                "image": "/assets/documentManagementAndFilingServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Deploy Custom Solution",
+                "description": "Next, we’ll implement a tailored document management and digital filing system, ensuring your documents are secure and instantly accessible.",
+                "image": "/assets/documentManagementAndFilingServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Review & Refine Workflows",
+                "description": "We don’t stop at deployment! Our experts monitor and review your workflow, improving it to ensure smooth document handling and compliance.",
+                "image": "/assets/documentManagementAndFilingServices/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get 24/7 Customer Support",
+                "description": "Finally, our support team is always available to assist with questions, troubleshooting, or additional guidance, providing you with complete peace of mind.",
+                "image": "/assets/documentManagementAndFilingServices/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for Streamlining Document Management",
+        "description": "Tired of cluttered files, endless searches, and compliance headaches? At One Nexuz, our experts streamline document management and retrieval, so you can focus on growing your business.",
+        "items": [
+            {
+                "title": "Reclaim 2 Hours a Day per Employee",
+                "description": "Cut documentation errors by 70%+, slash retrieval times by over 90%, and free up a quarter of employees’ time with smarter document management.",
+                "image": "/assets/documentManagementAndFilingServices/bgImage/1.webp"
+            },
+            {
+                "title": "Work Anywhere, Anytime",
+                "description": "Access, share, and collaborate on documents, whether you’re in the office, remote, or across the globe, with our round-the-clock document management solutions.",
+                "image": "/assets/documentManagementAndFilingServices/bgImage/2.webp"
+            },
+            {
+                "title": "Ensure Regulatory Compliance",
+                "description": "Protect sensitive information with encrypted storage and audit-ready digital filing, keeping your business 100% compliant and secure.",
+                "image": "/assets/documentManagementAndFilingServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/documentManagementAndFilingServices/grid/1.webp",
+        "title": "Every Lost Paper Costs You Time and Money — We Make Sure Your Records are Always Secure",
+        "description": "With 7.5% of all paper documents getting lost, it’s time to switch to digital filing. Streamline your workflows, save time, and operate smarter with our end-to-end edocument management and filing solutions.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz.",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz transformed our document chaos into a fully organized digital system. Retrieving files is now instant, and we no longer waste time hunting through paperwork.”",
+                "role": "Logistics Company Operations Manager",
+                "image": "/assets/documentManagementAndFilingServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Digitizing all our contracts, invoices, and HR records with One Nexuz made our document handling seamless. The secure filing system keeps everything organized, easy to access, and fully compliant.”",
+                "role": "Construction Firm Procurement Officer ",
+                "image": "/assets/documentManagementAndFilingServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Automating our filing workflows and collaborating on documents across multiple offices has been a game-changer. One Nexuz ensures all files are secure, accessible, and easy to manage in real time.”",
+                "role": "Freelance Tech Startup HR Director",
+                "image": "/assets/documentManagementAndFilingServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Operational Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Protect your business, manage team communication, and impress clients with a custom domain name. ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Never lose another essential business document with secure mail management.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "description": "Build a professional brand image and capture more leads with customised VR services.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "description": "Attract, hire, and retain top talent across the globe with our reliable HR & recruitment solutions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "description": "Simplify global shipments, reduce costly delays, and maintain business operations.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "description": "Minimise operational bottlenecks and optimise your supply chain with expert procurement services.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "description": "Tap into UAE business networks with our seamless supplier and vendor registration solutions.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "description": "Bid for high-value government contracts with our seamless tender registration services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Tired of Lost Files, Wasted Hours, & Missed Opportunities?",
+        "description": "Switch to our secure, cloud-ready document management and digital filing system designed for UAE businesses. No more filing rooms, no more searching through cabinets — just instant, organised access when you need it.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/documentManagementAndFilingServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are document management and digital filing services in the UAE?",
+                "answer": "Document management and digital filing services allow your business to store, organise, retrieve, and share all your business documents electronically."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why does my business need document management and filing services?",
+                "answer": "With expert edocument management and digital filing services, you can minimise overheads, maximise efficiency, reduce overheads, boost document retrieval times, and simplify document management"
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Is my data secure if I store it digitally with One Nexuz?",
+                "answer": "Yes, our experts use end-to-end encryption and advanced access control to protect sensitive business information."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I access my documents remotely?",
+                "answer": "Yes, you can access all your documents securely from any device with an internet connection, allowing teams or individuals to retrieve or upload documents from anywhere."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz handle both Arabic and English documents?",
+                "answer": "Absolutely! Our team supports multilingual document management, empowering you to digitise, index, and retrieve documents in either language."
+            }
+        ]
+    }
+}
