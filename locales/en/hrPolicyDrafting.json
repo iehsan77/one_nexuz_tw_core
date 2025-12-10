@@ -216,42 +216,17 @@
         "items": [
             {
                 "id": 1,
-                "title": "IT Services",
+                "title": "Shareholder Agreement Drafting",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "Mail Management ",
+                "title": "Board Resolution Drafting",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "Virtual Receptionist",
-                "url": "#"
-            },
-            {
-                "id": 4,
-                "title": "Document Management & Filing Services",
-                "url": "#"
-            },
-            {
-                "id": 5,
-                "title": "Logistics & Courier Coordination",
-                "url": "#"
-            },
-            {
-                "id": 6,
-                "title": "Procurement Support",
-                "url": "#"
-            },
-            {
-                "id": 7,
-                "title": "Supplier & Vendor Registration Support",
-                "url": "#"
-            },
-            {
-                "id": 8,
-                "title": "Government Tender Registration Assistance",
+                "title": "Corporate Governance",
                 "url": "#"
             }
         ]

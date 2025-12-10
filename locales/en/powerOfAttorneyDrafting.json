@@ -1,0 +1,269 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/powerOfAttorneyDrafting.webp",
+        "title": "Draft, Notarise, Delegate, & Secure — Unlock End-to-End Power of Attorney Drafting Support",
+        "description": "Missing documents, rejected authorities, unclear powers, and slow legal processes can stall deals and expose you to compliance risks. At One Nexuz, our team of expert lawyers and attorneys draft, notarise, and fully legalise your Power of Attorney, so you can delegate confidenty, close deals faster, and stay fully compliant with complex corporate and regulatory requirements"
+    },
+    "leftSection_1": {
+        "title": "Why Expats Need Expert Power of Attorney Attestation in Dubai, UAE",
+        "description": "Over 70% of UAE expats need a POA to manage property or business. Stay in control, simplify transactions, and prevent legal complications with professionally drafted Power of Attorneys.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Prevent Misuse, Eliminate Confusion, & Secure Your Interests Hassle-Free",
+                "subTitle": "Prevent Misuse, Eliminate Confusion, & Secure Your Interests Hassle-Free",
+                "description": "Avoid costly disagreements, legal disputes, and lengthy jurisdictional fights with clearly defined powers and responsibilities, securing your business.",
+                "image": "/assets/powerOfAttorneyDrafting/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Protect Your Family, Delegate Responsibly, & Reduce Stress Effortlessly  ",
+                "subTitle": "Protect Your Family, Delegate Responsibly, & Reduce Stress Effortlessly  ",
+                "description": "Ensure your loved ones are taken care of when you’re overseas with a POA granting trusted authority to manage legal, medical, or travel matters",
+                "image": "/assets/powerOfAttorneyDrafting/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Manage Accounts, Handle Transactions, & Get Full Control of Your Business Finances",
+                "subTitle": "Manage Accounts, Handle Transactions, & Get Full Control of Your Business Finances",
+                "description": "Streamline transactions, safeguard your business assets, and multiply your wealth from across the globe with clearly defined powers in a POA.",
+                "image": "/assets/powerOfAttorneyDrafting/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Explore Our End-to-End Power of Attorney Services",
+        "description": "Manage your personal, business, and legal matters from anywhere with our legally sound Power of Attorney solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/1.svg",
+                "title": "General POA"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/2.svg",
+                "title": "Vehicle POA"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/3.svg",
+                "title": "Company POA"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/4.svg",
+                "title": "Property POA"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/5.svg",
+                "title": "Business POA"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/powerOfAttorneyDrafting/iconTitleSec/6.svg",
+                "title": "Family POA"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/powerOfAttorneyDrafting/left4/1.webp",
+            "title": "Clear. Accurate. Legally Sound — Pricing That Puts You in Control",
+            "description": "No inflated bundles, no hidden charges. Just clear, flexible pricing that reflects your Power of Attorney needs in the UAE —nothing more, nothing less.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Draft & Safeguard Your Power of Attorney with Our 4 Step Solution",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We’ll schedule a no-obligations call to discuss your POA needs and the necessary documents, ensuring your POA is accurate, tailored, and compliant from the start.",
+                "image": "/assets/powerOfAttorneyDrafting/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Draft & Review Your POA",
+                "description": "Based on the initial discussion, our legal experts draft your POA and guide you through any revisions, ensuring the document covers all powers clearly and legally.",
+                "image": "/assets/powerOfAttorneyDrafting/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Notarisation & Attestation",
+                "description": "Next, our experts assist with notarization and attestation, ensuring your POA is officially recognized and minimising delays or rejected documents.",
+                "image": "/assets/powerOfAttorneyDrafting/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Enjoy Complete Peace of Mind",
+                "description": "Finally, you’ll receive your completed POA securely, digitally or physically. Enjoy full confidence knowing your affairs, assets, and loved ones are legally protected.",
+                "image": "/assets/powerOfAttorneyDrafting/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz for Expert Power of Attorney Attestation Services in Dubai",
+        "description": "Skip costly errrors, unnecessary delays, and legal headaches with our team of professional legal consultants. With One Nexuz, you enjoy accuracy, compliance, and peace of mind, every time.",
+        "items": [
+            {
+                "title": "Secure Your POA 50% Faster",
+                "description": "From initial consultation to final draft, we streamline the entire process, empowering you with a fully compliant POA in half the time.",
+                "image": "/assets/powerOfAttorneyDrafting/bgImage/1.webp"
+            },
+            {
+                "title": "Get Custom-Built POA Drafts",
+                "description": "Each POA is tailored to your situation, whether property, business, travel, or family matters, so your powers are clearly defined and legally enforceable",
+                "image": "/assets/powerOfAttorneyDrafting/bgImage/2.webp"
+            },
+            {
+                "title": "Ensure Confidentiality & Security",
+                "description": "Gain complete peace of mind knowing your personal and legal information is treated with utmost security, using encrypted storage and strict access protocols.",
+                "image": "/assets/powerOfAttorneyDrafting/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/powerOfAttorneyDrafting/grid/1.webp",
+        "title": "Remote-Ready Business Management with Our Expert POA",
+        "description": "Manage assets, licensing, and legal tasks anywhere, anytime to avoid delays, missed deadlines, and operational roadblocks — fast, legal, and worry-free.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The team handled my POA quickly and professionally. Everything was accurate, compliant, and hassle-free.”",
+                "role": "Tech Company Business Owner",
+                "image": "/assets/powerOfAttorneyDrafting/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They made the entire attestation process effortless while I was abroad. I knew my affairs were in safe hands.”",
+                "role": "Real Estate Investor",
+                "image": "/assets/powerOfAttorneyDrafting/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Fast, reliable, and precise service. I could trust them to manage all legal details without any stress.”",
+                "role": "Fashion Boutique Owner",
+                "image": "/assets/powerOfAttorneyDrafting/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Never Miss a Business Opportunity Again?",
+        "description": "With a POA in place, agents act on your behalf immediately — avoiding delays, legal hurdles, and missed opportunities. At One Nexuz, our experts empower you with legally sound drafts, ensuring your approvals and licensing move forward seamlessly.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/powerOfAttorneyDrafting/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a Power of Attorney (POA)?",
+                "answer": "A POA is a legal document that grants someone you trust the authority to act on your behalf for property, business, or personal matters, ensuring your affairs are handled even when you’re unavailable."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What types of POA can I get?",
+                "answer": "We draft UAE-compliant General POAs, Property POAs, Business POAs, Vehicle POAs, and Family/Child POAs, each tailored to your specific needs."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Why do I need a POA in Dubai?",
+                "answer": "A POA simplifies property, financial, and legal transactions, prevents delays, and ensures your assets and interests are legally protected, especially if you’re abroad."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does the POA drafting process take?",
+                "answer": "Most standard POAs are drafted within 2–3 business hours, with revisions included, so you get a legally sound document quickly."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What documents do I need to provide?",
+                "answer": "Typically, we need identification documents (passport or Emirates ID), details of the principal and agent, and transaction-specific information, depending on the POA type."
+            }
+        ]
+    }
+}

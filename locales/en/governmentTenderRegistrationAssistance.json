@@ -1,0 +1,318 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/governmentTenderRegistrationAssistance.webp",
+        "title": "Register, Comply, Bid, & Grow — Get Full 360° Support with Our All-in-One Government Tender Registration Solutions",
+        "description": "One missed document can cost you a million-dirham contract. One Nexuz makes sure you never lose on a technicality. From compliance checks to document submission and platform registration, our experts help you cut through the red tape, eliminate errors, and navigate registration complexities with confidence. No stress, no bottlenecks— just a fast, frictionless entry into the UAE’s thriving government tender ecosystem."
+    },
+    "leftSection_1": {
+        "title": "Why Your Business Needs Professional Government Tender Registration Support  ",
+        "description": "Become tender-ready faster, improve approval rates, maximise eligibility, and drive limitless business growth with professional government tender and procurement registration solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Improve Visibility, Maximise Tender Reach, and Increase Winning Chances",
+                "subTitle": "Improve Visibility, Maximise Tender Reach, and Increase Winning Chances",
+                "description": "Stay ahead of the curve, bid for lucrative government contracts, and unlock 50%+ more opportunities with accurate classifications, licenses, and certifications.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Accelerate Tender Approvals, Reduce Waiting Time, and Maximize Revenue Potential",
+                "subTitle": "Accelerate Tender Approvals, Reduce Waiting Time, and Maximize Revenue Potential",
+                "description": "Cut resubmissions by over 70%, gain instant access to live tenders, and shorten your time-to-market to improve your bottom line and realise revenue faster.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Cut resubmissions by over 70%, gain instant access to live tenders, and shorten your time-to-market to improve your bottom line and realise revenue faster.",
+                "subTitle": "Cut resubmissions by over 70%, gain instant access to live tenders, and shorten your time-to-market to improve your bottom line and realise revenue faster.",
+                "description": "Reclaim 40+ hours per month, slash admin costs, and empower your team to focus on strategy, sales, and winning government contracts.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "From Missed Deadlines to Total Compliance—Stay Protected Across All Portals",
+                "subTitle": "From Missed Deadlines to Total Compliance—Stay Protected Across All Portals",
+                "description": "Avoid costly fines and penalties, minimise the risk of disqualifications, and ensure compliance with timely updates and renewals.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "End-to-End Support to Get Tender-Ready & Win More Contracts ",
+        "description": "Fast-track approvals, maximise eligibility, and transform registration into measurable results with complete registration support.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Multi-Portal Registration",
+                "description": "Get registered across government, semi-government, and private portals to expand your reach and uncover more opportunities.  "
+            },
+            {
+                "id": 2,
+                "title": "Document Preparation & Compliance ",
+                "description": "Ensure all licenses, certifications, and financial documents are 100% compliant to secure first-time approvals."
+            },
+            {
+                "id": 3,
+                "title": "Tender Classification & Eligibility ",
+                "description": "Connect with more relevant tenders and win high-value contracts with accurate tender classifications."
+            },
+            {
+                "id": 4,
+                "title": "Application Submission & Tracking ",
+                "description": "Submit applications on time, track approvals in real-time, and minimise administrative burden."
+            },
+            {
+                "id": 5,
+                "title": "Renewal & Compliance Monitoring ",
+                "description": "Stay on top of renewals and updates to maintain uninterrupted eligibility and avoid penalties. "
+            },
+            {
+                "id": 6,
+                "title": "Expert Guidance & Support ",
+                "description": "Receive personalised guidance through every step for a hassle-free registration process"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/governmentTenderRegistrationAssistance/left4/1.webp",
+            "title": "Unlock Your Share of AED 40 B+ in Government Contracts with One Nexuz",
+            "description": "Get registered on all key government tender portals — and position your business to bid on multi‑billion‑dirham contracts without hassle or delays.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/governmentTenderRegistrationAssistance/left4/2.webp",
+            "title": "Transparent Pricing, Clear Timelines—Get Pricing That Fits Your Needs ",
+            "description": "No fixed packages, no hidden charges. Get a custom quote based on the exact registration and documentation support your business requires.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 5 Step Process to Help You Access, Approve, & Win Top Government Contracts ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Consultation & Requirement Assessment",
+                "description": "We’ll schedule a no-obligations call to analyse your business, licenses, and tender goals to create a tailored registration plan.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Document Preparation & Verification",
+                "description": "Next, our experts will prepare and verify all necessary licenses, certifications, and financial documents to ensure complete compliance.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Portal Registration & Classification",
+                "description": "With verified documents, your business is registered across relevant government, semi-government, and private portals to maximize tender eligibility.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Application Submission & Tracking",
+                "description": "Applications are then submitted on your behalf, with real-time tracking to keep approvals on schedule and processes hassle-free.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Renewal Monitoring & Ongoing Support ",
+                "description": "Finally, our experts monitor your renewals and compliance to ensure uninterrupted eligibility, keeping your business tender-ready at all times.",
+                "image": "/assets/governmentTenderRegistrationAssistance/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for Reliable Government Tender Registration ",
+        "description": "No more chasing portals, navigating endless paperwork, or deciphering intricate compliance requirements. At One Nexuz, our experts manage every step, giving you a complete, stress-free tender registration and onboarding experience.  ",
+        "items": [
+            {
+                "title": "Seamless Tender Registration",
+                "description": "Slash registration times by over 85% with our specialists guiding you every step of the way, from documentation to classification and approvals.",
+                "image": "/assets/governmentTenderRegistrationAssistance/bgImage/1.webp"
+            },
+            {
+                "title": "All-in-One Registration Solutions ",
+                "description": "Access government, semi-government, and private sector portals without navigating separate systems or juggling multiple service providers.",
+                "image": "/assets/governmentTenderRegistrationAssistance/bgImage/2.webp"
+            },
+            {
+                "title": "Faster Approvals, Fewer Rejections  ",
+                "description": "Prevent costly errors, lengthy approval times, and unnecessary delays with our specialists, empowering you to secure approvals on the very first submission. ",
+                "image": "/assets/governmentTenderRegistrationAssistance/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/governmentTenderRegistrationAssistance/grid/1.webp",
+        "title": "SMEs Secured AED 88.6 M in First 6 Months — Why Not Yours?",
+        "description": "With One Nexuz handling your registration, you can get into the running for government procurement deals—fast, hassle-free, and fully compliant.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "With One Nexuz, we were able to register across multiple government portals in record tim e. The process was seamless, and our tender approvals increased significantly.",
+                "role": "Manufacturing Company Operations Manager",
+                "image": "/assets/governmentTenderRegistrationAssistance/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "The team handled all the compliance and document preparation for us. We can now focus on winning contracts instead of worrying about registrations.",
+                "role": "IT Services Company CEO",
+                "image": "/assets/governmentTenderRegistrationAssistance/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Thanks to One Nexuz, our eligibility for tenders expanded dramatically. Their support made it easy to participate in multiple opportunities without delays or errors.",
+                "role": "Construction & Contracting Procurement Head ",
+                "image": "/assets/governmentTenderRegistrationAssistance/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore All Our Operational Services to Optimise Your Business Efficiency                     ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Establish a scalable IT infrastructure and troubleshoot tech issues before they snowball.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Streamline incoming and outgoing mail and ensure you never lose another document. ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist ",
+                "description": "Provide professional call handling and client support without incurring sky-high costs.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "description": "Build brand and foster long-term loyalty with round-the-clock, custom-tailored virtual receptionist solutions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "description": "Ensure timely delivery and smooth logistics operations with end-to-end logistics solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "description": "Simplify sourcing and purchasing, cut costs, and win supplier trust with expert support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration",
+                "description": "Get suppliers and vendors fully registered for smooth procurement and tender participation.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Unlock More Tender Opportunities?",
+        "description": "With One Nexuz, get registered, stay compliant, and access more government, semi-government, and private sector tenders faster than ever—turning every opportunity into measurable business growth.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/governmentTenderRegistrationAssistance/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is government tender registration?",
+                "answer": "Government tender registration is the process of verifying and listing your business to participate in government, semi-government, and private sector tenders."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who needs government tender registration?",
+                "answer": "Any business aiming to participate in government contracts, whether SMEs, startups, manufacturers, suppliers, or contractors."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does the registration process take?",
+                "answer": "The timeline depends on document readiness and portal requirements, but with expert assistance, most businesses can become tender-ready in 5–20 days, significantly faster than the DIY approach."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents are required for registration?",
+                "answer": "Typical requirements include business licenses, trade certificates, financial statements, tax registration, and other compliance documents. Exact requirements vary by portal and business category."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help with multiple portals at once?",
+                "answer": "Yes. One Nexuz provides an all-in-one solution for government, semi-government, and private sector portals, ensuring your business is registered and classified correctly across all relevant platforms."
+            }
+        ]
+    }
+}

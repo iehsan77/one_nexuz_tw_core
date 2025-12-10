@@ -1,0 +1,313 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/travelAndVisaSupportForExecutives.webp",
+        "title": "Plan, Travel, & Relocate — Get Full 360° Executive Travel & Relocation Support with Our Expert Corporate Travel Service",
+        "description": "Every minute spent on travel paperwork is a minute lost in business. But when you partner with the best visa agency in Dubai, you get hassle-free travel in 120+ countries. Unlock seamless flight, hotel, and visa coordination, wave goodbye to last-minute travel stress, boost executive productivity by 25%, and ensure 100% compliance with the UAE’s dynamic immigration laws with our holistic corporate travel and visa solutions."
+    },
+    "leftSection_1": {
+        "title": "Why UAE Entrepreneurs Need Professional Corporate Travel Assistance",
+        "description": "Without expert business travel service, you risk denied entries, expensive delays, and costly errors. By outsourcing to the pros, you can simplify bookings, airport services, and relocation to the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Automate Tasks, Manage Operations, and Boost Productivity Across Your Entire Team",
+                "subTitle": "Automate Tasks, Manage Operations, and Boost Productivity Across Your Entire Team",
+                "description": "Reclaim 25% of your team's productivity with cutting-edge business process management software, empowering you to automate repetitive tasks, combat costly errors, and boost workplace efficiency.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unify, Automate, and Save — Maximize Efficiency Without Losing Control",
+                "subTitle": "Unify, Automate, and Save — Maximize Efficiency Without Losing Control",
+                "description": "Consolidate limitless tools into a single, integrated platform to slash operational costs by 30%+ and maximize your ROI. No more paying for overlapping software or wasting hours switching between apps!",
+                "image": "/assets/travelAndVisaSupportForExecutives/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Monitor Performance, Spot Opportunities, and Optimize for Maximum Growth",
+                "subTitle": "Monitor Performance, Spot Opportunities, and Optimize for Maximum Growth",
+                "description": "Unlock real-time insights on leads, sales, traffic, and campaigns without juggling multiple tools to empower data-driven decision-making, spot lucrative growth opportunities, and close deals smarter.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Strengthen Your Brand Identity, Automate Outreach, & Increase Customer Retention",
+                "subTitle": "Strengthen Your Brand Identity, Automate Outreach, & Increase Customer Retention",
+                "description": "Build a professional brand image, deliver unmatched customer experiences, auto-send follow-ups & reminders, and foster customer loyalty with a smart, scalable business management platform.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Plug-and-Play Solutions to Launch Smarter, Scale Faster, & Earn More",
+        "description": "Transform your business operations with our industry-specific business management systems built to streamline workflows, accelerate growth, and boost ROI by 30%+.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Brokerify",
+                "description": "Launch your brokerage business, organize all your bookings, and gain insightful analytics to close deals faster and smarter.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Commercify",
+                "description": "Build, manage, and scale your eCommerce store with ease. Streamline listings, inventory, and digital campaigns from a single platform.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Developify",
+                "description": "Grow your portfolio, maximize occupancy, and manage all your rental development projects from a single, integrated hub.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Rentify",
+                "description": "From bookings and payments to client management and real-time performance insights, run your entire rental business and maximize revenue.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Rentify",
+                "description": "From bookings and payments to client management and real-time performance insights, run your entire rental business and maximize revenue.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/travelAndVisaSupportForExecutives/left4/1.webp",
+            "title": "One Nexuz Ensures You Never Miss a Meeting, Deal, or Deadline",
+            "description": "Streamline embassy coordination, cut wasted hours, and reduce travel costs with our seamless visa and travel management services.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/travelAndVisaSupportForExecutives/left4/2.webp",
+            "title": "Discover Our Executive Travel & Visa Solution Plans Tailored to Your Needs",
+            "description": "Get a clear breakdown of your executive visa and travel support fees- no surprise add-ons or hidden charges. Pay only for the services you need to enjoy fast, fully compliant, and hassle-free processing.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Unlock the Best Travel Assistance in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Discuss Your Travel Needs",
+                "description": "We’ll schedule a free consultation to discuss where you’re headed, how long you plan to stay, and your travel requirements.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Secure Initial Approvals",
+                "description": "Next, we’ll handle all the embassy coordination to streamline the visa process, so you don’t waste a single second on bureaucracy.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Map Out an Itinerary",
+                "description": "Based on your needs, we’ll book flights, hotels, and ground transport, syncing everything into your work schedule.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get 24/7 Travel Support",
+                "description": "Lastly, our expert PRO specialists offer round-the-clock customer help if plans change, flights delay, or emergencies strike.",
+                "image": "/assets/travelAndVisaSupportForExecutives/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for Expert UAE Travel & Visa Customer Service",
+        "description": "Secure fast approvals, proactive travel support, and end-to-end visa processing with our team of seasoned PRO agents and consultants.",
+        "items": [
+            {
+                "title": "Get Tailored Immigration & Travel Solutions",
+                "description": "Our skilled PRO specialists offer comprehensive visa, passport, and attestation services custom-designed to meet the unique needs of your selected country.",
+                "image": "/assets/travelAndVisaSupportForExecutives/bgImage/1.webp"
+            },
+            {
+                "title": "Slash Processing Times by 30+ Hours",
+                "description": "Shave off days from your visa application process by streamlining all the paperwork. Secure approvals in as little as 48 hours with priority handling.",
+                "image": "/assets/travelAndVisaSupportForExecutives/bgImage/2.webp"
+            },
+            {
+                "title": "Receive Transparent Pricing",
+                "description": "Plan your business travel confidently with clear pricing and upfront timelines- no hidden fees, costly upsells, or last-minute surprises.",
+                "image": "/assets/travelAndVisaSupportForExecutives/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/travelAndVisaSupportForExecutives/grid/1.webp",
+        "title": "Your Gateway to 120+ Countries With Our Hassle-Free Visa Support",
+        "description": "We simplify international business travel, ensuring your team moves across borders with zero friction. Spend more time leading and less time waiting with our end-to-end visa and travel solutions.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Our executives travel across multiple regions every month, and this service has completely removed the stress of managing flights, visas, and last-minute changes. We’ve saved countless hours and our team is more productive than ever.",
+                "role": "Technology Firm HR Director",
+                "image": "/assets/travelAndVisaSupportForExecutives/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Partnering with them has been a game-changer. From urgent visa approvals to seamless hotel and flight coordination, everything is handled with precision. Easily the most reliable travel support we’ve experienced in the UAE.",
+                "role": "Finance Firm COO",
+                "image": "/assets/travelAndVisaSupportForExecutives/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "As a fast-growing company, we needed a partner who could keep up with our pace. They not only ensured compliance with UAE visa regulations but also made every trip for our team effortless and stress-free.",
+                "role": "Consulting Industry Managing Partner",
+                "image": "/assets/travelAndVisaSupportForExecutives/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Drive Business Success with Our Expert Business Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration Support",
+                "description": "Save millions of dirhams on VAT with end-to-end company car registration support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Win investor trust, secure funding, and beat the odds with tailored business plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Create a lasting first impression and foster client trust with top-notch meeting rooms.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration",
+                "description": "Import and export within and beyond the UAE with an FTA-compliant IEC code.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "description": "Uncover lucrative business opportunities and validate product/service ideas confidently",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee Services",
+                "description": "Preserve your privacy while maintaining full operational control with expert nominee solutions.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Streamline your UAE business setup with trusted local sponsors, esuring compliance.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner Services",
+                "description": "Navigate the UAE market efficiently and expand UAE-wide with reliable local agents.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready for Stress-Free Global Travel?",
+        "description": "Skip endless queues, paperwork chaos, and government follow-ups with end-to-end travel and visa management solutions. We do all the legwork, so your teams can cross borders with confidence and focus on growth.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/travelAndVisaSupportForExecutives/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What do executive travel and visa support solutions include?",
+                "answer": "Our travel and visa support solutions encompass visa applications, renewals, compliance checks, and end-to-end travel management."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can you support entire teams or just individual executives?",
+                "answer": "Both! Whether you’re a single C-level executive or managing an entire workforce, we customise our services to fit your unique needs."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can One Nexuz handle urgent or last-minute travel request?",
+                "answer": "Yes, our certified AML experts can assist you in creating and implementing an internal AML compliance infrastructure tailored to your unique industry needs."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do you provide global travel and visa support?",
+                "answer": "Yes, our network spans 100+ countries, giving you reliable visa and travel support, no matter where business takes you."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Is my personal and company information secure with One Nexuz?",
+                "answer": "Yes, we use enterprise-grade security and comply with international privacy regulations to ensure all your sensitive day is fully protected."
+            }
+        ]
+    }
+}

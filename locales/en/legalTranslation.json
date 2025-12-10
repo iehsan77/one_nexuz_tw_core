@@ -1,0 +1,269 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/legalTranslation.webp",
+        "title": "From Contracts to Compliance — Launch, Expand, & Protect Your Business with Our Reliable Legal Translation Services",
+        "description": "Over 55% of UAE entrepreneurs work cross-border, yet one misinterpreted contract or translation errors can turn opportunity into costly disputes. Stop losing clients to miscommunication and legal errors with our precise, MOJ-approved legal translations tailored to the UAE’s complex regulatory environment. Gain complete peace of mind, fast-track approvals, and scale, stress-free!"
+    },
+    "leftSection_1": {
+        "title": "Simplify Paperwork, Unlock Global Opportunities, & Grow Your Business with Legal Translation ",
+        "description": "Protect your business, speed up approvals, and avoid compliance headaches with expert legal translation services in the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Win Client Confidence, Collaborate Seamlessly, & Grow Your Business",
+                "subTitle": "Win Client Confidence, Collaborate Seamlessly, & Grow Your Business",
+                "description": "Build instant trust and credibility with certified translations, signalling professionalism and reliable, streamlining government and court approvals.",
+                "image": "/assets/legalTranslation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Avoid Fines, Prevent Delays, and Stay 100% Compliant With Legally Accurate Translations",
+                "subTitle": "Avoid Fines, Prevent Delays, and Stay 100% Compliant With Legally Accurate Translations",
+                "description": "Save AED 1,000+ in hefty fines, costly errors, and lost time with compliant, error-free legal translations, helping you stay fully aligned.",
+                "image": "/assets/legalTranslation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "From Local Documents to Global Opportunities — Expand Your Business Confidently ",
+                "subTitle": "From Local Documents to Global Opportunities — Expand Your Business Confidently ",
+                "description": "Tap into a 2.2B+ customer base across the Emirates and beyond with multilingual legal translations, simplifying cross-border communication.",
+                "image": "/assets/legalTranslation/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Secure Your Business Success with Our Holistic Legal Translation Services ",
+        "description": "Streamline your UAE paperwork, slash approval times, and avoid rejections with our all-in-one legal translation solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/legalTranslation/iconTitleSec/1.svg",
+                "title": "Business & Corporate Documents "
+            },
+            {
+                "id": 2,
+                "icon": "/assets/legalTranslation/iconTitleSec/2.svg",
+                "title": "Government & Authority Documents "
+            },
+            {
+                "id": 3,
+                "icon": "/assets/legalTranslation/iconTitleSec/3.svg",
+                "title": "Personal & Freelance Documents "
+            },
+            {
+                "id": 4,
+                "icon": "/assets/legalTranslation/iconTitleSec/4.svg",
+                "title": "Financial & Legal Records"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/legalTranslation/iconTitleSec/5.svg",
+                "title": "Intellectual Property & Contracts "
+            },
+            {
+                "id": 6,
+                "icon": "/assets/legalTranslation/iconTitleSec/6.svg",
+                "title": "Multi-Language & Specialised Translations "
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/legalTranslation/left4/1.webp",
+            "title": "Accurate. Transparent. Scalable. — Get a Quote That Fits Your Needs!",
+            "description": "No hidden fees, no unnecessary extras. Pay only for the documents and languages you need—scale up anytime as your business grows.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Translate & Certify Your Legal Documents in 4 Simple Steps ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Upload Your Documents ",
+                "description": "We’ll schedule a free consultation to discuss your legal translation needs. Next, we’ll ask you to submit the necessary documents.",
+                "image": "/assets/legalTranslation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Review & Confirm Requirements",
+                "description": "Next, our experts check your documents against UAE authority standards and confirm translation and certification needs. ",
+                "image": "/assets/legalTranslation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Translate & Certify Your Documents ",
+                "description": "Our certified translators convert your documents accurately, following all legal and regulatory requirements for MOJ & other authorities.",
+                "image": "/assets/legalTranslation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Deliver Approval-Ready Documents ",
+                "description": "Finally, you’ll receive your legally compliant, fully certified translations, ready for submission to government bodies, courts, or business partners.",
+                "image": "/assets/legalTranslation/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Business Owners Trust Our UAE Legal Translation Services ",
+        "description": "Minimise the risk of costly delays, translation errors, and rejections from stalling your business growth with our professional legal translation services in Dubai and beyond.",
+        "items": [
+            {
+                "title": "MOJ-Certified Translators ",
+                "description": "With a decade of experience, our certified legal translators empower you with audit-ready, error-free, and 100% compliant documents.",
+                "image": "/assets/legalTranslation/bgImage/1.webp"
+            },
+            {
+                "title": "Fast, Reliable, & Trustworthy ",
+                "description": "Enjoy quick turn-around times and complete peace of mind, knowing your legal and business documents are secure and encrypted",
+                "image": "/assets/legalTranslation/bgImage/2.webp"
+            },
+            {
+                "title": "All-in-One Document Translation",
+                "description": "From contract and shareholder agreements to visa, MOAs, and diplomas, we handle every type of document, so you don’t have to juggle multiple providers. ",
+                "image": "/assets/legalTranslation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/legalTranslation/grid/1.webp",
+        "title": "Unlock New Markets & Amplify Your Revenue with Our Legal Translations ",
+        "description": "Expand across the Emirates, capitalise on lucrative global markets, and unlock sustainable business success with our 100% compliant & credible translations.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Their certified translations made registering my startup in Dubai smooth and worry-free. I didn’t have to chase approvals or worry about compliance.”",
+                "role": "Educational Consultancy Operations Manager",
+                "image": "/assets/legalTranslation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I needed my freelance visa documents translated accurately and quickly. The team delivered everything on time, saving me days of processing.”",
+                "role": "Freelance Graphic Designer ",
+                "image": "/assets/legalTranslation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From contracts to official certifications, their legal translation service ensured our company’s documents were fully compliant with UAE authorities.”",
+                "role": "Import & Export Business Operations Manager ",
+                "image": "/assets/legalTranslation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Why Risk Your UAE Business Application Over a Single Translation Mistake?",
+        "description": "Get fast, certified, and fully attested Arabic translations with One Nexuz- your trusted legal translation company in the UAE. From visas and licenses right down to diplomas and bank documents, we ensure every submission is approved the first time.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/legalTranslation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are legal translation services in the UAE?",
+                "answer": "Legal translation services involve converting official, legal, and business documents from one language to another while ensuring accuracy, compliance with UAE authorities, and certification where required."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I translate my legal and business documents on my own?",
+                "answer": "rejected"
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Why do I need legal translation services in the UAE?",
+                "answer": "Why do I need legal translation services in the UAE?"
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does legal translation take?",
+                "answer": "Turnaround times vary depending on document type, length, and certification requirements. Standard translations typically take 1–3 business days, while urgent or multi-page documents can be delivered within 24 hours."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How do I know my documents will remain confidential?",
+                "answer": "All documents are handled securely with strict data protection protocols, including encrypted submissions, secure storage, and limited access to authorized translators."
+            }
+        ]
+    }
+}
