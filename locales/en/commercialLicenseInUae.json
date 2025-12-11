@@ -1,0 +1,331 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today  ",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/commercialLicenseInUae.webp",
+        "title": "Trade Confidently with a Commercial License in the UAE",
+        "description": "Launch your retail store or scale your e-commerce in the UAE with a commercial license, empowering you to trade across borders and build a fully compliant business in the UAE. Our expert consultants streamline everything, from the attestation to approvals, so you never have to worry about paperwork or delays again."
+    },
+    "leftSection_1": {
+        "title": "What is a Commercial License in the UAE & Why Does It Matter?",
+        "description": "Engage in diverse commercial activities, from trading and distribution to retail. With a commercial license, you can operate locally, import & export goods, or sell online- all without risking compliance.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Local & Global Markets",
+                "subTitle": "Access Local & Global Markets",
+                "description": "Enjoy the flexibility to sell and purchase top-notch products locally and internationally, whether you’re running a brick-and-mortar or an online shop.",
+                "image": "/assets/commercialLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enjoy Exciting Tax Benefits",
+                "subTitle": "Enjoy Exciting Tax Benefits",
+                "description": "Maintain complete control of your business and retain full decision-making power. Grow your profit margins with 0% corporate tax and 100% capital repatriation requirements.",
+                "image": "/assets/commercialLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Boost Brand Trust & Credibility",
+                "subTitle": "Boost Brand Trust & Credibility",
+                "description": "Stand out and build instant trust with a professional commercial license, signaling that your business meets the country’s stringent regulatory standards.",
+                "image": "/assets/commercialLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Sponsor Opportunities",
+                "subTitle": "Unlock Sponsor Opportunities",
+                "description": "Apply for UAE residence visas under a commercial license and gain access to local facilities, including medical, banking, and leasing services.",
+                "image": "/assets/commercialLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Approved Commercial License Activities in Dubai",
+        "description": "Open doors to retail, wholesale, and import-export operations in one of the world’s fastest-growing markets by bundling the following business activities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Retail & E-commerce",
+                "description": "Tap into the UAE’s lucrative local and global markets with high-quality physical products",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Import & Export",
+                "description": "Trade consumer goods, from food and clothing to electronics and automotive, fully compliant.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Building Materials",
+                "description": "Sell, purchase, and supply construction materials, machinery, or industrial tools across the UAE markets.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Food & Beverage Trading",
+                "description": "mport and export wholesale packaged foods, perishables, and beverages",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Automotive & Spare Parts",
+                "description": "Buy, sell, or trade vehicles, spare parts, tires, and accessories in retail or wholesale.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Medical Supplies & Pharma",
+                "description": "Distribute licensed pharmaceuticals, medical equipment, and healthcare supplies 100% compliant.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Jewellery & Precious Metals",
+                "description": "Import or export gold, diamonds, handicrafts, and other fine jewellery across highly regulated B2B and B2C channels.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Office & IT Products",
+                "description": "Trade and sell electronics, computers, accessories, and corporate tech solutions in-store or digitally.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/commercialLicenseInUae/left4/1.webp",
+            "title": "Tap Into One of the Fastest-Growing Trade Hubs in the World",
+            "description": "The UAE’s commercial sector is booming. With the right license, you can import, export, and sell across borders with zero restrictions. Our experts guide you through every step so you can go live in days, not weeks.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/commercialLicenseInUae/left4/2.webp",
+            "title": "Smart Commercial Licensing Solutions that Protect Your Budget",
+            "description": "Smart Commercial Licensing Solutions that Protect Your Budget Flexible licensing, clear costs, zero guesswork. Get the licensing services your company needs tailored to your growth in the UAE. Start with exactly what you need today and expand seamlessly as your business evolves.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get a Commercial License in Dubai in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule Your Consultation",
+                "description": "Our experts take the time to understand your business goals to suggest the ideal jurisdiction, license type, and structure.",
+                "image": "/assets/commercialLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Reserve Your Trade Name",
+                "description": "Next, we help you secure a unique and DED-compliant trade name that aligns with your brand values.",
+                "image": "/assets/commercialLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Compile All Documents",
+                "description": "We assist in collecting, preparing, and submitting all necessary documents, including medical tests and application forms.",
+                "image": "/assets/commercialLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Pay Your Licensing Fees",
+                "description": "Our advisors present you with a transparent cost breakdown and manage the payment process directly- no markups",
+                "image": "/assets/commercialLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Your Trade License",
+                "description": "Once approved, your official UAE commercial trade license is issued, allowing you to legally start operations, hire staff, and open your bank account.",
+                "image": "/assets/commercialLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Speedy Licensing",
+        "description": "Incorrect documents, mismatched trade names, or choosing the wrong commercial activity can stall your commercial license application process. Our dedicated business consultants ensure everything is done right the first time —fast, compliant, and approved.",
+        "items": [
+            {
+                "title": "Cut Delays and Go Live Sooner",
+                "description": "Obtain your license within 5-10 working days with our seamless setup process and direct government coordination.",
+                "image": "/assets/commercialLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Get Transparent, All-Inclusive Pricing",
+                "description": "No hidden fees or surprise charges. We provide clear quotes, so you know exactly what you’re paying for.",
+                "image": "/assets/commercialLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Receive Personalised Guidance",
+                "description": "We connect you with a dedicated setup consultant who manages your process end-to-end, keeping you updated from start to finish.",
+                "image": "/assets/commercialLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/commercialLicenseInUae/grid/1.webp",
+        "title": "Avoid Losing Millions in Fines. Start Fully Compliant.",
+        "description": "Operating without a proper license in the UAE can result in heavy penalties. We ensure you're compliant from day one — with the right commercial activity, approvals, and registration.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "We got our commercial license in just four days—with zero back-and-forth. Their team handled everything so we could focus on launching.",
+                "role": "E-commerce Fashion Brand Founder",
+                "image": "/assets/commercialLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "As a first-time business owner in the UAE, I had no idea where to start. Their consultants walked me through every step, and the process was faster than I expected.",
+                "role": "Home Appliances Trading Company Owner",
+                "image": "/assets/commercialLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "What stood out most was the transparency. No hidden fees, no vague timelines—just solid advice and smooth execution from day one.",
+                "role": "Logistics Startup Co-Founder",
+                "image": "/assets/commercialLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore More License Options in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "rypto & Web3 License",
+                "description": "Build, diversify, and preserve your virtual assets portfolio with a crypto license.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Build brand credibility and tap into global markets with a UAE e-commerce license.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Event License",
+                "description": "Polish your skillset and serve clients worldwide with a recognised",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Freelancer Permit",
+                "description": "Polish your skillset and serve clients worldwide with a recognised freelancer permit.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Industrial License",
+                "description": "Launch a manufacturing unit or large-scale production with 100% legal backing,",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Real Estate License",
+                "description": "Buy, sell, rent, and lease lucrative properties across the UAE with a recognised license.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dual License",
+                "description": "Expand your reach across the UAE mainland and tap into fast-growing local markets with a dual license.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Launch Faster, Trade Smarter with a Commercial License",
+        "description": "Stop wasting time researching and second-guessing your licensing selection. We connect you with dedicated business consultants, simplifying the setup process with 100% compliance, so you can go live with full confidence.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/commercialLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Real Estate License",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Professional License",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Crypto & Web3 License",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Event License",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "E-commerce License",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Freelance Permit",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to register a commercial license in Dubai, UAE?",
+                "answer": "Most commercial licenses require 5-10 working days, depending on your location and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to secure an office space?",
+                "answer": "It depends on the type of license you secure. If you get a mainland commercial license, you’ll have to secure a physical office. However, many free zones offer virtual office or flexi-desk solutions."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does a commercial license stay valid in the UAE?",
+                "answer": "These generally stay valid for 1-3 years and can be renewed annually."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I get 100% ownership with a commercial license?",
+                "answer": "Yes, you can enjoy full strategic control of your business with a commercial license"
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I apply for a bank account using a free zone commercial license?",
+                "answer": "Absolutely! With a commercial license, you can open a corporate bank account with most local and international banks."
+            }
+        ]
+    }
+}

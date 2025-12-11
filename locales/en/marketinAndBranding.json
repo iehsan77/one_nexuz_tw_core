@@ -226,9 +226,21 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Digital Solutions", "url": "#" },
-      { "id": 2, "title": "Event Planning & Management Services", "url": "#" },
-      { "id": 3, "title": "IT Services", "url": "#" }
+      {
+        "id": 1,
+        "title": "Digital Services",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Digital Products",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Event Planning & Management Services",
+        "url": "#"
+      }
     ]
   },
   "faq": {

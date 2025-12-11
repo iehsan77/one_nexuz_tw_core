@@ -41,23 +41,17 @@
     ]
   },
   "leftSection_2": {
-    "title": "Power Up Your Brand with One Nexuz’s Strategic Corporate Branding and Digital Solutions  ",
+    "title": "Power Up Your Brand with One Nexuz’s Strategic Corporate Marketing Solutions",
     "description": "Generate buzz around your business, amplify your customer reach, and deliver unforgettable customer experiences with our transformative corporate branding solutions in Dubai, UAE.",
     "items": [
       {
         "id": 1,
-        "title": "Digital Products",
-        "description": "Streamline your workflow, eliminate errors, and boost workplace productivity with our full suite of digital products. ",
-        "url": "#"
-      },
-      {
-        "id": 2,
         "title": "Marketing & Branding",
         "description": "Build brand trust and credibility, drive visibility, and enhance your ROI with our creative corporate marketing and branding services.",
         "url": "#"
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Event Planning and Management",
         "description": "Connect with industry leaders, expand your reach, and discover new opportunities with expert event management solutions.",
         "url": "#"
@@ -65,20 +59,20 @@
     ]
   },
   "leftSection_3": {
-    "title": "Streamline Operations and Scale Seamlessly with Our Smart Digital and IT Solutions ",
-    "description": "Simplify business operations, optimise employee efficiency, and gain a competitive edge with our cutting-edge digital and IT services.",
+    "title": "Streamline Operations and Scale Seamlessly with Our Smart Digital Solutions",
+    "description": "Turn every digital touchpoint into measurable growth with our holistic digital solutions, from cutting-edge business management platforms to optimized marketing campaigns and IT solutions.",
     "btn": "Read More",
     "items": [
       {
         "id": 1,
         "title": "Digital Services",
-        "description": "Bring your ideas to life, build a robust online presence, and drive online traffic with custom app and website development, SEO, and social media management solutions.",
+        "description": "Bring your ideas to life, build a robust online presence, drive online traffic, and combat cyberattacks with HatchTech’s custom digital services.",
         "url": "#"
       },
       {
         "id": 2,
-        "title": "IT Services",
-        "description": "Combat downtime, safeguard confidential data, and work anytime, anywhere with end-to-end Office 365, Domain Management, Hosted Exchange, and 24/7 Tech support.",
+        "title": "Digital Products",
+        "description": "Streamline your workflow, eliminate errors, and boost workplace productivity with Buzinessify’s full suite of digital products.",
         "url": "#"
       }
     ]
@@ -233,11 +227,31 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Business Setup", "url": "#" },
-      { "id": 2, "title": "Corporate Services", "url": "#" },
-      { "id": 3, "title": "Banking & Wealth", "url": "#" },
-      { "id": 4, "title": "Millionaire & Billionaire", "url": "#" },
-      { "id": 5, "title": "Logistics & Relocation", "url": "#" }
+      {
+        "id": 1,
+        "title": "Business Setup",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "title": "Banking & Wealth",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Millionaire & Billionaire",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation",
+        "url": "#"
+      }
     ]
   },
   "faq": {

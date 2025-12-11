@@ -1,0 +1,325 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/cryptoAndWeb3LicenseInUae.webp",
+        "title": "Launch, Comply, and Grow Your Crypto Business with Our End-to-End Crypto Licensing Solutions in Dubai",
+        "description": "Launch your cryptocurrency and blockchain business in the UAE to unlock rapid growth across MENA, Asia, and Europe. Position your portfolio in one of the world’s fastest-growing crypto markets with a VARA or FSRA-registered license. We do all the heavy work, so you can get your business up and running within days, not weeks."
+    },
+    "leftSection_1": {
+        "title": "Why Invest in a UAE-Registered Crypto & Web3 License",
+        "description": "Tap into the UAE’s thriving digital ecosystem, discover lucrative opportunities, and benefit from the region’s cutting-edge Web3 infrastructure.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Win Stakeholder Trust, Access Funding, & Open Doors to Global Opportunities ",
+                "subTitle": "Win Stakeholder Trust, Access Funding, & Open Doors to Global Opportunities ",
+                "description": "Build investor and institutional trust with a globally recognised UAE crypto license to unlock exciting funding, partnerships, and cross-border opportunities.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Keep Every Dirham—0% Taxes and Full Profit Repatriation for Your Crypto Venture",
+                "subTitle": "Keep Every Dirham—0% Taxes and Full Profit Repatriation for Your Crypto Venture",
+                "description": "Maximise your revenue with 0% personal, capital gains, and corporate income taxes and 100% profit repatriation.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Save Millions on Custom Duties, Streamline Trade, & Drive Business Revenue ",
+                "subTitle": "Save Millions on Custom Duties, Streamline Trade, & Drive Business Revenue ",
+                "description": "Take advantage of the UAE’s favourable tax and regulatory environment, empowering you to reclaim millions on import and export fees and customs duties.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Buy, Sell, and Transfer Digital Assets Anywhere—Grow Your Crypto Presence Worldwide ",
+                "subTitle": "Buy, Sell, and Transfer Digital Assets Anywhere—Grow Your Crypto Presence Worldwide ",
+                "description": "Unlock cross-border expansion with globally recognised licenses. Buy, sell, or transfer digital assets 100% compliant within and beyond the UAE.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Approved Activities with Our Crypto & Web3 Licensing Services",
+        "description": "Build, manage, and expand your crypto portfolio with a compliant crypto trading license in Dubai.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Crypto Exchange",
+                "description": "Operate a decentralised platform to simplify crypto-to-crypto or crypto-to-fiat trading.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Custody & Wallet Management",
+                "description": "Create and provide secure digital wallets or vault infrastructure to hold digital assets.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Web3 Consultancy",
+                "description": "Empower clients worldwide to build on-chain solutions and tokenised ecosystems.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tokenised Platforms",
+                "description": "Platforms Create and distribute non-security NFTs, gaming, metaverse, and platform-based tokens.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Smart Contract Solutions",
+                "description": "Engineer innovative blockchain-based automation for supply chains, DeFi protocols, or DAOs.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Crypto Mining Hardware",
+                "description": "Deploy cutting-edge crypto mining hardware or nodes within designated zones.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Digital Asset Structuring",
+                "description": "Leverage smart contracts to fractionalise real estate, art, or equity assets for cross-border growth.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/cryptoAndWeb3LicenseInUae/left4/1.webp",
+            "title": "Operate in the UAE—Ranked #1 in Crypto Adoption Growth",
+            "description": "Capitalise on the UAE’s 210% crypto usage surge by tapping into the region’s thriving market. We coordinate all the government back-and-forth, so that you can expand your portfolio without regulatory headaches.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/cryptoAndWeb3LicenseInUae/left4/2.webp",
+            "title": "Crypto Licensing Without the Guesswork — Know Your Costs Upfront",
+            "description": "Get a precise breakdown of your UAE crypto license cost. Speed up approvals with expert guidance and pay only for what your business truly requires.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your Crypto License in the UAE",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select Your Business Activity",
+                "description": "We’ll start with a free consultation to discuss which services you want to offer and help you determine the best-fit business activity category.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Craft a Business Plan",
+                "description": "Next, our expert consultants will assist you in creating a professional and well-structured business plan to secure regulatory approvals.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Choose the Ideal Jurisdiction",
+                "description": "Based on your business needs and selected activity, we’ll suggest a list of the top Free Zones to set up your crypto or blockchain business.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Complete the Paperwork",
+                "description": "We’ll help you compile and submit all the necessary documents alongside your application for a seamless licensing journey.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Your License",
+                "description": "Once approved, you’ll get your license delivered to your doorstep within 1-10 days, depending on your business activity.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz to Secure a Crypto License",
+        "description": "Assist clients in diversifying their portfolio or preserve your wealth with a registered cryptocurrency & Web3 license. We handle the licensing process, so you can legally hold and trade cryptocurrency.",
+        "items": [
+            {
+                "title": "Fast Licensing Approvals",
+                "description": "Our expert consultants streamline all the paperwork, accelerating your time-to-market, so you start strong from day one.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Tailored Free Zone Strategies",
+                "description": "We match your business with the ideal jurisdiction, balancing cost, activity scope, and banking support to raise your approval odds to 90%+.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Receive Clear, Transparent Pricing",
+                "description": "Launch your cryptocurrency business, secure your license, and open your bank account under one roof with our holistic business setup services.",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/cryptoAndWeb3LicenseInUae/grid/1.webp",
+        "title": "Ride the 7.9% Annual Crypto Growth Wave with a UAE License",
+        "description": "Tap into the UAE’s cryptocurrency market, set to reach a whopping $396 million by 2028. We’ll handle your VARA, ADGM, or DMCC license so that you can send, receive, and hold cryptocurrency today.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz.",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Navigating crypto regulations felt overwhelming until One Nexuz stepped in. We were licensed and bank-ready in under 3 weeks.",
+                "role": "Blockchain Startup Founder",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "They didn’t just help with licensing—they matched us with the perfect free zone and made banking effortless.",
+                "role": " Crypto Exchange Co-Founder",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "From strategy to paperwork, everything was seamless. We were operational faster than expected, with zero compliance headaches.",
+                "role": "DeFi Platform CEO",
+                "image": "/assets/cryptoAndWeb3LicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Scale Smarter with End-to-End Business Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Trade top-notch consumer products and services within and beyond the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Launch and scale your digital storefront with a DED-compliant license.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Event License",
+                "description": "Create buzz around your brand with professional business events and expos.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Freelancer Permi",
+                "description": "Take advantage of the UAE’s booming business landscape as a solopreneur.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Industrial License",
+                "description": "Build, innovate, and distribute products with access to the UAE’s business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Professional License",
+                "description": "Create a robust portfolio, expand your customer reach, and scale worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Real Estate License",
+                "description": "Real Estate License Buy, sell, rent, or manage high-value properties with a RERA-compliant license.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Join the World's Leading Blockchain Ecosystem with Our Expert Licensing Services",
+        "description": "Build instant credibility and scale globally by tapping into the UAE’s thriving blockchain and cryptocurrency ecosystem with our all-in-one licensing solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/cryptoAndWeb3LicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Real Estate License",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Event License",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "E-commerce License",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Freelance Permit",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is crypto trading legal in the UAE?",
+                "answer": "Yes, the UAE allows you to trade cryptocurrencies, including Bitcoin, Pi coin, and Ethereum, as long as you follow regulatory requirements."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to receive a crypto & Web3 license in Dubai?",
+                "answer": "It generally takes 1-2 weeks to secure a cryptocurrency license. However, regulated business activities, such as OTC, may require several months."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents are required to apply for a cryptocurrency license?",
+                "answer": "You’ll need to provide copies of your passport, parent company documents, and proof of residential address. Certain Free Zones may require additional documents, such as VARA attestation."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need to pay taxes on my cryptocurrency business?",
+                "answer": "While the Mainland applies about 9% tax on income over AED 375,000, you can qualify for 0% income and capital gains taxes in Free Zones."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Where can I get a crypto and Web3 license in the UAE?",
+                "answer": "You can obtain a cryptocurrency license in DMCC, DWTC, DAFZA, DIFC, IFZA, ADGM, and RAK-DAO."
+            }
+        ]
+    }
+}

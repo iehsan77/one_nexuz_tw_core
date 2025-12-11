@@ -12,66 +12,60 @@
         "items": [
             {
                 "id": 1,
-                "title": "Automate Tasks, Manage Operations, and Boost Productivity Across Your Entire Team",
-                "subTitle": "Automate Tasks, Manage Operations, and Boost Productivity Across Your Entire Team",
-                "description": "Reclaim 25% of your team's productivity with cutting-edge business process management software, empowering you to automate repetitive tasks, combat costly errors, and boost workplace efficiency.",
+                "title": "Plan, Approve, and Travel Effortlessly—Focus on Business, Not Paperwork",
+                "subTitle": "Plan, Approve, and Travel Effortlessly—Focus on Business, Not Paperwork",
+                "description": "Gain total peace of mind when travelling across borders, knowing all your paperwork is handled for, allowing you to focus on driving business growth.",
                 "image": "/assets/travelAndVisaSupportForExecutives/left1/1.webp"
             },
             {
                 "id": 2,
-                "title": "Unify, Automate, and Save — Maximize Efficiency Without Losing Control",
-                "subTitle": "Unify, Automate, and Save — Maximize Efficiency Without Losing Control",
-                "description": "Consolidate limitless tools into a single, integrated platform to slash operational costs by 30%+ and maximize your ROI. No more paying for overlapping software or wasting hours switching between apps!",
+                "title": "Navigate Rules, Avoid Delays, and Eliminate Fines—Full Compliance, Zero Risk",
+                "subTitle": "Navigate Rules, Avoid Delays, and Eliminate Fines—Full Compliance, Zero Risk",
+                "description": "Navigate the UAE’s immigration and labour laws with confidence to fast-track approvals, eliminate delays, and combat hefty fines.",
                 "image": "/assets/travelAndVisaSupportForExecutives/left1/2.webp"
             },
             {
                 "id": 3,
-                "title": "Monitor Performance, Spot Opportunities, and Optimize for Maximum Growth",
-                "subTitle": "Monitor Performance, Spot Opportunities, and Optimize for Maximum Growth",
-                "description": "Unlock real-time insights on leads, sales, traffic, and campaigns without juggling multiple tools to empower data-driven decision-making, spot lucrative growth opportunities, and close deals smarter.",
+                "title": "Streamline Applications, Simplify Paperwork, and Bring Your Loved Ones Closer",
+                "subTitle": "Streamline Applications, Simplify Paperwork, and Bring Your Loved Ones Closer",
+                "description": "Live, work, and thrive with your support system by streamlining spouse, children, and dependent sponsorships. Save 10+ hours of admin work with group visa applications.",
                 "image": "/assets/travelAndVisaSupportForExecutives/left1/3.webp"
             },
             {
                 "id": 4,
-                "title": "Strengthen Your Brand Identity, Automate Outreach, & Increase Customer Retention",
-                "subTitle": "Strengthen Your Brand Identity, Automate Outreach, & Increase Customer Retention",
-                "description": "Build a professional brand image, deliver unmatched customer experiences, auto-send follow-ups & reminders, and foster customer loyalty with a smart, scalable business management platform.",
+                "title": "Coordinate Insurance, Strengthen Safety, & Enjoy Built-In Risk Protection",
+                "subTitle": "Coordinate Insurance, Strengthen Safety, & Enjoy Built-In Risk Protection",
+                "description": "Get round-the-clock travel support and holistic insurance plans to protect your employees and business reputation.",
                 "image": "/assets/travelAndVisaSupportForExecutives/left1/4.webp"
             }
         ]
     },
     "leftSection_2": {
-        "title": "Plug-and-Play Solutions to Launch Smarter, Scale Faster, & Earn More",
-        "description": "Transform your business operations with our industry-specific business management systems built to streamline workflows, accelerate growth, and boost ROI by 30%+.",
+        "title": "Explore Our Full Range of Travel & Visa Support Services",
+        "description": "Take the stress out of visa compliance with our comprehensive corporate travel management solutions.",
         "items": [
             {
                 "id": 1,
-                "title": "Brokerify",
-                "description": "Launch your brokerage business, organize all your bookings, and gain insightful analytics to close deals faster and smarter.",
+                "title": "Visa Processing",
+                "description": "Secure business, work, residency, and tourist visas without the administrative headaches.",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "Commercify",
-                "description": "Build, manage, and scale your eCommerce store with ease. Streamline listings, inventory, and digital campaigns from a single platform.",
+                "title": "Passport & Legalisation",
+                "description": "Simplify renewals, replacements, and attestation to keep your travel hassle-free.",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "Developify",
-                "description": "Grow your portfolio, maximize occupancy, and manage all your rental development projects from a single, integrated hub.",
+                "title": "Travel Management",
+                "description": "Streamline flights, hotels, and transport bookings for seamless business travel in over 100 countries.",
                 "url": "#"
             },
             {
                 "id": 4,
-                "title": "Rentify",
-                "description": "From bookings and payments to client management and real-time performance insights, run your entire rental business and maximize revenue.",
-                "url": "#"
-            },
-            {
-                "id": 5,
-                "title": "Rentify",
-                "description": "From bookings and payments to client management and real-time performance insights, run your entire rental business and maximize revenue.",
+                "title": "Compliance & Risk Management",
+                "description": "Stay ahead of immigration rules and avoid costly delays with proactive compliance support.",
                 "url": "#"
             }
         ]
@@ -221,7 +215,7 @@
                 "url": "#"
             },
             {
-                "id": 7,
+                "id": 8,
                 "title": "Local Agent/Partner Services",
                 "description": "Navigate the UAE market efficiently and expand UAE-wide with reliable local agents.",
                 "url": "#"

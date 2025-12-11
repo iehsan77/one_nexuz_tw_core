@@ -1,0 +1,288 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/digitalServices.webp",
+        "title": "Build Intuitive Websites, Optimize Your Campaigns, and Maximize Conversions — All-in-One Digital Marketing Services in the UAE",
+        "description": "Struggling to stand out in the UAE’s hyper-competitive market, losing leads to competitors, or watching ad spend go to waste? At One Nexuz, in partnership with HatchTechs, we empower you with the right digital marketing tools and strategies to amplify your reach, capture audiences, and turn clicks into loyal customers."
+    },
+    "leftSection_1": {
+        "title": "From Visibility to Conversions —  Unlock Your Business Potential with Digital Services",
+        "description": "Grow your online presence, strengthen brand reputation, attract qualified leads, and turn prospects into loyal customers with comprehensive digital marketing services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Capture Every Click, Maximize Every Campaign, and Grow Your Bottom Line",
+                "subTitle": "Capture Every Click, Maximize Every Campaign, and Grow Your Bottom Line",
+                "description": "Optimize your marketing budget, drive measurable results, grow sales, and increase your ROI by 200% with custom-built, high-impact social media campaigns and PPC services in the UAE.",
+                "image": "/assets/digitalServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "From Discovery to Checkout — Transform Every Visit Into a Sale Hassle-Free",
+                "subTitle": "From Discovery to Checkout — Transform Every Visit Into a Sale Hassle-Free",
+                "description": "Deliver a seamless user experience, build instant credibility, boost conversions by 38%+, and earn up to $100 per $1 spent with professionally built, intuitive, and user-focused websites and mobile apps.",
+                "image": "/assets/digitalServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Build Instant Trust,  Increase Visibility, & Make Your Business Impossible to Ignore",
+                "subTitle": "Build Instant Trust,  Increase Visibility, & Make Your Business Impossible to Ignore",
+                "description": "Strengthen your brand presence, attract qualified leads, and boost brand discoverability with tailored SEO services in the UAE, empowering you to turn online searches into loyal, long-term customers.",
+                "image": "/assets/digitalServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Create Buzz, Engage Followers, and Turn Social Traffic Into Loyal Customers",
+                "subTitle": "Create Buzz, Engage Followers, and Turn Social Traffic Into Loyal Customers",
+                "description": "Capture 15% more leads, increase your revenue by over 60%, and unlock 3X revenue with strategic, conversion-focused social media campaigns, empowering you to drive limitless business growth and visibility.",
+                "image": "/assets/digitalServices/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Boost Web Traffic, Increase Leads, & Drive Revenue with Our Digital Marketing Solutions ",
+        "description": "Get found, get clicks, and get results with HatchTechs’, our trusted official partner, holistic digital marketing services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Search Engine Optimization ",
+                "description": "Stand out in the UAE’s hyper-competitive market, climb SERPs, and convert organic traffic into revenue with comprehensive SEO solutions.  ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Social Media Marketing",
+                "description": "Expand your reach worldwide, spark conversations, capture qualified leads, and drive measurable results with strategic SMM campaigns.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Pay-Per-Click Ads ",
+                "description": "Maximize every ad dollar, reach the right audience, grow your sales, and increase revenue with data-driven pay-per-click campaigns. ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Design, Develop, and Deploy Stunning Websites & Apps with One Nexuz ",
+        "description": "Build and launch intuitive websites and mobile apps with HatchTechs, our trusted partner, to convert, engage, and scale your UAE-based business.            ",
+        "btn": "Read More",
+        "items": [
+            {
+                "id": 1,
+                "title": "App Development",
+                "description": "Deliver seamless mobile experiences to capture, engage, and retain customers, drive conversions, and foster loyalty. ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Website Development ",
+                "description": "Design and develop intuitive, mobile-friendly websites to engage visitors, drive conversions, and scale effortlessly. ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Domain Name & DNS Management",
+                "description": "Search, register, and optimise your digital identity with expert-led DNS routing & domain registration services.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Office 365 Subscription ",
+                "description": "Simplify workplace collaboration, prevent team silos, and boost productivity with our Office 365 subscriptions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "24/7 Tech Support ",
+                "description": "Prevent costly operational disruptions and resolve queries instantly with round-the-clock tech support.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/digitalServices/left4/1.webp",
+            "title": "Boost Customer Retention by 50% & Spending by 3.5X with Our Intuitive Apps",
+            "description": "Deliver unforgettable user experiences, foster loyalty, and watch your revenue soar with seamless, custom-built mobile apps and websites.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/digitalServices/left4/2.webp",
+            "title": "Digital Services That Grow With Your Business — Pay Only for What You Need ",
+            "description": "No surprise upsells. No hidden fees. No wasted spend. Whether it's app development or SEO & PPC, we craft a custom digital strategy that fits your goals and budget. Scale effortlessly and add services as your business grows!",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 4 Step Process to Build, Promote, and Scale Your Brand Online                        ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call ",
+                "description": "We'll kick off with a no-obligations call to assess your business needs, target audience, and marketing goals. ",
+                "image": "/assets/digitalServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Receive a Strategic Plan ",
+                "description": "Based on our discussion, our experts, in partnership with HatchTechs, will design a custom roadmap to drive measurable results. ",
+                "image": "/assets/digitalServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Design, Develop, & Deploy          ",
+                "description": "Next, we breathe life into your digital assets by building strategic campaigns, websites, and apps that boost conversions.",
+                "image": "/assets/digitalServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Monitor & Refine Your Strategy",
+                "description": "Once live, we track performance, analyze results, and continuously optimize campaigns and platforms to maximize ROI and efficiently scale your business. ",
+                "image": "/assets/digitalServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Secure, Scalable Digital Solutions ",
+        "description": "Scattered vendors, outdated websites, and marketing spend that fails to deliver. At One Nexuz, our end-to-end digital services eliminate the chaos to help you grow faster and smarter. ",
+        "items": [
+            {
+                "title": "All-in-One Digital Solutions ",
+                "description": "Your website, app, and marketing channels work as a single, integrated system, unifying data, eliminating silos, and empowering data-driven campaigns. ",
+                "image": "/assets/digitalServices/bgImage/1.webp"
+            },
+            {
+                "title": "Protect Your Business Data ",
+                "description": "Built using secure codes, high-grade encryption, and compliance-ready practices, every website, app, and social media campaign keeps your business and customer information 100% safe,",
+                "image": "/assets/digitalServices/bgImage/2.webp"
+            },
+            {
+                "title": "Scale Without Limits ",
+                "description": "Our solutions are designed to grow with your business, whether you’re acquiring more customers, launching new products, or expanding to new markets.",
+                "image": "/assets/digitalServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/digitalServices/grid/1.webp",
+        "title": "Double Your Investment with Our Data-Driven PPC Strategies",
+        "description": "Target the right audience, drive traffic that converts, and watch your ad spend pay off—effortlessly and measurably.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "The SEO and PPC campaigns completely transformed our lead generation. We’re now reaching the right audience and seeing measurable growth every month.",
+                "role": "E-commerce Marketing Director",
+                "image": "/assets/digitalServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Our new website and mobile app have made a huge difference. Visitors stay longer, conversions are up, and our customers love the seamless experience.",
+                "role": "Hospitality Operations Manager ",
+                "image": "/assets/digitalServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Social media marketing has been a game-changer. Engagement has skyrocketed, and we’re generating more qualified leads than ever before.",
+                "role": "Professional Services",
+                "image": "/assets/digitalServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Reach with Our Full Suite of Digital & Branding Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Digital Products ",
+                "description": "Automate your workflows, spot operational bottlenecks, and fast-track business growth with industry-tailored BMPs.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Marketing & Branding",
+                "description": "Build a strong brand identity, amplify your reach, and attract loyal customers through strategic campaigns.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Event Planning & Management",
+                "description": "Plan, host, and manage events that engage your audience, elevate your brand presence, and drive business opportunities",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Make Your Marketing Budget Work for You?",
+        "description": "Turn every dirham into measurable growth. Drive traffic, capture leads, and grow your revenue with our holistic digital services, powered by HatchTechs, from social media marketing to mobile & app development in the UAE.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/digitalServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Digital Products",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Event Planning & Management Services",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Marketing & Branding Solutions",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How do I know which digital service is right for my business?",
+                "answer": "A tailored strategy is key — we analyze your business goals, audience, and competition to recommend the mix of SEO, SMM, PPC, and web/app development that will drive the best results."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How do digital services like SEO and SMM increase my revenue?",
+                "answer": "By improving your online visibility, targeting the right audience, and optimizing campaigns for conversions, digital services turn traffic into leads, and leads into paying customers."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How much should I budget for digital marketing campaigns?",
+                "answer": "Budgets vary based on goals, industry, and audience size. A well-planned strategy ensures that every dollar spent delivers measurable ROI, rather than being wasted on ineffective campaigns."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How do I know my campaigns are working?",
+                "answer": "Digital services are fully measurable — you get reports on traffic, leads, conversions, ROI, and other KPIs so you can track performance and optimize results."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can these services help me reach audiences outside the UAE?",
+                "answer": "Definitely. SEO, PPC, SMM, and web/app development can be optimized for regional or global audiences, depending on your business expansion goals."
+            }
+        ]
+    }
+}
