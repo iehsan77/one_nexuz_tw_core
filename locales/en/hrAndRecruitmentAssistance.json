@@ -1,0 +1,312 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/hrAndRecruitmentAssistance.webp",
+        "title": "Boost Workplace Productivity by 25% with Expert HR Recruitment Assistance",
+        "description": "Tap into the UAE’s diverse talent pool, streamline the recruitment and onboarding process, and enhance workforce satisfaction with professional HR recruitment solutions. We empower you with tailored, scalable HR services to promote a seamless hiring experience and reduce administrative tasks, so you can focus on innovating and expanding your brand."
+    },
+    "leftSection_1": {
+        "title": "Why Should Businesses Outsource HR Recruitment Services ",
+        "description": "Discover, recruit, and retain top talent from around the world at a fraction of the cost by outsourcing HR operations. Streamline mundane tasks, prevent operational disruptions, and boost workplace efficiency. ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Save Up to 25% on HR Costs ",
+                "subTitle": "Save Up to 25% on HR Costs ",
+                "description": "Discover, recruit, and retain top talent from around the world at a fraction of the cost by outsourcing HR operations. Streamline mundane tasks, prevent operational disruptions, and boost workplace efficiency.  ",
+                "image": "/assets/hrAndRecruitmentAssistance/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Prevent Legal Risks by Over 30%",
+                "subTitle": "Prevent Legal Risks by Over 30%",
+                "description": "Ensure 100% compliance with the UAE’s dynamic labor & employment laws and tax regulations to minimise the risk of hefty fines and penalties.",
+                "image": "/assets/hrAndRecruitmentAssistance/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Slash Employee Turnover by 55%",
+                "subTitle": "Slash Employee Turnover by 55%",
+                "description": "Reclaim 40+ hours per month, slash admin costs, and empower your team to focus on strategy, sales, and winning government contracts.",
+                "image": "/assets/hrAndRecruitmentAssistance/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Improve Workplace Scalability ",
+                "subTitle": "Improve Workplace Scalability ",
+                "description": "Create an agile workplace and enhance scalability by over 35% with third-party HR experts. Expand across the globe and grow your team hassle-free.",
+                "image": "/assets/hrAndRecruitmentAssistance/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Holistic HR & Recruitment Solutions ",
+        "description": "Get expert-led support across your entire hiring journey with our reliable HR recruitment services:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Strategic Role Scoping",
+                "description": "Define job requirements, cultural fit, and key KPIs to attract & hire candidates who align with your business goals."
+            },
+            {
+                "id": 2,
+                "title": "Local Talent Sourcing",
+                "description": "Recruit and retain top employees in the UAE by leveraging our extensive network of HR professionals."
+            },
+            {
+                "id": 3,
+                "title": "Candidate Screening & Shortlisting",
+                "description": "Take advantage of our cutting-edge HR tools to expedite candidate pre-screening and fill positions faster."
+            },
+            {
+                "id": 4,
+                "title": "Interview Coordination",
+                "description": "Enjoy a smooth hiring and onboarding process with our interview scheduling and coordination services."
+            },
+            {
+                "id": 5,
+                "title": "Innovative HR Tools",
+                "description": "Revolutionise your hiring process with our full suite of cutting-edge HR tech and innovative strategies."
+            },
+            {
+                "id": 6,
+                "title": "Rewards, Benefits, & Negotiation",
+                "description": "Structure competitive packages and navigate counteroffers with confidence to attract top candidates."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/hrAndRecruitmentAssistance/left4/1.webp",
+            "title": "Cut HR Costs by $3,000/month without Compromising Talent",
+            "description": "Cut HR Costs by $3,000/month without Compromising Talent",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/hrAndRecruitmentAssistance/left4/2.webp",
+            "title": "Break Barriers, Not Your Budget — Smart HR Solutions That Just Make Sense",
+            "description": "From talent acquisition to workforce management, get exactly the HR support your company needs—no complicated packages, hidden fees, or add-ons. Start with the services that fit your team today, and expand effortlessly as your workforce grows.",
+            "btn": "CTA Button: [Explore Our Pricing Packages]",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "CTA Button: [Explore Our Pricing Packages]",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Brief Consultation",
+                "description": "We’ll start with a short, no-obligation call to discuss your hiring and onboarding needs.",
+                "image": "/assets/hrAndRecruitmentAssistance/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Shortlist Candidates",
+                "description": "Next, our experts will advise you on current salaries, timelines, and availability to shortlist top candidates in half the time.",
+                "image": "/assets/hrAndRecruitmentAssistance/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Interview & Select",
+                "description": "Based on your preferences, we’ll schedule and coordinate interviews to fill positions faster.",
+                "image": "/assets/hrAndRecruitmentAssistance/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Based on your preferences, we’ll schedule and coordinate interviews to fill positions faster.",
+                "description": "Lastly, our experts will help you with negotiation and handle the onboarding process to welcome new talent hassle-free.",
+                "image": "/assets/hrAndRecruitmentAssistance/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is the Top Company for HR & Recruitment Solutions",
+        "description": "Foster employee well-being, increase engagement, and boost retention by over 15% by outsourcing HR services to our seasoned recruiters. Ensure compliance, reduce turnover, and secure long-term financial success.",
+        "items": [
+            {
+                "title": "Reduce Time-to-Hire by 40%",
+                "description": "With extensive professional networks and in-depth local expertise, our HR experts help cut down time-to-hire by over 40%, empowering sustainable business growth.",
+                "image": "/assets/hrAndRecruitmentAssistance/bgImage/1.webp"
+            },
+            {
+                "title": "Access Cutting-Edge Technology ",
+                "description": "Streamline the recruitment and onboarding process with state-of-the-art payroll systems, performance tracking, and compliance tools to optimise workforce efficiency.",
+                "image": "/assets/hrAndRecruitmentAssistance/bgImage/2.webp"
+            },
+            {
+                "title": "Recruit Top Talent Worldwide ",
+                "description": "Stand out in Dubai’s hyper-competitive environment by capturing, hiring, and retaining fresh talent within and beyond the Emirates.",
+                "image": "/assets/hrAndRecruitmentAssistance/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/hrAndRecruitmentAssistance/grid/1.webp",
+        "title": "Raise Employee Satisfaction by 25% by Outsourcing HR Recruitment",
+        "description": "A strategic hiring partner doesn’t just fill roles; it strengthens your entire culture. We handle the entire process to help you find the right fit in days, not months.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz completely transformed our hiring process. Their HR Recruitment Assistance helped us find top-tier talent quickly, saving weeks of recruitment time and letting us focus on growing our business. The quality of candidates and seamless coordination exceeded our expectations",
+                "role": "Tech Startup CEO",
+                "image": "/assets/hrAndRecruitmentAssistance/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Hiring in the UAE felt overwhelming until we partnered with One Nexuz. Their team handled everything from sourcing to onboarding, ensuring we had skilled professionals who fit our company culture perfectly. It’s like having an in-house HR team without the hassle.",
+                "role": " E-commerce Brand Founder",
+                "image": "/assets/hrAndRecruitmentAssistance/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "One Nexuz’s HR Recruitment Assistance was a game-changer. They understood our staffing needs, screened highly qualified candidates, and streamlined the entire process. Our operations have never run smoother, and we’ve built a team we can truly rely on.",
+                "role": " Financial Services Operations Director",
+                "image": "/assets/hrAndRecruitmentAssistance/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Power Your Operational Setup with Strategic Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Shield your business against cyberattacks with proactive IT solutions",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Streamline incoming and outgoing mail and ensure you never lose another document. ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionists",
+                "description": "Provide professional call handling and client support without incurring sky-high costs.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "description": "Manage, store, and retrieve documents hassle-free with custom-built solutions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "description": "Relocate to the UAE stress-free with trustworthy logistics & courier solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Supplier & Vendor Registration Support",
+                "description": "Become a certified vendor or supplier and access lucrative financial benefits.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Government Tender Registration Assistance",
+                "description": "Unlock exciting bidding opportunities by registering on top government portals.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Drive Business Growth with Tailored HR & Recruitment Services",
+        "description": "Attract top talent across the UAE and fill top-level positions in days, not weeks. Our seamless sourcing, screening, and onboarding solutions empower you to stay competitive in the region’s fast-evolving business landscape.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/hrAndRecruitmentAssistance/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What does outsourcing HR recruitment in the UAE involve?",
+                "answer": "HR recruitment outsourcing in the UAE allows you to streamline key HR functions, including discovering, attracting, and hiring top talent worldwide."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How do HR & recruitment services help my UAE-based business stay compliant?",
+                "answer": "Our tailored HR recruitment solutions empower your business to stay up-to-date with the UAE’s evolving tax and labor laws to ensure you don’t incur hefty fines or penalties."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Our tailored HR recruitment solutions empower your business to stay up-to-date with the UAE’s evolving tax and labor laws to ensure you don’t incur hefty fines or penalties.",
+                "answer": "Yes, our HR & recruitment solutions are tailored to match your hiring needs, whether a single or multiple positions."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "We’re not sure what salary to offer, can One Nexuz help us stay competitive?",
+                "answer": "Absolutely! Our HR recruitment solutions include real-time salary benchmarking to ensure you provide competitive salary packages to attract top talent. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer HR recruitment solutions for temporary roles?",
+                "answer": "Yes, our experts provide HR recruitment assistance for temporary and permanent positions to help you recruit and hire talent based on your current needs."
+            }
+        ]
+    }
+}

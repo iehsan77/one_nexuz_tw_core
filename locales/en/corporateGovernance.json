@@ -1,0 +1,239 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/corporateGovernance.webp",
+        "title": "Build a Resilient, Future-Ready Business with Our End-to-End UAE Corporate Governance Services",
+        "description": "Struggling with the UAE's complex governance risks, multi-jurisdiction regulations, and fast-evolving laws? At One Nexuz, our seasoned consultants provide strategic corporate governance and risk management frameworks to empower data-driven decision-making and sustainable business growth. Win instant stakeholder trust, strengthen business resilience, and scale across the Emirates with our future-proof corporate governance consulting services."
+    },
+    "leftSection_1": {
+        "title": "Governance That Powers Growth, Protects Value, and Builds Trust",
+        "description": "Gain a competitive edge, ensure compliance, and shock-proof your business with our strategic corporate governance solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Stay Prepared, Stay Resilient, and Keep Your Business Moving Forward",
+                "subTitle": "Stay Prepared, Stay Resilient, and Keep Your Business Moving Forward",
+                "description": "Spot financial, legal, and operational risks before they snowball, protect your business reputation, and boost operational efficiency with proactive risk management strategies.",
+                "image": "/assets/corporateGovernance/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Turn Data, Insights, and Strategy into Actionable Business Results",
+                "subTitle": "Turn Data, Insights, and Strategy into Actionable Business Results",
+                "description": "Streamline decision-making, clarify roles, and encourage teams to hit strategic goals with clear, legally sound governance structures and transparent agreements.",
+                "image": "/assets/corporateGovernance/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Attract Capital, Earn Credibility, & Scale Your Business with Confidence",
+                "subTitle": "Attract Capital, Earn Credibility, & Scale Your Business with Confidence",
+                "description": "Build investor confidence, secure funding, boost brand trust, and strengthen corporate reputation by signaling professionalism, transparency, and ethical business management.",
+                "image": "/assets/corporateGovernance/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Keep Every Role, Responsibility, and Decision Crystal Clear—Always",
+                "subTitle": "Keep Every Role, Responsibility, and Decision Crystal Clear—Always",
+                "description": "Prevent costly errors, hefty fines, and lengthy court disputes with robust governance frameworks. Foster transparency and accountability with clearly defined roles and responsibilities.",
+                "image": "/assets/corporateGovernance/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "From Structure to Exit—Our End-to-End Governance Services to Protect & Grow Your Business",
+        "description": "Minimise business risks and maximise operational efficiency with our comprehensive corporate governance services in Dubai & beyond.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Structuring & Restructuring ",
+                "description": "Eliminate operational bottlenecks, simplify expansions or mergers, and navigate evolving regulatory changes confidently with strategic corporate structuring and restructuring solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Liquidation & Deregistration",
+                "description": "Avoid penalties, settle obligations, secure business reputation, and streamline exits or closures with future-proof corporate liquidation and deregistration services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/corporateGovernance/left4/1.webp",
+            "title": "Smart Corporate Governance Solutions Built for Your Growth & Your Budget ",
+            "description": "No inflated bundles, no surprise add-ons, no hidden charges. Pay only for the advisory, compliance, or risk management tools your business requires, and expand seamlessly as your organisation grows.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/corporateGovernance/left4/2.webp",
+            "title": "HR Policies That Protect Your Business Without Breaking the Bank",
+            "description": "Get legally sound HR policies tailored to your UAE business. No hidden fees, no confusing packages—just the right services for your business at the right time.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Strengthen Your Corporate Governance in 4 Easy Steps ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Governance Health Check",
+                "description": "We’ll assess your current policies, board structures, and compliance levels to identify gaps and opportunities for improvement.",
+                "image": "/assets/corporateGovernance/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Framework Design & Policy Development",
+                "description": "Next, our experts develop tailored governance frameworks, charters, and policies aligned with UAE regulations and your strategic goals.",
+                "image": "/assets/corporateGovernance/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Implementation & Training",
+                "description": "Once you give us the green signal, we'll roll out the governance framework, provide staff training, and ensure seamless organisation-wide adoption.",
+                "image": "/assets/corporateGovernance/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Ongoing Support & Compliance Monitoring",
+                "description": "Finally, we continuously monitor, refine, and audit governance practices to ensure compliance and maintain operational excellence.",
+                "image": "/assets/corporateGovernance/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why UAE Businesses Trust Us for Expert Corporate Governance Advisory Services",
+        "description": "Navigate complex legal structures, compliance pitfalls, and operational inefficiencies with our team of seasoned consultants guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Custom-Built Governance Solutions",
+                "description": "We craft governance frameworks that align with your unique business structure, industry, and goals, mitigating risks and maximising impact.",
+                "image": "/assets/corporateGovernance/bgImage/1.webp"
+            },
+            {
+                "title": "Insightful Governance Health Checks",
+                "description": "Our experts assess your current framework, policies, and board structures to identify gaps and recommend actionable improvements.",
+                "image": "/assets/corporateGovernance/bgImage/2.webp"
+            },
+            {
+                "title": "Strategic Policy & Procedure Design",
+                "description": "From risk management to compliance protocols, we design robust policies that streamline operations, reduce risk, and keep your business audit-ready.",
+                "image": "/assets/corporateGovernance/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/corporateGovernance/grid/1.webp",
+        "title": "Build Investor Confidence & Win Capital Faster with One Nexuz",
+        "description": "With clear reporting, accountability, and compliance, we help you stand out to banks and investors ready to fund growth. ",
+        "btn": "CTA Button: [Get a Free Consultation]",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz ",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The governance framework implemented by One Nexuz completely transformed our decision-making process. Our board now operates efficiently, and investor confidence has never been higher.",
+                "role": "Manufacturing Company Founder",
+                "image": "/assets/corporateGovernance/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "From restructuring to compliance monitoring, the team guided us seamlessly. We avoided potential regulatory issues and streamlined our operations across multiple subsidiaries.",
+                "role": "Family-Based Business Managing Director",
+                "image": "/assets/corporateGovernance/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Their end-to-end governance solution was practical, clear, and easy to implement. We now have full control and clarity over our corporate processes.",
+                "role": "Tech Company CEO",
+                "image": "/assets/corporateGovernance/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Safeguard Your Business with Our Essential Legal Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Shareholder Agreement Drafting ",
+                "description": "Prevent disputes, align stakeholders, and protect your ownership structure with clear agreement drafts.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "HR Policy Drafting ",
+                "description": "Streamline onboarding, minimise conflicts, and protect your brand reputation with custom policies.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Board Resolution Drafting",
+                "description": "Retain full control over your company’s direction with legally-binding & fully compliant resolutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Build Trust. Gain Stability. Grow Confidently.",
+        "description": "With strong governance and transparency, your company becomes a magnet for investors, clients, and opportunities. Partner with our experts today to streamline operations, mitigate risks, and grow without restrictions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/corporateGovernance/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Shareholder Agreement Drafting",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "HR Policy Drafting",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Board Resolution Drafting",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are corporate governance services in the UAE?",
+                "answer": "Corporate governance is the system of rules, practices, and processes by which a company is directed and controlled. It allows businesses to ensure compliance with local laws, build investor confidence, and drive sustainable growth."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do SMEs and family businesses need corporate governance?",
+                "answer": "Yes, our expert corporate governance services are perfect for businesses of all sizes, empowering you to streamline operations, mitigate risks, and improve stakeholder transparency."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to implement a corporate governance framework?",
+                "answer": "Depending on the size and complexity of your business, implementation can range from a few weeks for SMEs to a few months for multi-nationals. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Does One Nexuz help with board structuring and roles?",
+                "answer": "Yes, we help design board charters, define roles and responsibilities, and align leadership with best practices for effective decision-making."
+            }
+        ]
+    }
+}

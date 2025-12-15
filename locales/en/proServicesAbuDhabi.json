@@ -1,0 +1,287 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/proServicesAbuDhabi.webp",
+        "title": "Launch, Hire, and Renew With Our Abu Dhabi PRO Experts by Your Side",
+        "description": "Drowning in visa rejections, licence-expiry fines, and endless government queues? Simplify business registrations, renewals, and visa processing under one roof with our professional Abu Dhabi PRO Solution. With our strategic liaison services, you can cut costly delays, hefty fines, and compliance violations, empowering you to save hundreds of dirhams annually."
+    },
+    "leftSection_1": {
+        "title": "Why Businesses Need Corporate PRO Services in Abu Dhabi ",
+        "description": "Save time, prevent costly fines, and ensure every document is submission-ready the very first time with expert PRO solutions. ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Format, Validate, and Clear Documents Faster—Cut Processing Times in Half  ",
+                "subTitle": "Format, Validate, and Clear Documents Faster—Cut Processing Times in Half  ",
+                "description": "Skip the endless paperwork, costly errors, and rejected documents with expert PRO support, preventing penalties and operational disruptions.",
+                "image": "/assets/proServicesAbuDhabi/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Track Regulatory Changes, Align Every Filing, and Stay 100% Compliant—Without the Hassle ",
+                "subTitle": "Track Regulatory Changes, Align Every Filing, and Stay 100% Compliant—Without the Hassle ",
+                "description": "Stay up to date with Abu Dhabi's fast-evolving regulatory requirements to ensure your paperwork is accurate and 100% compliant.",
+                "image": "/assets/proServicesAbuDhabi/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Outsource the Paperwork, Remove Admin Burden, & Boost Operational Efficiency ",
+                "subTitle": "Outsource the Paperwork, Remove Admin Burden, & Boost Operational Efficiency ",
+                "description": "Reclaim time lost filing paperwork, securing approvals, and notarising documents, and empower your team to focus on core operations.",
+                "image": "/assets/proServicesAbuDhabi/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "From Hiring Headaches to Cost-Efficient Expertise — Cut Expenses with Fully Outsourced PRO Support ",
+                "subTitle": "From Hiring Headaches to Cost-Efficient Expertise — Cut Expenses with Fully Outsourced PRO Support ",
+                "description": "Fast-track approvals and slash processing times by 50%+ seamless document formatting, attestation, and clearances.",
+                "image": "/assets/proServicesAbuDhabi/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "What Our All-Inclusive Abu Dhabi PRO Solutions Include",
+        "description": "Scale your business stress-free with our holistic PRO services covering every touchpoint with Abu Dhabi’s government.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Trademark Renewals",
+                "description": "Protect your creative assets and intellectual property from copycats by registering them with the MoE and ADDED.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Trade Name Reservation",
+                "description": "Brainstorm, search, and reserve a unique trade name with the ADDED to build and secure your business identity.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "License Renewals",
+                "description": "Launch in Abu Dhabi fully compliant with DED- or ADGM-approved licenses and instant alerts on renewal timelines.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "description": "Register your tenancy contract with the Abu Dhabi Municipality to ensure legal validity stress-free.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Attestation ",
+                "description": "Simplify government coordination and embassy attestation via Abu Dhabi's MOFAIC with liaison specialists.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Legal Translation",
+                "description": "Ensure compliance with Abu Dhabi's stringent regulatory landscape through certified translation solutions.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Power of Attorney Drafting ",
+                "description": "Prepare legally sound Power of Attorney documents that meet ADJD requirements for smooth representation.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Notarisation Services ",
+                "description": "Notarise contracts, agreements, and declarations in line with ADJD regulations to ensure full legal standing.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/proServicesAbuDhabi/left4/1.webp",
+            "title": "Start Your Business in Abu Dhabi with One Nexuz— No Red Tape, No Delays",
+            "description": "Our PRO team handles every approval, clearance, and government submission so you can go live fast. No roadblocks. No confusion. Just smooth setup from day one.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/proServicesAbuDhabi/left4/2.webp",
+            "title": "PRO Services in Abu Dhabi — Transparent Pricing, Zero Surprises",
+            "description": "Clear costs. Transparent process. Zero guesswork. Get PRO services in Abu Dhabi tailored to your business—no confusing packages, no unnecessary add-ons. Pay only for the services your business needs and scale as you go!",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our Tried-and-Tested 6-Step PRO Process ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call ",
+                "description": "We assess your business structure, activities, staff size, and business goals to curate a tailored action plan. ",
+                "image": "/assets/proServicesAbuDhabi/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect & Verify Documents ",
+                "description": "Next, our experts provide you with a checklist of documents, followed by formatting, translation, and attestation per the ADDED.",
+                "image": "/assets/proServicesAbuDhabi/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Draft Your Application ",
+                "description": "We streamline the paperwork, coordinate medicals, book appointments, and submit your applications through approved government channels.",
+                "image": "/assets/proServicesAbuDhabi/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Real-Time Updates",
+                "description": "Next, we provide you with regular updates on submission status and approvals to ensure you’re always up-to-date on feedback from authorities.",
+                "image": "/assets/proServicesAbuDhabi/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Final Approvals ",
+                "description": "With the application approved, we deliver all stamped documents, Emirates IDs, and visa copies directly to your team. ",
+                "image": "/assets/proServicesAbuDhabi/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Get Compliance Support",
+                "description": "Finally, our consultants provide post-approval support, tracking license expirations and visa renewals to ensure your business remains 100% compliant.",
+                "image": "/assets/proServicesAbuDhabi/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust Us for the Best PRO Services in Abu Dhabi",
+        "description": "Outsourcing PRO services saves you time, prevents costly fines, and ensures every government process is handled appropriately. Our experts handle every step, from visa approvals to renewals, for a seamless process. ",
+        "items": [
+            {
+                "title": "Unlock End-to-End PRO Support ",
+                "description": "Simplify business setup with our fully managed PRO solutions, from visa and ID processing to labor clearances and legal translations. ",
+                "image": "/assets/proServicesAbuDhabi/bgImage/1.webp"
+            },
+            {
+                "title": "Cut Overheads by up to 50%",
+                "description": "Switching from in-house staffing can slash your administrative costs in half, including salary, training, office resources, and maintenance.",
+                "image": "/assets/proServicesAbuDhabi/bgImage/2.webp"
+            },
+            {
+                "title": "Stay Fully Compliant on Every Submission",
+                "description": "Our highly trained staff boasts in-depth knowledge of the region’s legal requirements, ensuring you never have to worry about another fine or penalty.",
+                "image": "/assets/proServicesAbuDhabi/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/proServicesAbuDhabi/grid/1.webp",
+        "title": "Save Over 30 Hours Per Month With Our PRO Services",
+        "description": "The average UAE business spends over 7 hours per week handling PRO tasks. We give you that time back—so you can lead, scale, and focus on what matters.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We had constant delays with internal visa processing. One Nexuz cut approval times in half and gave us complete visibility on every step.”",
+                "role": "Oil & Gas Company Operations Manager",
+                "image": "/assets/proServicesAbuDhabi/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They know the Abu Dhabi system better than anyone we’ve worked with. Every document was submitted correctly, and renewals were handled early.”",
+                "role": "Legal Consultancy Managing Partner",
+                "image": "/assets/proServicesAbuDhabi/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We moved our entire PRO function to One Nexuz last year — zero compliance issues since, and they’ve saved us over 20 hours a month in admin time.”",
+                "role": "Healthcare Group HR Director",
+                "image": "/assets/proServicesAbuDhabi/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Grow Hassle-Free across the Emirates with One Nexuz",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Navigate the UAE’s complex regulatory requirements with confidence via our end-to-end PRO solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "PRO Services Dubai",
+                "description": "Launch a DED-compliant business and take advantage of the region’s lucrative economy and global markets.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services Sharjah ",
+                "description": "Setup, operate, and scale in Sharjah without the risk of noncompliance with timely updates on evolving laws.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Tired of Chasing the Paperwork? ",
+        "description": "Every hour spent chasing government approvals is time lost from growing your business. Scale your business to new heights with our end-to-end PRO solutions custom-built to your jurisdiction.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/proServicesAbuDhabi/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services Dubai",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "PRO Services Sharjah",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services Ajman",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What do PRO services mean in Abu Dhabi, UAE?",
+                "answer": "PRO services help businesses streamline government paperwork and secure visas and licenses for hassle-free business setups."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I handle PRO on my own?",
+                "answer": "Technically yes, but you run the risk of incurring fines and penalties by missing license and visa renewal deadlines, making costly errors, or failing to secure clearances. Our expert PRO specialists simplify all compliances by taking the administrative burden off your shoulders. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can PRO service providers assist with visas and sponsorships?",
+                "answer": "Yes, our PRO solutions include visa application processing and sponsorships to help you secure residency for your loved ones, business partners, and employees."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does PRO service processing take in Abu Dhabi?",
+                "answer": "Most standard visa processing and licensing takes 1-14 days, depending on document readiness, location, and business needs. We onboard your team as soon as you book the first call and provide the necessary information. "
+            }
+        ]
+    }
+}

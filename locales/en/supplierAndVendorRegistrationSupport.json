@@ -1,0 +1,309 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/supplierAndVendorRegistrationSupport.webp",
+        "title": "From Registration to Approval — Get Full 360° Support for UAE Supplier & Vendor Portals",
+        "description": "Overwhelmed by complex vendor onboarding processes, lengthy approval delays, and regulatory roadblocks? At One Nexuz, we handle your entire supplier & vendor registration process, from document preparation to submission and status tracking. Expand your market reach, open doors to a million-dollar government and private-sector opportunities, and give your business the competitive edge it needs to thrive in the UAE market."
+    },
+    "leftSection_1": {
+        "title": "Unlock Bigger Contracts and Instant Credibility with Expert Supplier & Vendor Registration Support",
+        "description": "Position your business for limitless success, expand your market reach, and win high-value government and corporate contracts with end-to-end supplier and vendor registration solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get Listed Where It Matters—Bid on High-Value UAE Tenders",
+                "subTitle": "Get Listed Where It Matters—Bid on High-Value UAE Tenders",
+                "description": "Gain visibility and eligibility for thousands of tenders from government entities, semi-government organisations, and private-sector companies across the Emirates.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Build Trust, Impress Buyers, and Seal More Deals",
+                "subTitle": "Build Trust, Impress Buyers, and Seal More Deals",
+                "description": "Elevate your brand's reputation, strengthen your partnerships, and win high-value contracts by signaling professionalism.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Turn Registration Into a Launchpad for Business Expansion",
+                "subTitle": "Turn Registration Into a Launchpad for Business Expansion",
+                "description": "Stay ahead of the curve, discover long-term partnership opportunities, and explore lucrative, large-scale projects by registering in the best-fit vendor & supplier portals.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Stay Fully Compliant, Secure Approvals, and Avoid Costly Mistakes ",
+                "subTitle": "Stay Fully Compliant, Secure Approvals, and Avoid Costly Mistakes ",
+                "description": "Avoid costly fines, combat lengthy delays, and stay aligned with government regulations by ensuring your company meets official supplier requirements.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Everything You Need to Register Your Busines & Access Lucrative Opportunities",
+        "description": "Gain a competitive advantage, foster brand trust, accelerate approvals, and drive business revenue with our end-to-end UAE online vendor registration services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Document Preparation",
+                "description": "Ensure compliance and fast-track approvals with UAE-compliant and verified business documents."
+            },
+            {
+                "id": 2,
+                "title": "Application Submission & Management",
+                "description": "Register on the ideal vendor and supplier portals and track your application every step of the way."
+            },
+            {
+                "id": 3,
+                "title": "Compliance Verifications & Quality Checks",
+                "description": "Prevent costly rejections and lengthy delays with in-depth compliance checks and timely follow-ups."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/supplierAndVendorRegistrationSupport/left4/1.webp",
+            "title": "Register with One Nexuz & Bid on AED 44B+ of Abu Dhabi Tenders",
+            "description": "One Nexuz fast-tracks supplier profiles so you’re visible to buyers across Abu Dhabi’s procurement gate and ready to win high-value contracts",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/supplierAndVendorRegistrationSupport/left4/2.webp",
+            "title": "Compliance, Accuracy, and Transparent Pricing—Every Time",
+            "description": "No confusing bundles, no hidden fees, and no unnecessary add-ons. Pay only for the portals you need, right when you need them. Streamline onboarding without overspending and add more as your business grows.",
+            "btn": "Explore Our Pricing Packages",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 5-Step Process to Supplier & Vendor Registration Success",
+        "items": [
+            {
+                "id": 1,
+                "title": "Share Your Business Details",
+                "description": "We'll kick off with a free consultation to discuss your business needs, activities, and future goals, so we can begin your registration process.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect & Prepare Your Documents",
+                "description": "Next, we organise and verify all your documents, ensuring they meet the UAE authority standards, preventing delays or rejections.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit & Manage Your Application",
+                "description": "Our experts then submit your application to the right portals and authorities, minimising technical headaches",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Follow-Up & Status Tracking",
+                "description": "Next, we liaise with government and corporate procurement teams, track progress, and keep you updated at every stage.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Approvals & Market Access",
+                "description": "Finally, your business is fully registered and compliant, empowering you to access high-value UAE contracts and growth opportunities.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Vendor & Supplier Registration in Abu Dhabi & Beyond",
+        "description": "Struggling with confusing supplier portal requirements, repeated document rejections, and complicated vendor onboarding processes? At One Nexuz, we offer end-to-end support to fast-track approvals and get your business operational in record time.",
+        "items": [
+            {
+                "title": "Fully Done-for-You Registration",
+                "description": "We handle the entire process, from document preparation to portal submissions and follow-ups, so you can focus on scaling to new heights.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/bgImage/1.webp"
+            },
+            {
+                "title": "UAE Compliance Experts",
+                "description": "Our team understands the ins and outs of each government and corporate entity, ensuring your application is 100% accurate and compliant.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/bgImage/2.webp"
+            },
+            {
+                "title": "Faster Approvals with Zero Guesswork",
+                "description": "Avoid costly delays, errors, or application rejections, improving turnaround times and securing portal approvals in half the time.",
+                "image": "/assets/supplierAndVendorRegistrationSupport/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/supplierAndVendorRegistrationSupport/grid/1.webp",
+        "title": "Get Listed Across All Key UAE Supplier Portals — Fast",
+        "description": "Appear where Dubai and federal buyers search. One Nexuz completes portal registrations end-to-end, so tenders don't slip through the cracks.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz made the supplier registration process effortless. From document preparation to final approval, they guided us every step of the way, and our business is now fully registered and ready to bid on UAE contracts.",
+                "role": "Construction & Engineering Company Procurement Manager",
+                "image": "/assets/supplierAndVendorRegistrationSupport/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "As a new expat entrepreneur, I was overwhelmed by the complex registration portals. One Nexuz handled everything professionally, and we were approved much faster than I expected. Their support was invaluable.",
+                "role": "Tech Startup Founder & CEO",
+                "image": "/assets/supplierAndVendorRegistrationSupport/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "The team at One Nexuz ensured our documents were fully compliant, submitted on time, and tracked throughout the process. Their expertise gave us confidence and saved weeks of hassle",
+                "role": "Import/Export Trading Company Operations Director",
+                "image": "/assets/supplierAndVendorRegistrationSupport/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Everything You Need to Run Your Business Efficiently",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Keep your systems connected and secure with professional IT support and round-the-clock tech support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Ensure you never miss an important business document with expert mail management support.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "description": "Leave a lasting first impression and build trust with dedicated, custom-built virtual receptionist solutions.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "description": "Streamline hiring, onboard smarter, and retain top talent with end-to-end HR & recruitment assistance.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Management & Filing Services",
+                "description": "Organise, secure, and retrieve files with expert document management & filing services.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier",
+                "description": "Simplify local and global deliveries and shipments with coordinated logistics support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Procurement Support",
+                "description": "Minimise bottlenecks and maximise business efficiency with procurement support.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "description": "Stay eligible for government contracts and explore lucrative opportunities.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Win Million-Dollar Contracts?",
+        "description": "Streamline vendor and supplier portal sign-ups, speed up approvals, and bid for high-value government and corporate contracts stress-free with our experts guiding you every step of the way.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/supplierAndVendorRegistrationSupport/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is supplier and vendor registration in the UAE?",
+                "answer": "Supplier and vendor registration is the process of obtaining official approval for your business to supply goods or services to government entities, semi-government organizations, and private companies in the UAE."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who needs to register as a supplier or vendor?",
+                "answer": "Any business—local or expat-owned—that wants to bid on contracts, participate in tenders, or supply products or services to UAE organizations should register."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does the registration process take?",
+                "answer": "The timeline varies depending on the entity and the completeness of your documents. With our expert guidance, most registrations are completed within days."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents are required for registration?",
+                "answer": "Commonly required documents include your trade license, company profile, bank details, tax registration (if applicable), and relevant certifications. One Nexuz ensures all documents are correct and compliant before submission."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What if my registration is rejected or delayed?",
+                "answer": "Our team proactively manages compliance and documentation to minimize rejections. If any issues arise, we liaise with the relevant authorities to resolve them quickly and efficiently."
+            }
+        ]
+    }
+}
