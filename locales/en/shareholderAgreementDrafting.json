@@ -1,0 +1,257 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/shareholderAgreementDrafting.webp",
+        "title": "Protect Your Business with a Legally-Sound Shareholder Agreement ",
+        "description": "Without a clear shareholder agreement, you run the risk of violating the UAE’s stringent regulations, stalling operations, and jeopardising business success. Our seasoned consultants help secure your business’s interest and your family’s future with custom-tailored shareholder agreements."
+    },
+    "leftSection_1": {
+        "title": "Why Businesses Need Professional Shareholder Agreements",
+        "description": "Minimise the risk of litigation, costly deadlocks, and default Sharia law from affecting business operations with a custom shareholder agreement.   ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Save Millions on Legal Disputes",
+                "subTitle": "Save Millions on Legal Disputes",
+                "description": "Over 50% of startups crumble due to partner disagreements. A professional agreement safeguards your business’s interest with custom clauses. ",
+                "image": "/assets/shareholderAgreementDrafting/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Draft UAE-Compliant Agreements",
+                "subTitle": "Draft UAE-Compliant Agreements",
+                "description": "Save millions of dirhams on non-compliance by skipping ready-to-use agreement templates. A personalised draft addresses industry-specific requirements for seamless operations.",
+                "image": "/assets/shareholderAgreementDrafting/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Secure Your Loved One’s Future",
+                "subTitle": "Secure Your Loved One’s Future",
+                "description": "Preserve your wealth and protect your family’s legacy via strategic exit strategies, fair distribution of power, and resolution mechanisms to mitigate the risk of disputes and deadlocks.",
+                "image": "/assets/shareholderAgreementDrafting/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Build Investor Trust ",
+                "subTitle": "Build Investor Trust ",
+                "description": "Make a lasting first impression with UAE-specific clauses and professionally drafted documents to foster credibility and close deals more confidently.",
+                "image": "/assets/shareholderAgreementDrafting/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Exhaustive Shareholder Agreement Drafting Services",
+        "description": "Reclaim time and cost lost navigating the UAE’s dynamic regulatory environment with our end-to-end shareholder agreement drafting services: ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Custom Clauses",
+                "description": "Craft clear clauses that reflect your ownership structure, profit-sharing, and exit strategy.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Jurisdiction-Specific Drafting",
+                "description": "Stay 100% compliant with the UAE’s Mainland, FZ, & Offshore requirements with tailored drafts.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dispute Protection",
+                "description": "Prevent future partner disputes with built-in mechanisms like drag-along and deadlock resolution clauses.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Valuation Methods ",
+                "description": "Ensure fair buyouts and exits with predefined share valuation methods written into your agreement.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/shareholderAgreementDrafting/left4/1.webp",
+            "title": "Avoid Costly Partnership Breakdowns with Shareholder Agreement",
+            "description": "Up to 70% of business partnerships fail due to unclear expectations or equity disputes. A well-drafted agreement shields your business from costly disputes.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/shareholderAgreementDrafting/left4/2.webp",
+            "title": "Tailored Shareholder Agreements — Get a Quote that Fits Your Budget",
+            "description": "Say goodbye to one-size-fits-all pricing. Get a shareholder agreement designed for your company’s unique needs, and pay only for the services your business needs. ",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Draft Your Shareholder Agreement in 4 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book Your Free Consultation",
+                "description": "We’ll start by discussing your industry, legal structure, and number of shareholders to understand your unique business needs.",
+                "image": "/assets/shareholderAgreementDrafting/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Receive Your First Draft",
+                "description": "Next, our team of seasoned lawyers will provide you with a 100% compliant custom shareholders' agreement.",
+                "image": "/assets/shareholderAgreementDrafting/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Review & Refine",
+                "description": "We’ll adjust the clauses and tweak the agreement based on your feedback to ensure it matches your needs.",
+                "image": "/assets/shareholderAgreementDrafting/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Sign with Confidence",
+                "description": "Once you’re satisfied, we’ll send the final draft, ready for registration and implementation! ",
+                "image": "/assets/shareholderAgreementDrafting/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust Our Shareholder Agreement Drafting Lawyers",
+        "description": "Downloading a generic online template sounds like a cost-saving measure, until you consider the millions spent on resolving disputes. Our expert shareholder agreement lawyers draft custom clauses to meet your unique business needs.",
+        "items": [
+            {
+                "title": "UAE-Licensed Legal Experts ",
+                "description": "With 10+ years of experience, we understand the intricacies of Free Zone and Mainland laws, empowering you with 100% compliant agreements. ",
+                "image": "/assets/shareholderAgreementDrafting/bgImage/1.webp"
+            },
+            {
+                "title": "Tailored Shareholder Agreements",
+                "description": "Whether you’re structuring a tech startup or a family office, we draft personalised shareholder agreements that reflect your legal entity and industry.",
+                "image": "/assets/shareholderAgreementDrafting/bgImage/2.webp"
+            },
+            {
+                "title": "Legal & Business Strategy Combined",
+                "description": "Our holistic shareholder agreements safeguard your business against legal actions, share withdrawals, and buyback valuation with objective agreements. ",
+                "image": "/assets/shareholderAgreementDrafting/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/shareholderAgreementDrafting/grid/1.webp",
+        "title": "Secure Equity Rights & Voting Power under One Document",
+        "description": "Don’t let ambiguity damage your business’s reputation. Trust our expert consultants to structure your agreement in line with UAE regulations. ",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz ",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The team explained everything clearly and handled our shareholders agreement with precision. We now have peace of mind knowing our equity and decision rights are protected under UAE law.”",
+                "role": "Dubai-based Tech Startup Co-Founder",
+                "image": "/assets/shareholderAgreementDrafting/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We tried using an online template before, but it backfired during a funding round. Their customized approach helped us avoid future investor roadblocks and internal disputes.”",
+                "role": "Family-Owned F&B Business Managing Partner",
+                "image": "/assets/shareholderAgreementDrafting/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From consultation to final signing, the process was efficient and thorough. Their deep knowledge of free zone compliance and legal structuring saved us weeks of back-and-forth.”",
+                "role": "Logistics Firm Director",
+                "image": "/assets/shareholderAgreementDrafting/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Scale with Confidence with Our Expert Legal Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Governance",
+                "description": "Prevent disputes, align stakeholders, and protect your ownership structure with clear agreement drafts.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Board Resolution Drafting ",
+                "description": "Protect business decisions and drive action with precise, clearly defined board resolutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "HR Policy Drafting",
+                "description": "Boost employee engagement, retain top talent, and minimise workplace risks with tailored HR policies. ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Secure Business Ownership with Custom Shareholders Agreements ",
+        "description": "Protect your equity, business success, and peace of mind with UAE-compliant shareholder agreements. Our seasoned lawyers provide you with clear agreement drafts to reduce the burden of legal disputes.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/shareholderAgreementDrafting/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "HR Policy Drafting",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Board Resolution Drafting",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Corporate Governance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Who can draft a UAE-compliant shareholder agreement?",
+                "answer": "While you can create a shareholder agreement, you run the risk of non-compliance, writing ambiguous clauses, or skipping key information. For this reason, our expert lawyers help you draft documents tailored to your company’s requirements.   "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why should you hire an expert shareholder agreement drafting lawyer?",
+                "answer": "Working with an expert shareholder agreement lawyer can help you protect your business’s interests, define power and equity, and capture investors."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does One Nexuz require to draft a shareholders agreement?",
+                "answer": "Our experts provide you with a customised shareholders agreement within 1-2 weeks, depending on your industry, legal structure, and unique business needs."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I update my shareholder agreement to add new shareholders?",
+                "answer": "Yes, our seasoned shareholder agreement lawyers can refine your existing shareholder agreement to add new members. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Will my shareholder agreement stay confidential?",
+                "answer": "Yes, shareholder agreements are private contracts and do not need to be submitted to any public parties. You may need to disclose certain clauses to investors, banks, or auditors."
+            }
+        ]
+    }
+}

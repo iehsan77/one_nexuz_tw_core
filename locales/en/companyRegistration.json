@@ -1,0 +1,279 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/companyRegistration.webp",
+        "title": "Register, License, and Launch Your Business in the UAE — All Under One Roof with One Nexuz",
+        "description": "Tired of endless paperwork, slow approvals, confusing regulations, and hidden costs holding back your UAE business setup? At One Nexuz, our expert business consultants do all the heavy lifting so that you can tap into the UAE’s exciting tax benefits, 100% foreign ownership, and total freedom to repatriate profits. Join the 70,000+ businesses thriving in Dubai and take advantage of its world-class infrastructure, seamless banking, and global market access."
+    },
+    "leftSection_1": {
+        "title": "Why Should You Get Company Registration Services For Your UAE Business",
+        "description": "Build brand credibility, unlock tax advantages, maximize profits, and gain access to lucrative global markets with expert company registration services in Dubai, UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Launch Locally, Expand Globally, and Reach Customers across Borders",
+                "subTitle": "Launch Locally, Expand Globally, and Reach Customers across Borders",
+                "description": "Launch at the crossroads of Europe, Asia, and Africa to tap into fast-growing local and global markets to unlock exciting trade, partnership, and growth opportunities.",
+                "image": "/assets/companyRegistration/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Win Investor Confidence, Attract Clients, & Shield Your Brand Reputation ",
+                "subTitle": "Win Investor Confidence, Attract Clients, & Shield Your Brand Reputation ",
+                "description": "A registered UAE company signals professionalism and compliance, building instant brand trust while safeguarding your business assets.",
+                "image": "/assets/companyRegistration/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "From Family Support to Sponsoring Partners — Simplify Residency for All",
+                "subTitle": "From Family Support to Sponsoring Partners — Simplify Residency for All",
+                "description": "Sponsor your loved ones, build your dream team, and on-board business partners — all under one registered UAE company.",
+                "image": "/assets/companyRegistration/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "From Setup to Compliance — Our All-in-One UAE Company Registration Services",
+        "description": "Launch your UAE company hassle-free with our end-to-end business registration solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/companyRegistration/iconTitleSec/1.svg",
+                "title": "Business Structure & Jurisdiction Advisory"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/companyRegistration/iconTitleSec/2.svg",
+                "title": "Trade Name Reservation"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/companyRegistration/iconTitleSec/3.svg",
+                "title": "Business Activity & Licensing Assistance"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/companyRegistration/iconTitleSec/4.svg",
+                "title": "Document Preparation & Submission"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "title": "Office Space Solutions"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "title": "Government Approvals & Registrations"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "title": "Visa & Immigration Support"
+            },
+            {
+                "id": 8,
+                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "title": "Banking & Financial Setup Assistance"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/companyRegistration/left4/1.webp",
+            "title": "From Paperwork to Possibilities—Discover Pricing That Works for You",
+            "description": "No confusing packages, no hidden fees, and no surprise add-ons. Pay only for the registration services your business actually needs—and scale effortlessly as your company grows.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Launch Confidently with Our 4-Step Company Registration Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Business Consultation",
+                "description": "We'll start with a one-on-one session to assess your business goals and activities and create a tailored registration plan.",
+                "image": "/assets/companyRegistration/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare & Submit Documents",
+                "description": "Next, our experts help compile your documents, complete all paperwork, and submit everything to the relevant UAE authorities.",
+                "image": "/assets/companyRegistration/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Issue a Trade License",
+                "description": "Once approved, you'll receive your trade license, allowing you to operate legally. In addition, we'll assist with visa processing and Emirates ID.",
+                "image": "/assets/companyRegistration/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Create Your Bank Account",
+                "description": "Finally, our specialists assist you in identifying the ideal local or international bank and opening a personal or corporate account",
+                "image": "/assets/companyRegistration/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Streamline Company Registration in the UAE",
+        "description": "Uptaking company registration independently can result in costly delays, missed documents, or hefty fines, stalling your launch. Our experts simplify business registration in Dubai & beyond, so you can focus on scaling your business.",
+        "items": [
+            {
+                "title": "Shorten Your Time to Market",
+                "description": "By streamlining the registration process, we expedite registration, fast-track licensing, and drive business momentum.",
+                "image": "/assets/companyRegistration/bgImage/1.webp"
+            },
+            {
+                "title": "Gain Unlimited Legal Support",
+                "description": "Our expert business consultants offer round-the-clock legal advice, empowering you to make smart business decisions.",
+                "image": "/assets/companyRegistration/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Digital Support",
+                "description": "For those working remotely, our 100% digital setup guides you throughout the process, from e-signature to digital submissions.",
+                "image": "/assets/companyRegistration/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/companyRegistration/grid/1.webp",
+        "title": "Join 50,000+ Businesses Thriving in the UAE with One Nexuz",
+        "description": "Get fast, compliant company registration — tap into a booming market with 238,000+ active licences nationwide with our seasoned PRO specialists.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz.",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz made the entire registration process effortless. I was launching my first business and had no idea where to start—but their team had my Free Zone license approved in 4 days.",
+                "role": "Tech Founder",
+                "image": "/assets/companyRegistration/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Their legal and compliance knowledge saved me from choosing the wrong license type. What I thought I needed would’ve cost 2x more. These guys know the system inside out.",
+                "role": "AI Founder",
+                "image": "/assets/companyRegistration/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From document prep to final approval, everything was handled with precision. I didn’t have to chase anything—they kept me updated every step of the way.”",
+                "role": "F&B Entrepreneur",
+                "image": "/assets/companyRegistration/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Simplify Company Registration in Dubai with One Nexuz?",
+        "description": "Start your Dubai business the smart way to tap into the region’s booming local and global markets. Our experts handle everything from registration to licensing, so you can launch in days, not months.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/companyRegistration/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I set up a company remotely?",
+                "answer": "Yes, most business registrations can be done remotely, including e-signatures, digital submissions, and POA setups."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Is Dubai a good place to register my business?",
+                "answer": "Yes, Dubai’s thriving economy, global market, and extensive range of commercial benefits make it a fantastic location for startups, entrepreneurs, and global brands."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents do I need to register my company in the UAE?",
+                "answer": "You’ll need copies of your passport, proof of address, description of business activities, and several other business documents, depending on your desired license."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does business registration in Dubai take?",
+                "answer": "Company registration in the UAE can take 1-2 weeks, depending on your business activities, location, and unique needs. You can get registered in a shorter time in Dubai’s free zones."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can expats register their company in the UAE?",
+                "answer": "Yes, foreigners can register and launch their business in either designated Free Zones or on the Mainland with a local sponsor, agent, or nominee. "
+            }
+        ]
+    }
+}

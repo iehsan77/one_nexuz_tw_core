@@ -1,0 +1,264 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/vatRegistrationAndFiling.webp",
+        "title": "Register Your Business, Maintain Accurate Accounts, & Protect Your Bottom Line — Complete VAT Registration & Filing Solutions",
+        "description": "Missed VAT deadlines, confusing regulations, and costly penalties can drain your time and money. At One Nexuz, our seasoned VAT advisory team takes the stress off your plate, streamlining registration and filing to ensure you stay fully compliant without lifting a finger. Reclaim input VAT, optimise your cash flow, and foster credibility with clients and partners with our expert VAT registration and filing services in the UAE."
+    },
+    "leftSection_1": {
+        "title": "Why UAE Businesses Need VAT Registration and Filing Services",
+        "description": "Gain a competitive edge, navigate FTA audits, safeguard your business, and remit VAT accurately with professional VAT registration and filing in the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Stay Compliant, Meet Deadlines, and Keep Your Business Running Smoothly",
+                "subTitle": "Stay Compliant, Meet Deadlines, and Keep Your Business Running Smoothly",
+                "description": "Stay ahead of the UAE's VAT regulations, prevent costly fines and penalties, and remain fully compliant with timely registration and accurate filing.",
+                "image": "/assets/vatRegistrationAndFiling/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Elevate Brand Credibility, Boost Confidence, & Unlock High-Value Opportunities ",
+                "subTitle": "Elevate Brand Credibility, Boost Confidence, & Unlock High-Value Opportunities ",
+                "description": "Strengthen your brand reputation, win client, partner, and investor trust, and secure high-value contracts with a valid VAT registration number.",
+                "image": "/assets/vatRegistrationAndFiling/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Reclaim, Track, & Reinvest—Turn Every Dirham Into Business Growth",
+                "subTitle": "Reclaim, Track, & Reinvest—Turn Every Dirham Into Business Growth",
+                "description": "Claim eligible input tax credits, improve cash flow, and drive business revenue with on-time, accurate, and audit-ready VAT records.",
+                "image": "/assets/vatRegistrationAndFiling/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Minimise Risk & Maximise Accuracy with Our Comprehensive VAT Solutions",
+        "description": "Stay compliant, save time, and discover new business opportunities with our end-to-end VAT registration and filing services.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/1.svg",
+                "title": "VAT Registration"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/2.svg",
+                "title": "VAT Filing & Returns"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/3.svg",
+                "title": "VAT Advisory & Consultancy"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/4.svg",
+                "title": "VAT Compliance Audits"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/5.svg",
+                "title": "Input Tax Recovery Assistance"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/5.svg",
+                "title": "Continuous Support & Updates"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/vatRegistrationAndFiling/left4/1.webp",
+            "title": "VAT Support That Fits Your Budget — Transparent, Flexible, & Hassle-Free",
+            "description": "Cut the confusion. No hidden fees. No rigid packages. Whether it’s registration, filing, or full VAT support, pay only for what your business actually uses and scale as your team grows.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Help Maximise Your Cash Flow in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a Consultation",
+                "description": "We'll discuss your business details to assess your eligibility and guide you through the entire registration process.",
+                "image": "/assets/vatRegistrationAndFiling/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare & Submit Documents",
+                "description": "Based on our initial discussion, we'll help you collect, verify, and submit your documents to the FTA.",
+                "image": "/assets/vatRegistrationAndFiling/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Ensure Timely VAT Filing",
+                "description": "Next, our team manages your regular VAT filings, monitors deadlines, and ensures compliance to protect your business from fines.",
+                "image": "/assets/vatRegistrationAndFiling/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Continuous Support",
+                "description": "Beyond filings, we provide ongoing guidance, regulatory updates, and insights to optimise VAT input claims.",
+                "image": "/assets/vatRegistrationAndFiling/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Reliable VAT Registration & Filing Services",
+        "description": "One slip in your VAT filing can result in costly penalties, lost refunds, and countless hours. At One Nexuz, our experts do all the heavy lifting, so you stay compliant and focused on growth.",
+        "items": [
+            {
+                "title": "Trusted Expertise, Hassle-Free Compliance",
+                "description": "Our seasoned VAT specialists boast in-depth local knowledge, ensuring accurate registration, precise filings, and full compliance.",
+                "image": "/assets/vatRegistrationAndFiling/bgImage/1.webp"
+            },
+            {
+                "title": "Zero Errors, Full Compliance",
+                "description": "Reclaim 125+ hours annually, minimise errors, and prevent hefty fines with accurate reclaims, timely filings, and audit-ready accounts.",
+                "image": "/assets/vatRegistrationAndFiling/bgImage/2.webp"
+            },
+            {
+                "title": "Round-the-Clock VAT Support",
+                "description": "Stay up to date with the UAE's evolving VAT regulations through ongoing regulatory updates and strategic filing advice.",
+                "image": "/assets/vatRegistrationAndFiling/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/vatRegistrationAndFiling/grid/1.webp",
+        "title": "Save AED 10,000+ in VAT Penalties — Register & File on Time",
+        "description": "Late registration or missed filings can cost your business thousands. Our seasoned VAT specialists ensure you're fully compliant—on time, every time.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz made VAT compliance effortless. We no longer worry about penalties or missed deadlines.”",
+                "role": "SME Retail Company Finance Manager",
+                "image": "/assets/vatRegistrationAndFiling/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Their team streamlined our VAT filings and reclaimed input taxes we didn’t even know were recoverable.”",
+                "role": "Logistics & Distribution Firm CEO",
+                "image": "/assets/vatRegistrationAndFiling/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Professional, accurate, and always on time—One Nexuz saves us hours every month.”",
+                "role": "Hospitality Group Accounting Head",
+                "image": "/assets/vatRegistrationAndFiling/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Struggling to Keep Up With Tight VAT Deadlines?",
+        "description": "Struggling to Keep Up With Tight VAT Deadlines? Strengthen your business finances, build client trust, and enjoy complete peace of mind with our expert VAT registration services in Dubai & beyond. We handle all the administrative overheads, so you can expand confidently.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/vatRegistrationAndFiling/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is VAT in the UAE, and who needs to register?",
+                "answer": "VAT is a 5% consumption tax introduced by the UAE government. Any business with an annual turnover exceeding AED 375,000 must register, though smaller businesses can opt for voluntary registration."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does VAT registration take?",
+                "answer": "Typically, it takes a few weeks to register. However, our expert VAT specialists help you secure your VAT registration code within 5-7 business days."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents are required for VAT registration?",
+                "answer": "Typical documents include a trade license, passport copies, Emirates ID, bank account info, and financial records. Our experts help you compile, prepare, and submit the necessary documents for your jurisdiction."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How often do I need to file VAT returns in the UAE?",
+                "answer": "Most businesses file quarterly, though some may need monthly filing. We ensure timely submissions to help you avoid penalties."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help recover input VAT?",
+                "answer": "Absolutely! Our experts maximize your refunds on business expenses, improving cash flow and reducing financial leakage."
+            }
+        ]
+    }
+}

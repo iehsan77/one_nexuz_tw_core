@@ -1,0 +1,279 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/licenseRegistrationAndRenewal.webp",
+        "title": "Register, Approve, Update, & Renew — Keep Your UAE Business Running with Our All-in-One Licensing Solutions",
+        "description": "Frustrated with endless paperwork, complex license compliance requirements, and fast-approaching renewal deadlines? At One Nexuz, our experts do all the legwork, from registration to renewal, so you can focus on driving limitless business growth. Save time, stay compliant, and scale confidently!"
+    },
+    "leftSection_1": {
+        "title": "Why Business Owners Need UAE License Registration & Renewal Services",
+        "description": "Capitalise on the UAE's lucrative local and global markets, protect your operations, and secure sustainable business success with expert UAE license registration and renewal solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Impress Clients, Strengthen Your Brand Identity, & Win More Opportunities ",
+                "subTitle": "Impress Clients, Strengthen Your Brand Identity, & Win More Opportunities ",
+                "description": "Win instant client trust, build investor confidence, foster brand trust, and signal professionalism by securing the appropriate trade license.",
+                "image": "/assets/licenseRegistrationAndRenewal/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Build, Scale, and Expand Confidently — Unlock Your Business Potential ",
+                "subTitle": "Build, Scale, and Expand Confidently — Unlock Your Business Potential ",
+                "description": "Save AED 1,000+ in fines, prevent penalties, protect your business reputation, and maintain operational efficiency with timely license renewals.",
+                "image": "/assets/licenseRegistrationAndRenewal/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Build, Scale, and Expand Confidently — Unlock Your Business Potential",
+                "subTitle": "Build, Scale, and Expand Confidently — Unlock Your Business Potential",
+                "description": "Expand business activities, grow your team, or enter fast-growing markets across the Emirates with UAE-compliant license renewals.",
+                "image": "/assets/licenseRegistrationAndRenewal/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Everything You Need to Get Licensed — All in One Place",
+        "description": "Ensure your business stays compliant, operational, and ready to grow with our end-to-end license registration and renewal solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/1.svg",
+                "title": "License Type Consultation"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/2.svg",
+                "title": "Document Preparation & Submission"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/3.svg",
+                "title": "Government Approvals & Processing"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/4.svg",
+                "title": "Annual License Renewal"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/5.svg",
+                "title": "Compliance Checks & Updates"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/6.svg",
+                "title": "Visa & Employee Approvals"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/7.svg",
+                "title": "Add/Modify Business Activities"
+            },
+            {
+                "id": 8,
+                "icon": "/assets/licenseRegistrationAndRenewal/iconTitleSec/7.svg",
+                "title": "Cost Advisory"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/licenseRegistrationAndRenewal/left4/1.webp",
+            "title": "Transparent License Fees, Smooth Renewals — Pricing You Can Trust",
+            "description": "Get a clear breakdown of your license registration and renewal costs—no hidden fees, no unnecessary add-ons. Pay only for the services your business requires, with expert guidance to ensure compliance and fast approvals.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 4-Step Process to Register, Renew, & Manage Your Business",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We'll schedule a no-obligations call to discuss your licensing needs. We identify the best-fit license type, jurisdiction, and activities to ensure compliance.",
+                "image": "/assets/licenseRegistrationAndRenewal/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare & Submit Documents",
+                "description": "Next, we gather, prepare, and submit all required paperwork, approvals, and attestations — taking the administrative burden off your plate.",
+                "image": "/assets/licenseRegistrationAndRenewal/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Approvals & License Issuance",
+                "description": "We liaise directly with authorities to secure approvals quickly and accurately, ensuring your license is issued without delays.",
+                "image": "/assets/licenseRegistrationAndRenewal/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Enjoy Renewals & Ongoing Compliance",
+                "description": "Finally, we ensure timely renewals, monitor compliance updates, and provide ongoing support for license modifications to ensure uninterrupted business operations.",
+                "image": "/assets/licenseRegistrationAndRenewal/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for Business Licensing & Renewals",
+        "description": "Skip the compliance stress and administrative headaches with our seasoned experts, empowering you to focus on what matters most — growing your business.",
+        "items": [
+            {
+                "title": "Expert Guidance Every Step of the Way",
+                "description": "Our PRO specialists know the ins and outs of UAE licensing, regulations, and approvals, ensuring your business stays fully compliant without the headaches.",
+                "image": "/assets/licenseRegistrationAndRenewal/bgImage/1.webp"
+            },
+            {
+                "title": "Secure Your License in Half the Time",
+                "description": "Wave goodbye to long waits, paperwork, and follow-ups with our seamless licensing solutions, accelerating approvals and renewals.",
+                "image": "/assets/licenseRegistrationAndRenewal/bgImage/2.webp"
+            },
+            {
+                "title": "End-to-End License Management",
+                "description": "We handle everything, from documentation and approvals to renewals and updates, to keep your business running smoothly year-round.",
+                "image": "/assets/licenseRegistrationAndRenewal/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/licenseRegistrationAndRenewal/grid/1.webp",
+        "title": "Join the 238,000+ Licensed Firms Thriving in the UAE with One Nexuz",
+        "description": "Let our experts handle the paperwork so you stay legally active, avoid costly delays, and unlock exclusive access to the UAE’s booming commercial environment.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz made registering our business in the UAE completely hassle-free. From paperwork to approvals, every step was handled professionally, saving us weeks of time and stress.",
+                "role": "Tech Startup CEO",
+                "image": "/assets/licenseRegistrationAndRenewal/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Renewing our license used to be a daunting process, but with One Nexuz, it was seamless. Their team ensured compliance and guided us through every detail effortlessly.",
+                "role": "E-commerce Company Founder",
+                "image": "/assets/licenseRegistrationAndRenewal/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Thanks to One Nexuz, we were able to expand our business activities smoothly. Their expertise gave us confidence that everything was fully compliant and future-proofed.",
+                "role": "Consulting Firm Operations Manager",
+                "image": "/assets/licenseRegistrationAndRenewal/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Launch? Secure Your UAE License or Renewal Today",
+        "description": "Secure legal status, avoid fines or disruptions, win high-value contracts, and gain full access to top local and global markets with our seasoned PRO experts guiding you every step of the way.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/licenseRegistrationAndRenewal/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does license registration take?",
+                "answer": "The duration varies depending on your business type and jurisdiction and can take anywhere from a few days to a few weeks. Our experts help you secure your license within 7-14 days. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to register my UAE business license?",
+                "answer": "Typically, you’ll need passport copies, visa status, tenancy contracts for your business office, business plan, and company incorporation forms. Certain business activities may require additional approvals and activity-specific permits."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "When should I renew my business license?",
+                "answer": "Business licenses are generally valid for one year. Renewal should be initiated at least a few weeks before the expiry date to avoid fines, penalties, or business disruptions."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I change or add business activities after registration?",
+                "answer": "Absolutely! Our experts can help you modify or expand your license activities as your business grows by preparing and submitting updated documents."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What happens if I fail to renew my business license on time?",
+                "answer": "Failure to renew can result in fines, penalties, suspension, or cancellation of your license. It may also affect visa status, banking, and other business operations tied to your license."
+            }
+        ]
+    }
+}

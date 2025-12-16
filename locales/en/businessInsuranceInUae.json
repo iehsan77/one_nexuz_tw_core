@@ -1,0 +1,251 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/businessInsuranceInUae.webp",
+        "title": "Protect Your Business with Tailored Business Insurance Plans",
+        "description": "In the UAE’s fast-paced market, your business deserves more than the guesswork–it needs protection that keeps up. Our expert consultants offer tailored plans that safeguard your operations, assets, and people, so you can scale with confidence."
+    },
+    "leftSection_1": {
+        "title": "Why Dubai-Based Businesses Need Corporate Insurance?",
+        "description": "Here’s the truth- over 30% of companies in the UAE lack sufficient insurance, exposing them to catastrophic risks that could wipe out their operations. That’s where expert business insurance providers like One Nexuz step in, offering tailor-made packages to secure your business.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Combat Financial Risks",
+                "subTitle": "Combat Financial Risks",
+                "description": "With tailored insurance plans, your business is likely to recover twice as fast from catastrophes like fire, flood, or litigation, so you can carry on scaling.",
+                "image": "/assets/businessInsuranceInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Boost Your Credibility",
+                "subTitle": "Boost Your Credibility",
+                "description": "toHaving professional business insurance gives you credibility, showcasing to clients you’re financially secure and allowing you to win more contracts.",
+                "image": "/assets/businessInsuranceInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Attract & Retain Top Talent",
+                "subTitle": "Attract & Retain Top Talent",
+                "description": "Companies with top-notch business insurance plans experience improved employee satisfaction and retention, ultimately increasing workplace productivity.",
+                "image": "/assets/businessInsuranceInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Stay Operational when Disaster Strikes",
+                "subTitle": "Stay Operational when Disaster Strikes",
+                "description": "Securing the right business policy helps you recover lost income, pay salaries, and repair damages, so a crisis doesn’t transform into a shutdown.",
+                "image": "/assets/businessInsuranceInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Choose Coverage Built Around Your Risk Profile",
+        "items": [
+            {
+                "id": 1,
+                "title": "General Liability Insurance",
+                "description": "Get holistic protection against third-party claims of injury and property damage.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Property & Asset Insurance",
+                "description": "Cover your office, equipment, inventory, and physical business assets.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Energy Insurance",
+                "description": "Get specialised protection against exploration, extraction, and equipment damage.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Workers’ Compensation",
+                "description": "Mandatory in the UAE, this protects your employees in case of workplace injuries.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Cybersecurity Insurance",
+                "description": "Secure your digital assets and private data against malicious attacks and breaches.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Marine & Cargo Insurance",
+                "description": "Protect your goods and assets during transit, whether regionally or globally.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Fleet Insurance",
+                "description": "Keep company-owned vehicles safe with third-party or full coverage options.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Engineering & Construction Insurance",
+                "description": "Focus on transforming dream projects into reality with holistic project-related risk protection.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/businessInsuranceInUae/left4/1.webp",
+            "title": "Cut Business Risk Exposure in Half with the Right Insurance Strategy",
+            "description": "Uncovered risks can drain your finances, stall growth, or worse, shut your business down. We empower you with custom-built insurance solutions designed to maintain your business continuity.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/businessInsuranceInUae/left4/2.webp",
+            "title": "Business Insurance in the UAE Cost—Transparent, Fair, and Built Around You",
+            "description": "Select the coverage your company truly needs, with transparent pricing and zero hidden charges. From liability to asset protection, scale your insurance plan as your business grows—paying only for the risk coverage that applies to you.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Get Reliable Coverage in Five Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "Our business specialists take the time to understand your corporate insurance requirements and business goals.",
+                "image": "/assets/businessInsuranceInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Submit Your Documents",
+                "description": "Our consultants will guide you on the necessary documents to ensure your paperwork is completed within seconds.",
+                "image": "/assets/businessInsuranceInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Compare Tailored Plans",
+                "description": "We match you with the most relevant business policies, clearly explaining what’s covered and what’s optional.",
+                "image": "/assets/businessInsuranceInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Review & Choose",
+                "description": "With zero hidden fees, round-the-clock support, and transparent coverage options, we help you pinpoint the ideal plan.",
+                "image": "/assets/businessInsuranceInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Ongoing Support & Claims",
+                "description": "Our seamless process ensures you’re fully insured within 24-48 hours. Besides this, you can enjoy 24/7 customer support.",
+                "image": "/assets/businessInsuranceInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Partner in Risk Management",
+        "description": "Protect your business against property damage, weather calamities, legal fees, and lost income with tailored insurance plans. With our team of seasoned insurance specialists, you can secure your company’s growth and success.",
+        "items": [
+            {
+                "title": "Gain Industry-Specific Expertise",
+                "description": "Get strategic business insurance guidance and coverage comparisons tailored to your industry’s unique risk landscape.",
+                "image": "/assets/businessInsuranceInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Expedite Claim Resolutions",
+                "description": "We prioritize speed, which is why our claims are processed within 1-14 days, keeping your business on track.",
+                "image": "/assets/businessInsuranceInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Access Round-the-Clock Support",
+                "description": "Got a question? With our 24/7 customer support, you can resolve all queries anytime, anywhere.",
+                "image": "/assets/businessInsuranceInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/businessInsuranceInUae/grid/1.webp",
+        "title": "Half of Businesses Have Insufficient Insurance- That’s Business Suicide",
+        "description": "One unexpected lawsuit or disaster can end their business for good. With One Nexuz, you can unlock risk-ready coverage within 48 hours.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz helped us find a package that reduced our premiums without compromising coverage. Their team made it effortless.”",
+                "role": "E-Commerce Business Owner",
+                "image": "/assets/businessInsuranceInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Quick claims, smart advisors, and they actually know the logistics sector.”",
+                "role": "Logistics Director",
+                "image": "/assets/businessInsuranceInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“They tailored the policy to our business needs—not a generic template. We’re fully covered and saved time and money.”",
+                "role": "Events Company Founder",
+                "image": "/assets/businessInsuranceInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Business Protection that Grows with You",
+        "description": "Running a business in the UAE comes with opportunities and responsibilities. So, why risk your business assets? Get the protection you need to take your business to the next level.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/businessInsuranceInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Health Insurance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is business insurance mandatory in the UAE?",
+                "answer": "While not all types are mandatory, workers’ compensation is legally required. Depending on your business model, other insurances may be contractually or operationally essential."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How much time does it take to get a business insurance policy?",
+                "answer": "Once your application is complete, we typically issue a policy within 24-48 hours."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What happens if I have insufficient insurance?",
+                "answer": "Inadequate insurance coverage puts your business at risk of financial losses and visa issues."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I get business insurance if I have multiple business locations?",
+                "answer": "Absolutely! Our specialists help structure a policy that covers all locations under one streamline plan."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do your business insurance plans cover pre-existing conditions?",
+                "answer": "Yes, most of our insurance coverages include pre-existing conditions, protecting your busines against liabilities and losses."
+            }
+        ]
+    }
+}

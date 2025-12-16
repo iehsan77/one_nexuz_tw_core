@@ -1,0 +1,234 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/healthInsuranceInUae.webp",
+        "title": "Get Affordable & Compliant Health Insurance in Dubai",
+        "description": "Tired of chasing agents, paperwork, and approvals? We simplify corporate health coverage with full compliance, no-hassle plans tailored to your team. No confusion. No hidden fees. Just expert support and 100% DHA-approved protection done for you! "
+    },
+    "leftSection_1": {
+        "title": "Why Smart Businesses Put Health Insurance First",
+        "description": "Having the best health insurance in the UAE does more than protect employees. It helps create a supportive, healthy, and happy workplace where teams thrive and business grows.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Win Talent & Retention",
+                "subTitle": "Win Talent & Retention",
+                "description": "With 98% of employees agreeing that healthcare coverage is vital, businesses in Dubai need benefits that attract and retain top performers.",
+                "image": "/assets/healthInsuranceInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Boost Workplace Satisfaction",
+                "subTitle": "Boost Workplace Satisfaction",
+                "description": "More than half of employees view insurance quality as a key reason to stay, empowering happier workplaces, stronger loyalty, and higher retention rates.",
+                "image": "/assets/healthInsuranceInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Beat Salaries with Benefits",
+                "subTitle": "Beat Salaries with Benefits",
+                "description": "70% of employees prefer quality benefits over more pay, which means compliant health insurances allow you to compete without breaking the bank.",
+                "image": "/assets/healthInsuranceInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Shield Your Business from Risk",
+                "subTitle": "Shield Your Business from Risk",
+                "description": "With compliant, tailored, and high-quality plans, you can reduce absenteeism, avoid fines, and maintain a productive environment.",
+                "image": "/assets/healthInsuranceInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Private Health Insurance in Dubai Built for Your Real-Life Needs",
+        "description": "Recruit, hire, and retain top talent worldwide with our holistic, custom-built health insurance plans.",
+        "items": [
+            {
+                "id": 1,
+                "title": "DHA and DoH-Compliant Group Health Plans",
+                "description": "Meet all UAE legal requirements for employee health coverage, so your time and team are protected.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Maternity, Pediatric, and Family Coverage",
+                "description": "Support your employees through every life stage, cultivating workplace satisfaction and loyalty.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Mental Health and Telemedicine Access",
+                "description": "Take advantage of state-of-the-art technology to improve wellness, enjoy convenience, and reduce downtime.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Preventive Care and Wellness Programs",
+                "description": "Help your team stay healthy and happy with comprehensive annual checkups and fitness perks. ",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "24/7 Claims Assistance and Concierge Support",
+                "description": "Unlock around-the-clock help, so your team is never left waiting, ensuring your team enjoys top-notch healthcare. attacks and breaches.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/healthInsuranceInUae/left4/1.webp",
+            "title": "Boost Retention and Stay 100% Compliant with One Nexuz",
+            "description": "Protect your business and your team with DHA and DOH-compliant coverage. Our specialists provide tailor-made plans for SMEs to large enterprises, ensuring full compliance, efficiency, and coverage.",
+            "btn": "Schedule a Call Now",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/healthInsuranceInUae/left4/2.webp",
+            "title": "Health Insurance Plans Priced for Your Team’s Needs",
+            "description": "Get coverage that matches your workforce—no fixed bundles or unnecessary add-ons. Choose the benefits you need and pay only for the protection that fits your employees and your budget.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify Health Insurance with Hassle-Free Coverage Plans",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book Your First Consultation",
+                "description": "We get to know your team, business goals, and compliance obligations so we can tailor a plan that fits.",
+                "image": "/assets/healthInsuranceInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Receive a Custom Health Plan Quote",
+                "description": "Our specialists provide clear, no-jargon options with transparent pricing and a comprehensive benefits breakdown.",
+                "image": "/assets/healthInsuranceInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit all Your Documents",
+                "description": "We’ll help you compile all the relevant documents and handle the endless paperwork for a stress-free launch.",
+                "image": "/assets/healthInsuranceInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get All Employees Onboard",
+                "description": "Gain instant access to digital insurance cards, manage claims reimbursements, and enjoy direct payments.",
+                "image": "/assets/healthInsuranceInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Enjoy Round-the-Clock Health Support",
+                "description": "Our experts provide 24/7 dedicated support, enabling you to upgrade your insurance plan as your business scales.",
+                "image": "/assets/healthInsuranceInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Partner for Smarter Coverage",
+        "description": "From fast onboarding to full compliance support, we make health insurance in Dubai seamless, reliable, and simple. Here’s what sets us apart:",
+        "items": [
+            {
+                "title": "Save Up To 27% on Insurance",
+                "description": "With tailor-made health insurance plans, we help your business slash coverage costs while complying with Dubai’s dynamic health and business regulations.",
+                "image": "/assets/healthInsuranceInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy Fast Turnaround Times",
+                "description": "We get your employees' health insurance in as little as 3-7 business days with seamless processing, empowering your team with premium healthcare.",
+                "image": "/assets/healthInsuranceInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Ensure 100% DHA and DoH Compliance",
+                "description": "Our specialists ensure every plan meets legal standards, combating the risk of penalties, hefty fines, and surprise inspections.",
+                "image": "/assets/healthInsuranceInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/healthInsuranceInUae/grid/1.webp",
+        "title": "Save Up to 30% on Health Insurance with Expert Help",
+        "description": "We take the admin, claims, and compliance off your plate. Your HR team gets more time, and your business saves big- without the stress.",
+        "btn": "Scale Your Business Today",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz helped us onboard 60+ staff in 4 days with full compliance. Their team saved us time, money, and a lot of stress.”",
+                "role": "Retail Operations Manager",
+                "image": "/assets/healthInsuranceInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We switched from a big-name provider and instantly noticed the difference. Faster support, better pricing, happier team.”",
+                "role": "FinTech Company HR Director",
+                "image": "/assets/healthInsuranceInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“What impressed me most was how they handled individual needs within a group policy. Everyone got covered properly, and it cost less than expected.”",
+                "role": "Creative Agency Director",
+                "image": "/assets/healthInsuranceInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Slash Costs and Simplify Health Insurance? ",
+        "description": "Show your employees you care and foster a healthy and positive workspace with One Nexuz! Get the best health insurance in the UAE by tapping into strategic insurance advice and tailored coverage plans.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/healthInsuranceInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Business Insurance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What do corporate Dubai health insurance plans usually cover?",
+                "answer": "Most healthcare packages include outpatient and inpatient services, emergency care, surgeries, diagnostics, and maternity services. Additionally, certain plans may include optical, dental, mental health, and specialist consultations. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Does One Nexuz help businesses meet Dubai’s corporate health insurance requirements?",
+                "answer": "Absolutely! Our expert consultants ensure your business stays fully compliant with all relevant DHA and UAE labor laws, so that you don’t have to worry about penalties or fines."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What factors should I consider when choosing a group health insurance plan?",
+                "answer": "Key factors include compliance with DHA regulations, coverage scope, insurer reputation, hospital network size, claim process efficiency, and flexibility to scale with your business. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does it take to set up a group health insurance plan?",
+                "answer": "Depending on the insurer and required documentation, it typically takes between 3-7 business days to finalize and activate a plan."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me offer different health insurance packages for different departments or seniority level?",
+                "answer": "Yes, many companies design tiered benefits like enhanced coverage for management and standard coverage for other roles, allowing you to ensure cost-efficiency while rewarding staff members. "
+            }
+        ]
+    }
+}
