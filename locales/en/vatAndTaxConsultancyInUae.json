@@ -1,0 +1,258 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/vatAndTaxConsultancyInUae.webp",
+        "title": "Maximise Savings, Minimise Risks — Unlock Expert VAT and Tax Guidance at Your Fingertips",
+        "description": "Safeguard your business from penalties, discover exciting reclaim opportunities, and unlock hidden savings in your tax structures with expert VAT consultancy services in the UAE. Our certified specialists simplify FTA-compliant corporate tax residency certification and non-resident registration, ensuring your business stays agile, compliant, and audit-ready!"
+    },
+    "leftSection_1": {
+        "title": "Why Businesses Need Expert VAT & Tax Consultancy Solutions",
+        "description": "Streamline business finances and focus on scaling operations with professional tax consultancy and compliance solutions. With faster turnaround and zero penalty risks, outsourcing VAT services empowers your business to stay time and cost-efficient.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Slash Administrative Overheads",
+                "subTitle": "Slash Administrative Overheads",
+                "description": "Free up internal resources tied to in-house training, salaries, and internal controls without sacrificing quality with end-to-end VAT registration and compliance solutions.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Stay Audit-Ready Round-the-Clock",
+                "subTitle": "Stay Audit-Ready Round-the-Clock",
+                "description": "Receive efficient, regulator-ready documentation that shields your business during surprise audits or tax reviews- no last-minute panics, no stress!",
+                "image": "/assets/vatAndTaxConsultancyInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Save Millions in Costly Fines",
+                "subTitle": "Save Millions in Costly Fines",
+                "description": "Late filings, incorrect filing status, and invoicing errors can result in penalties of over AED 1,000. With pro tax advisors, you get 100% compliant, accurate, and audit-ready tax reports.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Receive Strategic Advice for Financial Planning",
+                "subTitle": "Receive Strategic Advice for Financial Planning",
+                "description": "Maximise profits, reinvest in your business, and discover exciting investment opportunities via strategic advice tailored to your unique legal structure, industry, and tax approach.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Holistic VAT & Tax Consultancy Services in Dubai, UAE",
+        "description": "Ensure tax compliance, seamless VAT registration, and on-time filings with our end-to-end VAT consultancy solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "VAT Registration & Deregistration",
+                "description": "Fast-track TRN certification with seamless documentation and government coordination with FTA.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "VAT Return Filing",
+                "description": "Mitigate the risk of hefty fines and penalties with 100% compliant monthly or quarterly filings via the ZATCA portal.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Tax Residency",
+                "description": "Secure an individual or corporate tax residency certificate through the FTA portal with expert-led guidance.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tax Health Checks & Audit Support",
+                "description": "Conduct comprehensive risk assessments with audit-ready reports to support proactive business protection",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "VAT Reclaim & Refund Assistance",
+                "description": "Maximise your recoverable tax through professionally crafted quarterly VAT reports and insightful analysis.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Consultancy",
+                "description": "Receive industry-tailored advice on tax structures and direct and indirect tax to boost your revenue.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/vatAndTaxConsultancyInUae/left4/1.webp",
+            "title": "Transform VAT Liabilities Into Strategic Wins",
+            "description": "Transform VAT Liabilities Into Strategic Wins",
+            "btn": "Schedule a Call Now",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/vatAndTaxConsultancyInUae/left4/2.webp",
+            "title": "Stay Compliant, Stay Smart — Transparent VAT & Tax Consultancy Plans",
+            "description": "No rigid packages, no surprise charges, no hidden costs. Whether it’s VAT registration and filing or tax planning, our consultancy adapts to your business size and goals, so you pay only for the services you need.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify VAT & Tax Consultancy in 4-Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select the Best-Fit Plan",
+                "description": "We kick off with a discovery call to assess your legal structure and risk level, followed by the creation of a custom-tailored compliance plan.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Roll Out Your VAT Plan",
+                "description": "Next, our tax advisors streamline VAT registration, FTA certification, filings, and corporate tax, allowing you to focus on your core business activities.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Monitor Tax Compliance",
+                "description": "Our team tracks deadlines, provides accurate reports, and updates you on evolving taxation laws to ensure you stay audit-ready.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Quarterly Reviews",
+                "description": "Maximise your profits and reclaim tax returns with holistic tax reports, insight-driven analysis, and periodic risk assessments.",
+                "image": "/assets/vatAndTaxConsultancyInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for VAT Consultancy Services in Dubai",
+        "description": "DIY tax handling drains time, risks errors, and leaves you exposed to penalties. Our specialists take it off your plate, cutting admin headaches and delivering expert compliance to maximise your budget.",
+        "items": [
+            {
+                "title": "Cut VAT Invoicing Times in Half",
+                "description": "Reclaim time lost analysing the UAE’s dynamic taxation landscape and chasing paperwork with our professional tax advisors, empowering you to slash invoicing times by up to 50%.",
+                "image": "/assets/vatAndTaxConsultancyInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Streamline Your Cash Flow",
+                "description": "Our tax advisors expedite your refund cycles by up to 25% via proactive tax planning strategies and accurate quarterly reports, enhancing your cash flow and freeing up working capital.",
+                "image": "/assets/vatAndTaxConsultancyInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Gain Tailored VAT Guidance",
+                "description": "With over a decade of experience serving 25+ industries, our expert consultants provide you with custom advise on tax-efficient investments, annual financial planning, and legal structure planning to maximise your budget.",
+                "image": "/assets/vatAndTaxConsultancyInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/vatAndTaxConsultancyInUae/grid/1.webp",
+        "title": "Stay Compliant, Stay Ahead with Our Expert Support",
+        "description": "Avoid last-minute rushes, errors, and penalties with our end-to-end tax consultancy solutions. Our experts ensure you stay 100% compliant, meet every deadline, and pay what you owe- nothing more.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“They helped us claim back thousands in VAT we didn’t know we were eligible for. Incredibly thorough and responsive.”",
+                "role": "Logistics Co. Finance Manager ",
+                "image": "/assets/vatAndTaxConsultancyInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We’ve had zero compliance issues since outsourcing our VAT. Their team handles everything on time and explains the process clearly.”",
+                "role": "E-commerce Startup CEO",
+                "image": "/assets/vatAndTaxConsultancyInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“The tax health check they did revealed risks we weren’t aware of. That alone saved us from a hefty fine.”",
+                "role": "Hospitality Chain Group Controller",
+                "image": "/assets/vatAndTaxConsultancyInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "More Ways One Nexuz Helps You Grow in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Tax",
+                "description": "Avoid costly fines and penalties with FTA certification and accurate invoices.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Payroll Management",
+                "description": "Ensure timely salary disbursements with automated payroll solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Stay Audit-Ready with Reliable Tax Consultancy",
+        "description": "Gain full visibility of your financial performance and peace of mind knowing your VAT invoicing is in expert hands. With our tax specialists, you reduce risks, eliminate inefficiencies, and stay 100% compliant.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/vatAndTaxConsultancyInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Payroll Management",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Tax",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why should businesses outsource VAT & tax consultancy services?",
+                "answer": "Outsourcing VAT and tax consultancy services can help businesses save costs and time spent crafting invoices, chasing approvals, and ensuring compliance."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do foreign companies pay VAT in Dubai, UAE?",
+                "answer": "Yes, all goods entering the Emirates are subject to 5-15% VAT, depending on your location, business structure, and type of product."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to provide any documents to One Nexuz for onboarding my team?",
+                "answer": "Our tax advisors will request your unique taxpayer identification number, recent tax returns, income statements, and proof of expenses to create accurate reports and file taxes fully compliant with the ZATCA and FTA."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can One Nexuz help reclaim VAT on previous records?",
+                "answer": "Yes, if you have eligible input VAT that wasn’t claimed, our experts will review your past records and file on your behalf. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How do I know if my business is overpaying VAT?",
+                "answer": "Our expert tax consultants conduct periodic health checks to assess your current compliance, identify potential risks, and pinpoint missed opportunities to ensure every dirham is reclaimed."
+            }
+        ]
+    }
+}

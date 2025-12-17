@@ -1,0 +1,258 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/taxResidencyCertificate.webp",
+        "title": "Maximise Financial Efficiency & Unlock Global Tax Benefits with a UAE Tax Residency Certificate",
+        "description": "Frustrated by high international taxes, lost investment opportunities, or complicated residency applications? At One Nexuz, our certified tax auditors do all the legwork, empowering you to protect your wealth and outpace your competition. Uncover lucrative business opportunities within and beyond the Emirates, slash withholding taxes, and tap into foreign markets with a globally-recognised UAE Tax Residency Certificate"
+    },
+    "leftSection_1": {
+        "title": "Why Should Entrepreneurs Get a Tax Residency Certificate",
+        "description": "Build, hold, and protect your income globally with an FTA-compliant tax residency certificate in the UAE. Unlock exciting tax benefits, strengthen brand trust, and save millions of dirhams by avoiding double taxation.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tap into Global Market Access",
+                "subTitle": "Tap into Global Market Access",
+                "description": "Gain a competitive edge in international markets with tax-efficient business models. Drive business revenue by cutting down tax liabilities in 130+ countries.",
+                "image": "/assets/taxResidencyCertificate/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock Tax Savings with DTAA",
+                "subTitle": "Unlock Tax Savings with DTAA",
+                "description": "Maximise profitability with Double Taxation Avoidance Agreements, empowering you to save 10-15% in withholding taxes on royalties, dividends, or service fees.",
+                "image": "/assets/taxResidencyCertificate/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Boost Stakeholder Trust",
+                "subTitle": "Boost Stakeholder Trust",
+                "description": "Build instant compliance credibility, strengthen banking relationships, discover lucrative investment opportunities, and streamline licensing processes with a globally recognised TRC.",
+                "image": "/assets/taxResidencyCertificate/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Stay 100% FTA-Compliant",
+                "subTitle": "Stay 100% FTA-Compliant",
+                "description": "Ensure compliance with the UAE's fast-evolving regulatory landscape, qualify for income tax exemptions, and enjoy 0%  tariffs with an FTA-issued tax residency certificate.",
+                "image": "/assets/taxResidencyCertificate/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Who Can Apply for a UAE Residency Certificate?",
+        "description": "Secure your tax residency certificate by meeting the UAE's minimum presence and documentation requirements, including",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/taxResidencyCertificate/iconTitleSec/1.svg",
+                "title": "Valid UAE Residence Visa"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/taxResidencyCertificate/iconTitleSec/2.svg",
+                "title": "Valid Trade License"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/taxResidencyCertificate/iconTitleSec/3.svg",
+                "title": "Emirates ID & Establishment Card"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/taxResidencyCertificate/iconTitleSec/4.svg",
+                "title": "Lease Agreement"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/taxResidencyCertificate/iconTitleSec/5.svg",
+                "title": "Audited Financial or Bank Statements"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/taxResidencyCertificate/left4/1.webp",
+            "title": "Spot Revenue Leakages & Save Millions",
+            "description": "Every dollar you overpay in foreign tax is growth capital lost. A TRC helps you recover and retain those funds so they can fuel your expansion.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/taxResidencyCertificate/left4/2.webp",
+            "title": "Custom TRC Pricing — Pay Only for the Support You Need",
+            "description": "Skip the one-price-fits-all approach. Whether you need basic document prep or full TRC handling, choose the level of support that fits your case and your budget. Transparent costs, tailored to your situation. ",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your Tax Residency Certificate in the UAE in 4 Quick Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Eligibility Assessment",
+                "description": "We'll start with a comprehensive review of your current documents and stay period to determine your TRC eligibility.",
+                "image": "/assets/taxResidencyCertificate/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Our experts will help you compile and organise all the necessary paperwork to fast-track application submission.",
+                "image": "/assets/taxResidencyCertificate/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "Next, we'll streamline all the government back-and-forth and pay the application fee for faster processing.",
+                "image": "/assets/taxResidencyCertificate/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain Your FTA-Compliant TRC",
+                "description": "We'll receive your tax residency certificate within 5-7 working days and send it your way digitally, ready for international use.",
+                "image": "/assets/taxResidencyCertificate/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Secure Your Tax Residency Certificate",
+        "description": "Prevent costly delays, application rejections, and expensive compliance mistakes with our expert tax specialists. We take the guesswork out of the process- building a flawless structure to secure first-time approvals.",
+        "items": [
+            {
+                "title": "Get Custom-Built Taxation Structures",
+                "description": "Unlock tailored business structures by partnering with our team of seasoned tax auditors, aligning your legal entity with international tax laws to minimise liabilities.",
+                "image": "/assets/taxResidencyCertificate/bgImage/1.webp"
+            },
+            {
+                "title": "Avoid Multi-Million Dirham Penalties",
+                "description": "Save up to AED 1,000/month with our FTA-compliant tax residency certificates. Uplift your revenue by qualifying for 140+ double tax agreements.",
+                "image": "/assets/taxResidencyCertificate/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Fast Turnarounds",
+                "description": "Shave weeks off TRC approval with our seamless application process and optimised FTA liaison processes, powering you with a TRC in less than a week.",
+                "image": "/assets/taxResidencyCertificate/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/taxResidencyCertificate/grid/1.webp",
+        "title": "Protect Profits & Expand Globally- All Under One Certificate",
+        "description": "Without an FTA-compliant TRC, you could be paying double the tax, lowering your ROI and eating into operational funds. We help you secure your TRC, so you keep more of what you earn.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "They handled my TRC application from start to finish. I had my certificate in just 8 days and avoided a potential double taxation issue worth over AED 200,000.",
+                "role": "Real Estate Investor",
+                "image": "/assets/taxResidencyCertificate/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "I was unsure if I met the eligibility criteria, but their team built a compliant structure and got my TRC approved without a single document rejection.",
+                "role": "Tech Startup Founder",
+                "image": "/assets/taxResidencyCertificate/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Professional, fast, and knowledgeable. They saved my company from weeks of delays and ensured we could claim treaty benefits immediately.",
+                "role": "Logistics Firm CFO",
+                "image": "/assets/taxResidencyCertificate/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Safeguard Your Business Finances with Expert Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "description": "Stay audit-ready with custom Anti-Money Laundering & Counter-Financial Terrorism solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Intellectual Property Rights Protection",
+                "description": "Protect your original designs, software, apps, content, and more with our holistic IP rights protection solutions",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Audit Services",
+                "description": "Manage and streamline quarterly, monthly, or annual audits to prevent costly delays and penalties.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Secure Your UAE Tax Residency Certificate Stress-Free",
+        "description": "Skip the hassle of endless paperwork and confusing legal requirements with our team of seasoned tax auditors. From eligibility checks right down to document submissions, we handle it all, so you can focus on scaling!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/taxResidencyCertificate/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a tax residency certificate (TRC) in the UAE?",
+                "answer": "A UAE tax residency certificate in the UAE is an FTA-compliant document that empowers you to unlock DTAA benefits and verify your residency status."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How do I know if I'm eligible for a tax residency certificate?",
+                "answer": "You can issue a tax residency certificate if you meet the residential status and document requirements. You can book a free consultation to determine your eligibility."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What is the timeline for a tax residency certificate?",
+                "answer": "Generally, it takes 1-14 days to secure TRC approvals, following the submission of the application and payment of the necessary fees. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How will I receive my UAE tax residency certificate?",
+                "answer": "Our experts will process your TRC application through the FTA portal, allowing you to download the certificate digitally within seconds."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I need to apply for a TRC if I own a Free Zone company?",
+                "answer": "Yes, a TRC empowers your Free Zone company to qualify for corporate and personal income exemptions, as well as save up on import-export taxes."
+            }
+        ]
+    }
+}

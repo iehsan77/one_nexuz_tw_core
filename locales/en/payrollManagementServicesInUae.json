@@ -1,0 +1,247 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/payrollManagementServicesInUae.webp",
+        "title": "Record Attendance, Process Salaries, & Ensure Timely Employee Payments with Expert Payroll Management Solutions",
+        "description": "From complex labor laws to end-of-service calculations, managing your payroll in Dubai can be a demanding, downright stressful task. One Nexuz lifts the burden with error-free processing, real-time reporting, and full compliance so that you can focus on scaling. Our expert consultants deliver precise, WPS-compliant payroll solutions tailored to help your Dubai business thrive."
+    },
+    "leftSection_1": {
+        "title": "Why Your Dubai-based Business Needs Payroll Management Services",
+        "description": "Launching your startup in Dubai’s lucrative business environment? Or planning to expand your brand to the city?  Take advantage of our professional management services in Dubai to simplify salary and tax processing.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Save Valuable Time",
+                "subTitle": "Save Valuable Time",
+                "description": "Save up to 2 hours on each of your employees by outsourcing payroll and tax management. Trust pros to efficiently reimburse salary, calculate allowances, and generate payslips while you focus on what you do best: expanding and scaling your business.",
+                "image": "/assets/payrollManagementServicesInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Combat Costly Errors",
+                "subTitle": "Combat Costly Errors",
+                "description": "Overlooking a single error in your payroll can lead to overpayments and hefty fines. That’s why you need expert advisors like us who can curate each report with precision, cutting down mistakes by 100%!",
+                "image": "/assets/payrollManagementServicesInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Boost Employee Trust ",
+                "subTitle": "Boost Employee Trust ",
+                "description": "Nothing hurts employees’ morale quite like inconsistent or delayed payments. Collaborating with an expert payroll management company empowers you with timely and transparent payroll, helping you foster trust and retain top talent.",
+                "image": "/assets/payrollManagementServicesInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Real-Time Analytics",
+                "subTitle": "Unlock Real-Time Analytics",
+                "description": "With instant access to payroll data, trends, and forecasts, a reliable payroll management system provides you with insight-driven analytics, allowing you to make smarter, well-informed business decisions.",
+                "image": "/assets/payrollManagementServicesInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Payroll Management Services in Dubai",
+        "description": "From salary disbursement to WPS, bonuses, and leave tracking, payroll touches every part of your HR workflow. Partner with our payroll management company to ensure accuracy, compliance, and zero delays.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Salary Processing & Disbursement",
+                "description": "We calculate and deliver accurate salaries on time, every time through WPS-compliant channels.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Compliance & Legal Alignment",
+                "description": "Stay effortlessly aligned with UAE labor laws while we manage your filings, gratuity,  and WPS setup.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Employee Self-Service Tools",
+                "description": "Your team gets instant, secure access to payslips and leave info, reducing HR back-and-forth",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Admin & Support",
+                "description": "We handle all the paperwork- bonuses, overtime, and leave encashment, with expert care.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/payrollManagementServicesInUae/left4/1.webp",
+            "title": "Save 20+ Hours Monthly with Our Managed Payroll Service",
+            "description": "Say goodbye to spreadsheets, salary surprises, and last-minute payroll panic. With expert care, we keep you stress-free, compliant, and always in control.",
+            "btn": "Schedule a Call Now",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/payrollManagementServicesInUae/left4/2.webp",
+            "title": "Payroll Made Easy — Flexible Pricing Built Around Your Team",
+            "description": "From monthly salary runs to full compliance, pick the payroll services that match your workflow. No rigid bundles. No unnecessary add-ons. Scalable pricing that grows with your team.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Streamline Payroll Stress-Free in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book Your Free Consultation",
+                "description": "We begin by understanding your unique business structure and needs, including employee details, contracts, allowances, and legacy payroll data.",
+                "image": "/assets/payrollManagementServicesInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Gain Compliant–First Configuration",
+                "description": "Next, we configure your payroll to ensure it's compliant with the relevant UAE laws, ensuring 100% alignment and saving you from hefty fines and penalties.",
+                "image": "/assets/payrollManagementServicesInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get Accurate Monthly Reports",
+                "description": "Our expert accountants handle everything, from salaries and bonuses to deductions and leaves, ensuring accuracy and insights into your business’s finances.",
+                "image": "/assets/payrollManagementServicesInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Handle Payslips & Bank Transfers",
+                "description": "With all payrolls approved, we craft professional, confidential payslips and initiate salary transfers to ensure all transfers are executed on time.",
+                "image": "/assets/payrollManagementServicesInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Access Monthly Reports",
+                "description": "Our proficient accountants go beyond traditional payroll management by sending up-to-date, data-driven financial reports and 24/7 support to keep you thriving.",
+                "image": "/assets/payrollManagementServicesInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Partner with One Nexuz to Simplify Payroll Management",
+        "description": "Skip the stress of delayed payouts, compliance pitfalls, and endless paperwork with our agile payroll specialists. Gain real-time visibility into payroll expenses by outsourcing to the pros, and redirect time into scaling your business.",
+        "items": [
+            {
+                "title": "Ensure 100% WPS Compliance",
+                "description": "With intimate knowledge of local tax laws and statutory requirements, our specialists ensure you stay compliant with the UAE labor ministry.",
+                "image": "/assets/payrollManagementServicesInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy Quick Turnarounds",
+                "description": "Payroll delays, complex regulations, and intricate tax laws can cause stress, costly errors, and penalties. Our custom payroll solutions promise quick and error-free execution.",
+                "image": "/assets/payrollManagementServicesInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Access 24/7 Support",
+                "description": "Count on our professional accountants to offer proactive support to maintain and optimise your business’s financial performance.",
+                "image": "/assets/payrollManagementServicesInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/payrollManagementServicesInUae/grid/1.webp",
+        "title": "Reduce Payroll Errors by 60% With Expert Payroll Management in Dubai",
+        "description": "Say goodbye to late payments, compliance risks, and tedious admin. Our team handles everything from WPS processing to end-of-service calculations — so you stay compliant, error-free, and focused on growing your business.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz completely transformed how we handle payroll. Everything’s on time, compliant, and stress-free. Our HR team now focuses on hiring and training—not calculations.”",
+                "role": "Fashion Brand Co-Owner",
+                "image": "/assets/payrollManagementServicesInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Processing salaries used to take us days. With One Nexuz, it’s done in minutes—and fully WPS-compliant. It’s the smartest move we made this year.”",
+                "role": "Finance Manager",
+                "image": "/assets/payrollManagementServicesInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We switched from in-house payroll to One Nexuz and never looked back. They caught errors we didn’t even know we had.”",
+                "role": "Tech Company HR Lead ",
+                "image": "/assets/payrollManagementServicesInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "More Ways We Power Your Business’s Success",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "VAT & Tax Consultancy",
+                "description": "Maximise input credit and reduce audit risks with our end-to-end VAT consultancy.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Tax",
+                "description": "Create a strategic tax structure to ensure compliance and uplift your bottom line.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Streamline Payroll Management with One Nexuz",
+        "description": "Say goodbye to spreadsheets, stress, and last-minute calculations with One Nexuz’s seamless payroll management services in Dubai. Partner with our team of certified payroll specialists to ensure smooth, secure, and timely payroll cycles and foster positive employee experiences.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/payrollManagementServicesInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "VAT & Tax Consultancy",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Should I outsource payroll functions as a small- to mid-sized business?",
+                "answer": "Small- to mid-sized businesses can save time and cost significantly by seeking reliable payroll management services. Additionally, you can eliminate the risk of costly errors, potential fines, and unnecessary delays."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How quickly does One Nexuz onboard new customers?",
+                "answer": "Our specialists transition your payroll processes within 5-7 business days, depending on your unique business needs, team size, and data availability."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I integrate payroll management services into my existing software?",
+                "answer": "Yes, our specialists will review your systems and provide the best-fit integration to streamline your payroll, HR, and tax management"
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can One Nexuz help my business maintain a multi-currency payroll?",
+                "answer": "Yes, you can trust our expert accountants to create accurate multicurrency payrolls by first determining the base currency."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz support Free Zone and Mainland companies in managing their payroll?",
+                "answer": "Absolutely! Our payroll management services in Dubai include Free Zone and Mainland companies, so our experts tailor solutions to match your needs."
+            }
+        ]
+    }
+}

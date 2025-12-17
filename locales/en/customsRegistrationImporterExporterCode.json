@@ -1,0 +1,312 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/customsRegistrationImporterExporterCode.webp",
+        "title": "Trade across Borders with Seamless Dubai Customs Registration",
+        "description": "Take advantage of the UAE's strategic location to tap into a diverse 2B+ consumer market in the Middle East, Africa, Europe, and Asia with a Dubai Custom Code (DCC). We offer expert guidance at every step of the IEC code registration process to streamline international trade, prevent legal hurdles, and foster brand trust."
+    },
+    "leftSection_1": {
+        "title": "Why UAE-Based Businesses Should Register with Dubai Customs",
+        "description": "Take advantage of the UAE's trade-friendly facilities, world-class infrastructure, and exciting tax incentives by registering your import-export business with the appropriate DED or Free Zone authorities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Streamline Customer Clearance",
+                "subTitle": "Streamline Customer Clearance",
+                "description": "Prevent costly delays, simplify documentation, and ensure seamless logistics with a 100% compliant, globally recognised import-export code. ",
+                "image": "/assets/customsRegistrationImporterExporterCode/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access Tax & Financing Benefits",
+                "subTitle": "Access Tax & Financing Benefits",
+                "description": "Maximise your revenue by qualifying for tax exemptions, bank loans, and government benefits- all with a DCC-issued code.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Stay Compliant with UAE Regulations",
+                "subTitle": "Stay Compliant with UAE Regulations",
+                "description": "Save over AED 50,000 in IEC non-compliance by securing your unique UAE-registered custom code. Minimise the risk of operational disruptions and maximise supply chain performance.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Protect Your Family's Future ",
+                "subTitle": "Protect Your Family's Future ",
+                "description": "Secure your loved one's financial future by linking your individual customs code to a successor, adding it to your Will, or drafting a strategic exit plan.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Licenses for Custom Code Registration",
+        "description": "Set up your business at the crossroads of Africa, Asia, and Europe for seamless import and export with the best-fit license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Professional License",
+                "description": "Ideal for service-based businesses trading equipment, tools, or consumables.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Commercial License",
+                "description": "Perfect for trading companies involved in the import and export of diverse goods.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "description": "Well-suited for manufacturers or production units importing raw materials or finished products.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Intelaq License",
+                "description": "Ideal for AE residents looking to operate an SME from home- no storefront needed.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/customsRegistrationImporterExporterCode/left4/1.webp",
+            "title": "Start Exporting to 190+ Countries From the UAE",
+            "description": "With a registered IEC code, you can move goods through key ports and free zones with ease. We streamline the setup, so customs never slow your momentum.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/customsRegistrationImporterExporterCode/left4/2.webp",
+            "title": "Secure Your Importer/Exporter Code — Clear Pricing, No Surprises",
+            "description": "Secure your IEC code without hidden costs or surprise add-ons. Flexible, transparent pricing that scales with your trading needs in the UAE.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Secure Your Custom Code in 4 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Register Your Business",
+                "description": "We'll kick off by ensuring your business is legally registered with the relevant Mainland or Free Zone authority.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare All Documents",
+                "description": "Next, we'll assist in collecting and attesting the relevant documentation, including a trade license, passport copies, and proof of business registration.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "Our experts then submit your Customs Code application to the relevant government platform to secure approvals.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Your Custom Code",
+                "description": "Once approved, you’ll receive a unique DCC code, empowering you to trade worldwide and track goods.",
+                "image": "/assets/customsRegistrationImporterExporterCode/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for IEC Code Registration",
+        "description": "Say goodbye to costly shipment delays, supply chain disruptions, and customs penalties by registering your business with the Dubai Customs Code. We simplify the documentation process to facilitate seamless global trade.",
+        "items": [
+            {
+                "title": "Get Tailored Registration Solutions",
+                "description": "Our seasoned consultants offer custom-built registration services for all-sized businesses, whether in the Mainland or the Free Zone.",
+                "image": "/assets/customsRegistrationImporterExporterCode/bgImage/1.webp"
+            },
+            {
+                "title": "Register Your Business in 1 Week",
+                "description": "We minimise delays by pre-checking documentation, streamlining attestation, and reducing back-and-forth to secure your DCC code within 1-10 days.",
+                "image": "/assets/customsRegistrationImporterExporterCode/bgImage/2.webp"
+            },
+            {
+                "title": "Protect Personal Assets",
+                "description": "Without a DCC-recognised custom code, you risk having your assets and accounts seized. Our experts oversee the entire process to limit liability to your business.",
+                "image": "/assets/customsRegistrationImporterExporterCode/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/customsRegistrationImporterExporterCode/grid/1.webp",
+        "title": "Start Trading in Days, Not Months",
+        "description": "Avoid costly customs delays and missed opportunities with a registered importer-exporter code. We ensure seamless approvals to minimise operational disruptions.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We used their service for customs registration, procurement support, and insurance advisory. Everything was coordinated through one point of contact, which saved us so much time. Highly efficient and responsive team.”",
+                "role": "Automotive Brand Managing Partner",
+                "image": "/assets/customsRegistrationImporterExporterCode/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They handled our customs code registration flawlessly—even caught a mistake in our trade license before submission. The entire process took just two days, and we were shipping goods immediately after.”",
+                "role": "Tech Supplies Company Co-Founder ",
+                "image": "/assets/customsRegistrationImporterExporterCode/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a new entrepreneur with an Intelaq license, I had no idea how to register for a customs code. Their team walked me through every step and even helped with travel visa support for my supplier meetings. Highly recommend them for any small business.”",
+                "role": "Manufacturing Brand Founder",
+                "image": "/assets/customsRegistrationImporterExporterCode/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Get End-to-End Business Support Under One Roof",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration Support",
+                "description": "Streamline corporate travel management with fleet licensing and seamless vehicle registration.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Secure funding, win stakeholder trust, and provide strategic direction with custom-built business plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Host professional meetings and impress clients with fully equipped, convenient spaces.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "description": "Make informed business decisions with actionable insights into market potential and opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Receive business visas, entry permits, and travel documentation for owners, directors, and key staff.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee Services",
+                "description": "Protect privacy and accelerate license & bank approvals with nominee directors and shareholder services.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Meet the UAE’s local requirements and access market insights with a verified UAE local sponsor.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner Services",
+                "description": "Build strategic connections, ensure compliance, and maintain full ownership   with our local agent support.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Go Global with Expert-Led Dubai Customs Registration",
+        "description": "Navigate the UAE’s stringent trade environment with confidence by registering for your unique identification code. We simplify the entire process to empower you with unrestricted access to the Emirate's strategic sea ports, free zones, and airports.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/customsRegistrationImporterExporterCode/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a customs code in the UAE used for?",
+                "answer": "It is a unique identification number that allows you to trade across and beyond the Emirates legally."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How do I register for a Customs Code in Dubai?",
+                "answer": "You can receive your unique Customs Code by obtaining a valid trade license and submitting your application alongside the relevant documents. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to secure an IEC code in the UAE?",
+                "answer": "Generally, the approval process takes 1-10 business days, depending on your jurisdiction, the nature of import-export products, and document readiness."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Are there any prohibited items for import and export in Dubai?",
+                "answer": "Yes, Dubai restricts the trade of narcotics, pirated content, counterfeit currency, gambling devices, and other products that are against Islamic values."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me renew my import-export code?",
+                "answer": "Yes, our expert consultants can help you register for and renew your IEC code to ensure you’re 100% compliant."
+            }
+        ]
+    }
+}

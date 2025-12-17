@@ -1,0 +1,324 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/marketResearchAndFeasibilityStudy.webp",
+        "title": "Ensure Product Viability with Leading Feasibility Study Consultants in Dubai",
+        "description": "Capitalise on lucrative market opportunities, optimise resource allocation, and validate product or service ideas with insight-driven market research and feasibility studies. We empower you with holistic technical, financial, and legal feasibility analysis to promote data-driven decision-making and compliance with the UAE’s stringent business regulations."
+    },
+    "leftSection_1": {
+        "title": "Why Founders Need a Trusted Market Research Company in Dubai",
+        "description": "Ensure you don’t end up like the 42% of businesses failing due to a lack of market demand with an in-depth feasibility and market study. Get go/no-go clarity through data-driven demand forecasts, competitor analysis, and preference testing.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Ensure Product Market Fit",
+                "subTitle": "Ensure Product Market Fit",
+                "description": "Over 34% of startups fail due to poor PMFs or inadequate market research. Validate your business ideas via insight-driven market research to save millions of dirhams and retain your target audiences",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Identify Real Market Demand ",
+                "subTitle": "Identify Real Market Demand ",
+                "description": "Gain insights into market preferences, customer personas, and market appeals to ensure your product or service solves a genuine need.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Optimise Your Budget ",
+                "subTitle": "Optimise Your Budget ",
+                "description": "Reclaim up to 20% of launch costs by validating your project ideas, identifying product market fit, and preventing misaligned plans.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Boost Investor Confidence",
+                "subTitle": "Boost Investor Confidence",
+                "description": "Take advantage of data-backed market and feasibility reports to increase credibility and discover exciting funding opportunities.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Market Research & Feasibility Study Consulting Services",
+        "description": "Unlock actionable business recommendations, target markets, and objective project assessment with our comprehensive feasibility study solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Financial Model & Projections",
+                "description": "Get insightful KPI reports, breakeven analysis, and cash flows to optimise resource utilisation.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Market Research & Demand Analysis",
+                "description": "Identify industry gaps, target audiences, and evolving market trends via demand analysis and forecasts.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Regulatory & Legal Reviews",
+                "description": "Ensure your product/service complies with jurisdiction-specific requirements and secure the appropriate licenses.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "SWOT & Risk Assessment",
+                "description": "Determine real-time viability, external risks and operational gaps via holistic SWOT & risk assessments.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Go/No-Go Recommendation",
+                "description": "Make data-driven business decisions with executive-level recommendation summary.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Technical & Operational Feasibility",
+                "description": "Gain industry-specific supply chain reviews and identify resource availability via feasibility study.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/marketResearchAndFeasibilityStudy/left4/1.webp",
+            "title": "Drive Business Success by Validating Market Fit",
+            "description": "38% of businesses only succeed after pivoting- but why wait? Our insight-driven market and feasibility analysis empower you with demand validity to launch with confidence from day one.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/marketResearchAndFeasibilityStudy/left4/2.webp",
+            "title": "Clear, Flexible Pricing for Market Insights that Drive Results",
+            "description": "Skip the cookie-cutter reports and hidden fees. Get market research and feasibility studies designed for your project—pay only for the insights and analysis your business truly needs. Strategic, clear, and tailored for growth.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your Market & Feasibility Analysis",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call",
+                "description": "We’ll start with a no-obligation call to understand your vision, target market, and goals.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect Industry-Relevant Data",
+                "description": "Next, our expert consultants will conduct UAE-specific research to analyse product demand.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Draft Financial & Technological Models",
+                "description": "We’ll provide you with in-depth financial projects, product viability scores, and clear guidelines on whether to launch.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Review Your Final Report",
+                "description": "Lastly, we’ll send you an investor-ready report alongside an executive summary to capture clients and secure funding.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is the #1 Market Research & Feasibility Study Company in Dubai",
+        "description": "Keep your finger on the pulse of marketing trends and stay up-to-date with fast-evolving customer demands with our exhaustive feasibility reports. We conduct rigorous research to help you succeed in the UAE’s hyper-competitive industry.",
+        "items": [
+            {
+                "title": "Enhance Your Odds of Success",
+                "description": "Our data-driven market and feasibility analysis provide clear guidelines on whether to pause, proceed, or pivot, empowering you to build a robust business foundation.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/bgImage/1.webp"
+            },
+            {
+                "title": "Uncover Exclusive Market Insights",
+                "description": "Access to data-driven insights into your product or service market, target audience, demand forecasts, and competitors to make informed business decisions.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/bgImage/2.webp"
+            },
+            {
+                "title": "Build Instant Trust & Credibility",
+                "description": "Take advantage of our holistic market research & feasibility studies to uncover new opportunities, foster investor trust, and secure business success.",
+                "image": "/assets/marketResearchAndFeasibilityStudy/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/marketResearchAndFeasibilityStudy/grid/1.webp",
+        "title": "Avoid the #1 Mistake That Sank 56% of Startups",
+        "description": "Over 50% of founders admit their biggest mistake was launching without conducting market research. We uncover exactly what your audience wants, so you build smarter.",
+        "btn": "Scale Your Business Today!",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The feasibility report helped us avoid a poor investment decision early on. But what really impressed me was how seamlessly they helped us transition into business plan writing and licensing.”",
+                "role": "EdTech startup Co-founder",
+                "image": "/assets/marketResearchAndFeasibilityStudy/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We had no idea how to approach government tenders. Their team not only helped us register but walked us through the documentation step-by-step. Within a month, we were pre-qualified.”",
+                "role": "Construction Services Company GM",
+                "image": "/assets/marketResearchAndFeasibilityStudy/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“What started as a feasibility study turned into a full business setup journey. From hiring a local sponsor to drafting our investor-ready business plan, they were with us all the way.”",
+                "role": "Boutique Consultancy Managing Partner",
+                "image": "/assets/marketResearchAndFeasibilityStudy/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Simplify Business Setup with Strategic Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "description": "Ensure compliance, manage your fleet, and maximise your ROI with our expert support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Streamline business setup with a professional business plan aligned with your market research.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Make a fantastic first impression and win client confidence with fully equipped meeting rooms.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Importer/Exporter Code)",
+                "description": "Save on double taxation agreements and ease trade beyond the Emirates with your unique IEC code.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Simplify corporate travel and fast-track visa approvals with end-to-end executive travel and visa support.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee Services",
+                "description": "Partner with a verified nominee director or shareholder to ensure privacy while meeting local requirements.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Retain full strategic ownership of your business, expand your network, and unlock exclusive local insights.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Partner/Local Agent Services",
+                "description": "Take advantage of the UAE’s local facilities and simplify mainland setup with a reliable local sponsor.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Unlock Sustainable Business Growth with Expert Feasibility Study ",
+        "description": "Spot lucrative business opportunities, take advantage of cutting-edge technology, and overcome your competition with our insight-driven market and feasibility analysis tailored to the UAE markets.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/marketResearchAndFeasibilityStudy/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a market research and feasibility study?",
+                "answer": "Market research and feasibility studies involve an exhaustive analysis, wherein third-party experts validate market demand for a product or service idea, assess demand in a specific jurisdiction, and offer assurance to an investor or stakeholder whether they should proceed with a particular project."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why do UAE-based businesses need a feasibility study?",
+                "answer": "A data-driven market research and feasibility study provides you with an objective understanding of your product or service’s viability, target segments, pricing factors, existing competitors, and potential risks, empowering you to take data-driven business decisions."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to provide any documents to start the market research and feasibility study? ",
+                "answer": "Generally, our experts require a project brief, preliminary financials, technical specs or market data (if available), and financial expectations."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does market research or feasibility study take?",
+                "answer": "A market and feasibility study can take anywhere between 3-12 weeks, depending on the number products or services, geographical location, and value chain complications."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "When is market research and feasibility study required?",
+                "answer": "You’ll need to conduct market research and feasibility study before kickstarting your venture, committing substantial resources, expanding to new markets, acquiring assets, or launching a large-scale commercial project."
+            }
+        ]
+    }
+}

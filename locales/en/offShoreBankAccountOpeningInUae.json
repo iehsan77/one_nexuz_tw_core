@@ -1,0 +1,258 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Book Your Free Consultation",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/offShoreBankAccountOpeningInUae.webp",
+        "title": "Access Global Banking, Protect Your Wealth, & Diversify Your Assets with a UAE Offshore Bank Account",
+        "description": "Frustrated by high rejection rates, complex embassy document legalisation, and stringent KYC checks? Our experts simplify every step of the process, ensuring first-time approvals, streamlining business finances, and bolstering your financial stability. Tap into the UAE's local markets, expand operations, and preserve your assets with the best-fit offshore bank account in Dubai."
+    },
+    "leftSection_1": {
+        "title": "Discover the Benefits of an Offshore Bank Account",
+        "description": "Get unmatched financial freedom, ease cross-border transactions, and safeguard your wealth with the right offshore bank account.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Minimise Tax Liabilities ",
+                "subTitle": "Minimise Tax Liabilities ",
+                "description": "Take advantage of the UAE offshore’s tax-friendly landscape and save millions on 0% corporate, capital gains, and income taxes.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Simplify Global Transactions ",
+                "subTitle": "Simplify Global Transactions ",
+                "description": "Hold, send, and receive funds in 40+ currencies without incurring conversion fees. Uplift your bottom line with a multi-currency account.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Tap into Local Financial Markets ",
+                "subTitle": "Tap into Local Financial Markets ",
+                "description": "Unlock lucrative investment opportunities, unrestricted market access, and resident-only business facilities with a top-tier offshore bank account.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Safeguard Your Assets",
+                "subTitle": "Safeguard Your Assets",
+                "description": "Protect your identity, secure your wealth, and shield assets against imitators, lawsuits, and financial turmoil in your home country.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What You Get When You Open an Offshore Bank Account in the UAE",
+        "description": "Here’s what you get once your Offshore bank account is set up:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/offShoreBankAccountOpeningInUae/iconTitleSec/1.svg",
+                "title": "Here’s what you get once your Offshore bank account is set up:"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/offShoreBankAccountOpeningInUae/iconTitleSec/2.svg",
+                "title": "Multi-Currency Balance Dashboard"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/offShoreBankAccountOpeningInUae/iconTitleSec/3.svg",
+                "title": "Debit or Credit Card"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/offShoreBankAccountOpeningInUae/iconTitleSec/4.svg",
+                "title": "24/7 Online & Banking Solutions"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/offShoreBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Weekly or Monthly E-Statements"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/offShoreBankAccountOpeningInUae/left4/1.webp",
+            "title": "Earn Up to 12% on Offshore Deposits Without Excessive Risk",
+            "description": "Build, grow, and preserve your legacy by diversifying your assets to high-yield markets. Our seasoned advisors guide you through currency risk and interest repatriation to maximise your profits.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/offShoreBankAccountOpeningInUae/left4/2.webp",
+            "title": "Transparent Offshore Banking Costs Built for Your Needs",
+            "description": "Know your offshore bank account opening costs upfront—no inflated packages, no hidden fees. Connect with us today for a tailored quote that reflects only what your business truly needs.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Offshore Bank Account Opening",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a No-Obligation Call",
+                "description": "We’ll kick off with a free discovery call to identify your business activity, legal structure, and financial needs.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Submit Your “Know Your Customer” (KYC)",
+                "description": "Next, our consultants help you compile and submit your KYC, including proof of address, personal identification, and additional documents.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Provide the Initial Deposit",
+                "description": "Once you’ve sent all the documents, you’ll have to pay a minimum deposit of AED 3,600 or more, depending on your selected account.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Transfer Funds Worldwide",
+                "description": "Your account will be activated within days, empowering you to hold, send, and receive over 20 currencies globally.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Offshore Bank Account Opening",
+        "description": "Navigate Dubai’s stringent banking laws with confidence to take advantage of the Emirate’s favourable tax laws and low global exchange rates. Our trusted banking partners handle every step so you can unlock exciting international banking benefits.",
+        "items": [
+            {
+                "title": "Slash Approval Times by Half",
+                "description": "We leverage direct relationships with licensed UAE banks to secure approvals in 7-14 days. No delays. No waitlists",
+                "image": "/assets/offShoreBankAccountOpeningInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Secure Your Wealth",
+                "description": "Add an extra layer of protection against creditors, enhance privacy, and take advantage of low interest rates to grow, preserve, and manage your assets.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Maximise Banking Convenience",
+                "description": "Streamline personal or business finances, diversify assets, or pay bills within seconds via 24/7 online & mobile banking and debit card solutions.",
+                "image": "/assets/offShoreBankAccountOpeningInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/offShoreBankAccountOpeningInUae/grid/1.webp",
+        "title": "Set Up an Offshore Account in Under 2 Weeks",
+        "description": "We streamline KYC, transactional setup, and FX access, giving you faster access to global banking and high-interest returns.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“They handled everything — from documents to bank approvals. I got my offshore account opened remotely in under 10 days.”",
+                "role": "Tech Founder",
+                "image": "/assets/offShoreBankAccountOpeningInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“The team made ESR filing and audit coordination effortless. We stayed fully compliant without needing in-house experts.”",
+                "role": "Trading Company CFO",
+                "image": "/assets/offShoreBankAccountOpeningInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": " “As a freelancer, getting my permit and offshore account set up in the UAE gave me full control over my income, tax-free.”",
+                "role": "Independent Consultant",
+                "image": "/assets/offShoreBankAccountOpeningInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Get Matched with the Perfect Bank Account",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "UAE Resident Bank Account",
+                "description": "Access local banking facilities by setting up a savings or current account for residents.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Non-Resident Bank Account",
+                "description": "Take advantage of the UAE’s tax-friendly landscape via a non-resident account.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Corporate Bank Account",
+                "description": "Streamline business finances and transfer funds to 200+ countries with a corporate account.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Unlock Financial Freedom with a UAE Offshore Account",
+        "description": "Shield your assets, qualify for tax exemptions, and streamline multi-currency transactions with the UAE’s offshore banking services. Tap into our extensive network of banking partners to build and secure your wealth worldwide.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/offShoreBankAccountOpeningInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Non Resident Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Non Resident Bank Account",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a UAE offshore bank account?",
+                "answer": "An offshore bank account empowers you to hold, invest, and manage your wealth and assets within and beyond the UAE."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can non-residents open an offshore bank account in the UAE?",
+                "answer": "Yes, our expert consultants assist expats in setting up a personal or corporate bank account in the UAE offshore."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Why should I open a UAE offshore bank account?",
+                "answer": "An offshore bank account offers you access to the UAE’s local and global markets, competitive tax rates, and the convenience to transact in over 200 countries.  "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is there a minimum requirement for setting up an offshore bank account?",
+                "answer": "Typically, UAE offshore bank accounts require a minimum investment of $5,000 to $100,000, depending on the legal structure, type of bank account, and banking partner."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How long does it take to set up a UAE offshore bank account?",
+                "answer": "It generally takes 4-8 weeks to open an offshore bank account in the UAE. Our experts streamline the paperwork and approvals to expedite setup times."
+            }
+        ]
+    }
+}

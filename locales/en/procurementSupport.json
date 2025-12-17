@@ -1,0 +1,313 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/procurementSupport.webp",
+        "title": "Organise, Streamline, & Optimise Your Procurement with Our Full Full 360° Procurement Support Services",
+        "description": "Worried about supply chain disruptions, unpredictable costs, or sourcing delays stalling your business momentum? At One Nexuz, we empower you with end-to-end procurement support to strengthen your supply chain chain resilience, give you a competitive edge, and access a robust supplier network. Slash costs, eliminate delays, and free up internal teams with our agile local specialists guiding you every step of the way."
+    },
+    "leftSection_1": {
+        "title": "Why UAE Businesses Need Procurement Support Services",
+        "description": "Create a seamless and transparent supply chain, build instant stakeholder trust, and reduce unnecessary spend through strategic procurement.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Maximise Supply Chain Profitability",
+                "subTitle": "Maximise Supply Chain Profitability",
+                "description": "Spot internal inefficiencies, revenue leaks, and areas for improvement with holistic financial reports to boost savings by a whopping 50%.",
+                "image": "/assets/procurementSupport/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Stay 100% MoF and MoE Compliant",
+                "subTitle": "Stay 100% MoF and MoE Compliant",
+                "description": "Automate compliance audits to stay up-to-date with the UAE's dynamic regulatory environment. Combat the risk of fraud, duplicate orders, and late deliveries with custom-built compliance solutions.",
+                "image": "/assets/procurementSupport/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Improve Scalability & Flexibility",
+                "subTitle": "Improve Scalability & Flexibility",
+                "description": "Stay agile in the UAE's dynamic business landscape with reliable third-party procurement solutions. Scale up and down hassle-free by navigating fluctuations confidently.",
+                "image": "/assets/procurementSupport/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Access Regional & Global Talent",
+                "subTitle": "Access Regional & Global Talent",
+                "description": "Tap into a highly skilled talent pool by outsourcing procurement to the pros. Drive business growth and free up internal resources to focus on core tasks.",
+                "image": "/assets/procurementSupport/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Procurement Support Services in the UAE",
+        "description": "Unlock long-term supply chain efficiency and nurture organic supplier relationships with our end-to-end procurement solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Strategic Sourcing & Cost Optimisation",
+                "description": "Collaborate with leading suppliers and negotiate favourable terms to discover savings without sacrificing quality."
+            },
+            {
+                "id": 2,
+                "title": "Procurement Tools & Strategies",
+                "description": "Identify bottlenecks, eliminate inefficiency, and optimise your workflows with strategic tools and processes."
+            },
+            {
+                "id": 3,
+                "title": "Supplier Relationship Management",
+                "description": "Build and maintain meaningful partnerships with trusted suppliers to strengthen supply chain resilience."
+            },
+            {
+                "id": 4,
+                "title": "Compliance & Risk Management",
+                "description": "Stay compliant with industry standards, regulatory requirements, and contractual obligations."
+            },
+            {
+                "id": 5,
+                "title": "Spend Analysis & Reporting",
+                "description": "Gain complete visibility over your procurement spend to spot improvement areas and guide data-driven decision-making."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/procurementSupport/left4/1.webp",
+            "title": "Cut through Procurement Complexity with Specialists",
+            "description": "Over 90% of procurement leaders cite efficiency and complexity as their top challenges. We streamline every step so you focus on strategy, not paperwork.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/procurementSupport/left4/2.webp",
+            "title": "Unlock Reliable Procurement Support in 4 Quick Steps",
+            "description": "No bloated packages. No surprise add-ons. Get procurement support with clear, customised pricing based on what you need sourced. Fast turnaround, transparent costs, zero surprises.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 5-Step Process to Supplier & Vendor Registration Success",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call",
+                "description": "We'll kick off by scheduling a brief consultation to analyse your current procurement setup, spend patterns, and supplier landscape.",
+                "image": "/assets/procurementSupport/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Craft a Custom Roadmap ",
+                "description": "Next, our specialists will design a tailored procurement strategy, identify the ideal supplier partners, and set measurable objectives.",
+                "image": "/assets/procurementSupport/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Implement, Test, & Optimise",
+                "description": "We'll roll out the strategy, negotiate better terms, and streamline purchasing to streamline your entire value chain.",
+                "image": "/assets/procurementSupport/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Track Key Performance Indicators",
+                "description": "Through regular reporting and analytics, we track results against pre-defined KPIs, fine-tuning the approach to maximise cost savings.",
+                "image": "/assets/procurementSupport/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Boost Supply Chain Resilience with One Nexuz",
+        "description": "Build a sustainable supply chain with our proactive procurement strategies to foster stakeholder trust, negotiate better terms, and uncover cost-saving opportunities.",
+        "items": [
+            {
+                "title": "Tailored Procurement Solutions",
+                "description": "We empower you with custom-built procurement workflows and compliance services to mitigate bottlenecks and gaps, risking operational efficiency.",
+                "image": "/assets/procurementSupport/bgImage/1.webp"
+            },
+            {
+                "title": "Slash Operational Costs by 19%",
+                "description": "Cut overheads by 15-19% by outsourcing procurement to our local specialists. Save thousands on recruitment, training, and managing, and scale stress-free!",
+                "image": "/assets/procurementSupport/bgImage/2.webp"
+            },
+            {
+                "title": "Optimised Supply Chain Efficiency",
+                "description": "Get a bird's-eye view of supply chain performance and real-time visibility by tracking purchase requisitions (PRs) and Purchase Orders (POs) on our intuitive dashboard.",
+                "image": "/assets/procurementSupport/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/procurementSupport/grid/1.webp",
+        "title": "Cut Costs and Boost Efficiency in Every Purchase",
+        "description": "Our procurement experts secure the best deals and handle all documentation — so you get maximum value with zero operational stress.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“They didn’t just help us cut costs – they completely changed how we approach procurement. Within six months, we saw a significant reduction in supplier spend without sacrificing quality.”",
+                "role": "Manufacturing Operations Director",
+                "image": "/assets/procurementSupport/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Our procurement process used to be slow and fragmented. Now, everything from supplier selection to contract management is streamlined, and our internal teams can focus on core projects.”",
+                "role": "Solutions Head of Finance",
+                "image": "/assets/procurementSupport/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“The team brought market insights we simply didn’t have in-house. Their negotiations saved us thousands and built stronger supplier relationships that are paying off long-term.”",
+                "role": " MENA General Manager",
+                "image": "/assets/procurementSupport/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover Strategic Add-Ons to Keep Your Business Moving",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Secure, streamline, and scale your tech infrastructure with our proactive round-the-clock IT support",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Get business parcels delivered to your doorstep with our trusted expert mail managem",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "description": "Attract and retain customers with 24/7 personalised multilingual virtual receptionist services.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "description": "Streamline document filing, collaboration, and storage with end-to-end document management services.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Streamline document filing, collaboration, and storage with end-to-end document management services.",
+                "description": "Drive workplace productivity by attracting and retaining top talent within and beyond the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier Collaboration",
+                "description": "Logistics & Courier Collaboration",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "description": "Stay ahead of the curve, build credibility, and access top tenders with supplier & vendor registration.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "description": "Win high-value contracts, simplify bidding, and boost visibility by registering on government tender portals.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Slash Lead Times and Never Miss a Deadline Again",
+        "description": "Gain complete visibility over your value chain, prevent supply chain bottlenecks, and free up internal resources with our agile procurement support services.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/procurementSupport/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are outsourced procurement services?",
+                "answer": "Procurement outsourcing involves hiring a third-party to perform several procurement activities, including SaaS buying, IT, and supplier relationship management."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why should I outsource procurement services in the UAE?",
+                "answer": "Outsourcing procurement support to a reliable third-party service provider can provide your business access to local expertise, cutting-edge technology, and unmatched scalability. This infuses agility into your supply chain and allows you to focus on priority business tasks."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What industries does One Nexuz’s procurement support service?",
+                "answer": "Our seasoned specialists boast over a decade of experience working in diverse sectors, from construction and logistics to healthcare and retail, empowering you with industry-specific strategies to dominate your competition."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Should small businesses outsource procurement services?",
+                "answer": "Yes, startups and SMEs can benefit significantly from third-party procurement solutions, allowing you to optimise resource allocation, cut costs, and improve flexibility."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz improve my business's procurement efficiency?",
+                "answer": "Our expert consultants offer customised procurement strategies to enhance supply chain performance, improve transparency, and encourage informed decision-making to mitigate risks and amplify ROI."
+            }
+        ]
+    }
+}

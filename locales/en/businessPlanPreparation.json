@@ -1,0 +1,342 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/businessPlanPreparation.webp",
+        "title": "Secure Funding, Plan Strategically, & Unlock 3x Faster Growth with Our Future-Proof UAE Business Plan",
+        "description": "Nearly 82% of businesses fail for one reason- they don't have a clear, data-driven business plan. At One Nexuz, we empower you with robust, purpose-built plans to instantly win investor trust, unlock bank approvals, fast-track business setup, and scale sustainability. Start right- or risk starting over!"
+    },
+    "leftSection_1": {
+        "title": "What is a Business Plan & Why UAE-Based Businesses Need One",
+        "description": "Foster instant stakeholder and investor trust, streamline business setup, and expedite corporate bank account setup with a strategic, custom-built business plan.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Build Investor Confidence",
+                "subTitle": "Build Investor Confidence",
+                "description": "Startups with a professionally crafted business plan are 2.5X more likely to secure investment. Captivate venture capitalists and banks with a data-driven, persuasive business plan.",
+                "image": "/assets/businessPlanPreparation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Cut Startup Mistakes by 30%",
+                "subTitle": "Cut Startup Mistakes by 30%",
+                "description": "Slash operational mistakes by a whopping 30% with a financially sound business plan aligned to your financial forecasts and future goals.",
+                "image": "/assets/businessPlanPreparation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Secure Your Loved One's Future ",
+                "subTitle": "Secure Your Loved One's Future ",
+                "description": "Nearly half of all business exits happen without warning. A smart business plan ensures your legacy lives on, diversifying and preserving your assets.",
+                "image": "/assets/businessPlanPreparation/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Fast-Track Bank and Visa Approvals",
+                "subTitle": "Fast-Track Bank and Visa Approvals",
+                "description": "Win instant confidence, prevent unnecessary delays, and avoid bank and visa application approvals with a future-proof business plan.",
+                "image": "/assets/businessPlanPreparation/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Our Holistic Business Plan Services",
+        "description": "Explore our full range of personalised business plans to power every stage of your journey.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Bank Loan Business Plans",
+                "description": "Fast-track business setup with plans tailored to the UAE’s banking needs",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Investor Business Plans",
+                "description": "Win contracts with VCs and angel investors through data-driven business plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Visa Business Plans",
+                "description": "Secure residency visas with a business plan aligned with government regulations.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Free Zone Business Plan",
+                "description": "Launch in the UAE Free Zone hassle-free with our compelling, legally sound FZ business plan.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Government Funding Plans",
+                "description": "Access local government grants, loans, and incentive programs with tailor-made funding plans.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Offshore Business Plan",
+                "description": "Position your offshore entity for success and secure investor trust with an offshore business plan.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Marketing & Financial Plan",
+                "description": "Get in-depth financial projections with income statements and break-even analysis.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Business Succession Plan",
+                "description": "Safeguard your legacy and preserve your wealth with a clear succession roadmap.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/businessPlanPreparation/left4/1.webp",
+            "title": "Launch Your UAE-Based Business 260% More Confidently",
+            "description": "Entrepreneurs with business plans are 260% more likely to turn ideas into real ventures. We’ll build the roadmap that turns your “what if” into “what’s next.",
+            "btn": "Entrepreneurs with business plans are 260% more likely to turn ideas into real ventures. We’ll build the roadmap that turns your “what if” into “what’s next.",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/businessPlanPreparation/left4/2.webp",
+            "title": "Business Plans with Pricing That Fits Your Vision",
+            "description": "Startup, expansion, or investor-ready pitch — choose the level of strategy, research, or financial modeling you actually need. No bloated bundles. No surprise add-ons. Just a plan—and a price—built around your goals.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your Business Plan in the UAE in 4 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get a Free Consultation",
+                "description": "We'll start with a brief call to discuss your unique needs and target audience to draft a customised business plan",
+                "image": "/assets/businessPlanPreparation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "",
+                "description": "",
+                "image": "/assets/businessPlanPreparation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Conduct Market Research",
+                "description": "Based on our discussion, we'll conduct in-depth market research and feasibility analysis in your industry.",
+                "image": "/assets/businessPlanPreparation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Review, Revise, & Revamp",
+                "description": "We'll send over the first draft and tweak it until you're 100% satisfied, empowering you to nurture stakeholder trust",
+                "image": "/assets/businessPlanPreparation/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Funding Confidently",
+                "description": "Approach investors, banks, or government entities with clarity and confidence to enjoy sustainable business success.",
+                "image": "/assets/businessPlanPreparation/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Trusted Partner for Business Plan Preparation",
+        "description": "Anticipate revenue dips, retain top talent, and hit all your growth targets with our holistic business plans in Dubai.",
+        "items": [
+            {
+                "title": "Drive Business Growth",
+                "description": "Boost your odds of launching successfully by a stunning 260% with our fully customised, data-driven business tailored to your unique needs.",
+                "image": "/assets/businessPlanPreparation/bgImage/1.webp"
+            },
+            {
+                "title": "Grab Investor Attention",
+                "description": "Increase your chances of securing investment by over 70% with a robust investor business plan. Cultivate investor confidence and scale confidently.",
+                "image": "/assets/businessPlanPreparation/bgImage/2.webp"
+            },
+            {
+                "title": "Prevent Cash Burn by 18%",
+                "description": "Our seasoned business planners empower you with data-driven market analysis, financial projects, and risk assessments to ensure you're part of the 18% winning!",
+                "image": "/assets/businessPlanPreparation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/businessPlanPreparation/grid/1.webp",
+        "title": "Get Funded 2X Faster with Tailored Business Plan",
+        "description": "Lenders say yes when your numbers add up. A strong business plan boosts approval rates by 150%—and we know exactly how to get you there.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As a first-time entrepreneur, I didn’t realize how critical a business plan was until One Nexuz stepped in. Their team not only structured my idea into a viable plan but also helped me register for government tenders. I wouldn’t have secured funding without them.”",
+                "role": "Tech Start-up Founder",
+                "image": "/assets/businessPlanPreparation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“From market research to health insurance, One Nexuz handled every layer beyond the business plan. Their all-in-one support gave me clarity, compliance, and confidence to launch in Dubai seamlessly.”",
+                "role": "Retail Franchise Managing Director",
+                "image": "/assets/businessPlanPreparation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I had no clue about local sponsorship or feasibility studies, but One Nexuz made it effortless. They didn't just write a business plan—they gave me a launchpad.”",
+                "role": "Advisory Services Business Consultant",
+                "image": "/assets/businessPlanPreparation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Strengthen Your Launch with Strategic Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "description": "Optimise fleet management, simplify ownership transfers, and reclaim 10%+ VAT and BIK tax.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Recruit top talent, win investor confidence, and build credibility with professional meeting rooms.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registratio",
+                "description": "Streamline international trade and qualify for tax exemptions with a registered Import & Export Code.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "description": "Validate business ideas and optimise resource allocation with market-tested feasibility insights.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Slash travel expenses and book company flights stress-free with our round-the-clock travel support.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee Services",
+                "description": "Unlock tax incentives, open a local bank account, and simplify shareholder decision-making with nominee services.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Take advantage of local amenities, bid for government projects, and explore exciting business opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner Services",
+                "description": "Access local markets and retain strategic ownership of your business with a trustworthy UAE local agent.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Breathe Life into Your Entrepreneurial Journey with Strategic Business Plans in Dubai",
+        "description": "Secure trade licenses, funding, and stakeholder confidence to thrive in the UAE's hyper-competitive business landscape. Partner with our skilled business planners to build custom plans and unlock sustainable financial success.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/businessPlanPreparation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a business plan in Dubai?",
+                "answer": "A UAE business plan is a strategic document that visualises your business goals, summarises market research, and provides financial forecasts to captivate stakeholders and investors."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I write a UAE business plan on my own?",
+                "answer": "While you can write a business plan yourself, you run the risk of missing key information necessary to capture your target audience. This can result in costly delays and rejections."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can One Nexuz help me write a business plan to attract investors?",
+                "answer": "Yes, our expert business planners have the local knowledge and hands-on experience to craft investor-friendly plans, increasing your odds of attracting investors by over 70%."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is a business plan necessary for entrepreneurs?",
+                "answer": "Yes, a custom business plan empowers you with a roadmap for your entrepreneurial journey, allowing you to secure investment, expedite business setup, and more!"
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz promise confidentiality if I ask for your business plan preparation services?",
+                "answer": "Absolutely, ensuring confidentiality is vital to us, which is why we place stringent safety protocols in place to protect all sensitive business information."
+            }
+        ]
+    }
+}

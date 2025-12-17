@@ -1,0 +1,257 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/boardResolutionDrafting.webp",
+        "title": "Centralise Board Decisions, Finalise Resolutions, & Protect Your Business with UAE-Compliant Board Resolution Drafts",
+        "description": "Unclear, outdated, or non-compliant board resolutions putting your company at risk? Skip the legal challenges, regulatory penalties, and operational chaos with our seasoned lawyers drafting, reviewing, and validating every resolution for legal compliance. Gain a competitive edge, nurture business credibility, and impress investors, potential partners, and regulators alike with our financially sound board resolution drafts!"
+    },
+    "leftSection_1": {
+        "title": "What is a Board Resolution Document & Why UAE-Based Companies Need It",
+        "description": "Safeguard your business's interests, win high-value contracts, and minimise legal risk with custom-tailored resolutions designed to power your business's growth.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Elevate Brand Reputation ",
+                "subTitle": "Elevate Brand Reputation ",
+                "description": "Build instant trust and credibility with investors, partners, shareholders, and government officials with professionally drafted resolutions.",
+                "image": "/assets/boardResolutionDrafting/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Stay 100% Legally Compliant ",
+                "subTitle": "Stay 100% Legally Compliant ",
+                "description": "Without notarised and attested board resolutions, business owners may face rejections, delays, or even hefty fines. A future-proof resolutions draft empowers you to expand across the UAE stress-free",
+                "image": "/assets/boardResolutionDrafting/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Preserve Business Value & Performance",
+                "subTitle": "Preserve Business Value & Performance",
+                "description": "Optimise your company's financial performance, protect your valuation, and boost investor confidence with airtight, future-proof board resolutions.",
+                "image": "/assets/boardResolutionDrafting/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Ensure Transparency & Accountability",
+                "subTitle": "Ensure Transparency & Accountability",
+                "description": "Mitigate the risk of legal disputes and operational disruptions by assigning clear responsibilities and decision-making authority.",
+                "image": "/assets/boardResolutionDrafting/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Board Resolution Drafting Services",
+        "description": "Protect your business against legal disputes and streamline approvals with our comprehensive board resolution drafting solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Custom Resolution Drafting",
+                "description": "Craft tailored resolution drafts that reflect your business decisions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Resolution Review & Updates",
+                "description": "Stay agile in the UAE's dynamic business landscape with proactive reviews.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Employee Handbook",
+                "description": "Build team trust and increase retention with custom-built UAE employee handbooks.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Strategic Advisory",
+                "description": "Get expert guidance on corporate governance, risk management, & decision-making.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/boardResolutionDrafting/left4/1.webp",
+            "title": "Shield Your Business from Legal and Financial Risks",
+            "description": "Over 70% of corporate disputes trace back to weak documentation. Board resolutions drafted by our attorneys safeguard your company and its stakeholders.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/boardResolutionDrafting/left4/2.webp",
+            "title": "Custom Board Resolutions, Transparent Pricing",
+            "description": "No confusing packages, hidden charges, or surprise add-ons. From corporate approvals to governance compliance, we tailor our board resolutions to your company’s exact requirements.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Craft Tailored Board Resolutions in 4 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Discuss Your Needs",
+                "description": "We begin with a free consultation to discuss your business goals and identify the type of resolutions you need.",
+                "image": "/assets/boardResolutionDrafting/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Draft the Initial Document",
+                "description": "Next, we'll prepare precise, UAE-compliant board resolutions tailored to your unique legal structure and goals.",
+                "image": "/assets/boardResolutionDrafting/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Review, Refine, & Approve",
+                "description": "Our experts will collaborate with your board to finalise, amend, and approve the resolutions effortlessly.",
+                "image": "/assets/boardResolutionDrafting/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain & Secure Resolutions",
+                "description": "Lastly, we'll send you the finalised resolution with optional digital copies encrypted for quick yet secure access.",
+                "image": "/assets/boardResolutionDrafting/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Founders Trust Us for Legally-Sound Board Resolution Drafting in the UAE",
+        "description": "Without a professional board resolution draft,  you run the risk of hefty fines, loss of limited liability protection, and costly operational disruptions. We empower you with professional drafts, securing your business assets.",
+        "items": [
+            {
+                "title": "Get Fast Turnaround Times",
+                "description": "Secure audit-proof resolution drafts within 24-48 hours and reclaim time lost navigating the UAE's intricate regulatory requirements.",
+                "image": "/assets/boardResolutionDrafting/bgImage/1.webp"
+            },
+            {
+                "title": "Gain Exclusive Guidance",
+                "description": "Receive tailored advice on strategic board decisions, corporate governance, and acquisitions to minimise the risk of legal disputes and hefty fines.",
+                "image": "/assets/boardResolutionDrafting/bgImage/2.webp"
+            },
+            {
+                "title": "Stay Ahead of Regulatory Changes",
+                "description": "Save AED 10,000+ in non-compliance by ensuring you're always up-to-date with the UAE Free Zone and Mainland's fast-evolving regulatory landscape.",
+                "image": "/assets/boardResolutionDrafting/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/boardResolutionDrafting/grid/1.webp",
+        "title": "Keep Your Business Audit-Proof with Our Legall Sound Draft Resolutions",
+        "description": "Get clear, enforceable board resolutions that eliminate ambiguity and keep your business on the right side of compliance.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I used to draft resolutions myself, but they always got stuck with banks due to missing details. With professional drafting, the process became seamless—no rejections, no wasted time. It gave me the confidence that everything is legally airtight.",
+                "role": "IT Startup Founder",
+                "image": "/assets/boardResolutionDrafting/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Having clear, compliant board resolutions has made investor meetings so much smoother. There’s no ambiguity anymore—responsibilities are documented, and every decision looks well-governed. It really strengthened our credibility.",
+                "role": "E-commerce Business Managing Director",
+                "image": "/assets/boardResolutionDrafting/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "What stood out to me was the speed and accuracy. Our resolution for appointing new signatories was drafted in less than 24 hours, and the bank accepted it without a single correction. That efficiency saved us weeks!",
+                "role": "Import-Export Trading Company CFO",
+                "image": "/assets/boardResolutionDrafting/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Spot, Assess, & Manage Business Risks with Our Holistic Legal Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Governance",
+                "description": "Simplify acquisitions, ensure transparency, and exit strategically with proactive consultancy.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "HR Policy Drafting",
+                "description": "Foster workplace productivity and protect business interests with custom-built HR policies.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Shareholder Agreement Drafting",
+                "description": "Safeguard partnerships, define roles, and prevent disputes with tailored shareholder agreements.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Power Data-Driven Decision-Making with Future-Proof Board Resolution Drafts",
+        "description": "Gain investor trust, audit-proof all documentation, and strengthen governance with our professionally drafted, UAE-compliant board resolutions and employee handbook services.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/boardResolutionDrafting/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Shareholder Agreement Drafting",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "HR Policy Drafting",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Corporate Governance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are board resolutions drafts in the UAE?",
+                "answer": "A board resolution draft is a tailored document that formalises key business decisions and actions taken by the board of directors."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why do UAE board resolution drafts matter?",
+                "answer": "A professional board resolution empowers businesses to simplify decision-making, uphold legality, ensure accountability, and promote transparency."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to draft a resolution?",
+                "answer": "Our skilled attorneys can draft and finalise your board resolutions in 24-48 hours, depending on the complexity of the decision."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I draft a board resolution myself?",
+                "answer": "Yes, but self-drafting resolutions can come with the risk of non-compliance, ambiguous clauses, and costly rejections."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What happens if a board resolution is incorrect or incomplete?",
+                "answer": "Errors in a board resolution can invalidate the resolution, delay regulatory approvals, trigger hefty fines, or even expose directors to liability."
+            }
+        ]
+    }
+}

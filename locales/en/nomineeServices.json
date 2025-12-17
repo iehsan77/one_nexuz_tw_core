@@ -1,0 +1,300 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Book Your Free Consultation",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/nomineeServices.webp",
+        "title": "Protect Your Assets, Maintain Privacy, & Streamline Operations with Our Trusted UAE Nominee Solutions",
+        "description": "Frustrated with endless bureaucracy, confusing local requirements, and licensing delays? Fast-track licensing, simplify filings, and secure bank approvals to tap into the UAE's thriving local economy, ensure compliance, and drive limitless business growth with our holistic nominee services in Dubai and 5+ Emirates. Launch, expand, and scale your business without the administrative or technical headaches."
+    },
+    "leftSection_1": {
+        "title": "Why Do Global Founders' Choose Nominee Services in the UAE",
+        "description": "Secure your investment strategies, retain strategic control, and expand across local and global markets with a verified nominee guiding you every step of the way.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Stay Compliant, Protect Your Interests, & Maintain Business Operations",
+                "subTitle": "Stay Compliant, Protect Your Interests, & Maintain Business Operations",
+                "description": "Gain complete peace of mind, safeguard your identity, and protect sensitive business information with strategic nominee director or shareholder services.",
+                "image": "/assets/nomineeServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Set Up, Register, and Operate Your Business Efficiently — All with Zero Hassle",
+                "subTitle": "Set Up, Register, and Operate Your Business Efficiently — All with Zero Hassle",
+                "description": "Accelerate business licensing and registration, cut down your time-to-market, and expand your market reach with verified nominee solutions.",
+                "image": "/assets/nomineeServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Protect Your Identity, Shield Sensitive Information, and Maintain Full Confidentiality",
+                "subTitle": "Protect Your Identity, Shield Sensitive Information, and Maintain Full Confidentiality",
+                "description": "Stay 100% compliant with UAE corporate and licensing regulations to save AED 1,000+ all while minimising administrative burdens, so you can focus on growth.",
+                "image": "/assets/nomineeServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Structure Your Business Strategically and Expand with Confidence",
+                "subTitle": "Structure Your Business Strategically and Expand with Confidence",
+                "description": "Operate from across the globe while retaining full strategic control of your business with legally sound nominee shareholder and director agreements.",
+                "image": "/assets/nomineeServices/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Protect, Comply, & Grow Seamlessly with Our End-to-End Nominee Solutions",
+        "description": "From implementing strategic ownership structures to maintaining compliance, our nominee services give foreign investors complete control over their UAE ventures.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Nominee Director Services",
+                "description": "Fast-track business setup, meet local regulatory requirements, and optimise operational efficiency with a legally compliant nominee director.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Nominee Shareholder Services",
+                "description": "Protect your privacy and ensure confidentiality for investments, subsidiaries, and joint ventures with a trusted nominee shareholder.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/nomineeServices/left4/1.webp",
+            "title": "Confidential Ownership. Legal Compliance. Zero Headaches.",
+            "description": "Get a professionally drafted nominee agreement that safeguards ownership and ensures regulatory alignment with our comprehensive nominee solutions.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/nomineeServices/left4/2.webp",
+            "title": "Start Your Nominee Services Today — Fully Transparent, Fully Flexible",
+            "description": "No complicated packages, no surprise add-ons, no extra add-ons. Get the nominee support you need to launch, operate, and grow your business. Start with the essentials and scale your services seamlessly as your company grows.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 4-Step Process to Simplify Business Setup & Ensure Compliance",
+        "items": [
+            {
+                "id": 1,
+                "title": "Consultation & Needs Assessment",
+                "description": "We begin by understanding your business, goals, and regulatory requirements to tailor nominee services that match your exact needs.",
+                "image": "/assets/nomineeServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Nominee Selection & Agreement",
+                "description": "Next, we carefully appoint a qualified nominee director or shareholder and formalize the arrangement through a legally binding agreement to protect your ownership.",
+                "image": "/assets/nomineeServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Registration & Compliance Setup",
+                "description": "Our team handles all documentation, regulatory filings, and formalities to ensure your nominee arrangement meets UAE corporate and licensing requirements seamlessly.",
+                "image": "/assets/nomineeServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Ongoing Support & Control",
+                "description": "Finally, you retain full beneficial ownership and decision-making authority while we provide continuous support to keep your business compliant and confidential.",
+                "image": "/assets/nomineeServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Nominee Services",
+        "description": "Navigate the UAE’s complex business regulations confidently and minimise administrative overheads with our expert nominee shareholder and director services.",
+        "items": [
+            {
+                "title": "Complete Control with Full Compliance",
+                "description": "We ensure you retain 100% ownership and decision-making power while meeting all UAE legal and regulatory requirements.",
+                "image": "/assets/nomineeServices/bgImage/1.webp"
+            },
+            {
+                "title": "Complete Privacy, Total Peace of Mind",
+                "description": "Your ownership and sensitive business information remain fully protected, with nominees acting discreetly to safeguard your privacy at every step.",
+                "image": "/assets/nomineeServices/bgImage/2.webp"
+            },
+            {
+                "title": "Transparent, Legally Secure Agreements",
+                "description": "All services are backed by clear, legally binding contracts that protect your rights and clarify roles, giving you peace of mind and risk mitigation.",
+                "image": "/assets/nomineeServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/nomineeServices/grid/1.webp",
+        "title": "Join the 1,000+ Businesses Using Nominees to Fast-Track Trade Licensing",
+        "description": "Our strategic nominee shareholder and director solutions ensure compliance, smooth approvals, and zero regulatory setbacks, so you can improve your time-to-market and unlock sustainable growth.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz made setting up my UAE company completely stress-free. The nominee services allowed me to retain full control while staying fully compliant with local regulations.",
+                "role": "Tech Startup Founder",
+                "image": "/assets/nomineeServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Their nominee shareholder service gave me the confidentiality and flexibility I needed as a foreign investor. I could manage my business remotely without any operational hiccups.",
+                "role": " Investment Firm CEO",
+                "image": "/assets/nomineeServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Professional, reliable, and transparent — One Nexuz handled every detail of the nominee setup. I now have peace of mind knowing my ownership and compliance are fully protected.",
+                "role": "E-Commerce Business Managing Director",
+                "image": "/assets/nomineeServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Streamline Your UAE Venture with Our Tailored Business Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "description": "Manage your fleet, build brand credibility, and maximise your return on investment.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Craft an future-proof business plan to foster investor trust and secure funding.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Build a professional brand image with fully equiped meeting rooms.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Importer/Exporter Code)",
+                "description": "Streamline cross-border trade and unlock tax benefits with an IEC code.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "description": "Make informed business decisions with data-driven insights and analyses.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Simplify executive travel with hassle-free visa processing and relocation support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Meet UAE regulatory requirements while retaining full operational control. ",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner Services",
+                "description": "Expand your network and access exclusive insights with a local partner.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Meet UAE Requirements Without Sacrificing Control?",
+        "description": "Our nominee services ensure licensing compliance, private ownership, and smooth operations — so you can manage your business your way!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/nomineeServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are nominee services in the UAE?",
+                "answer": "Nominee services allow you to appoint a trusted individual or entity to fulfill formal corporate roles such as director or shareholder, while you retain full beneficial ownership and control."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Are nominee directors and shareholders legally recognized?",
+                "answer": "Yes. All nominees are appointed through formal agreements and registered with UAE authorities, fully compliant with local corporate regulations."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do nominee services affect my ownership rights?",
+                "answer": "No. You remain the beneficial owner with full decision-making authority, financial control, and legal rights over the company."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What roles can a nominee fulfill?",
+                "answer": "Nominees can act as directors, shareholders, secretaries, or managers, depending on your business structure and compliance needs."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How long does it take to set up nominee services?",
+                "answer": "Typically, nominee arrangements can be completed within a few days to a couple of weeks, depending on documentation and regulatory approvals."
+            }
+        ]
+    }
+}

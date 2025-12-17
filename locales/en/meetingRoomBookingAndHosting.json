@@ -1,0 +1,330 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/meetingRoomBookingAndHosting.webp",
+        "title": "Protect Your Assets, Maintain Privacy, & Streamline Operations with Our Trusted UAE Nominee Solutions",
+        "description": "Frustrated with endless bureaucracy, confusing local requirements, and licensing delays? Fast-track licensing, simplify filings, and secure bank approvals to tap into the UAE's thriving local economy, ensure compliance, and drive limitless business growth with our holistic nominee services in Dubai and 5+ Emirates. Launch, expand, and scale your business without the administrative or technical headaches."
+    },
+    "leftSection_1": {
+        "title": "Why Businesses Need Tailored Meeting Room Booking Solutions",
+        "description": "Unlock team creativity, expand your professional network, and recruit top talent in custom-built, high-tech meeting rooms and boardrooms. ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Maximise Workplace Efficiency ",
+                "subTitle": "Maximise Workplace Efficiency ",
+                "description": "Minimise distractions and empower teams to focus on priority tasks with clutter-free meeting rooms. Get high-speed connectivity and cutting-edge video systems for seamless virtual or in-person meetings.",
+                "image": "/assets/meetingRoomBookingAndHosting/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Boost Employee Engagement ",
+                "subTitle": "Boost Employee Engagement ",
+                "description": "Encourage seamless team communication and collaboration with meeting rooms custom-built for training, hosting events, and brainstorming. ",
+                "image": "/assets/meetingRoomBookingAndHosting/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Make a Lasting First Impression",
+                "subTitle": "Make a Lasting First Impression",
+                "description": "Capture top talent, suppliers, and clients worldwide with top-notch on-demand meeting rooms. Stay ahead of the curve with professional spaces.",
+                "image": "/assets/meetingRoomBookingAndHosting/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Foster Innovation & Collaboration",
+                "subTitle": "Foster Innovation & Collaboration",
+                "description": "Unleash your team’s creativity to innovate new products and services and amplify decision-making with well-designed conference rooms.",
+                "image": "/assets/meetingRoomBookingAndHosting/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Fully-Equipped Meeting Rooms ",
+        "description": "Browse our diverse list of purpose-built interview and meeting rooms for rent across the UAE:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Huddle Room ",
+                "description": "Ideal for quick one-to-ones, video calls, or focused brainstorming sessions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Boardroom",
+                "description": "Perfect for client meetings or leadership discussions in well-designed spaces.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Training Room",
+                "description": "Well-suited for workshops, team onboarding, and interactive learning. ",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Interview Room",
+                "description": "Conduct professional interviews in modern spaces equipped with top-tier facilities.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Workshop Space",
+                "description": "Host group activities and design sprints in open workshop spaces.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Conference Room",
+                "description": "Conduct hybrid meetings, team reviews, and group presentations with AV setup.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Event Room",
+                "description": "Expand your network or plan product launches in versatile event rooms.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Strategy Room",
+                "description": "Plan deep-diving sessions with whiteboards and high-speed connectivity.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/meetingRoomBookingAndHosting/left4/1.webp",
+            "title": "Get Fully Equipped Rooms to Boost Productivity by 72%",
+            "description": "Get Fully Equipped Rooms to Boost Productivity by 72%",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/meetingRoomBookingAndHosting/left4/2.webp",
+            "title": "Start Your Nominee Services Today — Fully Transparent, Fully Flexible",
+            "description": "No complicated packages, no surprise add-ons, no extra add-ons. Get the nominee support you need to launch, operate, and grow your business. Start with the essentials and scale your services seamlessly as your company grows.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Discover Top-Notch Meeting Rooms in Dubai",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose Your Room Type ",
+                "description": "Select the space that fits your purpose, whether it’s a boardroom, training room, or one-on-one huddle room. ",
+                "image": "/assets/meetingRoomBookingAndHosting/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Pick the Date & Duration ",
+                "description": "We’ll help you book rooms by the hour, half-day, or full day based on your meeting schedule and team size. ",
+                "image": "/assets/meetingRoomBookingAndHosting/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get a Full Suite of Amenities ",
+                "description": "Next, we’ll match you with the ideal meeting, interview, or conference rooms based on your unique requirements.",
+                "image": "/assets/meetingRoomBookingAndHosting/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Confirm & Show Up",
+                "description": "Receive instant confirmation, walk in, and kickstart your team meetings. Watch productivity skyrocket with conferencing systems.",
+                "image": "/assets/meetingRoomBookingAndHosting/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Book Professional Meeting Rooms ",
+        "description": "Drive workplace productivity and efficiency with fully furnished and clutter-free conference rooms. Explore over 1,000+ meeting rooms to wow clients, break down team silos, and enhance collaboration.",
+        "items": [
+            {
+                "title": "Book Tailored Meeting Rooms",
+                "description": "Choose from fully equipped conference and interview rooms across the UAE within seconds. We’ll arrange all additional equipment to ensure a seamless experience.",
+                "image": "/assets/meetingRoomBookingAndHosting/bgImage/1.webp"
+            },
+            {
+                "title": "Access World-Class Amenities ",
+                "description": "Get business-grade WiFi, breakout areas, whiteboards, video & audio conferencing systems, and optional catering services to supercharge your team meetings.",
+                "image": "/assets/meetingRoomBookingAndHosting/bgImage/2.webp"
+            },
+            {
+                "title": "Get Instant Bookings",
+                "description": "Reclaim time spent looking for the ideal meeting room by browsing our catalogue and selecting your preferred time slot within seconds. No waiting, no back-and-forth.",
+                "image": "/assets/meetingRoomBookingAndHosting/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/meetingRoomBookingAndHosting/grid/1.webp",
+        "title": "Create, Connect, and Collaborate in Fully Equipped Rooms",
+        "description": "80% of employees waste time just finding a space. Our bookable, always-ready meeting rooms eliminate delays—so teams stay focused on results, not logistics.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We booked a training room for our onboarding session and were impressed with the setup and service. The team even helped arrange courier delivery for training kits—we didn’t have to lift a finger.”",
+                "role": "Tech StartupHR Manager",
+                "image": "/assets/meetingRoomBookingAndHosting/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“This is the only place I trust for client meetings. The rooms feel premium, the staff is responsive, and the digital filing add-on saved us hours of admin work.”",
+                "role": "Independent Legal Consultant",
+                "image": "/assets/meetingRoomBookingAndHosting/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“The meeting room was spotless, fully equipped, and incredibly easy to book. Having everything ready—Wi-Fi, screen, even water—meant we could focus entirely on our pitch.”",
+                "role": "Marketing Agency Co-Founder",
+                "image": "/assets/meetingRoomBookingAndHosting/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Optimise Business Performance with Operational Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration ",
+                "description": "Reclaim thousands of dirhams on VAT with end-to-end company car registration support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Attract leading investors and secure licenses with professionally crafted business plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registration (Importer/Exporter Code)",
+                "description": "Simplify cross-border trade and prevent penalties with a secure IEC code.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "description": "Gain actionable insights to validate product or service ideas with data-driven market analysis & feasibility studies.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Make informed business decisions with data-driven insights and analyses.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee Services",
+                "description": "Maintain privacy and compliance, and simplify administrative overheads with nominee support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Meet UAE requirements and access lucrative local markets with a verified local sponsor.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner",
+                "description": "Expand across the Emirates without risking compliance by partnering with a trusted local agent.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Book Premium Spaces to Capture Clients ",
+        "description": "Discover professional meeting and interview rooms that reflect your brand to impress investors, power team building sessions, and expand your professional network by exploring our top-notch conference rooms.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/meetingRoomBookingAndHosting/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I book a meeting room over the weekend?",
+                "answer": "Yes, we assist you in booking meeting, interview, or conference rooms on weekends. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I rearrange the layout of my meeting room?",
+                "answer": "Yes, most of our meeting rooms are customisable, allowing you to configure the layout to match your business needs. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I cancel a meeting room booking?",
+                "answer": "Yes, we offer a 24-hour window to modify or cancel meeting room bookings."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What happens if a meeting lasts longer than the original time?",
+                "answer": "If there is no meeting booked after yours, we’ll update the checkout cost and time per your requirement."
+            }
+        ]
+    }
+}

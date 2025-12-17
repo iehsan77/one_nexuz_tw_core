@@ -1,0 +1,252 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/corporateTaxServicesInUae.webp",
+        "title": "Organise Your Tax Records, Ensure Compliance, and Streamline Filing with Our Expert CorporateTax Solutions",
+        "description": "Simplify corporate tax registration, optimise filing, and navigate the UAE’s fast-evolving tax landscape with our seasoned tax specialists! With our team of proficient accountants and tax advisors, you can fast-track tax registration,  streamline financial reporting, strengthen your cash flow, and unlock long-term savings."
+    },
+    "leftSection_1": {
+        "title": "Why UAE-Based Businesses Outsource Corporate Tax Solutions",
+        "description": "Reduce administrative burdens, ensure full compliance with changing regulations, and enhance investor confidence by outsourcing corporate tax services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Save 80+ Hours Annually on Tax Compliance",
+                "subTitle": "Save 80+ Hours Annually on Tax Compliance",
+                "description": "Spend less time buried in tax filings and more time making strategic business decisions by outsourcing tax registration, filing, and compliance to the pros.",
+                "image": "/assets/corporateTaxServicesInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Reduce Tax Liability by Up to 65%",
+                "subTitle": "Reduce Tax Liability by Up to 65%",
+                "description": "Cut down your tax outflow by 50-65% through small business reliefs, free zone exemptions, and group relief provisions on qualifying income.",
+                "image": "/assets/corporateTaxServicesInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Avoid Fines of Over AED 10,000",
+                "subTitle": "Avoid Fines of Over AED 10,000",
+                "description": "Protect your business against hefty fines and penalties by mitigating the risk of late tax registrations, costly filing errors, and audit issues.",
+                "image": "/assets/corporateTaxServicesInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Enhance Operational Efficiency ",
+                "subTitle": "Enhance Operational Efficiency ",
+                "description": "Free up time and resources tied to mundane accounting tasks, empowering your team to focus on core business activities and stay ahead of the curve.",
+                "image": "/assets/corporateTaxServicesInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Our Holistic Corporate Tax Services in the UAE",
+        "description": "Ensure compliance with the FTA's fast-changing requirements through our tailored corporate tax solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Corporate Tax Registration & Filing",
+                "description": "Get registered with the FTA in seconds by streamlining the paperwork, document attestation, and submission.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tax Advisory & Relief Planning",
+                "description": "Gain custom guidance on tax planning tailored to your business structure and discover ways to elevate your bottom line.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Transfer Pricing Support",
+                "description": "Secure fully compliant TP documentation outlining expenses for transactions aligned with FTA & OECD guidelines.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Corporate Tax Returns & Restructuring",
+                "description": "Receive quarterly or monthly tax reports with insight-driven analysis to ensure timely invoice and reclaim filings or strategic corporate restructurings.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Compliance Monitoring",
+                "description": "Stay ahead of evolving tax laws, policy shifts, and economic substance rules to ensure you’re 100% compliant.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/corporateTaxServicesInUae/left4/1.webp",
+            "title": "Don’t Let a Tax Misstep Derail Your Business",
+            "description": "Our corporate tax experts ensure you're aligned with every FTA guideline—so you avoid penalties, safeguard your reputation, and stay focused on growth.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/corporateTaxServicesInUae/left4/2.webp",
+            "title": "Our corporate tax experts ensure you're aligned with every FTA guideline—so you avoid penalties, safeguard your reputation, and stay focused on growth.",
+            "description": "From filings to full-year tax management, build a plan that matches your company’s complexity—not a generic package. Clear costs, tailored support, and zero surprises. Your tax needs; your price.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Help You Register & File in 4 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Assess Your Legal Structure",
+                "description": "We kick off by analysing your business model, licensing setup, and jurisdiction to determine how corporate tax law applies to you.",
+                "image": "/assets/corporateTaxServicesInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Secure Government Approvals ",
+                "description": "We map out every legal opportunity to minimise your risk exposure and identify opportunities to boost your revenue.",
+                "image": "/assets/corporateTaxServicesInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Register & File With the FTA",
+                "description": "Next, our seasoned tax consultants help you register with the FTA to ensure accurate, compliant, and timely submissions.",
+                "image": "/assets/corporateTaxServicesInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Monitor & Optimise Your Tax Structure",
+                "description": "Our experts offer 24/7 compliant support, instant updates, and strategic advise to provide your business with a competitive edge.",
+                "image": "/assets/corporateTaxServicesInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Reliable Corporate Tax Services in Dubai, UAE",
+        "description": "Skip the hassle of endless tax filings and the frustration of late submissions that could cost you thousands of dirhams with end-to-end tax solutions. We connect you with accredited tax consultants to maximise your savings.",
+        "items": [
+            {
+                "title": "Get Tailored Corporate Tax Solutions",
+                "description": "Our team of tax advisors boasts specialised knowledge of the UAE's dynamic tax landscape. Receive custom tax advisory for your Mainland or Free Zone company.",
+                "image": "/assets/corporateTaxServicesInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Stay 100% FTA-Compliant",
+                "description": "Ensure you're always one step ahead of your competitors with round-the-clock alerts on changing tax codes, filing laws, and regulatory requirements.",
+                "image": "/assets/corporateTaxServicesInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Take Strategic Financial Decisions",
+                "description": "Our expert tax consultants identify risks in your cash flow and empower you to make informed business decisions to improve profit margins.",
+                "image": "/assets/corporateTaxServicesInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/corporateTaxServicesInUae/grid/1.webp",
+        "title": "Corporate Tax Is Now Mandatory. Is Your Business Prepared?",
+        "description": "Don’t wait for a lawsuit to land on your desk. Our seasoned tax consultants handle registrations, filings, and exemptions so you’re ready from day one, with zero compliance gaps.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "We saved over AED 40,000 in our first year thanks to their smart use of SME relief. The process was seamless from start to finish.",
+                "role": "Logistics Firm Founder",
+                "image": "/assets/corporateTaxServicesInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Their team handled everything—from CT registration to filing—while we focused on growth. Zero stress and 100% compliance.",
+                "role": "Tech Startup CFO",
+                "image": "/assets/corporateTaxServicesInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "We had no idea we qualified for group relief. They restructured our setup and cut our tax liability by nearly half.",
+                "role": " Consulting Group Managing Partner",
+                "image": "/assets/corporateTaxServicesInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "More Ways One Nexuz Helps You Grow in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "VAT & Tax Consultancy",
+                "description": "ecure your FTA-compliant TRN certification and compliant quarterly filings to streamline your cash flow.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Payroll Management",
+                "description": "Optimise payroll accuracy and promote on-time salary disbursement without risking labour law compliance issues.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Protect Your Business with Expert Corporate Tax Solutions",
+        "description": "Cut liability, save thousands in tax, and gain year-round expert guidance with our tailor-made corporate tax solutions. Connect with our tax specialists today to simplify tax filings and claim reliefs to uplift your bottom line.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/corporateTaxServicesInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Payroll Management",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "VAT & Tax Consultancy",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is corporate tax in Dubai, UAE?",
+                "answer": "Corporate tax refers to the direct tax levied on your UAE-based business’s income, varying from 0%-9% based on your total revenue."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Does every company in the UAE have to file a tax return?",
+                "answer": "Yes, the UAE requires every company to file tax returns, even if they’re tax-exempt."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents are required to register for UAE corporate tax?",
+                "answer": "You’ll need to provide copies of your passport, financial statements, trade license, and corporate structure or group details, depending on your business entity, location, and revenue."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How do I know if my business is subject to corporate tax laws?",
+                "answer": "All UAE-based businesses under a commercial license are subject to corporate tax laws. However, our expert tax advisors help you identify regions where taxes are exempted."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What is small business relief under the UAE corporate tax?",
+                "answer": "Small business relief allows eligible UAE-based businesses with a revenue of less than AED 3 million to qualify for a 0% corporate tax rate."
+            }
+        ]
+    }
+}
