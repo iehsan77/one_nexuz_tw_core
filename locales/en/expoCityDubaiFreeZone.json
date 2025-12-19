@@ -1,0 +1,418 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/expoCityDubaiFreeZone.webp",
+        "title": "Launch, Network, and Thrive in Expo City Dubai Free Zone—Set Up & Scale with Our All-in-One Business Solutions",
+        "description": "Position your business at the junction of four strategic highways to access lucrative regional and international markets. Scale stress-free by taking advantage of ECD Free Zone's smart infrastructure, state-of-the-art innovation hubs, and flexible multi-year licenses. Partner with our seasoned business consultants to expedite licensing and start growing from day one!"
+    },
+    "leftSection_1": {
+        "title": "What are the Benefits of Business Setup in Expo City Dubai?",
+        "description": "Uncover exciting growth opportunities in a next-generation business hub custom-built to foster innovation, creativity, and global connectivity. Enjoy 0% corporate and personal income tax and 100% profit repatriation in Expo City Dubai FZ.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Gain Unmatched International Connectivity",
+                "subTitle": "Gain Unmatched International Connectivity",
+                "description": "Tap into fast-growing markets in the MENA, Europe, and South Asia with strategic access to the Al Maktoum Airport and Jebel Ali Port.",
+                "image": "/assets/expoCityDubaiFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Launch in ECD’s thriving business ecosystem to build meaningful connections with thought leaders, skilled entrepreneurs, and like-minded professionals.",
+                "image": "/assets/expoCityDubaiFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Build Breakthrough Technologies",
+                "subTitle": "Build Breakthrough Technologies",
+                "description": "Research, innovate, and introduce revolutionary green tech, clean energy, smart city solutions, and more with unrestricted access to Expo City Dubai FZ’s cutting-edge business facilities and testing labs.",
+                "image": "/assets/expoCityDubaiFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Multi-Activity Licensing",
+                "subTitle": "Unlock Multi-Activity Licensing",
+                "description": "Bundle 12+ business activities from nearly 2000 options under a single license to scale your business within and beyond the Emirates.",
+                "image": "/assets/expoCityDubaiFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore the Top Permitted ECD FZ Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Aviation"
+            },
+            {
+                "id": 2,
+                "title": "Construction"
+            },
+            {
+                "id": 3,
+                "title": "Education"
+            },
+            {
+                "id": 4,
+                "title": "Energy"
+            },
+            {
+                "id": 5,
+                "title": "Financial Services"
+            },
+            {
+                "id": 6,
+                "title": "FMCG"
+            },
+            {
+                "id": 7,
+                "title": "Gold & Diamonds"
+            },
+            {
+                "id": 8,
+                "title": "Media"
+            },
+            {
+                "id": 9,
+                "title": "Professional Services"
+            },
+            {
+                "id": 10,
+                "title": "Shipping"
+            },
+            {
+                "id": 11,
+                "title": "Technology"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Ideal Expo City Dubai FZ License for Your Business Model ",
+        "description": "Choose from countless ECD Free Zone licenses to match your industry requirements with our expert support.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Trade, import, and export top-tier goods by securing DET approvals."
+            },
+            {
+                "id": 2,
+                "title": "Dual License",
+                "description": "Submit passport copies and initial approvals to expand into the Mainland market."
+            },
+            {
+                "id": 3,
+                "title": "E-Commerce License",
+                "description": "Launch your digital storefront with a professional e-commerce business plan."
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "description": "Build a powerful resume to set up your professional consultancy or agency."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/expoCityDubaiFreeZone/left4/1.webp",
+            "title": "Join 9,500+ Success Stories at Expo City Dubai",
+            "description": "Build, grow, and scale your venture in a hub that connects innovators, drives partnerships, and accelerates business growth with our seasoned consultants.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/expoCityDubaiFreeZone/left4/2.webp",
+            "title": "Your Business, Your Terms — Get Your Custom Expo City Dubai Quote",
+            "description": "No hidden fees, no inflated bundles. Choose the license type, workspace, and visa allocation that fit your growth plan—and scale seamlessly as your business expands.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify Business Setup in Expo City Dubai in 5 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick Your Business Activity",
+                "description": "We'll take the time to discuss your business needs to match you with the best-fit business activity and legal structure.",
+                "image": "/assets/expoCityDubaiFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Submit Your Documents",
+                "description": "Next, we'll help you compile the necessary documents and submit them to Expo City Dubai's licensing authority.",
+                "image": "/assets/expoCityDubaiFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Pay & Secure Approvals",
+                "description": "Once the DET approves your application, we'll pay the licensing fees on your behalf and obtain initial approvals.",
+                "image": "/assets/expoCityDubaiFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Sign the Final Lease",
+                "description": "The final step is to sign a lease agreement in person or remotely to obtain your trade license within 5-7 business days.",
+                "image": "/assets/expoCityDubaiFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "Beyond licensing, our PRO specialists offer personalised guidance for setting up your Free Zone bank account.",
+                "image": "/assets/expoCityDubaiFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Choose One Nexuz for Seamless Business Setup in Expo City Dubai ",
+        "description": "Skip the endless forms, intricate regulations, and costly delays with our expert business consultants guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Local Expertise with Global Perspective",
+                "description": "Our team boasts in-depth knowledge of UAE regulations, structuring your company for compliance, and empowering you to thrive in global markets.",
+                "image": "/assets/expoCityDubaiFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Business Guidance",
+                "description": "From license application to visas and bank account opening, we streamline all the paperwork, so you can focus on building your business.",
+                "image": "/assets/expoCityDubaiFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "All-in-One & Clear Costs",
+                "description": "Get a clear, upfront breakdown of trade licensing, visa, and setup fees- no hidden charges, surprise costs, or inflated packages.",
+                "image": "/assets/expoCityDubaiFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/expoCityDubaiFreeZone/grid/1.webp",
+        "title": "Power Your Ambitions with Unlimited Possibilities",
+        "description": "Choose from 2,000+ licensed business activities and secure your future with 3-year multi-year licenses designed to driven business growth.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Setting up in Dubai felt overwhelming at first, but One Nexuz simplified everything. From choosing the right free zone to handling all the paperwork, they saved me months of stress. Today, my tech startup is fully operational in DSO.”",
+                "role": "AI Software Company Founder",
+                "image": "/assets/expoCityDubaiFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As an investor coming from Europe, I needed a partner I could trust to guide me through UAE regulations. The team was transparent, fast, and always available for my questions. Opening my trading company in DMCC was smooth and hassle-free.”",
+                "role": "International Trading Firm Managing Director",
+                "image": "/assets/expoCityDubaiFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I was worried about hidden costs and delays, but One Nexuz delivered exactly what they promised. They managed my Expo City license and visas seamlessly, and I could focus on hiring and growth instead of red tape.”",
+                "role": "Marketing & Media Agency CEO",
+                "image": "/assets/expoCityDubaiFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Scale Nationwide with Our Diverse Free Zone Setup Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Streamline global trade by launching adjacent to key seaports and airports.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import/export, maintain, and repair vehicles in Dubai's #1 auto zone.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Build and expand by launching in Dubai’s innovation-first Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Network with top agencies,  broadcasters, and creatives in Dubai Media City.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Trade diamonds, gold, and precious gemstones across borders.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Collaborate with the top innovators with access to world-class facilities.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Bring your innovative ideas to life with DTEC's startup accelerator programs.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Launch in the heart of the UAE to gain exclusive insights into global events.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Dubai South Free Zone",
+                "description": "Capitalise on Dubai South FZ’s strategic access to Al-Maktoum Airport.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Get started at half the price with IFZA’s affordable licensing solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Tap into lucrative global markets with direct access to the Jebel Ali Port.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Launch your business within days, not weeks with MFZ’s speedy licensing services.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Fuel business growth by choosing from TECOM’s 10+ industry clusters.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Scale Your Startup in Dubai's Greenest Free Zone",
+        "description": "Minimise your business's environmental impact by launching your venture in one of the UAE’s most innovative business hubs. Trust our seasoned business consultants to secure your trade license in 5-7 working days.  ",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/expoCityDubaiFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is Expo City Dubai Free Zone?",
+                "answer": "Expo City Dubai Free Zone is a relatively new Free Zone located where Expo 2020 took place. The FZ boasts world-class infrastructure designed to promote sustainability and cut down the city's carbon footprint."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I relocate my spouse and children to the UAE with an ECD Free Zone license?",
+                "answer": "Yes, Expo City Dubai Free Zone allows business owners, entrepreneurs, and innovators to sponsor their loved ones."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents do I need to launch my business in Expo City Dubai FZ?",
+                "answer": "You’ll need a business plan, passport copies, and an MoA, depending on your selected business activity and legal structure."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I host events at Expo City Dubai Free Zone?",
+                "answer": "Yes, Expo City Dubai offers businesses prime locations to host corporate events, including conferences, seminars, and product launches."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer bank account opening guidance in Expo City Dubai?",
+                "answer": "Yes, our skilled PRO agents offer end-to-end support to help you create a personal or corporate Free Zone bank account in ECD."
+            }
+        ]
+    }
+}

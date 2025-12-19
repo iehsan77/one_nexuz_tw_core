@@ -1,0 +1,276 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/corporateTaxRegistrationAndFiling.webp",
+        "title": "Organise Your Records, Prepare Your Returns, and File Your Corporate Taxes Smoothly with Full 360° Corporate Tax Support",
+        "description": "Struggling with late filings, costly errors, unexpected audits, and fast-approaching tax deadlines? At One Nexuz, we simplify corporate tax registration and filing, from filing to compliance management, streamlining all the paperwork, minimising the risk of penalties, and ensuring you stay fully compliant. Protect your cash flow, strengthen financial resilience, avoid government audits, and drive business growth while our experts manage deadlines and compliance."
+    },
+    "leftSection_1": {
+        "title": "Why UAE Businesses Should Register for Corporate Tax",
+        "description": "Stay penalty-free, ensure compliance, and streamline business operations with on-time tax registration and filing.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Register, File, and Stay Penalty-Free—Keep Fines From Eating Your Profits",
+                "subTitle": "Register, File, and Stay Penalty-Free—Keep Fines From Eating Your Profits",
+                "description": "Save AED 10,000+ in fines, access exciting tax reliefs and incentives, and optimise resource allocation with timely tax registration.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain Partner Confidence, Win Deals, and Grow Your Reputation",
+                "subTitle": "Gain Partner Confidence, Win Deals, and Grow Your Reputation",
+                "description": "Win instant credibility with investors, partners, and banks, forge partnerships, and secure million-dollar contracts by registering with the FTA.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Register, File, and Set Your Business Up for Long-Term Success",
+                "subTitle": "Register, File, and Set Your Business Up for Long-Term Success",
+                "description": "Mitigate the risk of legal risks, qualify for exemptions or deductions, and scale across the Emirates without worrying about audits or compliance issues.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left1/3.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Register, Prepare, Submit, & File with Our End-to-End Corporate Tax Solutions",
+        "description": "From registration to filing and advisory, we handle everything so your business stays compliant, saves money, and scales stress-free.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/1.svg",
+                "title": "Corporate Tax Registration"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/2.svg",
+                "title": "Corporate Tax Filing & Reporting"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/3.svg",
+                "title": "Tax Planning & Advisory"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/4.svg",
+                "title": "Free Zone & Mainland Compliance Support"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Audit & Risk Management Support"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Ongoing Corporate Tax Consultation"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/corporateTaxRegistrationAndFiling/left4/1.webp",
+            "title": "Clear, Tailored Pricing for Your Corporate Tax Needs",
+            "description": "Forget one-size-fits-all packages, inflated bundles, and hidden fees. One Nexuz provides you with clear, personalised pricing for registration and filing services, so you stay compliant without costs spiraling.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/corporateTaxRegistrationAndFiling/left4/2.webp",
+            "title": "",
+            "description": "",
+            "btn": "",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "From Registration to Accurate Filing – How We Simplify Corporate Tax in 4 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Initial Assessment",
+                "description": "We'll schedule a free consultation to assess your business structure and obligations, ensuring you know exactly what's required for compliance.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare & Submit Documents",
+                "description": "Next, our experts help you organise all the necessary paperwork and submit your application to the FTA—accurately and on time.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "File, Track, & Optimise Taxation",
+                "description": "Our experts handle corporate tax filings, track deadlines, and provide tailored advice to minimise liabilities and maximise savings.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Ongoing Support",
+                "description": "Finally, we offer continuous guidance, timely updates on regulatory changes, and audit-ready support whenever needed.",
+                "image": "/assets/corporateTaxRegistrationAndFiling/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz for Professional Corporate Tax Registration & Filing Services",
+        "description": "Navigate the UAE's stringent corporate tax landscape confidently with our seasoned tax advisors. Simplify registration, ensure timely filing, and stay completely compliant with our local experts.",
+        "items": [
+            {
+                "title": "All-in-One Corporate Tax Solutions",
+                "description": "",
+                "image": "/assets/corporateTaxRegistrationAndFiling/bgImage/1.webp"
+            },
+            {
+                "title": "Custom-Built Tax Strategy",
+                "description": "",
+                "image": "/assets/corporateTaxRegistrationAndFiling/bgImage/2.webp"
+            },
+            {
+                "title": "Clear, Reliable, & Transparent",
+                "description": "",
+                "image": "/assets/corporateTaxRegistrationAndFiling/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/corporateTaxRegistrationAndFiling/grid/1.webp",
+        "title": "Deadline Looming? File Your Tax Return on Time with One Nexuz ",
+        "description": "Corporate tax returns must be filed within 9 months of your financial year end or risk escalating fines and interest. We get it done right, every time.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz.",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz made corporate tax registration effortless. Their team handled everything from start to finish, and I never had to worry about penalties or deadlines.”",
+                "role": "Trading Company CFO",
+                "image": "/assets/corporateTaxRegistrationAndFiling/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“The advisors at One Nexuz guided us through the filing process with clarity and professionalism. We saved time and optimized our tax strategy without any stress.”",
+                "role": "Tech Startup Managing Director",
+                "image": "/assets/corporateTaxRegistrationAndFiling/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We finally feel confident about our corporate tax compliance. One Nexuz’s end-to-end support gave us peace of mind and allowed us to focus on growing our business.”",
+                "role": "Consulting Firm Finance Manager",
+                "image": "/assets/corporateTaxRegistrationAndFiling/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Stay Compliant without Stress?",
+        "description": "Our seasoned tax advisors handle your corporate tax registration and filing end-to-end, boosting brand trust and credibility, preventing penalties, and empowering you to scale across the Emirates.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/corporateTaxRegistrationAndFiling/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Who needs to register for corporate tax in the UAE?",
+                "answer": "All UAE-based businesses, including mainland companies, free zone entities, and offshore branches, must register if their taxable income exceeds the FTA thresholds."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to register for corporate tax?",
+                "answer": "Typically, you’ll need a trade license, passport copies of owners, Emirates IDs, and proof of business address."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does corporate tax registration take?",
+                "answer": "It generally takes 1 to 14 days, depending on document readiness and FTA processing times."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do Free Zone companies have to pay corporate tax?",
+                "answer": "You can qualify for corporate tax exemptions if you meet a Free Zone’s taxation requirements. Our experts assess your eligibility to help maximise tax benefits."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help recover input VAT?",
+                "answer": "Yes! We provide end-to-end filing services and year-round advisory support to keep your business compliant."
+            }
+        ]
+    }
+}

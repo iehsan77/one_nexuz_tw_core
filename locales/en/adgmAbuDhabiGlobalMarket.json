@@ -1,0 +1,338 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/adgmAbuDhabiGlobalMarket.webp",
+        "title": "Plan Strategically, Expand Reach, & Gain Instant Global Recognition in the ADGM Free Zone",
+        "description": "Position your business for success by capitalising on the region’s unmatched connectivity to fast-growing economies in the Middle East, Africa, and Asia. Access fully equipped offices, modern family trusts, and world-class lifestyle amenities with our seamless business setup solutions in Abu Dhabi Global Market Free Zone."
+    },
+    "leftSection_1": {
+        "title": "Why Fintech Experts Choose Abu Dhabi Global Market Free Zone",
+        "description": "Launch in Abu Dhabi Global Market to capitalise on the region’s vibrant finances and service ecosystem. Diversify and preserve your wealth with the Free Zone’s seamless family foundation setup and cutting-edge facilities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Unlock Global Connectivity ",
+                "subTitle": "Unlock Global Connectivity ",
+                "description": "Position your business in the heart of Abu Dhabi to tap into growing markets across the MENA, GCC, and Asia via easy access to the Abu Dhabi International Airport.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access World-Class Infrastructure ",
+                "subTitle": "Access World-Class Infrastructure ",
+                "description": "Gain a competitive edge and drive business growth with the ADGM Free Zone's cutting-edge facilities, innovative amenities, and fully equipped offices.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Connect with Industry Leaders",
+                "subTitle": "Connect with Industry Leaders",
+                "description": "Build your professional network by tapping into the ADGM's extensive network of investors, thought leaders, and like-minded professionals.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Repatriate 100% of Your Capital",
+                "subTitle": "Repatriate 100% of Your Capital",
+                "description": "Gain complete foreign ownership of your business, enjoy 0% import-export taxes, and qualify for double tax treaties in 130+ countries.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Eligible Business Activities in the ADGM Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Asset & Portfolio Management"
+            },
+            {
+                "id": 2,
+                "title": "Consultancy Services"
+            },
+            {
+                "id": 3,
+                "title": "Education & Training"
+            },
+            {
+                "id": 4,
+                "title": "Event Management"
+            },
+            {
+                "id": 5,
+                "title": "Financial Services"
+            },
+            {
+                "id": 6,
+                "title": "Fund Management & Administration"
+            },
+            {
+                "id": 7,
+                "title": "Hospitality & Tourism"
+            },
+            {
+                "id": 8,
+                "title": "Legal Services"
+            },
+            {
+                "id": 9,
+                "title": "Manufacturing & Production"
+            },
+            {
+                "id": 10,
+                "title": "Marketing & Advertising"
+            },
+            {
+                "id": 11,
+                "title": "Media & Entertainment"
+            },
+            {
+                "id": 12,
+                "title": "Real Estate Management"
+            },
+            {
+                "id": 13,
+                "title": "Renewable Energy"
+            },
+            {
+                "id": 14,
+                "title": "Research & Development"
+            },
+            {
+                "id": 15,
+                "title": "Trading & Logistics"
+            },
+            {
+                "id": 16,
+                "title": "Trust Services"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Best-Fit License for Your Legal Structure",
+        "description": "Explore countless specialised trade licenses in Abu Dhabi Global Market and get matched with the one aligned to your business activity and model.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Professional License",
+                "description": "Build a powerful resume to secure a professional license and serve customers beyond the UAE."
+            },
+            {
+                "id": 2,
+                "title": "Service License",
+                "description": "Draft a professional business plan to foster trust and provide corporate, admin, and support services."
+            },
+            {
+                "id": 3,
+                "title": "Trade License",
+                "description": "Expand to local and regional markets to buy, sell, and distribute goods hassle-free with an extensive list of approved activities."
+            },
+            {
+                "id": 4,
+                "title": "Dual License",
+                "description": "Operate within ADGM and Onshore Abu Dhabi without the stress of setting up a legal entity with ADDED approvals."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/adgmAbuDhabiGlobalMarket/left4/1.webp",
+            "title": "Network in a Leading International Financial Hub",
+            "description": "Join ADGM and work alongside international banks, private equity giants, and top law firms- all in one square kilometer. We streamline the government back-and-forth, so you can focus on building strategic partnerships.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/adgmAbuDhabiGlobalMarket/left4/2.webp",
+            "title": "No Hidden Fees, No Guesswork— Get a Personalised Quote that Fits Your Business",
+            "description": "Launch your ADGM business with flexible, custom pricing. Get a tailored quote that fits your business setup needs, from company formation to office leasing, and scale as your operations grow.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Streamline Abu Dhabi Global Market Company Formation in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get a Free Consultation",
+                "description": "Our business consultants take the time to understand your legal structure, business activity, and future goals.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Compile Your Documents",
+                "description": "Next, we’ll help you prepare and submit all the necessary paperwork to the ADGM authority.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Issue a Trade License",
+                "description": "Once approved, we’ll issue your trade license alongside company registration documents.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Visas & Bank Account",
+                "description": "We’ll offer personalised guidance to help you open a corporate bank account and secure residency visas.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Launch Operations",
+                "description": "Start trading across borders and serve customers worldwide under ADGM’s legal framework.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Business Setup in Abu Dhabi Global Market",
+        "description": "Thrive in ADGM’s business-friendly landscape with our seasoned business consultants to guide you every step of the way.",
+        "items": [
+            {
+                "title": "Fast-Track Company Registration",
+                "description": "Secure your ADGM license within 5-7 working days with our direct liaison. Prevent costly delays and application rejections with our proven process.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/bgImage/1.webp"
+            },
+            {
+                "title": "Get Holistic Business Support",
+                "description": "Combat operational disruptions and enjoy a smooth business journey with our all-in-one solutions, including bank account opening, visa processing, and more.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/bgImage/2.webp"
+            },
+            {
+                "title": "Cut Costs without Sacrificing Quality",
+                "description": "Maximise resource allocation with our transparent, all-inclusive pricing. Save thousands of dirhams by implementing tax-efficient legal structures and offices.",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/adgmAbuDhabiGlobalMarket/grid/1.webp",
+        "title": "One Structure. Total Asset Protection.",
+        "description": "Shield your assets, minimise liability, and diversify your portfolio with ADGM’s cutting-edge Special Purpose Vehicles (SPVs), giving you financial security across the Emirates.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz handled our ADGM setup from start to finish in under a week. The process was transparent, and their expertise made it stress-free. We were operational and meeting clients faster than expected.",
+                "role": "FinTech Founder",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "We chose ADGM for its legal framework and international credibility. One Nexuz not only secured our license quickly but also guided us on banking and compliance—saving us weeks of research.",
+                "role": "Asset Management Director",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "I was worried about the paperwork and legal formalities, but One Nexuz made it simple. Their team knew exactly what documents were needed and kept me updated at every step.",
+                "role": " E-commerce Business Consultant",
+                "image": "/assets/adgmAbuDhabiGlobalMarket/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Discover Business-Friendly Zones Beyond ADGM",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Airport Free Zone",
+                "description": "Tap into international markets with ADAFZ’s strategic access to the Dubai & Abu Dhabi International Airport.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Khalifa Industrial Zone Abu Dhabi",
+                "description": "Set up adjacent to the Khalifa Port and major highways to maximise logistics efficiency and minimise overheads.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Masdar City Free Zone",
+                "description": "Discover and innovate in cleantech, renewable energy, and eco-friendly goods with the FZ’s innovation hubs.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Twofour54",
+                "description": "Showcase your creativity worldwide with TwoFour54’s dedicated media and advertising studios and modern tools.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Expand Globally from Abu Dhabi’s #1 Financial Hub",
+        "description": "Take advantage of Abu Dhabi Global Market FZ’s dynamic financial services sector to build and protect your wealth across the Emirates. We streamline all the paperwork, so you can focus on what you do best- scaling your business!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/adgmAbuDhabiGlobalMarket/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "KIZAD - Khalifa Industrial Zone Abu Dhabi ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Twofour54 (Media & Creative)",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Masdar City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ADAFZ - Abu Dhabi Airport Free Zone ",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is the ADGM (Abu Dhabi Global Market) Free Zone?",
+                "answer": "The ADGM Free Zone is one of the top international financial centres, empowering business owners and entrepreneurs with 100% foreign ownership and 0% import and export taxes. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to register my ADGM company?",
+                "answer": "Generally, it takes several working weeks to launch your ADGM company. Our experts streamline the process to help you set up your business within 5-7 business days."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I own properties in Dubai with my ADGM Free Zone company?",
+                "answer": "Yes, the Dubai Land Department enables ADGM-registered businesses to expand, hold, and diversify properties in designated freehold areas."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can expats own properties in Abu Dhabi Global Market?",
+                "answer": "Yes, ADGM offers complete strategic ownership of your business, empowering you with full operational control. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me set up a corporate bank account in ADGM?",
+                "answer": "Yes, we connect you with the ideal bank partner aligned to your business needs to streamline your finances."
+            }
+        ]
+    }
+}

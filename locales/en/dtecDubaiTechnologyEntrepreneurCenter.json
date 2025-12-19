@@ -1,0 +1,424 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dtecDubaiTechnologyEntrepreneurCenter.webp",
+        "title": "Design Your Prototype, Collaborate With Industry Leaders, & Launch Innovative Tech Solutions in DTEC Free Zone",
+        "description": "From licensing restrictions to limited office space and visa caps, navigating DTEC business setup independently can stall your business momentum. At One Nexuz, our experts streamline setup and operations, so you can focus on growth. Fuel limitless business growth from the UAE's leading startup hub, boasting an innovative digital infrastructure, cutting-edge co-working spaces, custom-built mentorship programs, and exciting investor networking programs."
+    },
+    "leftSection_1": {
+        "title": "Why Startup Founders Choose DTEC Free Zone",
+        "description": "Launch in DTEC's thriving tech landscape to benefit from the region's startup-friendly landscape, 0% corporate and personal income tax, and fully equipped offices.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Why Startup Founders Choose DTEC Free Zone",
+                "subTitle": "Why Startup Founders Choose DTEC Free Zone",
+                "description": "Maximise reach to global markets across the Middle East, Africa, South Asia, and Europe through Dubai Technology Entrepreneur Center's modern highways, sea ports, and airports.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Accelerate Your Startup Success  ",
+                "subTitle": "Accelerate Your Startup Success  ",
+                "description": "Take advantage of DTEC's cutting-edge incubation centres, fundraising opportunities, and mentorship programs designed to empower young innovators and startup founders.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Access World-Class Business Facilities",
+                "subTitle": "Access World-Class Business Facilities",
+                "description": "Scale hassle-free with DTEC's robust technology infrastructure, creative conference centres, cost-efficient office spaces, and state-of-the-art game rooms.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Expand Your Business Network",
+                "subTitle": "Expand Your Business Network",
+                "description": "Connect, collaborate, and grow across borders with DTEC's co-working spaces, collaboration events, and diverse network of angel investors, thought leaders, and industry experts.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Top Permitted Business Activities in DTEC",
+        "items": [
+            {
+                "id": 1,
+                "title": "Computer Graphics Design"
+            },
+            {
+                "id": 2,
+                "title": "Consultancy"
+            },
+            {
+                "id": 3,
+                "title": "e-Commerce"
+            },
+            {
+                "id": 4,
+                "title": "Electronic Chip Programming"
+            },
+            {
+                "id": 5,
+                "title": "Internet Content Provider"
+            },
+            {
+                "id": 6,
+                "title": "IT Portal Building"
+            },
+            {
+                "id": 7,
+                "title": "IT Infrastructure"
+            },
+            {
+                "id": 8,
+                "title": "Public Networking Services"
+            },
+            {
+                "id": 9,
+                "title": "Software Services"
+            },
+            {
+                "id": 10,
+                "title": "Textiles"
+            },
+            {
+                "id": 11,
+                "title": "Web Design"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Right License to Launch Your Startup",
+        "description": "Choose from 100+ business activities and get matched with the ideal trade license within seconds.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Lease or rent a custom-built office space to buy, sell, and trade goods worldwide."
+            },
+            {
+                "id": 2,
+                "title": "Freelance License",
+                "description": "Kickstart your creative venture with a powerful resume or portfolio and passport copies."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Craft a tailored business plan and secure office space to practice specialised services."
+            },
+            {
+                "id": 4,
+                "title": "Trading License",
+                "description": "Import, export, and distribute goods within and beyond the UAE with DIEZ Authority approvals."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left4/1.webp",
+            "title": "Launch Your Venture in Dubai's #1 Tech Launchpad",
+            "description": "Unlock your business's potential with DTEC's intensive 12-month programs designed for tech innovators and startup founders to unlock insightful advice and exclusive business resources. ",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left4/2.webp",
+            "title": "Your Tech Startup, Your Way — Know Your DTEC Licensing Costs Upfront",
+            "description": "No one-size-fits-all packages, no hidden costs, no surprise add-ons. Get a quote designed for your business — personalised, flexible, and completely transparent.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Start Operating in DTEC Free Zone in 5 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Define Your Business Scope",
+                "description": "We’ll kick off with a free consultation to discuss your business goals and choose the best-fit business activity and structure.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Secure a Business Name",
+                "description": "Next, we’ll assist you in creating, submitting, and registering a unique trade name compliant with the DED requirements.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare Your Application",
+                "description": "We’ll help you compile the necessary documents, fill out the licensing application, and submit it to the UAE DIEZ Authority.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Pay Your Fees",
+                "description": "Our expert business consultants will pay your registration and licensing fees on your behalf to fast-track licensing.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Launch Your Business",
+                "description": "Once approved, we'll issue your trade license alongside registration documents and send it to your preferred address.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Open a Free Zone Account",
+                "description": "Lastly, our specialists will assist you in opening a personal or corporate bank account to simplify business financing.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for DTEC Business Setup",
+        "description": "Grow alongside 1,000+ tech startups and venture capitalists from 70+ countries by simplifying business setup with our team of seasoned advisors and PRO specialists.",
+        "items": [
+            {
+                "title": "Secure Your License in a Week",
+                "description": "We offer end-to-end setup support, streamlining all the paperwork and government back-and-forth to issue your trade license in 6-7 working days.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/bgImage/1.webp"
+            },
+            {
+                "title": "All-in-One Business Setup Solutions",
+                "description": "Secure your DTEC visa, license, bank account, and registration documents under one roof with our skilled PRO specialists to guide you through every step.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/bgImage/2.webp"
+            },
+            {
+                "title": "Get Transparent Quotes",
+                "description": "Budget confidently with our clear license and visa pricing breakdowns- no hidden fees, surprise add-ons, or unnecessary upsells.",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/grid/1.webp",
+        "title": "Tap into Dubai's Thriving Startup Ecosystem",
+        "description": "oin over 1,000 startups from 70+ countries in the Middle East. Scale stress-free with access to flexible workspaces, accelerator programs, and networking events.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up in DTEC was seamless. The team handled all the paperwork, and I was operational within days. The mentorship and networking opportunities have been invaluable for scaling our startup.",
+                "role": "Tech Startup Founder",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "One Nexuz guided us through the visa and licensing process with zero hassle. The community at DTEC connected us to investors we wouldn’t have reached otherwise.",
+                "role": "AI Solutions CEO",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "I launched my freelance business quickly with a DTEC license and flexible office space. The support and clear pricing made the entire process stress-free and efficient.",
+                "role": "Software Developer & Freelancer",
+                "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand and Thrive in Dubai’s Top Free Zones ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Gain strategic access to the Dubai International Airport to streamline logistics.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import, export, and re-export vehicles across Africa, Asia, and the GCC by launching in DAZ.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Scale worldwide with access to DIC’s innovative incubation centers and business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Launch and grow your creative or media business in a thriving global media ecosystem.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Centre",
+                "description": "Trade precious metals, diamonds, and colored gems from the world’s leading busines hub.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Scale your tech venture with world-class infrastructure, cutting-edge testing facilities, and labs.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "description": "Gain strategic access to global markets by setting up in a dedicated logistics and aviation hub.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Centre Free Zone",
+                "description": "Connect with industry leaders, innovators, and like-minded professionals worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Unlock exciting business opportunities with Expo City’s strategic access to global markets",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Slash business setup costs in half with IFZA’s startup-friendly licensing and registration solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Set up adjacent to the the Jebel Ali port for seamless logistics and international connectivity.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Launch in Dubai’s fastest-growing landscape designed for SMEs and startups.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": " Technology Electronic Commerce, and Media Group",
+                "description": "Join sector-specific clusters with specialised support and networking services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Enter Dubai's Top Coworking Innovation Hub in DTEC",
+        "description": "Breathe life into your business ideas within days, not weeks, with strategic access to 2B+ customers, startup investment programs, and mentorship opportunities. Get started at a fraction of the cost with our skilled consultants by your side.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dtecDubaiTechnologyEntrepreneurCenter/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is DTEC a dedicated Free Zone in Dubai?",
+                "answer": "No, DTEC is not a separate Free Zone in Dubai, rather it’s a campus within the Dubai Silicon Oasis Free Zone"
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to set up a business in DTEC?",
+                "answer": "Generally, it takes 1-14 days to secure a license and register your company in DTEC Free Zone."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What legal structures can I choose in DTEC?",
+                "answer": "The DTEC offers four primary business structures, including Free Zone Company, Free Zone Establishment, Branch of a Foreign Company, and Branch of a UAE Company. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need a physical office to launch by DTEC business?",
+                "answer": "No, DTEC offers alternative options, including flexi-desk, virtual, and co-working spaces, empowering you to cut costs. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz help open a corporate bank account in DTEC?",
+                "answer": "Yes, our skilled PRO specialists can help you secure first-time approvals for personal or business accounts in DSO Free Zone."
+            }
+        ]
+    }
+}

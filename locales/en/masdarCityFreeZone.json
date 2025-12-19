@@ -1,0 +1,380 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/masdarCityFreeZone.webp",
+        "title": "Launch, Operate, and Scale Your Clean Tech Business in Masdar City Free Zone with Our One-Stop Solutions",
+        "description": "Frustrated with Masdar City Free Zone's confusing sustainability impact statements, activity misalignments, and compliance requirements?  At One Nexuz, our expert business consultants handle all the paperwork so you can focus on sustainable innovation. Design breakthrough technology in the heart of Abu Dhabi with unrestricted access to state-of-the-art incubation hubs, advanced research and testing laboratories, and top-tier networking infrastructure."
+    },
+    "leftSection_1": {
+        "title": "Why Innovators Choose Business Setup in Masdar City Free Zone",
+        "description": "Take advantage of Masdar City's one-stop business solutions to streamline licensing and visa applications. Simplify multi-currency exchange, uncover cutting-edge business facilities, and innovative tech hubs to power your next venture.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Discover Exciting R&D Opportunities ",
+                "subTitle": "Discover Exciting R&D Opportunities ",
+                "description": "Launch your business in a vibrant innovation hub to unlock investment, research, and development opportunities beyond the UAE. Recruit, hire, and retain top talent from the Middle East, Asia, and beyond.",
+                "image": "/assets/masdarCityFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Build Your Professional Network",
+                "subTitle": "Build Your Professional Network",
+                "description": "Attend leading industry conferences, R&D trade shows, and tech expos to connect with thought leaders, innovators, and like-minded professionals.",
+                "image": "/assets/masdarCityFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Access World-Class Infrastructure ",
+                "subTitle": "Access World-Class Infrastructure ",
+                "description": "Fuel creativity by launching your startup in Masdar City Free Zone's innovation clusters. Discover, refine, and innovate new products with the region's fully-furnished commercial plots, research labs, and testing facilities.",
+                "image": "/assets/masdarCityFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Enjoy 0% Customs Clearance",
+                "subTitle": "Enjoy 0% Customs Clearance",
+                "description": "Get 100% repatriation of profits and capital, full strategic ownership, and 0% corporate, personal income, and import-export taxes.",
+                "image": "/assets/masdarCityFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Masdar City Free Zone Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Air & Envrionment "
+            },
+            {
+                "id": 2,
+                "title": "Business Information"
+            },
+            {
+                "id": 3,
+                "title": "Clean Tech & ICT"
+            },
+            {
+                "id": 4,
+                "title": "Energy Generation"
+            },
+            {
+                "id": 5,
+                "title": "Energy Storage"
+            },
+            {
+                "id": 6,
+                "title": "Human Resource Services"
+            },
+            {
+                "id": 7,
+                "title": "Oil & Gas Services"
+            },
+            {
+                "id": 8,
+                "title": "Marketing"
+            },
+            {
+                "id": 9,
+                "title": "Recycling & Solid Waste"
+            },
+            {
+                "id": 10,
+                "title": "Renewable Energy"
+            },
+            {
+                "id": 11,
+                "title": "Retail, Food, & Beverage"
+            },
+            {
+                "id": 12,
+                "title": "Transporation"
+            },
+            {
+                "id": 13,
+                "title": "Water & Wastewater"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Discover Top Licenses for Your Masdar City Business",
+        "description": "Choose from countless trade licenses to bundle up to 5 activities under a single package.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Trade confidently and set up your storefront with passport copies and a business activity description."
+            },
+            {
+                "id": 2,
+                "title": "Dual License",
+                "description": "Craft a professional business plan and expand onshore and offshore with a DED-approved dual license."
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "description": "Manufacture, process, and assemble sustainable products by securing your environmental clearance."
+            },
+            {
+                "id": 4,
+                "title": "Service License",
+                "description": "Showcase your portfolio, resume, or business plan to practice consultancy or sign contracts, hassle-free."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/masdarCityFreeZone/left4/1.webp",
+            "title": "Build, Innovate, & Succeed in a Future-Ready Free Zone",
+            "description": "Join 400+ companies already thriving in Masdar City- a clean-tech hub built for sustainable innovation and low-cost scalability.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/masdarCityFreeZone/left4/2.webp",
+            "title": "Sustainable Setup, Transparent Costs—Grow in Masdar City with Confidence",
+            "description": "No hidden fees, no rigid packages. Get tailored Masdar City Free Zone licensing costs designed to fit your current sustainability goals and operational needs. Scale effortlessly as your business grows—all without costs going sky-high.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Company Formation in Masdar City Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a Free Consultation",
+                "description": "We’ll start with a brief call to understand your business needs and goals to determine the ideal business activity and legal structure.",
+                "image": "/assets/masdarCityFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare the Necessary Documents",
+                "description": "Next, our consultants will help you prepare and submit the relevant documents, including passport copies, forms, and MOA.",
+                "image": "/assets/masdarCityFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "We’ll assist you in filing the relevant paperwork with the Masdar Free Zone authority and pay the licensing fees on your behalf.",
+                "image": "/assets/masdarCityFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain Your License",
+                "description": "Once approved, you'll receive your Masdar City Free Zone license in 3-5 working days alongside incorporation documents.",
+                "image": "/assets/masdarCityFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Visa & Banking Support",
+                "description": "We’ll continue to support you beyond licensing to help you secure a UAE residency visa and open a corporate bank account.",
+                "image": "/assets/masdarCityFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz for Masdar City Free Zone Business Setup",
+        "description": "Tap into Masdar City Free Zone's dynamic business landscape and investor-friendly regulations with our team of seasoned business consultants.",
+        "items": [
+            {
+                "title": "Accelerate Licensing Times",
+                "description": "With over a decade of experience, our consultants have the hands-on experience and direct government access to slash licensing times in half.",
+                "image": "/assets/masdarCityFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Get End-to-End Support",
+                "description": "Our local experts match you with the ideal business activity and industry cluster to help unlock lucrative investment and innovation opportunities.",
+                "image": "/assets/masdarCityFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Stay 100% Compliant",
+                "description": "Our team includes specialists in AML, ESR, and VAT, ensuring your business remains fully compliant, tax-optimised, and bank-ready from day one.",
+                "image": "/assets/masdarCityFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/masdarCityFreeZone/grid/1.webp",
+        "title": "Tap into a Global Network of Visionaries",
+        "description": "Connect with sustainability pioneers, global investors, and industry leaders to scale in one of the most future-forward business ecosystems. ",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz set up my clean tech company in Masdar City in just 4 days. Everything was handled end-to-end with full transparency. I didn’t have to lift a finger.”",
+                "role": "Clean Energy Provider Co-Founder",
+                "image": "/assets/masdarCityFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As a solo consultant, I got my freelancer permit, visa, and bank account through One Nexuz. They made it super simple and stayed in touch even after setup.”",
+                "role": "Sustainability Consultant",
+                "image": "/assets/masdarCityFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We needed a dual license setup to operate across the UAE. One Nexuz managed it all — from ESR to banking — fast and professionally.”",
+                "role": "R&D Operations Director",
+                "image": "/assets/masdarCityFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Find the Right Free Zone for Your Business",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Access global markets across Europe, Asia, and Africa with DAFZ’s strategic location.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Buy, sell, rent, or lease cars with 0% tariffs by launching your dealership or garage in DAZ.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Code, create, and collaborate in Dubai Internet City's state-of-the-art innovation clusters.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Bring your brand to life in DMC’s vibrant business ecosystem, offering global market access.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Trade precious metals, coloured stones, and crypto in the UAE’s top trading hub.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Plug into Dubai’s tech landscape to scale your business across international markets.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Launch your tech venture with DTEC’s world-class infrastructure and R&D incentives.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai South Free Zone",
+                "description": "Maximise freight efficiency and streamline logistics with Dubai South FZ’s strategic position.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Dubai World Trade Centre Free Zone",
+                "description": "Set your HQ in the heart of Dubai by taking advantage of DWTC’s world-class infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Innovate in sustainable energy, cleantech, and education by setting up our business in Expo City.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "International Free Zone Authority",
+                "description": "Slash business setup costs in half by exploring IFZA's flexible licensing options.  ",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Jebel Ali Free Zone",
+                "description": "Operate from the UAE’s top seaport-linked Free Zone to simplify logistics and scale global trade.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Get matched with the ideal TECOM cluster to unlock dedicated business facilities.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Thrive in the Middle East's Leading Sustainable Business Ecosystem",
+        "description": "Kickstart your business journey in Masdar City FZ to capitalise on the region's fast-growing cleantech, sustainable energy, and AI markets. Partner with our experts today to skip the compliance headaches.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/masdarCityFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "ADGM - Abu Dhabi Global Market ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "KIZAD - Khalifa Industrial Zone Abu Dhabi ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Twofour54 (Media & Creative)",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ADAFZ - Abu Dhabi Airport Free Zone ",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to set up a business in Masdar City Free Zone?",
+                "answer": "Our experts streamline all the paperwork and government coordination to help you set up in 3-5 working days."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to launch my Masdar City Free Zone?",
+                "answer": "Generally, you’ll need to provide passport copies, proof of address, a business activity description, and a business plan, depending on your legal structure and selected license."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to lease or rent a physical office to secure a Masdar City FZ license?",
+                "answer": "No, Masdar City offers alternative office solutions, including flex-desk, co-working, and virtual office spaces."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I apply for a UAE residence visa through my Masdar City License?",
+                "answer": "Yes, you can apply for an investor or employee residence visa with any trade license except for a freelance permit."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can Masdar FZ businesses trade with UAE mainland companies?",
+                "answer": "You can trade within and beyond the Emirates with either a local distributor or a dual license."
+            }
+        ]
+    }
+}

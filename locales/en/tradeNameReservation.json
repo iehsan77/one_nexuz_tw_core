@@ -1,0 +1,269 @@
+{
+    "homeHeader": {
+        "title": "From Search to Registration — Secure Your Business Identity with Our Expert Trade Name Reservation Services",
+        "description": "Frustrated with stringent trade name regulations, high rejection rates, and endless bureaucracy? At One Nexuz, our experts do all the legwork, ensuring your chosen brand name is fully compliant, officially reserved, and ready for your license application! Build your brand identity, protect your business reputation, and stand out in the UAE's hyper-competitive market with a unique, legally-compliant trade name.",
+        "bookConsultation": "Book Your Free Consultation",
+        "getQuoteToday": "Get a Free Quote Today",
+        "image": "/assets/header/tradeNameReservation.webp"
+    },
+    "leftSection_1": {
+        "title": "Why Your UAE-Based Business Needs a Tradename",
+        "description": "Cut through the red tape, ensure legal compliance, and win instant brand credibility with a UAE-compliant tradename.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Define, Brand, and Stand Out—Reserve a Trade Name that Powers Your Business Identity",
+                "subTitle": "Define, Brand, and Stand Out—Reserve a Trade Name that Powers Your Business Identity",
+                "description": "Build your online presence, boost brand memorability, and gain a competitive edge with a trade name that reflects your business.",
+                "image": "/assets/tradeNameReservation/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Secure, Simplify, and Start—Trade Name Reservation that Fast-Tracks Business Setup",
+                "subTitle": "Secure, Simplify, and Start—Trade Name Reservation that Fast-Tracks Business Setup",
+                "description": "Streamline business license approvals, secure your residence visa, and open a personal or corporate bank account, hassle-free.",
+                "image": "/assets/tradeNameReservation/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Reserve Today, Decide Tomorrow—Get 180+ Days to Perfect Your Business Setup",
+                "subTitle": "Reserve Today, Decide Tomorrow—Get 180+ Days to Perfect Your Business Setup",
+                "description": "Enjoy sufficient breathing space to finalise your business structure and strategy, licensing, banking, visas, and launches.",
+                "image": "/assets/tradeNameReservation/left1/3.webp"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/tradeNameReservation/left4/1.webp",
+            "title": "Secure Your Trade Name with Confidence — Transparent Pricing, No Surprises",
+            "description": "Forget hidden fees or rigid packages—get a custom quote that fits your business, whether you're registering one name or several across the UAE Free Zone or Mainland jurisdictions.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Reserve, Approve, and Protect Your Brand with Our 4-Step Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We’ll schedule a call at your convenience to discuss your business needs, selected business activity, and preferred jurisdiction.",
+                "image": "/assets/tradeNameReservation/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Validate Your Tradename",
+                "description": "Next, our experts will help you ideate and pick the best-fit tradename. We’ll also check for duplication and compliance.",
+                "image": "/assets/tradeNameReservation/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit the Necessary Documents",
+                "description": "We’ll assist you in compiling, preparing, and submitting the paperwork to the appropriate Free Zone or Mainland Authority.",
+                "image": "/assets/tradeNameReservation/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Issue Your Trade Name Certificate",
+                "description": "Finally, we’ll pay the service fees on your behalf, issue your certificate, and send it your way, electronically or through courier.",
+                "image": "/assets/tradeNameReservation/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz for Professional Trade Name Reservation Services in Dubai, UAE",
+        "description": "Avoid costly delays, compliance headaches, and slow approvals with our seasoned PRO specialists by your side. We handle all the paperwork, so you can focus on growing your business.",
+        "items": [
+            {
+                "title": "Fast, Hassle-Free Tradename Registration",
+                "description": "With our local experts, you can search, reserve, and register the best-fit tradename within seconds to fast-track trade licensing and business setup.",
+                "image": "/assets/tradeNameReservation/bgImage/1.webp"
+            },
+            {
+                "title": "Zero Hassle, Full UAE Compliance",
+                "description": "Avoid costly delays, hefty fines, and trade name rejections with unique tradenames compliant with the relevant DED or Free Zone Authority.",
+                "image": "/assets/tradeNameReservation/bgImage/2.webp"
+            },
+            {
+                "title": "Personalised Support Every Step of the Way",
+                "description": "No confusion, no back-and-forth. Our experts offer end-to-end guidance, streamlining all the documentation and approvals for a seamless experience.",
+                "image": "/assets/tradeNameReservation/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/tradeNameReservation/grid/1.webp",
+        "title": "Lock in Your Unique Business Name for 6 Months with One Nexuz",
+        "description": "Once approved, your trade name is reserved for up to 180 days, giving you the freedom to complete your business licence without losing your identity.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Reserving our trade name was effortless. The process was quick, and we received official approval without any complications.”",
+                "role": "Tech Startup Marketing Manager",
+                "image": "/assets/tradeNameReservation/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I was worried about DED regulations and potential delays, but the team made it seamless and stress-free. Highly recommended!”",
+                "role": "Retail Business Operations Director",
+                "image": "/assets/tradeNameReservation/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“The guidance provided helped us secure our business name early, allowing us to focus on launching our services confidently.”",
+                "role": "Consulting Firm Founder",
+                "image": "/assets/tradeNameReservation/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Move from Idea to Licensed Business?",
+        "description": "Stop copycats from stealing your brand identity, minimise the risk of disputes, and foster brand credibility with One Nexuz! Get legal protection, boost your market value, and secure your license within days, not weeks.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/tradeNameReservation/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Notarisation Services",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a tradename reservation?",
+                "answer": "Tradename reservation refers to the official process of obtaining exclusive rights to use a registered trade name."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to reserve a tradename?",
+                "answer": "Typically, a tradename reservation takes 24-48 hours, provided you meet all DED or Free Zone Authority requirements."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Are there any restrictions on the type of name I can choose?",
+                "answer": "Yes, it’s important to ensure your tradename does not include any political or religious references, offensive terms, or words that do not align with your business activity."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Does One Nexuz support both UAE Mainland and Free Zone trademarks?",
+                "answer": "Absolutely! Our experts handle all jurisdictions, ensuring compliance across the UAE."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How long does a tradename reservation last?",
+                "answer": "Typically, the tradename reservation is valid for 6 months, giving you time to register your business and obtain your license."
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Streamline Your Business Launch with Our End-to-End Tradename Reservation Services",
+        "description": "From name checks to official approvals, our experts streamline the entire process, so you can improve your time-to-market and start growing from day one.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/1.svg",
+                "title": "Trade Name Availability Check"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/2.svg",
+                "title": "Trade Name Reservation"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/3.svg",
+                "title": "Documentation Assistance"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/4.svg",
+                "title": "Regulatory Compliance Review"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/5.svg",
+                "title": "Follow-Up & Certificate Issuance"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/tradeNameReservation/iconTitleSec/5.svg",
+                "title": "Advisory & Alternative Naming Suggestions"
+            }
+        ]
+    }
+}

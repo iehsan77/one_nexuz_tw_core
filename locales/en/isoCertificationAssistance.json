@@ -1,0 +1,292 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/isoCertificationAssistance.webp",
+        "title": "Win Tenders, Cut Waste, & Scale Smarter with Our ISO Certificate Solutions in Dubai, UAE",
+        "description": "Losing contracts, failing audits, or struggling with internal bottlenecks because you’re not ISO-certified? At One Nexuz, our skilled ISO certification consultants match you with the right ISO certificate, empowering you to optimize inefficiencies and unlock long-term sustainability. Maximize profit margins, minimize process disruptions, and secure high-value government contracts with an ISO certification!"
+    },
+    "leftSection_1": {
+        "title": "What is ISO Certification & Why Your UAE-Based Business Needs It",
+        "description": "Gain a competitive edge, strengthen brand credibility, and uncover exciting growth opportunities with ISO certifications.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Boost Operational Efficiency",
+                "subTitle": "Boost Operational Efficiency",
+                "description": "Spot and eliminate bottlenecks, optimise resource allocation, and minimise waste through insight-driven audits, proactive monitoring, process mapping, and lean improvement.",
+                "image": "/assets/isoCertificationAssistance/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enhance Brand Reputation",
+                "subTitle": "Enhance Brand Reputation",
+                "description": "Build instant stakeholder trust, attract tenders, and secure licenses faster by showcasing your commitment to producing top-notch goods, workplace safety, and environmental management.",
+                "image": "/assets/isoCertificationAssistance/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Drive Workplace Safety",
+                "subTitle": "Drive Workplace Safety",
+                "description": "Increase team productivity by 13% by fostering a safe and healthy workspace through robust risk assessment, preventive risk management, and proactive managerial commitment.",
+                "image": "/assets/isoCertificationAssistance/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Win & Retain Customers ",
+                "subTitle": "Win & Retain Customers ",
+                "description": "Achieve product consistency and cultivate a culture of continuous improvement to slash errors, strengthen market position, and boost customer loyalty by 47%.",
+                "image": "/assets/isoCertificationAssistance/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of ISO Certification Services",
+        "description": "Get matched with the best-fit ISO certificate in seconds with our team of certified ISO specialists.",
+        "items": [
+            {
+                "id": 1,
+                "title": "ISO 9001:2015",
+                "description": "Curate a robust quality management system to streamline operations and promote consistent quality.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "ISO 14001:2015",
+                "description": "Cut product wastes, eliminate inefficiencies, and capture eco-conscious clients with an ISO 14001 certification",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO 45001:2018",
+                "description": "Identify and eliminate safety hazards and cultivate a safer, more productive workspace to attract, recruit, and retain top talent.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ISO 27001:2015",
+                "description": "Safeguard confidential data, prevent cyberattacks, and implement cutting-edge safety protocols to build client confidence.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "ISO 13485:2016",
+                "description": "Manufacture, package, and distribute top-notch medical devices compliant with global standards.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "ISO 20000:2018",
+                "description": "Maintain operational excellence, slash downtime, and save thousands of dirhams with innovative IT infrastructures",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "ISO 22301",
+                "description": "Minimise downtime, optimise risk management, and gain a competitive advantage with proactive business continuity plans.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "ISO 22000",
+                "description": "Capture investors and consumers worldwide by encouraging food safety and reducing contamination risks across the entire supply chain.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/isoCertificationAssistance/left4/1.webp",
+            "title": "Turn ISO Into Measurable Growth",
+            "description": "Improve quality by nearly 10% by securing an ISO certification. Cut down errors, boost process consistency, and strengthen your reputation.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/isoCertificationAssistance/left4/2.webp",
+            "title": "Get ISO Certified without the Complexity — Pricing that Fits Your Business",
+            "description": "No rigid packages, no hidden charges, and no unnecessary steps. Our ISO certification costs are tailored to your business—so you pay only for what’s needed as your compliance requirements grow.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Get Your ISO Certificate in the UAE in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Discovery Call",
+                "description": "We begin by identifying the ISO certification that best suits your business needs and assessing your current requirements and future objectives.",
+                "image": "/assets/isoCertificationAssistance/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Map Out Requirements",
+                "description": "Next, our experts review your current processes against ISO requirements to create a clear, tailored roadmap to close the gaps.",
+                "image": "/assets/isoCertificationAssistance/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Conduct an Internal Audit",
+                "description": "We help you implement the necessary procedures to fine-tune your workflow and train your team, ensuring you're 100% audit-ready.",
+                "image": "/assets/isoCertificationAssistance/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your ISO Certificate",
+                "description": "Our specialists guide you through the final audit to issue your certificate. Beyond this, we support you in maintaining compliance.",
+                "image": "/assets/isoCertificationAssistance/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Maximise Profits with Our Reliable ISO Certification Consulting Services",
+        "description": "Without expert ISO certification assistance, you risk costly rejections, lost brand credibility, and failed audits. We connect you with certified ISO consultants, saving you time, cutting risks, and driving business growth.",
+        "items": [
+            {
+                "title": "Cut Certification Times by Half",
+                "description": "Skip trial and error, streamline documentation, and eliminate costly re-audits by securing your ISO certificate 45% faster.",
+                "image": "/assets/isoCertificationAssistance/bgImage/1.webp"
+            },
+            {
+                "title": "Access Specialised Expertise",
+                "description": "Our local ISO certificate consultants conduct in-depth gap analyses, pre-assessments, and mock internal audits to improve the likelihood of first-time approvals by 90%+.",
+                "image": "/assets/isoCertificationAssistance/bgImage/2.webp"
+            },
+            {
+                "title": "Ensure Regulatory Compliance",
+                "description": "Stay compliant with the UAE’s stringent regulatory requirements to fast-track certification and foster trust among stakeholders, partners, and customers.",
+                "image": "/assets/isoCertificationAssistance/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/isoCertificationAssistance/grid/1.webp",
+        "title": "Gain 100% Market Access Through ISO 9001 Certification",
+        "description": "Stay ahead of the curve with an ISO 9001 certification. Open doors in public tenders and multinational supply chains through seamless approvals.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I needed ISO 9001 certification to win international clients but had no idea where to start. One Nexuz connected me with the right experts, simplified the entire process, and I had my certificate issued in under 3 weeks. It gave my business instant credibility.",
+                "role": "Cloud Solutions Startup SaaS Founder ",
+                "image": "/assets/isoCertificationAssistance/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Our factory was facing compliance delays without ISO 14001. One Nexuz became my single point of confidence — they handled the assessments, documentation, and coordination. Today, we’re fully certified and already attracting bigger contracts.",
+                "role": " Industrial Manufacturing Firm Operations Director ",
+                "image": "/assets/isoCertificationAssistance/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Getting ISO 13485 certification felt overwhelming at first. With One Nexuz, everything was explained clearly, and the process was handled step by step. The certification opened doors to new partnerships across the UAE and abroad.",
+                "role": " Medical Devices & Supplies Company Founder ",
+                "image": "/assets/isoCertificationAssistance/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "All-in-One Support to Power Your Business Growth",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "description": "Meet the UAE’s stringent anti-money laundering regulations with a compliant framework.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Intellectual Property Rights Protection",
+                "description": "Protect your creative work from copycats and unlock new revenue streams with IPR registration.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Audit Services",
+                "description": "Coordinate compliance, financial, and tax audits with our team of certified auditors.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tax Residency Certificate",
+                "description": "Save AED 1,000+ on withholding taxes on real estate, royalties, and more!",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Drive Operational Excellence with an ISO Certificate in the UAE",
+        "description": "Tap into new markets, unlock global expansion, and win lucrative contracts by strengthening brand credibility. Connect with our accredited ISO specialists today to cut down non-conformities and promote sustainable growth.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/isoCertificationAssistance/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is the use of an ISO Certificate in the UAE?",
+                "answer": "An ISO certificate empowers UAE-based businesses to optimise processes, workplace safety, and risk management to build trust among stakeholders, official authorities, consumers, and business partners."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How can I obtain an ISO certificate in Dubai?",
+                "answer": "You can secure your ISO certification by booking a free eligibility assessment with our skilled consultants. Our ISO certification assistants will match you with the ideal certificate, conduct mock audits, and help improve internal processes to ensure first-time approvals. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I get my ISO certificate online?",
+                "answer": "Yes, One Nexuz offers virtual support to simplify training, documentation, and certificate consultation."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Will I need to renew my ISO certificate?",
+                "answer": "Yes, most ISO certificates are valid for 2-3 years, requiring regular surveillance audits and proactive monitoring to ensure compliance."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer support to apply for multiple ISO certifications?",
+                "answer": "Yes, our skilled ISO certification consultants can help you apply for multiple standards aligned to your long-term business goals."
+            }
+        ]
+    }
+}

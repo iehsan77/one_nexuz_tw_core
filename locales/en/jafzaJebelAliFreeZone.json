@@ -1,0 +1,437 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/jafzaJebelAliFreeZone.webp",
+        "title": "Optimise Your Supply Chain, Access Global Markets, & Expand Reach with Jebel Ali Free Zone’s International Connectivity",
+        "description": "Minimise customs delays, fast-track license approvals, reduce banking friction, and unlock 3+ visa quotas with our team of seasoned business consultants. Get matched with the best-fit trade license to gain instant access to JAFZA’s vibrant business ecosystem, cutting-edge business facilities, strategic trade routes, and tax incentives. Launch today to uncover exciting growth and networking opportunities!"
+    },
+    "leftSection_1": {
+        "title": "Why Founders Choose Jebel Ali Free Zone Company Formation",
+        "description": "Position your business adjacent to the Jebel Ali deep seaport for seamless import and export across the MEASA region. Boost profitability with the region’s single-window business clearance and exciting tax and lease incentives.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Capitalise on Lucrative Global Markets",
+                "subTitle": "Capitalise on Lucrative Global Markets",
+                "description": "Tap into fast-growing markets in Africa, Asia, the Middle East, and Europe with strategic access to the Al-Maktoum & Dubai International Airport, Expo City Dubai, and the Jebel Ali Port.",
+                "image": "/assets/jafzaJebelAliFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Streamline Customs Clearance",
+                "subTitle": "Streamline Customs Clearance",
+                "description": "Minimise transit times, slash trade costs, and optimise your supply chain with JAFZA’s swift goods clearance, zero customs duties, and cutting-edge trade portal.",
+                "image": "/assets/jafzaJebelAliFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Access Cutting-Edge Infrastructure",
+                "subTitle": "Access Cutting-Edge Infrastructure",
+                "description": "Build and scale your business stress-free with innovative business facilities, fully equipped offices, and state-of-the-art warehouses to boost operational efficiency. ",
+                "image": "/assets/jafzaJebelAliFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Preserve Your Business Assets",
+                "subTitle": "Preserve Your Business Assets",
+                "description": "Hold, protect, and diversify your portfolio with JAFZA’s business-friendly asset regulations. Secure your personal assets against lawsuits and financial risks by separating business liabilities.",
+                "image": "/assets/jafzaJebelAliFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Browse 2,000+ Permitted JAFZA Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Aerospace"
+            },
+            {
+                "id": 2,
+                "title": "Assembling"
+            },
+            {
+                "id": 3,
+                "title": "Construction & Building Materials"
+            },
+            {
+                "id": 4,
+                "title": "Consultancy"
+            },
+            {
+                "id": 5,
+                "title": "Distribution"
+            },
+            {
+                "id": 6,
+                "title": "Food & Beverage"
+            },
+            {
+                "id": 7,
+                "title": "Import/Export"
+            },
+            {
+                "id": 8,
+                "title": "IT & Technology"
+            },
+            {
+                "id": 9,
+                "title": "Manufacturing"
+            },
+            {
+                "id": 10,
+                "title": "Maritime"
+            },
+            {
+                "id": 11,
+                "title": "Oil & Gas"
+            },
+            {
+                "id": 12,
+                "title": "Packaging"
+            },
+            {
+                "id": 13,
+                "title": "Pharmaceuticals & Healthcare"
+            },
+            {
+                "id": 14,
+                "title": "Processing"
+            },
+            {
+                "id": 15,
+                "title": "Retail & e-Commerce"
+            },
+            {
+                "id": 16,
+                "title": "Storage"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Pick the Ideal JAFZA License for Your Business Model",
+        "description": "Get matched with the best-fit Free Zone permit or license based on your selected business activity and legal structure.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Industrial License",
+                "description": "Manufacture, package, and assemble goods by leasing a cutting-edge warehouse."
+            },
+            {
+                "id": 2,
+                "title": "Logistics License",
+                "description": "Streamline your supply chain and optimise logistics with JAFZA-approved business activities."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Build a powerful resume or portfolio to offer consultancy, IT, marketing, or professional services."
+            },
+            {
+                "id": 4,
+                "title": "Trading License",
+                "description": "Buy, sell, and distribute goods with JAFZA-compliant business registration documents."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/jafzaJebelAliFreeZone/left4/1.webp",
+            "title": "Be Part of a 7,500+ Company Thriving Business Hub",
+            "description": "Network, collaborate, and expand your business in Dubai’s leading trade hub with access to the region’s vibrant business community spanning diverse industries.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/jafzaJebelAliFreeZone/left4/2.webp",
+            "title": "Flexible Setup, Clear Quotes— JAFZA Licensing Costs Designed for You",
+            "description": "Pick your business activity, trade license, workspace, and visas—pay only for the services you actually need. Start lean and scale seamlessly as your business grows.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify JAFZA Company Formation with Our 5-Step Solution",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick a Business Name",
+                "description": "Our experts take the time to assess your business needs to brainstorm, select, and register your trade name.",
+                "image": "/assets/jafzaJebelAliFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose a Legal Structure",
+                "description": "Next, we’ll help you choose the ideal business activity, trade license, and company formation structure.",
+                "image": "/assets/jafzaJebelAliFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Initial Approvals",
+                "description": "Our experts will then help you prepare and file the necessary documents to secure JAFZ authority’s approvals.",
+                "image": "/assets/jafzaJebelAliFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Lease an Office Space",
+                "description": "Next, our specialised experts will help you pick and lease a fully furnished office space and issue your trade license.",
+                "image": "/assets/jafzaJebelAliFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Obtain Your UAE Visa",
+                "description": "Beyond trade licensing, we offer personalised guidance to secure your JAFZA visa, sponsor dependents, and create a bank account.",
+                "image": "/assets/jafzaJebelAliFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for Jebel Ali Free Zone Business Setup",
+        "description": "Enjoy a seamless company formation and licensing experience in JAFZA with our team of seasoned business consultants guiding you every step.",
+        "items": [
+            {
+                "title": "End-to-End Business Support",
+                "description": "With over a decade of experience, we boast in-depth knowledge of JAFZA’s regulatory environment, securing your DED-compliant license in 3-5 working days.",
+                "image": "/assets/jafzaJebelAliFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Fast, Reliable, and Affordable",
+                "description": "Our transparent business setup solutions empower you to secure your Free Zone license, JAFZA visa, and legal documents without breaking the bank.",
+                "image": "/assets/jafzaJebelAliFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Gain Strategic Business Advice",
+                "description": "We match you with the best-fit business activity, legal structure, and license within seconds to help you save thousands of dirhams in tax exemptions.",
+                "image": "/assets/jafzaJebelAliFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/jafzaJebelAliFreeZone/grid/1.webp",
+        "title": "Scale Your Business in MEASA’s Fastest Growing Free Zone",
+        "description": "Tap into JAFZA’s unmatched growth trajectory in the Middle East, Africa, and South Asia with our seamless business setup solutions.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up our logistics operations in JAFZA was seamless. I was impressed with how quickly licensing and banking were handled. We were fully operational in under a month.",
+                "role": " Logistics & Freight Forwarding Company CEO",
+                "image": "/assets/jafzaJebelAliFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "We expanded our European manufacturing operations into Dubai through JAFZA. I  appreciated the clear guidance on compliance and industrial licensing. The support saved us significant time and costs.",
+                "role": "International Manufacturing Firm Operations Director",
+                "image": "/assets/jafzaJebelAliFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Our IT consultancy needed the right service license to operate in Dubai. The process was explained in detail and I felt confident every step of the way. We now serve clients across the UAE without hurdles.",
+                "role": "IT Consulting Company Managing Partner",
+                "image": "/assets/jafzaJebelAliFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Expand Your UAE Business across Dubai Free Zone",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Launch in Dubai’s #1 aviation hub to streamline global trade.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import and export luxury or second-hand cars across the MENA & Asia.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Build, innovate, and scale your business in a digital-first Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Launch your creative venture with access to innovative studios.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Trade precious metals and diamonds  stress-free from DMCC FZ.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Access a future-ready infrastructure to scale worldwide in DSO FZ.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Capitalise on DTEC’s cutting-edge incubation centres. ",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai South Free Zone",
+                "description": "Gain direct access to key logistic corridors in Dubai South Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Choose from 20+ lucrative industry sectors to network and thrive.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Access innovative labs and testing facilities in Expo City FZ.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "International Free Zone Authority",
+                "description": "Launch in Dubai’s most affordable FZ with IFZA’s multi-licensing packages.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Simplify business setup with MFZ’s 100% remote registration.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Pick from 10+ industry clusters to unlock limitless business growth.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Get Licensed in Days in Dubai’s Next-Gen Business City",
+        "description": "Unleash your business’s potential by unlocking modern shipping and airport trade routes, import/export tax exemptions, and 15+ warehouse lease periods in Jebel Ali Free Zone by partnering with our seasoned business consultants today.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/jafzaJebelAliFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to register a Jebel Ali FZ business?",
+                "answer": "Our expert business consultants can help you secure your trade license and set up your business in 1-14 working days. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to launch my business in Jebel Ali Free Zone?",
+                "answer": "Generally, you’ll need passport, visa, license, and Emirates ID copies, business plan, an MoA, and board resolution, depending on your selected business activity and company structure."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need a local service agent to set up in Jebel Ali FZ?",
+                "answer": "No, JAFZA offers expats 100% foreign ownership and full repatriation of profits and capital, eliminating the need for a local agent or sponsor."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I own multiple businesses in Jebel Ali Free Zone?",
+                "answer": "Yes, JAFZA allows business owners to own mutliple businesses, open countless branches, and exchange in any currency across the globe."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What legal structures can I choose from Jebel Ali Free Zone?",
+                "answer": "JAFZA allows business owners to pick one of four business models, including branch of a foreign company, Free Zone company, Free Zone establishment, and branch of a UAE company."
+            }
+        ]
+    }
+}

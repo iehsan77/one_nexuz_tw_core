@@ -1,0 +1,428 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/mfzMeydanFreeZone.webp",
+        "title": "Register, Launch, and Scale Your Business- Get Licensed in Under 60 Minutes in Meydan Free Zone",
+        "description": "Struggling with complex company registration regulations, missing documents, or endless paperwork? At One Nexuz, our skilled business consultants do all the heavy lifting, so you can start growing from day one! Set up your business in the heart of Dubai in Meydan Free Zone today to enjoy unmatched flexibility, 100% foreign ownership, and 0% import-export, corporate, and personal income taxes."
+    },
+    "leftSection_1": {
+        "title": "Discover Key Benefits of Meydan Free Zone Business Setup",
+        "description": "Maximise growth opportunities and minimise expenses with Meydan Free Zone’s seamless business incorporation solutions, allowing entrepreneurs and investors to start operating from anywhere, anytime.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Unlock State-of-the-Art Workspaces",
+                "subTitle": "Unlock State-of-the-Art Workspaces",
+                "description": "Scale across borders with access to cutting-edge business facilities and world-class infrastructure, including top-tier office spaces, high-speed connectivity, and executive meeting rooms.",
+                "image": "/assets/mfzMeydanFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Forge Meaningful Business Connections",
+                "subTitle": "Forge Meaningful Business Connections",
+                "description": "Uncover exciting networking opportunities by setting up in Meydan Free Zone’s vibrant landscape, empowering you to connect with thought leaders and like-minded professionals.",
+                "image": "/assets/mfzMeydanFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Tap into International Markets",
+                "subTitle": "Tap into International Markets",
+                "description": "Launch your business adjacent to the Dubai Logistics Corridor, Jebel Ali Port, & Port Rashid to take advantage of fast-growing regional and global markets.",
+                "image": "/assets/mfzMeydanFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your Business’s Interest",
+                "subTitle": "Secure Your Business’s Interest",
+                "description": "Protect your personal assets from your UAE-based business’s liabilities with an LLC license, offering 100% foreign ownership and 0% corporate and personal income tax exemptions.",
+                "image": "/assets/mfzMeydanFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Top Permitted Meydan Free Zone Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Accounting"
+            },
+            {
+                "id": 2,
+                "title": "Auditing"
+            },
+            {
+                "id": 3,
+                "title": "Arts & Entertainment"
+            },
+            {
+                "id": 4,
+                "title": "Book-keeping"
+            },
+            {
+                "id": 5,
+                "title": "Construction"
+            },
+            {
+                "id": 6,
+                "title": "Educational Support"
+            },
+            {
+                "id": 7,
+                "title": "Photography"
+            },
+            {
+                "id": 8,
+                "title": "Real Estate"
+            },
+            {
+                "id": 9,
+                "title": "Recreational Sports"
+            },
+            {
+                "id": 10,
+                "title": "Roads & Railways"
+            },
+            {
+                "id": 11,
+                "title": "Storage"
+            },
+            {
+                "id": 12,
+                "title": "Warehousing"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Pick the Best Medyan Free Zone License for Your Business",
+        "description": "Choose from endless licensing options with our skilled specialists to find the one that aligns with your legal structure and business activity.",
+        "btn": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Draft a future-proof business plan to trade within and beyond the UAE."
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Launch your digital storefront by securing Meydan Free Zone Authority approvals."
+            },
+            {
+                "id": 3,
+                "title": "Professional License",
+                "description": "Showcase your qualifications to refine your skillset and serve clients worldwide."
+            },
+            {
+                "id": 4,
+                "title": "Service License",
+                "description": "Submit passport copies and proof of address to the MFZA to offer intagible services."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/mfzMeydanFreeZone/left4/1.webp",
+            "title": "Join Over 20,000 Companies Thriving in Meydan Free Zone",
+            "description": "Leverage a proven ecosystem designed for entrepreneurs, startups, and global brands looking to expand with confidence.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/mfzMeydanFreeZone/left4/2.webp",
+            "title": "Clear, Transparent Meydan Free Zone License Costs Built for You",
+            "description": "Our tailored business setup services give you exactly the support your Meydan Free Zone company needs, from company registration to licensing and compliance. Get a custom-built quote that aligns with your current needs, and scale as you grow!",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Fast-Track Meydan Free Zone Company Formation in 5 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick a Business Activity",
+                "description": "We’ll schedule a free consultation to discuss your unique business setup needs. Then we’ll match you with the ideal business activities.",
+                "image": "/assets/mfzMeydanFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose a Trade Name",
+                "description": "Craft, search, and register DED-compliant company names that align with your business’s values, mission, and future goals.",
+                "image": "/assets/mfzMeydanFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Applications",
+                "description": "Next, we’ll assist you in compiling all the necessary documents, filling out the paperwork, and securing the initial licensing approvals.",
+                "image": "/assets/mfzMeydanFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Lease or Rent an Office",
+                "description": "Browse through our extensive catalogue of physical, flexi-desk, co-working, and virtual offices to expedite business setup.",
+                "image": "/assets/mfzMeydanFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Your Trade License",
+                "description": "We’ll pay the licensing fees on your behalf and issue your business license. You’ll receive it in a week via mail or email.",
+                "image": "/assets/mfzMeydanFreeZone/left5/2.svg"
+            },
+            {
+                "id": 6,
+                "title": "Apply for a Visa & Bank Account",
+                "description": "Lastly, we offer post-licensing support to help you secure the necessary visas and open a corporate bank account.",
+                "image": "/assets/mfzMeydanFreeZone/left5/3.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "",
+        "description": "",
+        "items": [
+            {
+                "title": "Personalised Setup Guidance",
+                "description": "Our local experts match you with the ideal business activity from 2500+ options, saving you AED 1,000+ in non-compliance and tax exemptions.",
+                "image": "/assets/mfzMeydanFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "All-in-One Business Solutions",
+                "description": "Get your trade license, visa, bank account, and a full suite of cutting-edge management solutions all under one roof to thrive in Meydan’s fast-evolving landscape.",
+                "image": "/assets/mfzMeydanFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Stay 100% DED Compliant",
+                "description": "Expand your business reach across Dubai Mainland with a dual license, empowering you to tap into fast-growing markets and seamless import-export.",
+                "image": "/assets/mfzMeydanFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/mfzMeydanFreeZone/grid/1.webp",
+        "title": "Start Strong in the UAE’s Most Dynamic Business Hub with One Nexuz",
+        "description": "Secure your Meydan Free Zone trade license within seconds, not minutes, to gain instant access to global markets, tax advantages, and strategic networking, all with minimal bureaucracy.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up my online store in Meydan Free Zone was unbelievably smooth. I had my license in just a few days, and the support team guided me at every step. Now I’m selling globally with a Dubai business address that builds instant trust with customers.",
+                "role": "E-commerce startup founder",
+                "image": "/assets/mfzMeydanFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "As a freelancer, I wanted full ownership and flexibility without high overhead costs. Meydan Free Zone gave me exactly that. The process was straightforward, affordable, and I could start offering my services almost immediately.",
+                "role": "IT Consultant",
+                "image": "/assets/mfzMeydanFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Choosing Meydan Free Zone was the best decision for my trading business. The central Dubai location makes logistics easy, and the ability to manage multiple business activities under one license saves both time and money.",
+                "role": "Trading Company Owner",
+                "image": "/assets/mfzMeydanFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Expand Your Business across the Dubai Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "  Enjoy global connectivity by setting up adjacent to the DXB Airport.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Tap into Dubai’s #1 automotive hub with specialised trading facilities.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Accelerate business growth in the Middle East’s largest tech ecosystem.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Thrive in a vibrant hub custom-designed for media and advertising.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Expand in the world’s top Free Zone for commodities trade.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Innovate in a fully integrated technology park designed for IT and R&D.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Fuel your startup journey with access to incubation centres.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai South Free Zone",
+                "description": "Take advantage of Dubai South’s close proximity to Al Maktoum Airport.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Network and thrive in Dubai’s top trading hub with flexible licensing.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Innovate and introduce green tech and clean energy in the greenest FZ.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": " International Free Zone Authority",
+                "description": "Enjoy cost-effective setup with flexible licensing solutions.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Jebel Ali Free Zone",
+                "description": "Trade in 90+ countries with strategic access to the Jebel Ali Port.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Choose from 10 industry clusters to collaborate with industry leaders.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Step into Lucrative Global Markets in Meydan Free Zone",
+        "description": "Set up where 200+ nationalities trade, innovate, and expand. Partner with our skilled business specialists to cut through the bureaucracy, so you can focus on growing your business.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/mfzMeydanFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is Meydan Free Zone a good option for businesses?",
+                "answer": "Meydan Free Zone offers a 100% paperless business setup, streamlining company registration and empowering you with unrestricted access to world-class infrastructure, fully serviced offices, and networking events."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents will I receive with my trade license?",
+                "answer": "You’ll receive company formation documents, including a certificate of formation, lease agreement, and MoA."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I have to pay taxes in Meydan Free Zone?",
+                "answer": "No, Meydan Free Zone offers a tax-free environment, empowering you to save thousands on corporate and personal income tax."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is there a minimum capital requirement for MFZ company formation?",
+                "answer": "No, there is no minimum capital requirement for launching a business in Meydan FZ."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me set up in other UAE Free Zones beyond Meydan?",
+                "answer": "Yes, One Nexuz offers holistic services for countless FZ besides MFZ, including Fujairah, RAKEZ, Abu Dhabi, and more!"
+            }
+        ]
+    }
+}

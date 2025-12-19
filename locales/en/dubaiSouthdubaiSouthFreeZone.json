@@ -1,0 +1,436 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dubaiSouthdubaiSouthFreeZone.webp",
+        "title": "Coordinate Logistics, Minimise Freight Overheads, & Expand Your Business Reach Dubai South Free Zone with Full 360° Support",
+        "description": "Mitigate the risk of costly delays, activity mismatches, and insufficient warehouse space with One Nexuz. We simplify all the paperwork and documentation, so you can focus on scaling your business to new heights. Tap into Dubai South Free Zone's thriving integrated logistics hub to capitalise on the region's strategic location, lucrative tax incentives, and access to fast-growing international markets."
+    },
+    "leftSection_1": {
+        "title": "Why Founders Choose Dubai South Free Zone",
+        "description": "Connect, collaborate, and catalyse business success with Dubai South FZ's seamless trade routes, landmark events, and top-notch facilities. Get 100% foreign ownership, tax-free trade, and 800+ business activities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Simplify Global Trade",
+                "subTitle": "Simplify Global Trade",
+                "description": "Gain strategic access to the Al Maktoum International Airport, Jebel Ali Port, Emirates Road, and Zayed International Airport to tap into lucrative markets across South Asia, Africa, and the Middle East.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Build a Robust Professional Network ",
+                "subTitle": "Build a Robust Professional Network ",
+                "description": "Attend key global events, such as the World Expo and Dubai Air Show, to foster organic business relationships with industry leaders, innovators, and like-minded professionals.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Get 100% Profits Repatriation",
+                "subTitle": "Get 100% Profits Repatriation",
+                "description": "Take advantage of Dubai South Free Zone's tax-friendly landscape to enjoy 0% corporate, import/export, and personal income taxes to maximise profitability.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Discover Modern Infrastructure ",
+                "subTitle": "Discover Modern Infrastructure ",
+                "description": "Set up your business in Dubai South and take advantage of the region's world-class commercial and residential towers, cutting-edge warehouses, and fully equipped offices. ",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Permitted Dubai South Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Aviation"
+            },
+            {
+                "id": 2,
+                "title": "Broadcast Management"
+            },
+            {
+                "id": 3,
+                "title": "Consultancy"
+            },
+            {
+                "id": 4,
+                "title": "Education & Training"
+            },
+            {
+                "id": 5,
+                "title": "Food & Beverage"
+            },
+            {
+                "id": 6,
+                "title": "Healthcare & Lifestyle"
+            },
+            {
+                "id": 7,
+                "title": "Manufacturing & Construction"
+            },
+            {
+                "id": 8,
+                "title": "Media & Marketing Services"
+            },
+            {
+                "id": 9,
+                "title": "Music & Entertainment"
+            },
+            {
+                "id": 10,
+                "title": "Professional Services"
+            },
+            {
+                "id": 11,
+                "title": "Renewable Energy"
+            },
+            {
+                "id": 12,
+                "title": "Technology & Design"
+            },
+            {
+                "id": 13,
+                "title": "Transportation & Logistics"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Ideal Dubai South Free Zone License",
+        "description": "Find the license that best matches your business model and activity to scale restriction-free.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Build a professional business plan to import and export consumer products."
+            },
+            {
+                "id": 2,
+                "title": "Freelancer Permi",
+                "description": "Create a powerful CV or portfolio to launch your freelance venture or consultancy."
+            },
+            {
+                "id": 3,
+                "title": "Logistics License",
+                "description": "Map out business operations for seamless freight forwarding and logistics."
+            },
+            {
+                "id": 4,
+                "title": "Industrial License",
+                "description": "Choose from 150+ business activities and secure DACC approvals to trade stress-free."
+            },
+            {
+                "id": 5,
+                "title": "Service License",
+                "description": "Kickstart your marketing agency, IT firm, or consultancy with a future-proof business plan"
+            },
+            {
+                "id": 6,
+                "title": "Trade License",
+                "description": "Streamline wholesale or retail trade with DACC-approved passport copies and activities."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dubaiSouthdubaiSouthFreeZone/left4/1.webp",
+            "title": "Trade Smarter with Seamless Links to 145+ Destinations",
+            "description": "Access new markets, expand your reach, unlock tax incentives, and move goods faster with our skilled business consultants by your side.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dubaiSouthdubaiSouthFreeZone/left4/2.webp",
+            "title": "Get a Transparent Dubai South Free Zone Business Setup Quote",
+            "description": "Know your Dubai South Free Zone licensing costs upfront. Pay only for the services your business need and scale effortlessly as you grow. No hidden fees, no surprises—just smart, transparent pricing.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify Company Formation in Dubai South in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Hop on a Discovery Call",
+                "description": "We'll schedule a brief consultation at your convenience to confirm activities, visa needs, and timeline.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose License & Activities",
+                "description": "Pick from 800+ business activities and get matched with the best-fit Free Zone license within seconds.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Reserve Your Trade Name",
+                "description": "Next, we'll help you brainstorm and register a unique business name and secure initial approvals.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Submit Your Application",
+                "description": "We’ll assist you in compiling and submitting your application, and pay the fees on your behalf to issue it within a week.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Post Setup Support",
+                "description": "Beyond licensing, our experts offer personalised guidance for account setup, VAT registration, and more!",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Seamless Dubai South Free Zone Setup",
+        "description": "Navigate Dubai South's stringent regulatory landscape and grow confidently with our team of seasoned business consultants.",
+        "items": [
+            {
+                "title": "Fast, Reliable, & Transparent",
+                "description": "Secure your trade license in under 5 business days by taking advantage of our direct liaison with the Dubai South Free Zone Authority.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Tailored Setup Guidance ",
+                "description": "Get end-to-end support to choose the best-fit innovation cluster, business activity, and trade license to fast-track business setup and unlock exciting tax benefits.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Dedicated Compliance Support",
+                "description": "Our PRO specialists streamline all government paperwork, Free Zone licensing, and Dubai South visa processing to ensure you never miss a deadline.",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dubaiSouthdubaiSouthFreeZone/grid/1.webp",
+        "title": "Your Gateway to Endless Business Growth",
+        "description": "They took care of everything — from license approval to visas — in under a week. I was operational before I expected.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz.  ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "They took care of everything — from license approval to visas — in under a week. I was operational before I expected.",
+                "role": "Logistics Firm Founder",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "They recommended the right license type for our business, saving us over AED 15,000 in future changes.",
+                "role": "E-commerce Company CEO",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Every step was explained clearly, no hidden fees, and the process was handled with speed. I’d recommend them to anyone expanding into Dubai.",
+                "role": "International Trading Company Managing Director",
+                "image": "/assets/dubaiSouthdubaiSouthFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Business Horizons Across Dubai",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Maximise freight efficiency, cut transit costs, and scale globally in DAFZ.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import and export luxury, vintage, and second-hand cars across the MENA and South Asia.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Build, innovate, and grow in the UAE’s largest tech ecosystem with innovative business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Unleash your brand’s creativity with unrestricted access to world-class studios and incubation centres.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Centre",
+                "description": "Trade precious metals and gemstones hassle-free with DMCC’s modern trade networks.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Discover breakthrough technologies by taking advantage of DSO's R&D incentives.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Centre",
+                "description": "Launch your startup in Dubai’s purpose-built incubator with mentorship opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Centre Free Zone",
+                "description": "Benefit from DWTC Free Zone’s strategic location to tap into dynamic markets in the GCC and MENA.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Expand your professional network by attending global events, trade shows, and exhibitions.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Get started anytime, anywhere with IFZA’s remote, fast, and cost-efficient setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Position your business adjacent to the Jebel Ali Port for seamless logistics and global trade.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Scale your business with access to the Logistics Corridor and the Al Maktoum Airport.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Access an integrated business environment catering to tech, media, and e-commerce.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Cut Transit Time with Global Air, Sea, and Land Links in Dubai South",
+        "description": "Base your business in the UAE's most connected free zone, strategically positioned between Al Maktoum International Airport and Jebel Ali Port, with our tailored Dubai South business setup solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dubaiSouthdubaiSouthFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to secure a Dubai South Free Zone license?",
+                "answer": "With our expert business consultants, you can secure your Dubai South FZ license within 1-7 business days."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to be physically present in Dubai to register my Dubai South business?",
+                "answer": "No, Dubai South Free Zone offers 100% remote business setup solutions, empowering you to register and operate from any corner of the world."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What legal structures can I choose from in Dubai South FZ?",
+                "answer": "Dubai South allows you to choose from three primary legal entities, including a Branch of a foreign or local company, Free Zone Sole Establishment, and Free Zone Limited Liability Company."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need to launch my business in Dubai South?",
+                "answer": "Generally, you’ll need a business plan, passport copies, and a trade name to register your business, depending on your selected license. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How many visas can I get with a DMCC license?",
+                "answer": "Yes, our specialised consultants connect you with the right bank partner to streamline personal or business bank account setup."
+            }
+        ]
+    }
+}

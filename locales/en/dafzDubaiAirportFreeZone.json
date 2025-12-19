@@ -1,0 +1,430 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dafzDubaiAirportFreeZone.webp",
+        "title": "From Setup to Operations, Launch Your Business in Dubai Airport Free Zone with Complete 360° Support",
+        "description": "Navigate the UAE’s complex licensing and regulatory landscape confidently with our seasoned business consultants. Tap into Dubai Airport Free Zone’s (DAFZ) thriving ecosystem of 2,000+ global brands, 2.5 billion consumer base, and state-of-the-art airside facilities custom-built to maximise logistics efficiency and minimise overheads. Partner with our specialists to streamline company formation in DAFZ and fast-track your access to global markets today!"
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Choose Dubai Airport Free Zone",
+        "description": "Position your business at the heart of global trade in DAFZ and experience unmatched speed, efficiency, and cost savings.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Connect with International Markets ",
+                "subTitle": "Connect with International Markets ",
+                "description": "Position your business at the epicenter of lucrative markets in the Middle East. Gain strategic access to the Dubai International Airport to capitalise on fast-growing industries in Europe, Africa, and South Asia. ",
+                "image": "/assets/dafzDubaiAirportFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Explore Cutting-Edge Business Facilities",
+                "subTitle": "Explore Cutting-Edge Business Facilities",
+                "description": "Take advantage of DAFZA Industrial Park’s world-class infrastructure, top-tier amenities, and fully equipped offices for hassle-free business setup.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Maximise Operational Freight Efficiency ",
+                "subTitle": "Maximise Operational Freight Efficiency ",
+                "description": "Streamline your entire value chain with Dubai Airport Free Zone’s seamless customs clearance, robust freight management solutions, and round-the-clock security ",
+                "image": "/assets/dafzDubaiAirportFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Discover a Dedicated Logistics Center",
+                "subTitle": "Discover a Dedicated Logistics Center",
+                "description": "Set up in DAFZ’s bustling commercial landscape, DAFZA Square Retail Center, to gain unrestricted access to essential services, including meeting rooms, storage, secretarial, and concierge support.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Top Dubai Airport Free Zone Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Ambulance System"
+            },
+            {
+                "id": 2,
+                "title": "Architecture"
+            },
+            {
+                "id": 3,
+                "title": "Banking & Finance Business"
+            },
+            {
+                "id": 4,
+                "title": "Education"
+            },
+            {
+                "id": 5,
+                "title": "Electronics & Electrical"
+            },
+            {
+                "id": 6,
+                "title": "Emirates Post"
+            },
+            {
+                "id": 7,
+                "title": "Jeweler & Cosmetics"
+            },
+            {
+                "id": 8,
+                "title": "Medical Fitness Center"
+            },
+            {
+                "id": 9,
+                "title": "Oil, Petrochemical, & Natural Gas"
+            },
+            {
+                "id": 10,
+                "title": "Railway"
+            },
+            {
+                "id": 11,
+                "title": "Transport & Shipping"
+            },
+            {
+                "id": 12,
+                "title": "Spacecraft & Aircraft"
+            },
+            {
+                "id": 13,
+                "title": "Restaurants & Cafes"
+            },
+            {
+                "id": 14,
+                "title": "Travel Agency"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Discover DAFZA Licenses for Your Business Model ",
+        "description": "Get matched with the ideal DAFZ license to slash taxes and save up on tariffs.",
+        "items": [
+            {
+                "id": 1,
+                "title": "E-commerce License",
+                "description": "Sell, export, and import goods worldwide with a verified e-store- no physical storefront necessary"
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "description": "Manufacture and assemble with DAFZ’s world-class light industry facilities with a fully-equipped warehouse."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Craft a data-driven business plan and attest all documents to offer your skills and upgrade for the global market."
+            },
+            {
+                "id": 4,
+                "title": "Trading License",
+                "description": "Draft a financially sound business plan to trade in wholesale or retain within or beyond the UAE."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dafzDubaiAirportFreeZone/left4/1.webp",
+            "title": "Build Where 3,100+ Entrepreneurs Call Home",
+            "description": "Set up in a Free Zone trusted by 20,000+ professionals and 3,100 businesses from across 20+ sectors. Your global gateway starts here.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dafzDubaiAirportFreeZone/left4/2.webp",
+            "title": "DAFZA Business Setup Made Simple — Custom Dubai Airport Free Zone Company Setup Costs that Work",
+            "description": "No rigid packages, no unnecessary add-ons, no surprise costs. Pay only for the business setup services you need, when you need them. ",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Streamline Dubai Airport Free Zone Company Formation in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Consultation",
+                "description": "We’ll start by discussing your business needs to suggest the ideal legal entity and business activity.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Next, our specialists will help you compile and review all the required documents to streamline the paperwork.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "We’ll handle all the company registration paperwork and pay the licensing fees to issue your trade license.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Set up Your DAFZ Business",
+                "description": "Once DAFZA approves your application, we’ll send your license and certificate of registration your way.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your Visa",
+                "description": "Lastly, we’ll provide you with personalised guidance to apply for investor, residence, or employment visas.",
+                "image": "/assets/dafzDubaiAirportFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz for Seamless Company Formation in DAFZ ",
+        "description": "Navigate bureaucracy complexities, application rejections, and stringent licensing requirements confidently with our seasoned business consultants by your side.",
+        "items": [
+            {
+                "title": "End-to-End Expert Guidance",
+                "description": "Our expert business advisors know the UAE’s regulatory requirements inside out, empowering you to fast-track DAFZA business setup and avoid costly delays.",
+                "image": "/assets/dafzDubaiAirportFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Local Market Insights",
+                "description": "We don’t just handle paperwork- we guide you with real insights to make data-driven business decisions and thrive in DAFZ’s fast-growing retail landscape.",
+                "image": "/assets/dafzDubaiAirportFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Clear, Fixed Pricing",
+                "description": "We provide upfront, all-inclusive pricing tailored to your Dubai Airport Free Zone setup needs, empowering you to budget stress-free.",
+                "image": "/assets/dafzDubaiAirportFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dafzDubaiAirportFreeZone/grid/1.webp",
+        "title": "No Delays, No Shutdowns, No Excuses",
+        "description": "With 24-hour customs support, DAFZ keeps your goods moving without delay- day, night, or weekend. Let our specialists handle the heavy lifting — so you can focus on scaling from day one.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As a logistics founder, DAFZ’s airside access shaved days off our delivery timelines. Partnering with One Nexuz made the entire setup seamless — zero red tape, just results.”",
+                "role": "Cross-Border Logistics Founder",
+                "image": "/assets/dafzDubaiAirportFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Setting up in DAFZ felt intimidating at first, but One Nexuz handled everything — from licensing to visas — with complete transparency and speed. We were operational in under a week.”",
+                "role": "E-commerce Tech Startup Co-Founder",
+                "image": "/assets/dafzDubaiAirportFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We needed a regional HQ close to major trade routes, and DAFZ delivered. One Nexuz guided us through the maze of documentation and compliance without a single delay.”",
+                "role": "Global Manufacturing Firm Managing Director",
+                "image": "/assets/dafzDubaiAirportFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Reach to Dubai’s Premier Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Auto Zone",
+                "description": "Drive business success by setting up at the crossroads of the East and West.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Internet City",
+                "description": "Collaborate with leading IT companies with DIC’s cutting-edge infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Media City",
+                "description": "Unleash your inner creative in DMC’s thriving media and advertising environment.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Trade across borders with 0% tariffs by launching in the world’s #1 trading hub.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Innovate and scale by tapping into DSO’s high-tech networking infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Discover, refine, and innovate without any restrictions in DTEC’s dedicated hubs.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Center",
+                "description": "Boost freight efficiency with DSFZ’s unmatched global connectivity.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Scale worldwide by taking advantage of DWTC’s global networking events.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Enjoy 100% foreign ownership and 0% corporate taxes in Expo City Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Optimise resource allocation with IFZA’s cost-effective setup solutions",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Power global trade with JAFZA’s world-class port and logistics facilities.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Unlock sustainable growth with MFZ’s investor-friendly policies.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group ",
+                "description": "Take your business to the next level in TECOM’s strategic Free Zones.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Dominate Your Competition in Dubai Airport Free Zone",
+        "description": "Step into one of the world’s top airport Free Zones to capitalise on the region’s strategic trade routes and networking infrastructures. Gain a competitive edge with our all-in-one DAFZA company setup solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dafzDubaiAirportFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to issue a trade license in DAFZA?",
+                "answer": "Our experts streamline all the paperwork and government back-and-forth to help obtain your business license within 1-7 working days."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I have to pay any taxes in DAFZ, Dubai?",
+                "answer": "Dubai Airport Free Zone offers 100% tax exemptions on capital and personal income, as well as import and export customs. You might have to pay VATs, depending on your selected business activity and license."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Will I need a local sponsor to launch my DAFZ business?",
+                "answer": "No, DAFZ offers 100% foreign ownership, allowing you to retain full control of your business without needing a UAE national partner."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need to lease a physical office in the Dubai Airport Free Zone?",
+                "answer": "No, the region offers alternatives, including flexi-desk, co-working, and virtual office, empowering you to save up on leasing."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz guarantee the opening of a corporate bank account in DAFZ?",
+                "answer": "Yes, our business consultants connect you with the ideal bank partner to expedite personal or corporate bank account in DAFZ to simplify financing."
+            }
+        ]
+    }
+}

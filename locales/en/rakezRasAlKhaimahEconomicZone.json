@@ -1,0 +1,305 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/rakezRasAlKhaimahEconomicZone.webp",
+        "title": "Set Up in RAKEZ Free Zone and Scale with Full Ownership and Zero Tax",
+        "description": "Minimise the risk of licensing approvals, bank account friction, and visa application rejections with our experts guiding you every step of the way. Launch in Ras Al Khaimah’s leading business powerhouse to access lucrative local and global markets, tax-based incentives, and cost-efficient setup solutions. Set up in RAKEZ seamlessly and start growing without the headaches."
+    },
+    "leftSection_1": {
+        "title": "Why Choose RAKEZ Free Zone for Your UAE Business",
+        "description": "Hundreds of local and international businesses choose  RAKEZ, making it one of the most thriving and profitable business free zones in the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get 100% Foreign Ownership",
+                "subTitle": "Get 100% Foreign Ownership",
+                "description": "Eliminate the hassle of a local sponsor and enjoy complete control over your business setup in RAKEZ free zone. We’re talking full profit repatriation!",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock Exciting Tax Incentives",
+                "subTitle": "Unlock Exciting Tax Incentives",
+                "description": "Take advantage of the favourable tax environment to access double taxation treaties and 0% corporate income taxes, uplifting your bottom line.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Benefit from Its Strategic Location",
+                "subTitle": "Benefit from Its Strategic Location",
+                "description": "With a world-class networking infrastructure, RAKEZ offers businesses convenient access to all major ports, highways, and airports to strengthen global links.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Simplify Business Setup",
+                "subTitle": "Simplify Business Setup",
+                "description": "With no physical office required, the RAKEZ free zone supports a fast, paperless setup, allowing businesses to start operating within 5-7 days.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Choose from Diverse Permitted Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Manufacturing"
+            },
+            {
+                "id": 2,
+                "title": "Trading"
+            },
+            {
+                "id": 3,
+                "title": "Logistics & Warehousing"
+            },
+            {
+                "id": 4,
+                "title": "Education"
+            },
+            {
+                "id": 5,
+                "title": "Real Estate"
+            },
+            {
+                "id": 6,
+                "title": "Media & Entertainment"
+            },
+            {
+                "id": 7,
+                "title": "Event Planning"
+            },
+            {
+                "id": 8,
+                "title": "Cleaning Services"
+            },
+            {
+                "id": 9,
+                "title": "Social Media Management"
+            },
+            {
+                "id": 10,
+                "title": "Pet Care Services"
+            },
+            {
+                "id": 11,
+                "title": "AI and Automation Services"
+            },
+            {
+                "id": 12,
+                "title": "Accounting Services"
+            },
+            {
+                "id": 13,
+                "title": "Virtual Assistant"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Explore the Top Licenses in RAKEZ, UAE",
+        "description": "Ensure a successful RAKEZ free zone business setup by selecting the best-fit license:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Launch your retail business with just a passport copy, visa, or Emirates ID."
+            },
+            {
+                "id": 2,
+                "title": "General Trading License",
+                "description": "Import and export wholesale with zero minimum inventory requirements."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Kickstart your consultancy by submitting your passport, visa, or Emirates ID."
+            },
+            {
+                "id": 4,
+                "title": "E-Commerce License",
+                "description": "Grow your digital store with your Emirates ID, visa, and a legal business model- no warehouse necessary."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/rakezRasAlKhaimahEconomicZone/left4/1.webp",
+            "title": "Join Over 30,000 Companies Thriving in RAKEZ",
+            "description": "Global brands are choosing RAK free zone for cost-efficiency, logistics, and support. Start your venture with One Nexuz’s full setup assistance and visa support today.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/rakezRasAlKhaimahEconomicZone/left4/2.webp",
+            "title": "Start Lean, Scale Confidently—Pay for What You Need",
+            "description": "No rigid bundles, no hidden charges. Get custom RAKEZ licensing costs tailored to your unique needs. Pay only for what your business requires and add services as operations scale—without unnecessary overhead.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 5-Step Guide to RAKEZ Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "Our team of expert consultants and advisors discusses your business goals to help you choose the ideal business activity and structure.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Register Your Trade Name",
+                "description": "We’ll help you craft a list of original company names that align with your business goals and streamline the reservation process.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Compile all Relevant Documents",
+                "description": "Next, we’ll assist you in collecting and submitting the necessary documentation, mitigating paperwork so you can focus on growing.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your Trade License",
+                "description": "With the business activities identified, our proficient consultants streamline the licensing process, helping you get initial approvals.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Enjoy Post-Licensing Support",
+                "description": "Beyond RAKEZ free zone business setup, we assist you in securing your visa and creating a corporate bank account to streamline finances.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Streamline the RAKEZ Business Setup Process",
+        "description": "Grow and scale in RAKEZ free zone hassle-free with One Nexuz’s seamless business setup solutions.",
+        "items": [
+            {
+                "title": "Unlock Tailored Packages",
+                "description": "Our experienced consultants offer customized solutions tailored to your unique business goals, setting you up for success.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/bgImage/1.webp"
+            },
+            {
+                "title": "Ensure a Hassle-Free Process",
+                "description": "From visa applications to bank account setups, we do all the legwork, so you can scale your business without the headaches.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/bgImage/2.webp"
+            },
+            {
+                "title": "Get 24/7 Customer Support",
+                "description": "Our dedicated business advisors guide you through every step of the journey, ensuring a seamless licensing experience.",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/rakezRasAlKhaimahEconomicZone/grid/1.webp",
+        "title": "Set Up Right with RAKEZ and Scale with Confidence",
+        "description": "With a 66% surge in new business launches, RAKEZ is the place to start strong, scale fast, and stay ahead. With One Nexuz, expedite your registration and visa processes to secure your spot in this booming ecosystem.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The process was fast, the cost breakdown was clear, and the team handled everything. I got my RAKEZ license and visa in 6 days.”",
+                "role": "IT Consultant",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“One Nexuz simplified the entire experience—even helped me get a bank account when others couldn't.”",
+                "role": "E-commerce Business Owner",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Setting up in RAKEZ with One Nexuz was the smartest move. They managed the paperwork, approvals, and follow-ups while I focused on launching my business.”",
+                "role": "Manufacturing Startup Founder",
+                "image": "/assets/rakezRasAlKhaimahEconomicZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Beyond RAKEZ with More Free Zone Options",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAK Maritime City Free Zone",
+                "description": "Supercharge your freight, logistics, or manufacturing business with instant access to the Arabian Gulf and the Dubai International Airport.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAK Digital Assets Oasis",
+                "description": "Diversify your Web3 portfolio, manage virtual assets, or engage in fiat-to-fiat exchange with RAK DAO’s flexible trading & Web3 regulatory landscape.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Build Your RAKEZ Business with Confidence?",
+        "description": "Kickstart your business in the RAKEZ free zone with our experts. Our knowledgeable business consultants provide you with end-to-end support, helping you launch without the guesswork.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/rakezRasAlKhaimahEconomicZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAKMC - RAK Maritime City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAK DAO - RAK Digital Assets Oasis",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to get a RAKEZ license?",
+                "answer": "It generally takes 3-5 working days to apply for and issue a RAKEZ trade license."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to register in the RAKEZ free zone?",
+                "answer": "You’ll need copies of your passport, visa, business plan, memorandum, shareholders’ resolution, certificates of good standing, and trade license."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to own a physical office space in RAKEZ?",
+                "answer": "RAKEZ allows businesses to choose from a range of options, including physical office space and flexible alternatives such as flexi-desks and co-working spaces."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I open a bank account with a RAKEZ license?",
+                "answer": "Yes! Our expert business consultants guide you through the process to connect you with the right bank account partner."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What business activities does the RAKEZ free zone allow?",
+                "answer": "The region supports over 1,500 activities, including commercial, manufacturing, professional, industrial, and educational."
+            }
+        ]
+    }
+}

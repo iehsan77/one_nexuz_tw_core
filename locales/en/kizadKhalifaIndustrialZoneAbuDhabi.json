@@ -1,0 +1,329 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/kizadKhalifaIndustrialZoneAbuDhabi.webp",
+        "title": "Build, Optimise, & Scale Your Logistics Business with KIZAD, Abu Dhabi's Unmatched Multimodal Connectivity",
+        "description": "Endless paperwork, multi-layer regulatory approvals, and confusing compliance requirements slowing down your business growth? At One Neuz, we handle the entire process, from facility sourcing to licensing, so you can launch faster and scale smarter. Launch adjacent to one of the world's most innovative deep-seaports to access modern infrastructure, strategic utility corridors, and a lucrative investment portfolio in Khalifa Industrial Zone Abu Dhabi Free Zone."
+    },
+    "leftSection_1": {
+        "title": "Why Founders Choose Khalifa Industrial Zone Abu Dhabi",
+        "description": "Drive revenue with KIZAD Free Zone's low-cost, high-connectivity trade, cutting-edge facilities, and competitive tax landscape. Uncover exciting growth opportunities with the region's seamless master-planned infrastructure and investor support.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Key Logistics Hub",
+                "subTitle": "Access Key Logistics Hub",
+                "description": "Expand your business worldwide by taking advantage of KIZAD Free Zone's strategic location, offering direct access to the Khalifa Port, the Eithad Rail, the Abu Dhabi International Airport, and major highways.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock State-of-the-Art Facilities ",
+                "subTitle": "Unlock State-of-the-Art Facilities ",
+                "description": "Scale across the Emirates by leveraging the Free Zone's world-class infrastructure, hybrid structures, pre-built warehouses, and dedicated business facilities.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Get Unmatched Investor Support ",
+                "subTitle": "Get Unmatched Investor Support ",
+                "description": "Preserve and diversify your wealth with KIZAD FZ's diverse investment portfolio of 20+ industries, a tax-friendly landscape, and full profits and capital repatriation policies. ",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Ease of Import/Export ",
+                "subTitle": "Ease of Import/Export ",
+                "description": "Boost profitability with KIZAD duty-free operations, 0% corporate taxes, and VAT exemptions. Simplify logistics with flexible lease options and access to all four transport modes.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Business Activities in KIZAD Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Automotive Parts"
+            },
+            {
+                "id": 2,
+                "title": "Construction & Building Materials"
+            },
+            {
+                "id": 3,
+                "title": "Distribution Centers"
+            },
+            {
+                "id": 4,
+                "title": "Food Processing"
+            },
+            {
+                "id": 5,
+                "title": "Freight Forwarding"
+            },
+            {
+                "id": 6,
+                "title": "Metals & Chemicals"
+            },
+            {
+                "id": 7,
+                "title": "Paper & Packaging"
+            },
+            {
+                "id": 8,
+                "title": "Pharmaceuticals & Healthcare"
+            },
+            {
+                "id": 9,
+                "title": "Re-exporters"
+            },
+            {
+                "id": 10,
+                "title": "Restaurants"
+            },
+            {
+                "id": 11,
+                "title": "Shipping & Logistics Services"
+            },
+            {
+                "id": 12,
+                "title": "Textiles"
+            },
+            {
+                "id": 13,
+                "title": "Travel Agencies"
+            },
+            {
+                "id": 14,
+                "title": "Warehousing"
+            },
+            {
+                "id": 15,
+                "title": "Wholesalers"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Right Khalifa Industrial Zone Abu Dhabi License",
+        "description": "Choose from 100+ business activities and get matched with the best-fit KIZAD free license within seconds.",
+        "items": [
+            {
+                "id": 1,
+                "title": "General Trading License",
+                "description": "Import and export beyond KIZAD with ADDED-approved activity lists and MOA."
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "description": "Create a robust factory layout and EIA plan to manufacture, process, and assemble goods."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Build a powerful portfolio to foster instant trust and serve clients worldwide. "
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left4/1.webp",
+            "title": "Tap into a 4.5 Billion Consumer Market Across Four Time Zones",
+            "description": "Gain unmatched global reach, seamless trade connectivity, and strategic business facilities designed to accelerate business growth.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left4/2.webp",
+            "title": "Clear, Transparent Costs — Start Your KIZAD FZ Business without the Guesswork",
+            "description": "No hidden fees. No surprise add-ons. No confusing packages. Pick your license, workspace, and visas, and scale your setup seamlessly as your business grows.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Streamline Business Setup in KIZAD Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick Your Business Activity",
+                "description": "We'll start with a discovery call to discuss your business needs and goals. Based on this, we'll suggest the best-fit activity and license.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose a Legal Structure",
+                "description": "Next, our experts will help you select the ideal business model, empowering you to qualify for tax exemptions and long-term savings.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "We'll provide you with a checklist of the necessary documents and submit your licensing application to the KIZAD Authority.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Collect Your Business License",
+                "description": "Next, we'll issue your trade license and registration documents, including the MoA, certificate of incorporation, and lease agreement.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your KIZAD Visa",
+                "description": "Lastly, our PRO agents offer customised visa and bank account solutions to help you build your team and simplify financing.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for Company Formation in KIZAD Free Zone",
+        "description": "Reclaim time and cost lost navigating the intricacies of KIZAD Free Zone's complex business regulations with our seasoned consultants and PRO specialists.",
+        "items": [
+            {
+                "title": "Fast Turnaround Times",
+                "description": "Our expert business consultants streamline all the administrative tasks, shaving weeks off your licensing timeline and expediting your time-to-market.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/bgImage/1.webp"
+            },
+            {
+                "title": "All-in-One Business Services",
+                "description": "Secure your KIZAD license, Free Zone visa, and corporate bank account under one roof with our one-window business setup solutions.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/bgImage/2.webp"
+            },
+            {
+                "title": "Clean, Transparent Quotes",
+                "description": "No hidden fees, no last-minute surprises. Our clear cost breakdowns empower you to allocate resources more effectively.",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/grid/1.webp",
+        "title": "Get Unmatched Flexibility in Abu Dhabi’s Industrial Powerhouse",
+        "description": "From startups to multinationals, KIZAD offers customized office, land, and warehouse solutions, plus business-friendly licensing for smooth setup and long-term scalability.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Getting our license in KIZAD looked overwhelming at first, but the process was handled end-to-end for us. What would have taken months on our own was done in a few weeks, and we were able to start operations without delays.”",
+                "role": "Logistics Startup Founder",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“The biggest win for us was clarity. Every cost, document, and timeline was laid out from the start, so there were no hidden surprises. That gave us the confidence to scale our investment in Abu Dhabi.”",
+                "role": "Industrial Trading Company Managing Director",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We needed warehouse space and staff visas sorted quickly to meet a new client contract. The setup support here made that possible, and we hit the ground running with zero downtime.”",
+                "role": "Manufacturing Firm Operations Manager",
+                "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Drive Business Growth across Abu Dhabi ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Airport Free Zone",
+                "description": "Gain strategic access to key airports and seaports in ADAFZ.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Abu Dhabi Global Market",
+                "description": "Build, diversify, and preserve wealth with strategic family trusts and foundations.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Masdar City Free Zone",
+                "description": "Collaborate and innovate alongside industry leaders in Masdar City Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "TwoFour54",
+                "description": "Polish your craft and serve clients worldwide in Abu Dhabi’s #1 media hub.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "One Zone. Four Modes- Scale Your Business Worldwide with KIZAD, Abu Dhabi",
+        "description": "Power business growth by taking advantage of KIZAD Free Zone’s strategic location, hybrid setup structure, and pre-built warehouses. Partner with our skilled business consultants to capitalise on the region’s unmatched infrastructure and trade routes.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/kizadKhalifaIndustrialZoneAbuDhabi/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "ADGM - Abu Dhabi Global Market ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Twofour54 (Media & Creative)",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Masdar City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ADAFZ - Abu Dhabi Airport Free Zone ",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is Khalifa Industrial Zone Abu Dhabi?",
+                "answer": "KIZAD is a free trade zone located adjacent to the Khalifa Port, offering business owners and solopreneurs Free Zone and Non-Free Zone business structures, world-class business facilities, and access to robust investor networks."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to launch in KIZAD?",
+                "answer": "Generally, you'll need copies of passports and Emirates IDs, a business activity description, an MoA, and proof of registered office address, depending on your selected legal structure and business activity."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What legal structures can I choose in KIZAD, Abu Dhabi?",
+                "answer": "You can choose between several business models, including LLCs, a branch of a foreign company, and a branch of a UAE company. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does it take to set up a business in KIZAD Free Zone?",
+                "answer": "Business setup in KIZAD can take 1-14 days, depending on your business activity, license, and model and document readiness."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz assist me in opening a KIZAD corporate bank account?",
+                "answer": "Yes, our expert PRO specialists offer end-to-end support for setting up a personal or corporate bank account."
+            }
+        ]
+    }
+}

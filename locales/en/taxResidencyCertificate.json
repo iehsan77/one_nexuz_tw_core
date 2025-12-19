@@ -168,7 +168,6 @@
             }
         ]
     },
-    "leftSection_9": {},
     "leftSection_10": {
         "title": "Safeguard Your Business Finances with Expert Support",
         "btn": "Explore More",
@@ -182,13 +181,19 @@
             {
                 "id": 2,
                 "title": "Intellectual Property Rights Protection",
-                "description": "Protect your original designs, software, apps, content, and more with our holistic IP rights protection solutions",
+                "description": "Protect your original designs, software, apps, content, and more with our holistic IP rights protection solutions.",
                 "url": "#"
             },
             {
                 "id": 3,
                 "title": "Audit Services",
                 "description": "Manage and streamline quarterly, monthly, or annual audits to prevent costly delays and penalties.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ISO Certification Assistance",
+                "description": "Boost brand trust and credibility by securing industry-relevant ISO certificates hassle-free.",
                 "url": "#"
             }
         ]
@@ -216,6 +221,11 @@
             {
                 "id": 3,
                 "title": "ISO Certificate Assistance",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Intellectual Property Rights Protection",
                 "url": "#"
             }
         ]

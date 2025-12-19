@@ -1,0 +1,293 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/rakMaritimeCityFreeZone.webp",
+        "title": "Minimise Delays, Maximise Freight Efficiency — Achieve Seamless Growth in RAK Maritime City Free Zone",
+        "description": "Simplify business launch in Ras Al Khaimah Maritime City with our seasoned business consultants. We do all the legwork, from balancing shipping permits to securing logistics and visa approvals, empowering you to scale stress-free. Position your business at the crossroads of 4 key seaports and gain strategic access to the Arabian Gulf,  Dubai International Airport, and multi-lane highways to streamline global trade."
+    },
+    "leftSection_1": {
+        "title": "Why Maritime Businesses Choose RAKMC Free Zone",
+        "description": "Tap into the UAE’s top logistical hubs and lucrative markets across Asia, Europe, and Africa by launching your business in Ras Al Khaimah Maritime City Free Zone.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access World-Class Infrastructure",
+                "subTitle": "Access World-Class Infrastructure",
+                "description": "Take advantage of RAK Maritime City’s strategic location to access major shipping routes. Streamline global import and exports via Ras Al Khaimah’s deep-water harbours.",
+                "image": "/assets/rakMaritimeCityFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Hire Top Talent Worldwide",
+                "subTitle": "Hire Top Talent Worldwide",
+                "description": "Recruit, hire, and retain fresh talent across the globe with RAK Maritime City’s flexible foreign employment and sponsorship policies.",
+                "image": "/assets/rakMaritimeCityFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Own 100% of Your Business",
+                "subTitle": "Own 100% of Your Business",
+                "description": "Drive business growth with complete strategic control, no tariffs or customs clearances, and 0% corporate, personal income, and import-export taxes.",
+                "image": "/assets/rakMaritimeCityFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Cost-Effective Lease Agreements",
+                "subTitle": "Unlock Cost-Effective Lease Agreements",
+                "description": "Save millions of dirhams on renting and leasing warehouses with RAK Maritime City’s ready-to-use plots and long-term lease agreements.",
+                "image": "/assets/rakMaritimeCityFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Approved Business Activities in RAK Maritime City Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Accounting & Bookkeeping"
+            },
+            {
+                "id": 2,
+                "title": "General Cargo Handling"
+            },
+            {
+                "id": 3,
+                "title": "Industrial Cargo Handling"
+            },
+            {
+                "id": 4,
+                "title": "Legal & Accounting Consultancy"
+            },
+            {
+                "id": 5,
+                "title": "Marine Construction"
+            },
+            {
+                "id": 6,
+                "title": "Offshore Oil & Gas Equipment"
+            },
+            {
+                "id": 7,
+                "title": "Retail Business Activities"
+            },
+            {
+                "id": 8,
+                "title": "Shipbuilding or Repairs"
+            },
+            {
+                "id": 9,
+                "title": "Tank Storage"
+            },
+            {
+                "id": 10,
+                "title": "Warehousing"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Explore RAKMC Free Zone Licenses for Your Business",
+        "description": "Browse top trade licenses in RAK Maritime City Free Zone and secure the one that matches your business activity.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Fuel trade across and beyond the UAE with minimal document requirements."
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Secure a website domain and select the ideal activity to launch your digital marketplace."
+            },
+            {
+                "id": 3,
+                "title": "Freelancer Permit",
+                "description": "Skip the hassle of getting endless documents attested and launch your freelancing journey today."
+            },
+            {
+                "id": 4,
+                "title": "Maritime License",
+                "description": "Operate your small or large boat across the UAE with a Maritime Authority approval."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/rakMaritimeCityFreeZone/left4/1.webp",
+            "title": "Join Over 1,600 Companies Building in RAK Maritime City",
+            "description": "With world-class port access and land leasing options, RMC gives you everything you need to expand regionally and export globally- all with 0% customs clearance.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/rakMaritimeCityFreeZone/left4/2.webp",
+            "title": "Scale Your Maritime Business with Clear, Transparent Quotes",
+            "description": "No guesswork, no inflated bundles. Get a custom-tailored business setup quote that reflects your unique business activity, requirements, and budget.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Streamline Company Formation in RAKMC FZ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select the Right Structure",
+                "description": "We’ll start with a brief call to assess your business needs and suggest the ideal legal entity to reflect your future goals.",
+                "image": "/assets/rakMaritimeCityFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect the Necessary Documents",
+                "description": "Next, our experts will assist you in gathering, attesting, and submitting the necessary documents to the RAKMC Authority.",
+                "image": "/assets/rakMaritimeCityFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Pay the Registration Fees",
+                "description": "We’ll submit the application fee on your behalf to streamline your business licensing and company formation journey.",
+                "image": "/assets/rakMaritimeCityFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive the Necessary Approvals",
+                "description": "Once the RAKMC Authority approves your application, we’ll register your company and secure your trade license.",
+                "image": "/assets/rakMaritimeCityFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "Our experts provide personalized guidance for setting up personal or corporate bank accounts, streamline payroll management, and offer additional support.",
+                "image": "/assets/rakMaritimeCityFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Thousands Trust One Nexuz for RAKMC FZ Business Setup",
+        "description": "Thrive in RAK Maritime City’s tax-friendly landscape with seamless trade licensing, employment visa, and sponsorship solutions.",
+        "items": [
+            {
+                "title": "Slash Setup Times by Half",
+                "description": "Our local experts expedite business setup, streamlining all the paperwork and government back-and-forth to get you operational within 5 working days!",
+                "image": "/assets/rakMaritimeCityFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy Banking & Visa Support",
+                "description": "Take advantage of our end-to-end solutions to secure a multi-currency bank account, dedicated PRO experts, and robust compliance services.",
+                "image": "/assets/rakMaritimeCityFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Get 100% Transparency",
+                "description": "Pay for only what you need with our clear company formation and licensing packages - no hidden costs, upsells, or surprise add-ons.",
+                "image": "/assets/rakMaritimeCityFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/rakMaritimeCityFreeZone/grid/1.webp",
+        "title": "Scale Smarter in a Zone Designed for High-Volume Trade",
+        "description": "Unlock limitless business growth by launching your business in a commercially optimised hub. From bulk cargo handling to long-term leasing, we help you scale your business to new heights.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We chose RAK Maritime City for its direct port access and flexibility with plot sizes. With One Nexuz, the setup was fast, and our operations were up and running in less than two weeks.”",
+                "role": "Logistics Company Operations Manager",
+                "image": "/assets/rakMaritimeCityFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“After struggling to open a bank account elsewhere, One Nexuz helped us structure everything properly in RAKMC. We had full support through every step, no surprises.”",
+                "role": " Ship Supply Business Managing Director",
+                "image": "/assets/rakMaritimeCityFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“RAKMC gave us the physical infrastructure we couldn’t find in other zones. It’s built for real businesses—not just paper licenses—and the difference shows.”",
+                "role": "Industrial Company Founder",
+                "image": "/assets/rakMaritimeCityFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover Infinite Possibilities across Ras Al Khaimah",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAK Economic Zone",
+                "description": "Enjoy 100% foreign ownership and 0% corporate, personal income, and import-export taxes in Ras Al Khaimah Economic Zone.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAK Digital Assets Oasis",
+                "description": "Build, diversify, and preserve your digital assets with a specialised license by registering your company in RAK Digital Assets Oasis.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Build Your Business Inside the UAE's International Maritime Trading Hub",
+        "description": "Unlock state-of-the-art international port infrastructure, enticing tax and commercial incentives, and tap into a diverse labour market with our comprehensive Ras Al Khaimah Maritime City setup solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/rakMaritimeCityFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAKEZ - Ras Al Khaimah Economic Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAK DAO - RAK Digital Assets Oasis",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Who issues a RAK Maritime license?",
+                "answer": "The Ras Al Khaimah Free Zone Authority issues the relevant trade license, empowering you to set up and operate in the Emirates."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to form a business in RAK Maritime City?",
+                "answer": "Generally, you’ll need to select a business activity, register as a legal entity, and secure a valid permit."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What legal entities can I set up in Ras Al Khaimah Maritime City?",
+                "answer": "RAK Maritime City Free Zone empowers you to select from four forms of registration, including a branch of a foreign company, Free Zone Company, branch of a UAE company, and Free Zone Establishment."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long can I lease a warehouse or plot in Ras Al Khaimah Maritime City Free Zone?",
+                "answer": "You can lease plots for a minimum of 25-years and for as long as 99-years, depending on your business activity."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me open a bank account in the RAKMC Free Zone?",
+                "answer": "Yes, our expert business consultants connect you with the ideal bank account partner to simplify business finances in RAKMC."
+            }
+        ]
+    }
+}

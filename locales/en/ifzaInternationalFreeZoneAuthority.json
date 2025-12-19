@@ -1,0 +1,418 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/ifzaInternationalFreeZoneAuthority.webp",
+        "title": "Plan, Launch, & Scale Your Business Seamlessly in IFZA Dubai with Complete 360° Business Setup Solutions",
+        "description": "Skip the stress of missing documents, banking setup delays, and activity misalignments with our team of seasoned business consultants. We do all the heavy lifting, so you can focus on scaling your business within and beyond IFZA, UAE. Take advantage of the region’s bustling community, competitive corporate tax rates, global access, world-class infrastructure, and booming local and international market."
+    },
+    "leftSection_1": {
+        "title": "Why Thousands Choose IFZA for Business Setup",
+        "description": "Take advantage of IFZA’s diverse customer base, unmatched flexibility, and cost-efficiency by setting up in the region. Here’s why entrepreneurs and investors pick this free zone:",
+        "items": [
+            {
+                "id": 1,
+                "title": "Enjoy Unmatched Convenience",
+                "subTitle": "Enjoy Unmatched Convenience",
+                "description": "With no physical presence required, the IFZA business setup promises unparalleled savings in rent and flexible visa options.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Gain Global Access",
+                "subTitle": "Gain Global Access",
+                "description": "Situated in the heart of the Middle East, IFZA empowers businesses and entrepreneurs with a diverse global business community.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Cut Down Waiting Times",
+                "subTitle": "Cut Down Waiting Times",
+                "description": "With IFZA’s efficient business setup solutions, you can get licensed within 48 hours. The best part? No in-person approvals required!",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Maximize Profits with Tax-Friendly Policies",
+                "subTitle": "Maximize Profits with Tax-Friendly Policies",
+                "description": "Enjoy 0% corporate taxes and 100% profit repatriation by setting up in IFZA, allowing you to boost your profits and business growth.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore IFZA Business Activities to Launch Smart",
+        "items": [
+            {
+                "id": 1,
+                "title": "Logistics and Warehousing"
+            },
+            {
+                "id": 2,
+                "title": "E-commerce Business"
+            },
+            {
+                "id": 3,
+                "title": "Tourism and Hospitality"
+            },
+            {
+                "id": 4,
+                "title": "Virtual Office Services"
+            },
+            {
+                "id": 5,
+                "title": "Import and Export Services"
+            },
+            {
+                "id": 6,
+                "title": "Education"
+            },
+            {
+                "id": 7,
+                "title": "Healthcare"
+            },
+            {
+                "id": 8,
+                "title": "Real Estate"
+            },
+            {
+                "id": 9,
+                "title": "Media and Advertising"
+            },
+            {
+                "id": 10,
+                "title": "IT Services"
+            },
+            {
+                "id": 11,
+                "title": "Financial Services"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Discover IFZA Licenses for Every Business Model",
+        "description": "Choose from countless business licenses to find the one that perfectly matches your selected activities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Sell goods or services locally or globally with no office or NOC required."
+            },
+            {
+                "id": 2,
+                "title": "Trading License",
+                "description": "Import, export, and distribute products with flexi-desk setup."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Offer professional globally services by submitting your passport & visa copy."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/ifzaInternationalFreeZoneAuthority/left4/1.webp",
+            "title": "Go Global with IFZA’s 2.5 Billion Consumers",
+            "description": "Strategically located in Dubai, IFZA gives you unmatched access to global trade routes. We set you up with a license that opens borders and builds real business momentum.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/ifzaInternationalFreeZoneAuthority/left4/2.webp",
+            "title": "Your IFZA Business, Your Budget—Custom Pricing Built around Your Needs",
+            "description": "Know your IFZA license costs— get a personalised quote that matches your business needs and growth trajectory. Pay only for the licenses, office space, and support you require and scale effortlessly.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Secure Your IFZA, Dubai License in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book Your Free Call",
+                "description": "We kick off the IFZA company setup process with a free consultation call, followed by the selection of the ideal business activities and structure.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Compile Your IFZA Documents",
+                "description": "Our specialists help collect and submit all the necessary documents, including copies of passports, photographs, visas, and Emirates IDs.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get Your License Approval",
+                "description": "After a careful review, we’ll submit your file to IFZA’s authority to verify your eligibility and secure your license so you can start operating.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Submit Your IFZA Visa Application",
+                "description": "Next, our proficient consultants help you manage investor and employee visa applications, empowering you to get your desired visas.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Enjoy Post-Licensing Support",
+                "description": "Our expert consultants go beyond traditional business setups, offering seamless corporate bank accounts, IT, and payroll management solutions.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Secure Business Success in IFZA, UAE with One Nexuz",
+        "description": "Planning to set up your business in IFZA independently? One wrong move and you might end up with unnecessary delays, hidden costs, and hefty penalties. Our expert business advisors help minimize these risks by streamlining the process.",
+        "items": [
+            {
+                "title": "Seamless Setup Processing",
+                "description": "We streamline intricate compliance requirements and handle all the paperwork so you can focus on growing and scaling your business to new heights.",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/bgImage/1.webp"
+            },
+            {
+                "title": "Access Tailored Solutions",
+                "description": "Our experience across countless industries means you can rest assured that our experts recommend the best-fit activities, visas, and structure. ",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/bgImage/2.webp"
+            },
+            {
+                "title": "Slash Licensing Times in Half ",
+                "description": "Our hassle-free setup procedures promote speedy licensing, enabling you to get licensed within 1-2 days so you can start dominating the UAE market. ",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/ifzaInternationalFreeZoneAuthority/grid/1.webp",
+        "title": "IFZA Ranks Top 3 for Launching Businesses- Tap in Before It’s Too Late",
+        "description": "IFZA blends international credibility with local speed and affordability. We help you build your UAE presence with strategic support at every step.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up our logistics operations in JAFZA was seamless. I was impressed with how quickly licensing and banking were handled. We were fully operational in under a month.",
+                "role": "Logistics & Freight Forwarding Company CEO",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "We expanded our European manufacturing operations into Dubai through JAFZA. I  appreciated the clear guidance on compliance and industrial licensing. The support saved us significant time and costs.",
+                "role": "International Manufacturing Firm Operations Director",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Our IT consultancy needed the right service license to operate in Dubai. The process was explained in detail and I felt confident every step of the way. We now serve clients across the UAE without hurdles.",
+                "role": "IT Consulting Company Managing Partner",
+                "image": "/assets/ifzaInternationalFreeZoneAuthority/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Ready to Expand Beyond IFZA?",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Trade, invest, or grow by taking advantage of DAFZ’s strategic location.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Discover Dubai’s futuristic GCC auto market for trading and logistics.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Stay ahead of the curve with DIC’s innovation clusters and tax incentives.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Showcase your creativity to the world by launching in this purpose-built free zone.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Grow in the world’s top-ranked FZ for crypto and international trade.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Innovate by tapping into DSO’s state-of-the-art R&D and tech facilities.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Launch and thrive by accessing DTEC’s innovative coworking hubs.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai South Free Zone",
+                "description": "Scale across borders with direct access to key airports, trade corridors, and sea ports.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Expand your global presence and network by attending city-center events.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Set up in the heart of Dubai and benefit from world-class transportation infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "International Free Zone Authority",
+                "description": "Take advantage of JAFZA’s strategic ports to trade across Asia, Africa, and Europe.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Enjoy a 100% remote setup journey and scale your business confidently.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Compare and choose from 10 digital-first and creative zones to scale hassle-free.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Take the Next Step to Business Success in IFZA UAE",
+        "description": "IFZA Dubai provides you with the speed, flexibility, and freedom to launch your business on your own terms. Partner with our proficient business consultants and advisors to enjoy a hassle-free setup process in the region. We do all the legwork, from paperwork to visa application, so you can focus on building and scaling your business.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/ifzaInternationalFreeZoneAuthority/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 14,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to get an IFZA business license?",
+                "answer": "Most IFZA licenses are issued within 2-4 business days, depending on the type of business activity, document readiness, and location."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents are required to set up a company in IFZA?",
+                "answer": "In general, you’ll need copies of passports (of all shareholders), passport-size photographs, copies of the visa, Emirates IDs, an attested board resolution, a certificate of incorporation, and a valid trade license."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need a local partner to set up my IFZA company?",
+                "answer": "No! IFZA offers businesses with 100% foreign ownership, meaning you don’t have to worry about getting a local partner."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is it necessary to get a physical office to establish an IFZA company?",
+                "answer": "Yes, for your business to get registered in IFZA, you’ll have to secure a physical office space in the region."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I need to visit the UAE to complete the IFZA setup?",
+                "answer": "No, you can complete the entire IFZA setup remotely, including documentation, approval, and license issuance."
+            }
+        ]
+    }
+}

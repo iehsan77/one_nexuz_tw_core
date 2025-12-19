@@ -1,0 +1,284 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/amcAjmanMediaCityFreeZone.webp",
+        "title": "Plan, Launch, & Scale Your Media Venture in Ajman Media City Free Zone within 24 Hours",
+        "description": "Struggling with incomplete documentation, visa allocation limits, or licensing rejections? At One Nexuz, expert consultants help you navigate the setup process, empowering you to secure your license, visa, and office within days, not weeks. Get instant access to Ajman’s business-friendly landscape, world-class production facilities, and flexible licensing options to launch and expand your creative or media business."
+    },
+    "leftSection_1": {
+        "title": "Why Digital Entrepreneurs Choose Ajman Media City FZ",
+        "description": "Join the 1,000+ firms, investors, and solopreneurs flocking to Ajman Media City Free Zone to enjoy unmatched cost-efficiency. Choose from 3,500 business activities to set your business up for success.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Add Multiple Business Activities to 1 License",
+                "subTitle": "Add Multiple Business Activities to 1 License",
+                "description": "Boost operational efficiency, unlock cost-efficiency, and expand hassle-free by bundling up to 5 business activities under a single license.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enjoy a 100% Remote Setup ",
+                "subTitle": "Enjoy a 100% Remote Setup ",
+                "description": "Save millions of dirhams on endless paperwork and no local presence requirement with AMC’s fully online business setup solutions.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "No NOC or Local Sponsor Needed",
+                "subTitle": "No NOC or Local Sponsor Needed",
+                "description": "Retain 100% strategic ownership of your business, recruit top talent worldwide, and discover exciting tax benefits without the hassle of a local sponsor or agent.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Build Business Stability with Freehold Offices",
+                "subTitle": "Build Business Stability with Freehold Offices",
+                "description": "Take advantage of AMC FZ’s ready-made, freehold offices, warehouses, and factories to build equity, secure your location, and strengthen credibility.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Business Activities in AMC Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Advertising"
+            },
+            {
+                "id": 2,
+                "title": "Animation"
+            },
+            {
+                "id": 3,
+                "title": "Books"
+            },
+            {
+                "id": 4,
+                "title": "Broadcasting"
+            },
+            {
+                "id": 5,
+                "title": "Business Consultancy"
+            },
+            {
+                "id": 6,
+                "title": "Digital Media"
+            },
+            {
+                "id": 7,
+                "title": "Event Management"
+            },
+            {
+                "id": 8,
+                "title": "Event Management"
+            },
+            {
+                "id": 9,
+                "title": "Graphic Design"
+            },
+            {
+                "id": 10,
+                "title": "Import/Export"
+            },
+            {
+                "id": 11,
+                "title": "IT Consultancy"
+            },
+            {
+                "id": 12,
+                "title": "Legal Consultancy"
+            },
+            {
+                "id": 13,
+                "title": "Magazines & Newspaper"
+            },
+            {
+                "id": 14,
+                "title": "Photography"
+            },
+            {
+                "id": 15,
+                "title": "Production"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Ideal Ajman Media City FZ License",
+        "description": "Select from countless AMC FZ business licenses to find the one best suited to your business activity:",
+        "items": [
+            {
+                "id": 1,
+                "title": "E-Commerce License",
+                "description": "Slash setup costs with no physical or inventory storage requirement by launching your digital store."
+            },
+            {
+                "id": 2,
+                "title": "Service License",
+                "description": "Set up and expand your consultancy firm by providing passport copies, a degree, or relevant work experience."
+            },
+            {
+                "id": 3,
+                "title": "Trading License",
+                "description": "Import, export, and distribute goods across the UAE with zero warehouse or office requirements."
+            },
+            {
+                "id": 4,
+                "title": "Media License",
+                "description": "Launch your creative career, no degree required, by securing your AMC FZ media license."
+            },
+            {
+                "id": 5,
+                "title": "Professional License",
+                "description": "Simply fill out an application form and secure your professional license- no NOC required."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/amcAjmanMediaCityFreeZone/left4/1.webp",
+            "title": "Set Up at the Crossroads of East and West in Ajman Media City",
+            "description": "Position your business at the gateway to global trade. With access to 2 airports, 4 seaports, and major UAE hubs, Ajman offers unbeatable reach across continents.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/amcAjmanMediaCityFreeZone/left4/2.webp",
+            "title": "Create, Innovate, Pay Smart—Ajman Media City Pricing that Fits You",
+            "description": "No surprises, no hidden fees. Just flexible Ajman Media City Free Zone licensing costs designed around your business needs—start small, scale effortlessly.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Ajman Media City Free Zone Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select Your Business Activity",
+                "description": "We’ll start by assessing your service or products to match you with the appropriate business activity and legal entity.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documentation",
+                "description": "Next, our expert consultants will help you collect and file the necessary documents, including your passport and trade name.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "We’ll then assist you in preparing the registration documents and obtaining an establishment card for a seamless setup journey.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Collect Your License & ID",
+                "description": "Our seasoned advisors will assist you in undergoing a medical checkup and filing for an entry permit, followed by the collection of your license and Emirates ID.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "We’ll continue to support you long after you receive your license, including setting up a corporate bank account, managing payroll, and more!",
+                "image": "/assets/amcAjmanMediaCityFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Seamless Ajman Media City Free Zone Company Formation",
+        "description": "Cut through the red tape and navigate Ajman Free Zone’s regulatory requirements with confidence via our all-in-one business solutions. Our team handles all the back-and-forth, so you can focus on your core business activities.",
+        "items": [
+            {
+                "title": "Accelerate Set Up Times",
+                "description": "We streamline all the paperwork to secure your business license within 24 hours, expediting your time-to-market and empowering you to grow from day one.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Get Holistic Business Solutions",
+                "description": "Obtain your trade license, lease office space, and secure your visa all under one roof with our comprehensive business setup packages.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Get Transparent Pricing Plans",
+                "description": "Save on business setup with our clear, well-structured packages - no surprise government fees, vague terms, or unnecessary upsells.",
+                "image": "/assets/amcAjmanMediaCityFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/amcAjmanMediaCityFreeZone/grid/1.webp",
+        "title": "Launch Your Digital Agency with 100% Ownership & 0% Tax",
+        "description": "Skip the delays with Ajman Media City FZ’s flexible licensing- no hidden costs or minimum capital. We simplify the setup process to help you scale across the UAE and beyond.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Setting up my media agency through AMC FZ was surprisingly fast. One Nexuz handled everything remotely — I had my license in two days without stepping foot in the UAE.”",
+                "role": "Creative Studio Founder",
+                "image": "/assets/amcAjmanMediaCityFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I was overwhelmed trying to figure out UAE licensing on my own. One Nexuz walked me through the process, helped me choose the right activity, and even supported my bank account setup.”",
+                "role": " E-commerce Entrepreneur",
+                "image": "/assets/amcAjmanMediaCityFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“What I loved most was the transparency — no hidden fees, no back and forth. Just clear communication, a dedicated manager, and a business license delivered exactly as promised.”",
+                "role": "Freelance Consultant",
+                "image": "/assets/amcAjmanMediaCityFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Kickstart Your Creative Journey in Ajman Media City FZ",
+        "description": "Take advantage of the Ajman Media City Free Zone’s strategic location to gain unrestricted access to both Eastern and Western markets. Partner with our experts today to fast-track licensing and unlock limitless business growth.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/amcAjmanMediaCityFreeZone/grid/2.webp"
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience ",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why should I set up in Ajman Media City Free Zone?",
+                "answer": "Ajman Media City FZ is a fantastic option for creative, digital, and publishing companies seeking flexible and cost-efficient setup solutions. Additionally, the region offers strategic market access to the West, Gulf, and Asia."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I have to pay taxes in Ajman Media City Free Zone?",
+                "answer": "No! Businesses in AMC FZ can save millions on corporate, capital gains, and import-export taxes."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What are the different business activities available in Ajman Media City FZ?",
+                "answer": "Ajman Media City Free Zone allows you to choose from a single shareholder, multiple owners, a branch of a foreign company, a branch of a UAE company, and a subsidiary of a foreign company."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What are the company formation options allowed in Ajman Media City FZ?",
+                "answer": "Ajman Media City Free Zone allows you to choose from a single shareholder, multiple owners, a branch of a foreign company, a branch of a UAE company, and a subsidiary of a foreign company."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me set up a corporate bank account in Ajman Free Zone?",
+                "answer": "Absolutely! Our expert consultants connect you with the ideal bank partner to simplify personal and business finances."
+            }
+        ]
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dwtcDubaiWorldTradeCenterFreeZone.webp",
+        "title": "Operate at the Crossroads of Trade, Tech, and Talent in DWTC Free Zone with Our End-to-End Business Solutions",
+        "description": "Launch in DWTC FZ’s thriving business landscape to unlock global exposure, futuristic infrastructure, and unmatched flexibility to reach fast-growing global markets in the MENA and GCC regions. Our seasoned business consultants empower you to scale your startup in Dubai’s hyper-competitive landscape with cost-efficient and flexible setup solutions."
+    },
+    "leftSection_1": {
+        "title": "Why Founders Choose Dubai World Trade Center Free Zone",
+        "description": "Enjoy complete strategic ownership of your business, 100% capital repatriation, and a strong community of 1800+ businesses by launching in DWTC.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Gain Unmatched Global Connectivity",
+                "subTitle": "Gain Unmatched Global Connectivity",
+                "description": "Launch in the heart of Dubai to access a 2B+ consumer base in the Middle East, Africa, Asia, and Europe. Tap into lucrative regional and international markets through strategic sea, air, and road links.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Access Cutting-Edge Facilities",
+                "subTitle": "Access Cutting-Edge Facilities",
+                "description": "Take advantage of DWTC's innovative co-working spaces, fully-equipped offices, and modern conference rooms to scale stress-free.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Lower Tax Liabilities",
+                "subTitle": "Lower Tax Liabilities",
+                "description": "Unlock limitless business growth with complete foreign ownership, 0% corporate and personal income tax, and 100% import-export tariffs for 50+ years.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Streamline Multi-Currency Exchange",
+                "subTitle": "Streamline Multi-Currency Exchange",
+                "description": "Maximise business revenue with DWTC’s minimal FX and international wire charges. Send, receive, and hold in 70+ currencies, retain more of your profits, and reinvest in core business activities.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Browse Our Exhaustive DWTC Business Activities List",
+        "items": [
+            {
+                "id": 1,
+                "title": "Accounting & Auditing"
+            },
+            {
+                "id": 2,
+                "title": "Consultancy"
+            },
+            {
+                "id": 3,
+                "title": "Customer Service"
+            },
+            {
+                "id": 4,
+                "title": "Design & Architecture"
+            },
+            {
+                "id": 5,
+                "title": "Education & Training"
+            },
+            {
+                "id": 6,
+                "title": "Event Management"
+            },
+            {
+                "id": 7,
+                "title": "General Administration"
+            },
+            {
+                "id": 8,
+                "title": "Healthcare & Life Sciences"
+            },
+            {
+                "id": 9,
+                "title": "Logistics & Warehousing"
+            },
+            {
+                "id": 10,
+                "title": "Operations & Logistics"
+            },
+            {
+                "id": 11,
+                "title": "Media, Marketing, & Advertising"
+            },
+            {
+                "id": 12,
+                "title": "Real Estate & Brokerage Services"
+            },
+            {
+                "id": 13,
+                "title": "Trading"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Right DWTC License for Your Business Model",
+        "description": "Get matched with the ideal business activity and license to qualify for tax exemptions with our seasoned consultants.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Kickstart your import-export businesses with a DWTC approved professional business plan."
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Set up, build, and scale your digital storefront by securing your website and trade name."
+            },
+            {
+                "id": 3,
+                "title": "Freelancer Permit",
+                "description": "Build a powerful resume or portfolio to launch your creative venture in the heart of Dubai."
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "description": "Showcase your professional qualifications to polish your professional skills and serve clients globally.    "
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left4/1.webp",
+            "title": "Unlock Endless Opportunities for Your Business",
+            "description": "Pick the best-fit business activities from 600+ options across 20+ thriving industries to build and scale worldwide. Partner with us today to maximise worldwide visibility.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left4/2.webp",
+            "title": "Transparent Pricing for Your DWTC Free Zone Business",
+            "description": "No rigid packages, no hidden fees, no surprise add-ons. Get DWTC Free Zone licensing costs tailored to your business today, and expand your setup effortlessly as your operations grow.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify DWTC Company Formation with Our 5-Step Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose a Legal Structure",
+                "description": "We’ll schedule a no-obligations call to discuss your business nature and help select the best-fit business form and activity.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Next, our expert consultants will help you compile the necessary documents, including passport copies & NOC’s.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Register a Trade Name",
+                "description": "We’ll assist in brainstorming, searching, and securing a unique, DED-compliant business name.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Initial Approvals",
+                "description": "Our business specialists will then assist you in obtaining the necessary approvals and permits from the DWTC Authority.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Apply and Issue a License",
+                "description": "Lastly, we’ll help you lease or rent an office space, fill out the paperwork, and secure your license within a week.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for DWTC Business Setup",
+        "description": "Simplify corporate formation, registration, and licensing in Dubai World Trade Center Free Zone with our team of skilled business consultants and advisors guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Fast-Track DWTC Licensing",
+                "description": "Our business specialists boast over a decade of experience, empowering you to obtain your license and start operating in a little as a week.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "One-Stop Business Solutions",
+                "description": "Secure your trade license, registration documents, visa, and bank account under one roof with our holistic DWTC business setup packages.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Personalised Post-Setup Support",
+                "description": "Scale without the administrative headaches with our dedicated PRO specialists, offering top-tier accounting, compliance, and insurance solutions.",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/grid/1.webp",
+        "title": "Position Your Business Where Global Leaders Converge",
+        "description": "DWTC attracts over 3 million visitors and 50,000 exhibitors annually, connecting you directly to decision-makers from 185 countries. Start your business where global opportunities meet.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Setting up in the DWTC Free Zone was surprisingly smooth. The process was clearly explained, timelines were met, and the strategic location has significantly improved our credibility with international clients. Having a business address in DWTC instantly elevated our brand presence.”",
+                "role": "Management Consultancy Firm Founder & Managing Director",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We chose DWTC Free Zone for its central location and premium reputation. The licensing and registration process was handled efficiently, with minimal back-and-forth. It allowed us to focus on onboarding clients while everything else was taken care of.”",
+                "role": "Technology Services Company Chief Operating Officer",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“DWTC Free Zone offered exactly what we needed: flexibility, strong regulatory backing, and access to a global business ecosystem. The setup process was transparent and well-structured, making it ideal for companies targeting regional and international markets.”",
+                "role": "Trading & Distribution Company Head of Business Development",
+                "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Choose the Best Free Zone for Your Business Activity",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Unleash your business’s potential by launching adjacent to the Dubai International Airport.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import and export brand new, vintage, and second-hand cars across the MENA region from DAZ.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Grow and expand your tech venture by leveraging DIC’s cutting-edge business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Produce, edit, polish, and publish your creative work with access to DMC’s innovative studios.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Take advantage of DMCC’s 0% import and export tax for seamless precious metal, gemstone, and diamond trade.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Silicon Oasis",
+                "description": "Innovate and grow in DSO’s industry-specific clusters, technology parks, and state-of-the-art incubation centres.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Join a thriving ecosystem of industry leaders, startup founders, and innovators by launching your business in DTEC.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai South Free Zone",
+                "description": "Set up at the crossroads of the East and West in a future-ready hub strategically positioned near Al Maktoum Airport.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Scale your business across borders from one of the UAE’s top innovation and networking hubs.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Access flexible licensing and 100% remote business setup solutions with IFZA’s cost-efficient packages.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Simplify business logistics and trade with JAFZA’s strategic access to the Jebel Ali port.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Benefit from Meydan Free Zone’s business-friendly policies to set up, grow, and scale your startup.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Thrive in TECOM’s sector-focused clusters with exclusive access to business resources.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Launch Your Business HQ in Dubai’s Top Commercial Hub",
+        "description": "Gain strategic access to world-class conferences, exhibitions, and networking events to build meaningful business connections. Partner with our skilled business specialists to benefit from DWTC’s vibrant business landscape.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dwtcDubaiWorldTradeCenterFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Do I need a local sponsor or agent to set up in the DWTC Free Zone?",
+                "answer": "No, DWTC FZ offers 100% foreign ownership, empowering you to skip the hassle of partnering with a local sponsor."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to launch in DWTC Free Zone?",
+                "answer": "Generally, you’ll need a professional business plan, passport copies, board resolution, Emirates ID copies, MoA, and good standing certificate, depending on your selected legal structure and business activity."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I bundle business activities in the DWTC Free Zone?",
+                "answer": "Yes, Dubai World Trade Center FZ allows you to bundle 10+ business activities under a single license."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Does DWTC Free Zone offer businesses tax exemptions?",
+                "answer": "Yes, you can benefit from 100% corporate and personal income tax exemptions, as well as zero import-export duties in the DWTC Free Zone."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me register my DWTC company remotely?",
+                "answer": "Yes, our expert business consultants offer 100% remote company formation solutions, empowering you to launch and operate from any corner of the world."
+            }
+        ]
+    }
+}

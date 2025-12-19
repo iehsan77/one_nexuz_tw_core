@@ -1,0 +1,339 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/virtualReceptionist.webp",
+        "title": "Manage Inquiries, Route Messages, and Multiply Your Leads with Professional Virtual Receptionist Services",
+        "description": "Missed calls, language barriers, and inconsistent call handling are costing you real leads, real revenue, and real credibility. At One Nexuz, we streamline all communications to help you stay responsive and make a strong first impression, from the very first ring! Win trust, capture leads, and foster lasting customer relationships with our real-time, personalised virtual receptionist solutions. Efficiently manage all inbound calls and give your business a professional edge with multi-lingual support."
+    },
+    "leftSection_1": {
+        "title": "What is a Virtual Receptionist & How Do They Benefit Your Business",
+        "description": "Over 70% of customers walk away after just one poor interaction. A professional virtual receptionist ensures every call is answered with warmth, clarity, and consistency, so no opportunity slips through the cracks.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Filter Out the Noise",
+                "subTitle": "Filter Out the Noise",
+                "description": "Screen out spam, cold calls, and other unsolicited communication so you spend more time closing deals, building credibility, and scaling operations",
+                "image": "/assets/virtualReceptionist/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Never Miss a Lead Again",
+                "subTitle": "Never Miss a Lead Again",
+                "description": "Double leads and transform them into loyal customers with 24/7 customer support. Ensure every client gets a live response to boost customer satisfaction.",
+                "image": "/assets/virtualReceptionist/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Capture Every Detail",
+                "subTitle": "Capture Every Detail",
+                "description": "Ensure no opportunity gets lost in the flood of endless calls with a virtual receptionist. Spend more time growing your brand while experts handle all the queries.",
+                "image": "/assets/virtualReceptionist/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Cut Down on Operating Costs ",
+                "subTitle": "Cut Down on Operating Costs ",
+                "description": "Slash hiring costs by up to 75% by outsourcing virtual receptionist services. Reduce overheads like training, payroll, and office space to scale confidently.",
+                "image": "/assets/virtualReceptionist/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Deliver Personalised Customer Experiences with Our Virtual Receptionist Services",
+        "description": "Get customised virtual receptionist services tailored to your brand, tone, and needs to make your customers feel heard.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Live Call Answering",
+                "description": "Resolve queries and answer calls round-the-clock with customised greetings."
+            },
+            {
+                "id": 2,
+                "title": "Message Taking",
+                "description": "Avoid miscommunications with accurate note-taking solutions."
+            },
+            {
+                "id": 3,
+                "title": "Call Forwarding",
+                "description": "Route calls to you only when they matter by discussing your unique business goals."
+            },
+            {
+                "id": 4,
+                "title": "Appointment Booking",
+                "description": "Integrate customer calls with your calendar for real-time scheduling."
+            },
+            {
+                "id": 5,
+                "title": "Call Screening",
+                "description": "Filter spam and irrelevant calls with our advanced call screening."
+            },
+            {
+                "id": 6,
+                "title": "Landline Phone Number",
+                "description": "Integrate customer calls with your calendar for real-time scheduling."
+            },
+            {
+                "id": 7,
+                "title": "Custom Scripting",
+                "description": "Select fully personalised greetings that reflect your brand’s voice."
+            },
+            {
+                "id": 8,
+                "title": "24/7 Customer Service",
+                "description": "Get bilingual support anytime, anywhere to boost customer loyalty."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/virtualReceptionist/left4/1.webp",
+            "title": "Boost Customer Satisfaction by 80% with Expert Virtual Receptionists",
+            "description": "Customers want real conversations, not voicemail. Our trained receptionists answer every call with warmth and clarity, building trust, loyalty, and retention from the first hello.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/virtualReceptionist/left4/2.webp",
+            "title": "Never Miss a Call — Virtual Receptionist Support That Scales With You",
+            "description": "No confusing packages, no hidden fees, and no surprise add-ons. Pay only for the receptionist services your business needs—call handling, scheduling, or customer support—exactly when you need them.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How Do Our Seamless Virtual Receptionist Services Work",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick the Right Plan",
+                "description": "Our professional VAs assess your business needs and suggest tailored solutions based on your call volume and business hours.",
+                "image": "/assets/virtualReceptionist/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Personalise Your Greetings",
+                "description": "Once you share your business details, we’ll craft a professional greeting to reflect your brand tone.",
+                "image": "/assets/virtualReceptionist/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure a Dedicated Landline",
+                "description": "Our receptionists reserve a local number to represent your brand and adopt a tone that aligns with your brand values.",
+                "image": "/assets/virtualReceptionist/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Go Live in Half the Time",
+                "description": "Next, we’ll set up within 24-48 hours and start answering calls on your behalf with professional, consistent service.",
+                "image": "/assets/virtualReceptionist/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Round-the-Clock Support ",
+                "description": "We’ll keep you updated on all customer interactions with summaries, appointment confirmations, and forwarded calls.",
+                "image": "/assets/virtualReceptionist/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Outsource Receptionist Services to One Nexuz",
+        "description": "Too many businesses lose leads to voicemail, make poor impressions, or waste time dealing with unsolicited calls. Our expert virtual assistants solve all three with professional VA solutions that scale with you.",
+        "items": [
+            {
+                "title": "Make Lasting First Impressions",
+                "description": "Say goodbye to generic scripts, robotic tones, and impersonal chatbots with our tailored virtual receptionist services designed to reflect your brand voice and values.",
+                "image": "/assets/virtualReceptionist/bgImage/1.webp"
+            },
+            {
+                "title": "Double Your ROI from Day One",
+                "description": "Missing one qualified lead can cost thousands of dirhams. With personalised virtual assistant services, you can maximise your ROI and enhance customer satisfaction.",
+                "image": "/assets/virtualReceptionist/bgImage/2.webp"
+            },
+            {
+                "title": "Scale without the HR Headache",
+                "description": "Sync our virtual assistant services with your CRM and scale as your call volume grows. Unlock enterprise-grade customer support without emptying your wallet.",
+                "image": "/assets/virtualReceptionist/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/virtualReceptionist/grid/1.webp",
+        "title": "First Impressions Happen Fast — We Help You Nail Them",
+        "description": "The first call can make or break trust. Our receptionists handle every inquiry with care, clarity, and brand consistency, giving your business a polished voice.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Their receptionist sounded like she was part of my company. I literally closed a 15k deal from a call I would’ve missed.”",
+                "role": "SaaS Founder",
+                "image": "/assets/virtualReceptionist/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We’re a small design studio, but clients think we have a full office. The image upgrade is real.”",
+                "role": "Creative Agency Owner",
+                "image": "/assets/virtualReceptionist/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Professional, responsive, and so easy to set up. I stopped checking voicemail forever.”",
+                "role": "Business Consultant",
+                "image": "/assets/virtualReceptionist/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Simplify Operations with Done-for-You Business Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Secure your business online with proactive monitoring, a domain name, and 24/7 support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "description": "Simplify all business correspondence with secure and compliant mail handling and forwarding.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "HR & Recruitment Assistance Find top talent",
+                "description": "Find top talent worldwide, streamline hiring, and boost employee retention with HR support.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "description": "Organise, store, and retrieve documents seamlessly to minimise administrative burdens.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "description": "Deliver and track goods, documents, and parcels locally or globally with our seamless solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "description": "Optimise your supply chain and minimise sourcing delays with end-to-end procurement support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "description": "Build instant credibility and win stakeholder trust by registering on government portals.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Services",
+                "description": "Get registered on all the right government tender portals to search, bid, & win high-value contracts.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Create Happy Customers with Custom Virtual Assistant Services",
+        "description": "Don’t let missed calls or poor follow-ups drain your growth. Our professional virtual receptionists empower you to capture more leads, deliver instant human support, and make lasting first impressions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/virtualReceptionist/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Mail Management",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Should UAE-based businesses invest in a virtual receptionist?",
+                "answer": "A virtual assistant can help your business reduce overheads, improve customer satisfaction, generate qualified leads, and boost revenue by answering calls in real-time. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I customise how the receptionist answers calls?",
+                "answer": "Yes, our experts provide tailored greetings and scripts that reflect your brand's voice, tone, and values."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How quickly does One Nexuz onboard?",
+                "answer": "You can go live within 24 to 48 hours once we receive your business details and preferences."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need to own a physical office or a business license to use this service?",
+                "answer": "No. We offer virtual receptionist services for startups, SMEs, and those without a physical office."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer real receptionists or an automated system?",
+                "answer": "All calls are answered by real, trained professionals who understand your unique business."
+            }
+        ]
+    }
+}

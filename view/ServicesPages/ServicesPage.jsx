@@ -42,6 +42,7 @@ function ServicesPage({
   secondCitizenshipTable,
   IconTitleDiv,
   sec10,
+  exploreServices,
 }) {
   const pathname = usePathname();
   const breadcrumb = getPageHierarchy(pathname, path);
@@ -86,7 +87,9 @@ function ServicesPage({
           <div className="hidden lg:block col-span-1 h-fit secPadding space-y-6 sticky top-24">
             <RightSection1 />
             <RightForm />
-            <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
+            {!exploreServices && (
+              <ExploreIndustry data={data?.exploreIndustry} locale={locale} />
+            )}
             <RecentBlog />
             {compare && <RightCompare />}
           </div>

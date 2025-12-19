@@ -1,0 +1,332 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/tecomTechnologyElectronic.webp",
+        "title": "Launch, Build, & Scale Worldwide from TECOM Free Zone with Our Full-Spectrum Business Setup Solutions",
+        "description": "Position your business for global success by tapping into TECOM Free Zone’s 10+ specialised clusters, 6+ industry sectors, and 2.5B+ consumer base. Partner with our expert business consultants to gain unrestricted access to the region’s state-of-the-art startup facilities, diverse talent pool, and exciting networking opportunities."
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Choose TECOM Free Zone for Business Setup",
+        "description": "Tap into TECOM's thriving multi-cultural business environment to access exciting mentorship programs, startup accelerator programs, and funding events.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Unlock International Connectivity",
+                "subTitle": "Unlock International Connectivity",
+                "description": "Launch in the heart of Dubai to gain strategic access to key transport and trade routes. Uncover a diverse consumer base, lucrative global markets, and endless networking opportunities.",
+                "image": "/assets/tecomTechnologyElectronic/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Discover Exciting Tax Incentives",
+                "subTitle": "Discover Exciting Tax Incentives",
+                "description": "Keep more of what you earn with TECOM's tax-friendly environment, offering 0% personal, income, and corporate taxes and 100% capital and profits repatriation.",
+                "image": "/assets/tecomTechnologyElectronic/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Streamline Licensing & Visa",
+                "subTitle": "Streamline Licensing & Visa",
+                "description": "Take advantage of TECOM Free Zone's seamless business licensing and residence visa solutions. Secure 5+ TECOM Visas for co-owners, employees, and dependents.",
+                "image": "/assets/tecomTechnologyElectronic/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Gain Exclusive Business Support",
+                "subTitle": "Gain Exclusive Business Support",
+                "description": "Expand your business across the 10 industry clusters in TECOM with holistic business support solutions, including purpose-built facilities, real estate incentives, and access to networking events.",
+                "image": "/assets/tecomTechnologyElectronic/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover the Top Industry Clusters in TECOM Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Media City",
+                "description": "Scale your creative venture by tapping into DMC’s vibrant business environment, world-class studios, networking infrastructure, and cutting-edge incubation centres.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Internet City",
+                "description": "Launch in Dubai’s #1 tech startup hub and grow alongside 100+ Fortune 500 companies to capitalise on fast-growing industries and nurture organic business relations.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Pick the Best TECOM License for Your Business Structure",
+        "description": "Choose from 500+ business activities in 6+ thriving industry sectors to pinpoint the best-fit TECOM trade license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Buy, sell, import, or export top-notch goods within and beyond the TECOM International City."
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "description": "Manufacture, assemble, and package products with access to TECOM's business facilities."
+            },
+            {
+                "id": 3,
+                "title": "Professional License",
+                "description": "Polish your professional skillset and offer specialised services in retail, service, and consulting sectors."
+            },
+            {
+                "id": 4,
+                "title": "Freelancer Permit",
+                "description": "Launch your solo career while retaining strategic ownership of your business with a freelancer permit."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/tecomTechnologyElectronic/left4/1.webp",
+            "title": "Network, Collaborate, & Innovate with Industry Leaders",
+            "description": "Take advantage of TECOM’s bustling ecosystem to connect with like-minded professionals and thought leaders from 150+ countries. Scale worldwide by connecting with the right people and opportunities.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/tecomTechnologyElectronic/left4/2.webp",
+            "title": "Start Smart with a Custom Quote Built Around Your Business",
+            "description": "Flexible pricing designed to grow with your business. Pick the license, workspace, and visas you need—and add more as your team expands. No hidden fees, no surprise add-ons.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Fast-Track TECOM Company Formation in 5 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick Your Business Activity",
+                "description": "We’ll schedule a discovery call to discuss your business needs and match you with the ideal business activity and license.",
+                "image": "/assets/tecomTechnologyElectronic/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose Your Legal Entity",
+                "description": "Next, we’ll help you pick the appropriate TECOM jurisdiction and register for the best-fit legal structure.",
+                "image": "/assets/tecomTechnologyElectronic/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare & Submit Documents",
+                "description": "Prepare & Submit Documents",
+                "image": "/assets/tecomTechnologyElectronic/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Pay, Issue, & Obtain Your License",
+                "description": "We'll pay the licensing fees on your behalf to issue your business license alongside company registration documents.",
+                "image": "/assets/tecomTechnologyElectronic/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Apply for a Permit or Visa",
+                "description": "Lastly, our skilled PRO specialists will help you process your UAE entry permit, residence visa, and sponsorships.",
+                "image": "/assets/tecomTechnologyElectronic/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Reliable Business Setup in TECOM Free Zone",
+        "description": "Navigate the intricacies of registering your TECOM Free Zone company with our team of seasoned business consultants and advisors.",
+        "items": [
+            {
+                "title": "Slash Licensing Times by Half",
+                "description": "Our skilled business consultants streamline all the paperwork, handle government back-and-forth, and eliminate costly errors to issue your license in 3-5 days.",
+                "image": "/assets/tecomTechnologyElectronic/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Business Support",
+                "description": "Gain total peace of mind by securing your TECOM company registration documents, license, residence visa, and corporate bak account under one roof.",
+                "image": "/assets/tecomTechnologyElectronic/bgImage/2.webp"
+            },
+            {
+                "title": "Local Expertise, Global Reach",
+                "description": "Ensure compliance with TECOM’s stringent regulatory environment with our PRO specialists, empowering you to thrive in the region’s hyper-competitive market.",
+                "image": "/assets/tecomTechnologyElectronic/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/tecomTechnologyElectronic/grid/1.webp",
+        "title": "Join 11,900+ Companies Thriving in TECOM Free Zone",
+        "description": "Launch, operate, and thrive in an ecosystem built for innovation, growth, and global reach with our seasoned business consultants.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The process was smoother than I expected. As a tech startup founder, I needed quick incorporation and visa support. Their team managed everything end-to-end, letting me focus on product development instead of paperwork.”",
+                "role": "SaaS Startup Founder",
+                "image": "/assets/tecomTechnologyElectronic/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As a media production company, our priority was access to Dubai Media City facilities and the right license. The guidance we received made the transition seamless, and we were operating within weeks.”",
+                "role": "Media Production Company Director",
+                "image": "/assets/tecomTechnologyElectronic/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We set up an educational consultancy to serve universities expanding into the region. The clarity on costs, timelines, and compliance helped us build trust with our partners right from the start.”",
+                "role": "Educational Consultancy Managing Partner",
+                "image": "/assets/tecomTechnologyElectronic/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Drive Limitless Business Growth with End-to-End Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services Dubai",
+                "description": "Stay up-to-date with Dubai’s fast-evolving regulatory environment with our skilled PRO agents.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "description": "Launch, live, and thrive in TECOM, sponsor your loved ones, and build your team with a FZ visa.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Bank Account Opening in the UAE",
+                "description": "Simplify business finances with a TECOM Free Zone corporate bank account.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Business Plan Development",
+                "description": "Build instant investor trust and fast-track licensing approvals with a future-proof business plan.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Build & Scale with TECOM’s Cutting-Edge Business Facilities",
+        "description": "Set up in Dubai’s top innovation and business hub to connect with industry leaders and like-minded professionals. Partner with our business consultants to take advantage of TECOM’s global connectivity, remote setup, and innovation centres.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/tecomTechnologyElectronic/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Is TECOM an independent Free Zone?",
+                "answer": "TECOM Free Zone includes 10 Free Zones across the UAE, focused on 6 industry sectors, including technology, electronic and media."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What is the timeline for TECOM FZ licensing?",
+                "answer": "Generally, it takes 1-14 business days to secure your TECOM trade license, depending on your selected business activity, industry sector, and documentation readiness."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need a local sponsor to set up in TECOM?",
+                "answer": "No, TECOM Free Zone offers business owners 100% foreign ownership, eliminating the hassle of searching for and partnering with a local sponsor or agent."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is it necessary to lease a physical office in TECOM FZ?",
+                "answer": "No, TECOM Free Zone offers alternative options, including flexi-desk, co-working, and virtual office solutions, empowering you to save thousands on business setup."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What documents do I need to set up in TECOM Free Zone?",
+                "answer": "Generally, you'll need a visa and passport copies, shareholder or manager's details, and a list of DED-compliant trade names, depending on your selected business license, legal structure, and business activity."
+            }
+        ]
+    }
+}

@@ -1,0 +1,331 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/adafzAbuDhabiAirportFreeZone.webp",
+        "title": "From Setup to Operations — Supercharge Your Logistics in Abu Dhabi Airport Free Zone",
+        "description": "Tap into Abu Dhabi Airport Free Zone's fast-growing economic landscape, dedicated business facilities, lucrative land plots, and world-class infrastructure to launch and scale your venture. Our holistic business setup services in ADAFZ streamline the endless paperwork, so that you can start growing from day one."
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Choose Abu Dhabi Airport Free Zone",
+        "description": "Position your business for success by taking advantage of ADAFZ’s strategic access to Abu Dhabi's Zayed International Airport, Al Ain Airport, and Al Bateen Airport, empowering you to expand your reach to the GCC, Middle East, Africa, and Asia.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tap into International Markets ",
+                "subTitle": "Tap into International Markets ",
+                "description": "Gain unrestricted access to emerging regional and global markets through ADAFZ’s strategic air routes and seamless logistical procedures.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Enjoy 100% Tax Exemption",
+                "subTitle": "Enjoy 100% Tax Exemption",
+                "description": "Uplift your bottom line with Abu Dhabi Airport FZ's complete capital and profits repatriation and 0% corporate, personal income, import, or export taxes.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Discover Innovative Business Facilities ",
+                "subTitle": "Discover Innovative Business Facilities ",
+                "description": "Scale your business hassle-free with ADAFZ's one-window administration solutions, including insightful legal advice, seamless visa processing, economic land plots, and fully furnished warehouses.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get Top-Notch IT Support",
+                "subTitle": "Get Top-Notch IT Support",
+                "description": "Access top-tier amenities designed to simplify business operations, including in-house IT and telecommunications services, fully-equipped meeting spaces, and top-notch logistical support.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Business Activities in ADAFZ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Airport Services"
+            },
+            {
+                "id": 2,
+                "title": "Aviation & Aerospace Services"
+            },
+            {
+                "id": 3,
+                "title": "Cargo & Logistics"
+            },
+            {
+                "id": 4,
+                "title": "Consultancy Management"
+            },
+            {
+                "id": 5,
+                "title": "Defence"
+            },
+            {
+                "id": 6,
+                "title": "e-Commerce"
+            },
+            {
+                "id": 7,
+                "title": "e-Gaming"
+            },
+            {
+                "id": 8,
+                "title": "Freight"
+            },
+            {
+                "id": 9,
+                "title": "IT & Telecommunications"
+            },
+            {
+                "id": 10,
+                "title": "Light Industries"
+            },
+            {
+                "id": 11,
+                "title": "Manufacturing"
+            },
+            {
+                "id": 12,
+                "title": "Marketing & Events"
+            },
+            {
+                "id": 13,
+                "title": "Pharmaceuticals"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Right Trade Licenses for Your ADAFZ Business",
+        "description": "Browse through countless ADAFZ trade licenses to find the one that best matches your company structure and business activities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Buy, sell, and trade in wholesale or retail with an approved business activity list."
+            },
+            {
+                "id": 2,
+                "title": "Industrial License",
+                "description": "Draft a professional operational plan to manufacture, assemble, and package goods."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Create a powerful resume to launch your consultancy agency."
+            },
+            {
+                "id": 4,
+                "title": "Trade License",
+                "description": "Import and export worldwide with ADAFZ Authority-attested documents."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/adafzAbuDhabiAirportFreeZone/left4/1.webp",
+            "title": "Join the 256% Growth Wave in Abu Dhabi Airport Free Zone",
+            "description": "Tap into ADAFZ’s emerging markets before it’s too late! Partner with our experts to lease a lucrative space in prime locations to capitalise on fast-growing regional and global markets",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/adafzAbuDhabiAirportFreeZone/left4/2.webp",
+            "title": "Premium Hub, Transparent Costs—Launch in ADGM With Confidence",
+            "description": "Forget rigid packages and inflated bundles. Get a personalized quote tailored to your business needs, with scalable pricing that grows as you do.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Business Setup in Abu Dhabi Airport Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select a Legal Structure",
+                "description": "First,  you can schedule a brief call with our experts to explain your business needs. This will help us to recommend the ideal legal entity",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose a Trade Name",
+                "description": "Next, we'll help you brainstorm, search, and register a compliant business name, followed by the selection of the best-fit business activity.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Pick a Trade License",
+                "description": "Our seasoned consultants will help you attest the necessary documents and submit your licensing application to the ADAFZ Authority.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Approvals",
+                "description": "Once approved, we’ll pay the fees on your behalf, assist in securing an office space, and issue your trade license.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open a Corporate Bank Account",
+                "description": "Lastly, our expert advisors offer ongoing support to help you create a bank account, stay compliant, and simplify payroll management.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Thousands Trust Us for Abu Dhabi Airport Free Zone Company Formation",
+        "description": "Skip the hassle of filing endless paperwork, navigating complex bureaucracy, and second-guessing your every move with our expert business consultants. We do all the heavy lifting, so that you enjoy a smooth business journey.",
+        "items": [
+            {
+                "title": "Fast-Track Licensing",
+                "description": "With in-depth local expertise, we streamline all the paperwork to expedite approvals, combat delays, and mitigate rejection risks.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "Unlock All-Inclusive Packages",
+                "description": "From office selection and PRO services all the way down to corporate account setup, we offer all-in-one business solutions to help you thrive.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Get Transparent Pricing",
+                "description": "Our packages include a detailed cost breakdown upfront, so you're never blindsided by hidden charges- what you see is what you pay.",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/adafzAbuDhabiAirportFreeZone/grid/1.webp",
+        "title": "Fast-Track Your Launch in ADAFZ’s Commercial District",
+        "description": "Plug-and-play your operations in ready-to-move business centers and parks. No delays, no buildouts—just a straight path to launching fast.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The entire process took less than a week — from documents to license to visa. What I thought would be complex turned out to be surprisingly smooth thanks to their clear guidance.”",
+                "role": "Cargo Logistics Startup Founder ",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I had no clue which license was right for my consultancy, but their team explained everything without the sales fluff. I ended up saving money and getting the right structure for growth.”",
+                "role": " Business Consultant",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“They handled all the PRO work and paperwork while I focused on launching. I’ve set up companies in other zones before — this was by far the most seamless experience.”",
+                "role": "E-commerce Entrepreneur",
+                "image": "/assets/adafzAbuDhabiAirportFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_10": {
+        "title": "Choose the Right Abu Dhabi Free Zone for Your Industry",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Abu Dhabi Global Market",
+                "description": "Tap into ADGM’s dynamic financial services sector to drive business growth through remote business setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Khalifa Industrial Zone Abu Dhabi",
+                "description": "Launch large-scale operations with KIZAD's world-class business facilities, key seaports, and ready-to-use plots.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Masdar City Free Zone",
+                "description": "Build a sustainable future by accessing the region’s cutting-edge innovation hub, driving R&D in green technology.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Twofour54",
+                "description": "Unleash your creativity by taking advantage of the region’s world-class media, digital marketing, and content creation facilities.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Power Business Growth Steps from the Runway in ADAFZ",
+        "description": "Discover sustainable business success by unlocking Abu Dhabi Airport Free Zone's cutting-edge amenities tailored to 7 core clusters. Our expert consultants help you pick the best-fit region, business activity, and license to thrive in the UAE!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/adafzAbuDhabiAirportFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "ADGM - Abu Dhabi Global Market ",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "KIZAD - Khalifa Industrial Zone Abu Dhabi ",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Twofour54 (Media & Creative)",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Masdar City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "ADAFZ - Abu Dhabi Airport Free Zone ",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What company formation structures can I choose in Abu Dhabi Airport FZ?",
+                "answer": "You can choose from three legal structures, including Free Zone LLC, a branch of a UAE company, or a branch of a foreign company."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to set up in the Abu Dhabi Airport Free Zone?",
+                "answer": "Generally, you'll need passport copies, a professional business plan, MoA, a lease agreement, and proof of registered address."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to own a physical office to launch my ADAFZ business?",
+                "answer": "No, you can explore alternative options, such as flexi-desks, virtual offices, or co-working spaces, to slash costs."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I get an investor or employee visa through ADAFZ?",
+                "answer": "Yes, entrepreneurs and founders can apply for investor and employee visas through the ADAFZ’s government portals. Our seasoned consultants simplify the process to expedite the approval process."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer ongoing support after business setup?",
+                "answer": "Absolutely! You can connect with our expert business consultants to explore PRO service, visa renewals, and bank assistance packages to ensure a smooth business journey in the UAE. "
+            }
+        ]
+    }
+}

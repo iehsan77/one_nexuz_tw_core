@@ -1,0 +1,336 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/localAgentAndPartner.webp",
+        "title": "Unlock Lucrative Markets, Fast-Track Approvals, & Maximise Growth with Our Certified Local Service Agents",
+        "description": "Streamline annual license renewals, document attestation, clearances, and expedite visa processing, saving AED 1,000+ in non-compliance fines — all without risking business ownership with a skilled local partner in Dubai, UAE. Connect with our reliable local agents for a smooth company registration, licensing, and bank account setup process. "
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Need a Local Partner in Dubai, UAE",
+        "description": "Gain a competitive edge, speed up business licensing, and ensure timely renewals with a skilled local service agent guiding you throughout your business journey.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Cut Administrative Burden by Half ",
+                "subTitle": "Cut Administrative Burden by Half ",
+                "description": "Skip the hassle of filling out endless paperwork, costly license delays, and visa rejections with a knowledgeable local service agent by your side. ",
+                "image": "/assets/localAgentAndPartner/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Accelerate Time-to-Market ",
+                "subTitle": "Accelerate Time-to-Market ",
+                "description": "Navigate the UAE's stringent regulatory environment with confidence, unlock exclusive market knowledge, and streamline company registration to fast-track business setup.",
+                "image": "/assets/localAgentAndPartner/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Uncover Exciting Local Opportunities",
+                "subTitle": "Uncover Exciting Local Opportunities",
+                "description": "Gain strategic access to world-class business facilities and lucrative local markets across the UAE Mainland. Bid on high-value government projects, trade worldwide, and open unlimited branches onshore or offshore.",
+                "image": "/assets/localAgentAndPartner/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Build meaningful connections with key stakeholders, prospective clients, thought leaders, and government officials by enhancing brand credibility and trust.",
+                "image": "/assets/localAgentAndPartner/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Local Service Agent/Partner Solutions",
+        "description": "Enjoy end-to-end business setup, licensing, and visa support in the UAE with our reliable local service agent in Dubai.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Registration",
+                "description": "Pick the best-fit business license, simplify paperwork, and accelerate approvals with our pro local service agents.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Government Liaison",
+                "description": "Secure licenses and visas by streamlining all communication with the government ministry and officials.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Market Entry Guidance",
+                "description": "Gain exclusive insights on the UAE consumer trends and competition to pick the ideal jurisdiction and industry cluster.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Clearing & Translation",
+                "description": "Fast-track document drafting, notarisation, and translation to meet regulatory requirements",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Bank Account Setup",
+                "description": "Open a corporate bank account hassle-free and qualify for tax exemptions with a local service agent.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Visa & Immigration Suppor",
+                "description": "Get round-the-clock assistance with employee and dependent visas, labor cards, and residency",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Operational Support",
+                "description": "Get optional UAE PRO support to issue your Emirates ID, medical tests, and company renewals.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Compliance Monitoring",
+                "description": "Ensure 100% compliance with the UAE's business landscape by obtaining a court-attested agreement.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/localAgentAndPartner/left4/1.webp",
+            "title": "Scale across the UAE Mainland, Keep 100% of Your Shares",
+            "description": "Local Service Agents handle permits, government filings, and regulatory touchpoints—while you retain full operational and financial control.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/localAgentAndPartner/left4/2.webp",
+            "title": "The Right Local Partner without the Overhead — Flexible Pricing that Works",
+            "description": "Skip the one-size-fits-all pricing. Our local service agent costs adapt as your operations grow, ensuring you only pay for the level of support your business requires.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Discover World-Class Local Facilities in 4 Quick Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We'll start by assessing your business activity and needs to determine whether you require a local service agent.",
+                "image": "/assets/localAgentAndPartner/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Draft an LSA Agreement",
+                "description": "Next, our skilled attorneys will draft a court-approved agreement to protect your rights and business ownership.",
+                "image": "/assets/localAgentAndPartner/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Notarise & Secure Approvals",
+                "description": "We'll handle all the government attestation, notarisation, and government approvals to ensure your LSAA is fully enforceable.",
+                "image": "/assets/localAgentAndPartner/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Gain Ongoing Support",
+                "description": "Beyond business setup, our local service agents help with renewals, amendments, and PRO services, offering peace of mind.",
+                "image": "/assets/localAgentAndPartner/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Local Service Agent Partner",
+        "description": "Simplify business documentation, unlock strategic collaboration opportunities, and stay up-to-date with the UAE's fast-evolving regulatory landscape with our team of expert local service agents and partners.",
+        "items": [
+            {
+                "title": "Unlock Fast Turnaround Times",
+                "description": "Secure your UAE Mainland company license in less than a week to ensure business agility and maximise profitability.",
+                "image": "/assets/localAgentAndPartner/bgImage/1.webp"
+            },
+            {
+                "title": "Discover Exclusive Market Insights",
+                "description": "Stay ahead of the curve with data-driven market advice and access to a diverse network of foreign entrepreneurs, stakeholders, and investors.",
+                "image": "/assets/localAgentAndPartner/bgImage/2.webp"
+            },
+            {
+                "title": "Ensure Regulatory Compliance",
+                "description": "Save AED 1,000 to AED 100,000 and build brand reputation by staying 100% compliant with the UAE's dynamic legal and tax environment.",
+                "image": "/assets/localAgentAndPartner/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/localAgentAndPartner/grid/1.webp",
+        "title": "Save Time & Avoid Admin Headaches",
+        "description": "Let our local service agent simplify approvals, renewals, and official communication—so you can focus on building your business, not paperwork.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "As an independent consultant in the healthcare industry, I was concerned about giving up control of my firm. With their Local Service Agent agreement, I retained 100% ownership, and the entire licensing process was completed without delays.",
+                "role": "Healthcare Consultancy Firm Managing Director",
+                "image": "/assets/localAgentAndPartner/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Running a technology startup meant we needed fast approvals and hassle-free government interactions. Their LSA team handled every detail, from notarization to visa paperwork, letting us focus fully on scaling our business.",
+                "role": "IT Solutions Company Founder",
+                "image": "/assets/localAgentAndPartner/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Our boutique legal practice required a trustworthy partner who understood compliance. The agreement was transparent, court-attested, and renewals have been handled seamlessly year after year.",
+                "role": "Professional Services Law Firm Partner",
+                "image": "/assets/localAgentAndPartner/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Simplify UAE Business Setup with Our Market Entry Solutions",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "description": "Minimise tax liabilities, maximise return on investment, and ensure compliance with company car registration.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Build instant brand trust, impress clients, and retain top talent with our fully equipped meeting rooms in prime locations.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Business Plan Development",
+                "description": "Build instant stakeholder trust, slash operational mistakes, and secure investment with a future-proof plan.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Importer/Exprter Code)",
+                "description": "Streamline global trade and unlock tax benefits with our seamless customs registration solutions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "description": "Test the viability of product ideas and uncover lucrative business opportunities in fast-growing industries.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Ensure seamless executive mobility with fast, compliant visa processing and travel support",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Nominee Services",
+                "description": "Protect privacy and maintain strategic control with our trusted nominee directors and shareholders.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Service Local Sponsor",
+                "description": "Streamline government interactions while retaining business control with a reliable local service sponsor.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Start Strong, Scale Fast, & Succeed without Limits",
+        "description": "Thrive in the UAE's stringent business environment with our skilled local service agents to streamline approvals and permits. Gain strategic ownership of your Mainland company and simplify government liaison by getting started today!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/localAgentAndPartner/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a local service agent or partner in the UAE?",
+                "answer": "An LSA or partner is a UAE-recognised citizen who empowers you to set up your business in the mainland for professional and industrial activities. An LSA is essential to launch and operate in the UAE, unless your business activity falls under the list of approved activities. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What are the differences between a local service agent and a local sponsor in Dubai, UAE?",
+                "answer": "The key difference between a local service agent and a local sponsor is that the former provides representation and facilitation services, whereas the latter holds 51% equity in mainland companies."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Why do I need a local service agent in the UAE?",
+                "answer": "A local service agent/local partner can manage your business's administrative tasks, from registration and account setup to renewals and attestation, empowering you to focus on core business activities."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Will a local service agent interfere with my business operations?",
+                "answer": "No, a local service agent or partner does not hold ownership of your business, meaning they cannot interfere with business operations. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Is a local service agent agreement legally binding?",
+                "answer": "Yes, the LSA agreement is a court-attested contract that outlines roles, responsibilities, and fees, ensuring your 100% ownership rights are legally protected."
+            }
+        ]
+    }
+}

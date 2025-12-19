@@ -1,0 +1,240 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/corporateStructuringAndRestructuring.webp",
+        "title": "Plan, Restructure, & Optimise — Build a Future-Proof Corporate Structure with Our Strategic Governance Solutions",
+        "description": "A single misstep in corporate structuring can result in millions of dollars in fines, delays, or lost opportunities. At One Nexuz, we offer tailored business structuring and restructuring services to simplify succession planning, win investor confidence, and power business expansion. Position your business for long-term success, capitalise on the Emirates' booming industries, and diversify your assets with our proactive corporate structuring services in the UAE. "
+    },
+    "leftSection_1": {
+        "title": "Why Founders Need UAE Corporate Structuring & Restructuring Services",
+        "description": "Capitalise on lucrative market opportunities, win investor confidence, and drive limitless business growth with expert corporate structuring solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Unlock Exciting Tax Benefits",
+                "subTitle": "Unlock Exciting Tax Benefits",
+                "description": "Maximise your bottom line by qualifying for corporate, personal income, VAT, and import/export customs exemption, and 100% profits repatriation.",
+                "image": "/assets/corporateStructuringAndRestructuring/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Improve Workplace Efficiency",
+                "subTitle": "Improve Workplace Efficiency",
+                "description": "Spot and eliminate redundancies that disrupt workflow, reduce internal conflicts, and streamline operations to redefine team productivity and ensure informed decision-making.",
+                "image": "/assets/corporateStructuringAndRestructuring/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enhance Business Value ",
+                "subTitle": "Enhance Business Value ",
+                "description": "Build instant credibility with buyers, investors, and financial institutions, expand into new markets, and bundle new business activities with a flexible and UAE-compliant business structure.",
+                "image": "/assets/corporateStructuringAndRestructuring/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Strengthen Financial Stability ",
+                "subTitle": "Strengthen Financial Stability ",
+                "description": "Drive limitless business growth with strategic corporate restructuring to alleviate debt burdens, optimise cash flow, and improve financial performance.",
+                "image": "/assets/corporateStructuringAndRestructuring/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Corporate Structuring Services in the UAE",
+        "description": "Gain a competitive edge and shield your personal assets against potential lawsuits with our comprehensive corporate structuring solutions",
+        "items": [
+            {
+                "id": 1,
+                "title": "Business Entity Selection",
+                "description": "Pick the ideal Free Zone, Mainland, or Offshore structure to align with your business goals.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Risk Management",
+                "description": "Identify, assess, and mitigate financial and operational risks to safeguard your wealth.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Tax Structuring",
+                "description": "Minimise liabilities, boost profitability, and stay fully compliant with international regulations.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Mergers & Acquisitions",
+                "description": "Navigate complex business deals with confidence to create long-term business value.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investment Structuring",
+                "description": "Secure your investments, reduce exposure, and improve returns with expert structuring.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Business Restructuring",
+                "description": "Streamline operations, improve efficiency, and unlock new growth opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ownership Transfer",
+                "description": "Simplify business succession planning with end-to-end regulatory compliance.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/corporateStructuringAndRestructuring/left4/1.webp",
+            "title": "Restructure. Revive. Scale.",
+            "description": "Turn complexity into clarity. Our restructuring services reduce risks, cut inefficiencies, and help you unlock hidden value inside your business.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/corporateStructuringAndRestructuring/left4/2.webp",
+            "title": "Get a Tailored Corporate Structuring & Restructuring Quote that Fits Your Budget",
+            "description": "No hidden fees, no unnecessary extras—pay only for the services your business actually needs. From initial company setup to strategic restructuring, we deliver tailored solutions that scale with your business.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Restructure Your UAE-Based Business in 4 Quick Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Conduct a Needs Assessment",
+                "description": "We'll kick off with a free consultation to discuss your business model and goals, mapping out your structuring or restructuring requirements.",
+                "image": "/assets/corporateStructuringAndRestructuring/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Receive a Tailored Structure",
+                "description": "Next, we'll craft a custom-built, tax-efficient corporate structure and risk mitigation strategies to reflect your unique business needs.",
+                "image": "/assets/corporateStructuringAndRestructuring/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Initial Approvals",
+                "description": "Our skilled legal team will then prepare and submit all the necessary paperwork to the relevant UAE authorities and issue the relevant licenses.",
+                "image": "/assets/corporateStructuringAndRestructuring/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Ongoing Advisory",
+                "description": "Once approved, we'll set up a flexible corporate structure, empowering you to thrive in the UAE's hyper-competitive landscape.",
+                "image": "/assets/corporateStructuringAndRestructuring/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Corporate Structuring Provider",
+        "description": "Fuel cross-border expansion, drive business revenue, and mitigate costly operational disruptions with our strategic corporate structuring and restructuring solutions.  ",
+        "items": [
+            {
+                "title": "Receive Custom-Built Solutions",
+                "description": "Launch, scale, and thrive across the UAE with our tailored corporate structuring solutions, aligning your legal structure and location with your business goals.",
+                "image": "/assets/corporateStructuringAndRestructuring/bgImage/1.webp"
+            },
+            {
+                "title": "Get Ahead of the Curve",
+                "description": "Our expert business consultants empower you to stay agile in the UAE's fast-evolving regulatory landscape, mitigating the risk of hefty fines and penalties.",
+                "image": "/assets/corporateStructuringAndRestructuring/bgImage/2.webp"
+            },
+            {
+                "title": "Gain Strategic Business Advice",
+                "description": "Make data-driven business decisions through exclusive market insights and tailored advice on the ideal business models, tax structures, and expansion strategies.",
+                "image": "/assets/corporateStructuringAndRestructuring/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/corporateStructuringAndRestructuring/grid/1.webp",
+        "title": "Beat the Odds with Future-Proof Corporate Structuring",
+        "description": "Nearly 95% of businesses fail within the first five years. Be part of the 5% thriving with our smart, future-ready structure built to help you stand out.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Their team made the entire structuring process seamless. We were able to expand into a new free zone without delays and with full confidence in compliance.”",
+                "role": "Technology Startup Founder",
+                "image": "/assets/corporateStructuringAndRestructuring/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Restructuring with their guidance not only reduced our tax exposure but also improved investor trust. It gave us the credibility we needed to secure funding.”",
+                "role": "Manufacturing Company CFO",
+                "image": "/assets/corporateStructuringAndRestructuring/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“They handled our ownership transfer efficiently, providing all the legal documentation and ensuring zero disruption to daily operations.”",
+                "role": "Trading Firm Managing Director",
+                "image": "/assets/corporateStructuringAndRestructuring/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Minimise Risk & Maximise Profit with Skilled Corporate Structuring Providers",
+        "description": "Align your corporate structure with strategic goals to safeguard your wealth, diversify your assets, and nurture trust with investors and business partners through our tailored structuring and restructuring solutions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/corporateStructuringAndRestructuring/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Liquidation & Deregistration",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is corporate structuring in the UAE?",
+                "answer": "Corporate structuring or restructuring involves creating a new or modifying an existing corporate entity to enhance its capital structure and optimise operations."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why should I restructure my corporation in the UAE?",
+                "answer": "Corporate restructuring is a fantastic way to enhance your business's value, unlock tax benefits, streamline cash flow, preserve assets, and expand globally."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to set up or restructure a business in the UAE?",
+                "answer": "Generally, it takes 1-3 weeks to launch and modify a UAE-based business, depending on your selected jurisdiction, legal structure, and document readiness."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need to structure my business?",
+                "answer": "Generally, you'll need passport copies, proof of address, and a professional business plan to structure or restructure your business."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What are the available legal structure types available in Dubai, UAE?",
+                "answer": "You can choose from numerous business structures, including LLC, Foreign Branch Offices, Free Zone Companies, and Joint Stock Companies, depending on your business activities and future goals."
+            }
+        ]
+    }
+}

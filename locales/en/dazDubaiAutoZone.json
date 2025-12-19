@@ -1,0 +1,392 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dazDubaiAutoZone.webp",
+        "title": "Set Up, Manage, and Scale Your Auto Enterprise in Dubai — All from One Strategic Hub with Our Expert Support",
+        "description": "Navigate Dubai Auto Zone’s stringent regulatory landscape, confusing industry-specific activities, and complex customs inspection with One Nexuz! We do all the heavy lifting, so you can focus on scaling your dealership across the Emirates! Gain unrestricted access to the Gulf Coast, Dubai International Airport, and the Jebel Ali Port for seamless import, export, and distribution of brand new or pre-loved cars across Asia, Africa, Europe, and the GCC in DUCAMZ Free Zone."
+    },
+    "leftSection_1": {
+        "title": "Why Launch Your Automobile Company in Dubai Auto Zone",
+        "description": "Set up a luxurious showroom, rent or lease your dream car, and trade worldwide with Dubai Auto Zone. Unlock limitless business growth by capitalising on the region's dynamic automotive markets.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tap into Local & Global Markets",
+                "subTitle": "Tap into Local & Global Markets",
+                "description": "Take advantage of Dubai Auto Zone's world-class network of highways and convenient access to key seaports, airports, and railways to buy, sell, and trade across the Middle East, Asia, and Africa.",
+                "image": "/assets/dazDubaiAutoZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Streamline Your Value Chain",
+                "subTitle": "Streamline Your Value Chain",
+                "description": "Maximise logistical efficiency and minimise overheads with DAZ's business-friendly policies, competitive clearance taxes, and strategic location.",
+                "image": "/assets/dazDubaiAutoZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Slash Import-Export Taxes",
+                "subTitle": "Slash Import-Export Taxes",
+                "description": "Drive business revenue with DUCAZ Free Zone's cost-effective freight charges, zero import-export duties, and complete repatriation of profits and capital.",
+                "image": "/assets/dazDubaiAutoZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Recruit Top Talent Worldwide",
+                "subTitle": "Recruit Top Talent Worldwide",
+                "description": "Discover, hire, and retain fresh talent within and beyond the UAE with seamless residence and employment visa processing.",
+                "image": "/assets/dazDubaiAutoZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Permitted Dubai Auto Zone Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Banking"
+            },
+            {
+                "id": 2,
+                "title": "Car import and export"
+            },
+            {
+                "id": 3,
+                "title": "Insurance"
+            },
+            {
+                "id": 4,
+                "title": "Maintenance"
+            },
+            {
+                "id": 5,
+                "title": "Repairs"
+            },
+            {
+                "id": 6,
+                "title": "Sales"
+            },
+            {
+                "id": 7,
+                "title": "Trading"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Ideal DAZ License for Your Business Model",
+        "description": "Choose one of two Free Zone licenses matched to your business activity to discover exciting tax benefits.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Service License",
+                "description": "Build a strong portfolio and showcase passport copies to offer support services, from auto detailing right down to customs brokerage."
+            },
+            {
+                "id": 2,
+                "title": "Trading License",
+                "description": "Create a tailored business plan and shareholder resolution to import and export automobiles within and beyond DAZ."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dazDubaiAutoZone/left4/1.webp",
+            "title": "Join a $3 Billion Automotive Market with Dubai Auto Zone",
+            "description": "Position your business at the center of the GCC's auto trade. With 30,000+ vehicles traded annually, DUCAMZ Free Zone empowers you with the infrastructure to scale.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dazDubaiAutoZone/left4/2.webp",
+            "title": "Launch in Dubai  Auto Zone Confidently — Pay Smart, Scale Fast",
+            "description": "Get clear, transparent DAZ licensing costs tailored to your unique business setup needs and budget. Pay only for the services your business needs and scale effortlessly as your operations grow.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Set Up Your Automotive Business in Dubai Auto Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tell Us Your Needs",
+                "description": "We start with a brief consultation to discuss your business requirements, whether you're trading, buying, or selling.",
+                "image": "/assets/dazDubaiAutoZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Pick the Best-Fit Activity",
+                "description": "Next, our experts assist in selecting the ideal business activity and licensing option tailored to your business needs.",
+                "image": "/assets/dazDubaiAutoZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "File the Necessary Documents",
+                "description": "We'll help you prepare and submit all the relevant paperwork to fast-track your licensing application.",
+                "image": "/assets/dazDubaiAutoZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain Your Registration Documents",
+                "description": "Once approved, we'll issue your license and collect the necessary business registration documents.",
+                "image": "/assets/dazDubaiAutoZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your Visa & Account",
+                "description": "Lastly, our expert consultants will assist you in securing a residence or investor visa and opening a corporate account.",
+                "image": "/assets/dazDubaiAutoZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Seamless DAZ Business Setup",
+        "description": "Thrive in Dubai Cars and Automotive Free Zone's fast-growing business landscape with our seasoned business consultants guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Connect with Automotive Specialists",
+                "description": "Our local experts boast in-depth knowledge of DAZ's licensing requirements, streamlining application processing and government back-and-forths.",
+                "image": "/assets/dazDubaiAutoZone/bgImage/1.webp"
+            },
+            {
+                "title": "Get All-in-One Business Solutions",
+                "description": "From initial consultation to bank account opening, we handle every step of the process to help you get started within 5-7 working days.",
+                "image": "/assets/dazDubaiAutoZone/bgImage/2.webp"
+            },
+            {
+                "title": "Navigate Compliances Confidently",
+                "description": "Save millions of dirhams with a 100% compliant business structure, best-fit business activity codes, and registered documentation.",
+                "image": "/assets/dazDubaiAutoZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dazDubaiAutoZone/grid/1.webp",
+        "title": "Supercharge Your Auto Business in Dubai Auto Zone",
+        "description": "Set up in the UAE's #1 vehicle trading, logistics, and re-export hub to drive business growth and revenue. We streamline all the paperwork to accelerate your time-to-market.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We launched our vehicle export business in DAZ within a week, and the cost savings were immediate. The team handled everything from license setup to customs.”",
+                "role": "Automotive Trading Export Operations Manager",
+                "image": "/assets/dazDubaiAutoZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As someone new to the UAE market, I was worried about hidden fees and delays. These guys made the DAZ setup simple, fast, and completely transparent.”",
+                "role": "Used Vehicle Sales Managing Director",
+                "image": "/assets/dazDubaiAutoZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We’ve expanded from local car reselling to cross-border trade thanks to their DAZ setup support. It’s streamlined, compliant, and perfect for scale.”",
+                "role": "Automotive E-commerce Platform Founder",
+                "image": "/assets/dazDubaiAutoZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Launch, Scale, & Thrive in Dubai’s Top Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Gain unmatched access to Dubai’s terminals and seaports for seamless trade.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Internet City",
+                "description": "Launch where tech giants thrive to discover R&D friendly policies and world-class infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Media City",
+                "description": "Join a vibrant business ecosystem built for content creators, broadcasters, and publishers.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Multi Commodities Centre",
+                "description": "Trade precious metals, coloured stones, and commodities with flexible licensing options.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Set up your hardware, software, or IT firm in a smart city built for digital-first businesses.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Explore co-working spaces, incubators, and innovation hubs to discover R&D opportunities.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "description": "Streamline logistics by setting up adjacent to the Al Maktoum Airport and Expo City.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Be the first to learn about upcoming industry events and changing trends in the DWTC Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Access global R&D forums, smart infrastructure, and sustainability-focused innovation hubs.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Go live faster at a fraction of the cost with IFZA’s affordable, reliable, and 100% remote business setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Join the 9,000+ businesses thriving in JAFZA with unmatched trade and warehousing privileges.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Bundle up to 3 activities under a single license to launch your e-commerce, marketing, or consultancy venture.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Choose from 10 Free Zones to tap into local and global talent pools and emerging markets.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Trade Smarter, Faster, & Tax-Free?",
+        "description": "Set up in the heart of Dubai's auto industry with expert-led guidance to unlock full foreign ownership, tax exemptions, holistic customs support, and wholesale costs.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dazDubaiAutoZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What licenses can I get in Dubai Auto Zone?",
+                "answer": "You can choose from numerous specialised licenses, including trading and services to export, import, repair, inspect, maintain, and detail automobiles."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents will I need to register in DAZ Free Zone?",
+                "answer": "Generally, you’ll need passport copies, an Emirates ID or Residence Visa, an MOA, a lease agreement, and a trade name, depending on your legal entity and selected business activity."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What legal entities can I set up in Dubai Auto Zone?",
+                "answer": "You can choose one of three business structures, including a Free Zone Establishment, a Free Zone Company, or a branch of either a foreign or UAE-based company."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does licensing take in Dubai Auto Zone Free Zone?",
+                "answer": "Licensing in DAZ can take 1-14 days, depending on your selected license, office space, and document readiness."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz assist me in opening a personal or corporate bank account in DAZ Free Zone?",
+                "answer": "Absolutely! Our experts boast a network of reliable banking partners, expediting setup times to streamline your finances."
+            }
+        ]
+    }
+}

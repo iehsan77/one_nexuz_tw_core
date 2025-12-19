@@ -1,0 +1,262 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/intellectualProperty.webp",
+        "title": "Build Recognition, Strengthen Brand Identity, & Win Global Investment with Expert Intellectual Property Protection in the UAE",
+        "description": "Keep copycats, legal battles, and unregistered innovations from stealing your advantage before you take the first step. At One Nexuz, our seasoned IP lawyers offer end-to-end copyright, trademark, and patent protection to safeguard your original assets and content, so your creativity drives limitless business growth. Fuel creativity and innovation, gain a competitive edge, increase revenue 68%+ per employee, and tap into lucrative global markets with professional intellectual property rights in the UAE."
+    },
+    "leftSection_1": {
+        "title": "Why Innovators Need Intellectual Property Protection in the UAE?",
+        "description": "Uncover exciting tax benefits, combat unauthorised use, and stay ahead of the curve with a proactive IPR strategy.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Defend, Secure, and Own Your Innovations—IPR That Lasts a Lifetime",
+                "subTitle": "Defend, Secure, and Own Your Innovations—IPR That Lasts a Lifetime",
+                "description": "Keep counterfeiters from stealing your original product designs, trademarks, and software through IPR lasting a lifetime.",
+                "image": "/assets/intellectualProperty/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Turn Innovation into Income—Franchise, License, and Earn More",
+                "subTitle": "Turn Innovation into Income—Franchise, License, and Earn More",
+                "description": "Boost business revenue by 20%+ by unlocking new income streams through licensing, franchising, royalties, and strategic collaborations.",
+                "image": "/assets/intellectualProperty/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Shield Innovations, Prevent Exploitation, and Strengthen Business Value",
+                "subTitle": "Shield Innovations, Prevent Exploitation, and Strengthen Business Value",
+                "description": "Minimise the risk of hefty fines and costly lawsuits, prevent competitors from capitalising on your innovations, and enhance your business value.",
+                "image": "/assets/intellectualProperty/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Build Credibility, Impress Investors, and Forge Strategic Partnerships Worldwide",
+                "subTitle": "Build Credibility, Impress Investors, and Forge Strategic Partnerships Worldwide",
+                "description": "Gain global recognition through IPR protection in 170+ countries, build investor confidence, and collaborate with industry leaders.",
+                "image": "/assets/intellectualProperty/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Comprehensive IPR Protection Services",
+        "description": "Safeguard your creative ideas, assets, and more with our end-to-end intellectual property rights protection solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "description": "Protect your original work, minimise the risk of unauthorised use, and ensure full legal ownership with our copyright registration services.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Trademark Registration",
+                "description": "Prevent counterfeiters from stealing your brand names, logos, slogans, and distinctive identifiers with our expert trademark registration solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/intellectualProperty/left4/1.webp",
+            "title": "Protect Your Innovations—File Right, File Fast with One Nexuz",
+            "description": "Nearly 50% of IPR applications fail due to mistakes.  Our experts ensure your IP is filed accurately and fully protected.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/intellectualProperty/left4/2.webp",
+            "title": "Protect Your Ideas, Not Your Budget — IPR Solutions Tailored to You",
+            "description": "No fixed packages. No hidden charges. No unnecessary add-ons.Get a transparent, personalised quote based on your IP needs—pay only for what matters to your business, exactly when you need it.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Register, Protect, & Enforce Your IP with Our 5-Step Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a Time",
+                "description": "We’ll book a free consultation to discuss your business needs, innovation, and creative work to identify the best-fit IP protection.",
+                "image": "/assets/intellectualProperty/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Map Out Your Requirements",
+                "description": "Next, our experts will develop a tailored IP strategy, outlining the most effective ways to secure your rights locally and internationally.",
+                "image": "/assets/intellectualProperty/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare & Submit Your Documents",
+                "description": "We’ll then compile and submit the necessary paperwork, ensuring your application meets all legal requirements and minimising delays.",
+                "image": "/assets/intellectualProperty/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Government Approvals",
+                "description": "Once submitted, we’ll track the process closely with the relevant authorities to keep you up-to-date until your copyright or trademark is registered.",
+                "image": "/assets/intellectualProperty/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Monitor, Renew, & Update",
+                "description": "Beyond registration, our experts offer ongoing monitoring, renewal alerts, and enforcement in 100+ countries, per your requirement.",
+                "image": "/assets/intellectualProperty/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Expert Intellectual Property Services",
+        "description": "Navigate the UAE’s complex IP regulatory requirements confidently with our team of seasoned lawyers. Ensure all your creative work is registered and protected under the MoE to deter copycats and counterfeiters.",
+        "items": [
+            {
+                "title": "Secure First-Time Approvals",
+                "description": "Minimise the risk of incorrect classifications, incomplete documentation, or rejected applications with our local experts guiding every step of the way.",
+                "image": "/assets/intellectualProperty/bgImage/1.webp"
+            },
+            {
+                "title": "Global Vision, Local Expertise",
+                "description": "With knowledge of international treaties such as the Madrid Protocol and the PCT, we help extend your protection beyond the Emirates.",
+                "image": "/assets/intellectualProperty/bgImage/2.webp"
+            },
+            {
+                "title": "Get End-to-End Support",
+                "description": "Stay up to date with the UAE’s fast-evolving IP laws, ensure timely renewals, and unlock global protection with our dedicated consultants.",
+                "image": "/assets/intellectualProperty/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/intellectualProperty/grid/1.webp",
+        "title": "Make Your Business Investment‑Ready with One Nexuz",
+        "description": "Our experts build a proactive IP protection strategy to win foreign investment, foster global recognition, and strengthen professional partnerships.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Working with this team made registering our trademark effortless. They handled every step and gave us peace of mind knowing our brand is fully protected.”",
+                "role": "Tech Startup Marketing Director",
+                "image": "/assets/intellectualProperty/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Their expertise in IP strategy helped us secure patents for our products and gave us confidence to expand internationally.”",
+                "role": "Manufacturing Company R&D Manager",
+                "image": "/assets/intellectualProperty/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a solo entrepreneur, I didn’t know where to start with copyright and trademark registration. Their guidance was clear, professional, and completely stress-free.”",
+                "role": "Creative Design Studio Founder",
+                "image": "/assets/intellectualProperty/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Strengthen Your Business with Our Holistic Compliance Service",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance",
+                "description": "Protect your business reputation and strengthen financial resilience with an AML certificate.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Audit Services",
+                "description": "Spot, assess, and prevent financial risks with our end-to-end internal and external audit services.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certification Assistance",
+                "description": "Win stakeholder trust, build trust, and optimise business efficiency with an ISO certificate.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tax Residency Certificate",
+                "description": "Avoid double taxation, maximise your bottom line, and showcase professionalism with a tax residency certificate.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Shield Your Creations with Intellectual Property Rights Protection",
+        "description": "Secure your inventions, trademarks, and designs, unlock new revenue streams, and keep copycats from stealing your original work with our experts! Partner today to win instant global credibility and amplify your business value.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/intellectualProperty/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Audit Services",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "ISO Certificate Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a tax residency certificate (TRC) in the UAE?",
+                "answer": "A UAE tax residency certificate in the UAE is an FTA-compliant document that empowers you to unlock DTAA benefits and verify your residency status."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How do I know if I'm eligible for a tax residency certificate?",
+                "answer": "You can issue a tax residency certificate if you meet the residential status and document requirements. You can book a free consultation to determine your eligibility."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What is the timeline for a tax residency certificate?",
+                "answer": "Generally, it takes 1-14 days to secure TRC approvals, following the submission of the application and payment of the necessary fees. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How will I receive my UAE tax residency certificate?",
+                "answer": "Our experts will process your TRC application through the FTA portal, allowing you to download the certificate digitally within seconds."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I need to apply for a TRC if I own a Free Zone company?",
+                "answer": "Yes, a TRC empowers your Free Zone company to qualify for corporate and personal income exemptions, as well as save up on import-export taxes."
+            }
+        ]
+    }
+}

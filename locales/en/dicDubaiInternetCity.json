@@ -1,0 +1,444 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dicDubaiInternetCity.webp",
+        "title": "Innovate, Launch, & Expand Your Teach Venture in Dubai Internet City Free Zone with Our One-Stop Business Launch Solution",
+        "description": "Innovate, Launch, & Expand Your Teach Venture in Dubai Internet City Free Zone with Our One-Stop Business Launch Solution"
+    },
+    "leftSection_1": {
+        "title": "Why Should Tech Experts Choose Dubai Internet City?",
+        "description": "Enjoy 100% foreign ownership, 0% personal income and corporate taxes, and restriction-free multi-currency transactions in one of the Middle East’s most dynamic business landscapes.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Lucrative Global Markets",
+                "subTitle": "Access Lucrative Global Markets",
+                "description": "Tap into a 1.6B+ consumer market in Europe, North Africa, Asia, the Middle East, and the GCC to unlock limitless business growth.",
+                "image": "/assets/dicDubaiInternetCity/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock Modern Infrastructure",
+                "subTitle": "Unlock Modern Infrastructure",
+                "description": "Take advantage of Dubai Internet City's cutting-edge In5 Centres, technical infrastructure, and facilities to discover and innovate breakthrough technologies.",
+                "image": "/assets/dicDubaiInternetCity/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Secure Your Personal Assets",
+                "subTitle": "Secure Your Personal Assets",
+                "description": "Safeguard confidential business data, creative assets, and shareholder information with DIC's robust privacy protection and cybersecurity regulations.",
+                "image": "/assets/dicDubaiInternetCity/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Uncover Networking Opportunities",
+                "subTitle": "Uncover Networking Opportunities",
+                "description": "Nurture meaningful business relations and build a strong base for success by attending DIC Free Zone's global events, workshops, and sessions.",
+                "image": "/assets/dicDubaiInternetCity/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Permitted Dubai Internet City Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Advertising"
+            },
+            {
+                "id": 2,
+                "title": "Business Center"
+            },
+            {
+                "id": 3,
+                "title": "Customer Service"
+            },
+            {
+                "id": 4,
+                "title": "Developer"
+            },
+            {
+                "id": 5,
+                "title": "Digital Marketing"
+            },
+            {
+                "id": 6,
+                "title": "Freelancer"
+            },
+            {
+                "id": 7,
+                "title": "Gaming & e-Sports"
+            },
+            {
+                "id": 8,
+                "title": "e-Commerce Services"
+            },
+            {
+                "id": 9,
+                "title": "e-Sports Events"
+            },
+            {
+                "id": 10,
+                "title": "Internet"
+            },
+            {
+                "id": 11,
+                "title": "IT Services"
+            },
+            {
+                "id": 12,
+                "title": "Multimedia Distribution"
+            },
+            {
+                "id": 13,
+                "title": "Software"
+            },
+            {
+                "id": 14,
+                "title": "Telecommunications & Network"
+            },
+            {
+                "id": 15,
+                "title": "Web & Architecture Freelancer"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Ideal DIC License for Your Business Model",
+        "description": "Pick the Dubai Internet City license that aligns with your selected business activity, legal structure, and future goals with expert guidance.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Draft a professional business plan to buy, sell, and distribute stress-free."
+            },
+            {
+                "id": 2,
+                "title": "Freelancer Permit",
+                "description": "Build a powerful portfolio to kickstart your creative venture in the heart of Dubai."
+            },
+            {
+                "id": 3,
+                "title": "Media License",
+                "description": "Submit a professional resume or portfolio to create, product, and publish."
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "description": "Showcase your qualifications to the DDA to offer specialised services worldwide."
+            },
+            {
+                "id": 5,
+                "title": "Industrial License",
+                "description": "Produce and assemble with the DDA-approved light manufacturing facilities."
+            },
+            {
+                "id": 6,
+                "title": "Service License",
+                "description": "Secure DICA approvals to offer support, consultancy, and creative solutions."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dicDubaiInternetCity/left4/1.webp",
+            "title": "Your Gateway to Dubai's Largest Tech Network",
+            "description": "Join Dubai Internet City's thriving community of 1,600+ innovators, industry leaders, and Fortune 500 founders with our team of seasoned business consultants.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dicDubaiInternetCity/left4/2.webp",
+            "title": "Transparent Pricing, Full Control — Know Your DIC Licensing Costs Upfront",
+            "description": "Only pay for the services you actually need, from license registration to office space, and scale as your company grows. No hidden fees, no unnecessary add-ons.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Start Thriving in Dubai Internet City in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Determine Eligibility",
+                "description": "We start with a brief consultation to discuss your business requirements, whether you're trading, buying, or selling.",
+                "image": "/assets/dicDubaiInternetCity/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare the Documents",
+                "description": "We'll guide you on exactly what to provide and assist in attesting and submitting the necessary documents.",
+                "image": "/assets/dicDubaiInternetCity/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "Next, our specialists will lodge your application directly with DIC authorities, fast-tracking trade licensing.",
+                "image": "/assets/dicDubaiInternetCity/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Issue Your License & Visa",
+                "description": "Once approved, you'll receive your license and company registration documents alongside seamless visa processing.",
+                "image": "/assets/dicDubaiInternetCity/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Activate Your Bank Account",
+                "description": "We'll ensure you're 100% ready to operate by helping you lease a tailored workplace and open a corporate account.",
+                "image": "/assets/dicDubaiInternetCity/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for DIC Free Zone Business Setup",
+        "description": "Launch in Dubai's #1 tech startup accelerator with our team of seasoned business consultants to access the Free Zone's exciting research, innovation, and networking opportunities.",
+        "items": [
+            {
+                "title": "Secure, Reliable, and Hassle-Free",
+                "description": "Slash license processing times by nearly 50% with our seamless business setup and licensing solutions, empowering you to get registered in 1-14 days.",
+                "image": "/assets/dicDubaiInternetCity/bgImage/1.webp"
+            },
+            {
+                "title": "Up to 30% Lower Setup Costs",
+                "description": "Reduce Dubai Internet City FZ licensing costs by 15-30% by streamlining documentation and eliminating unnecessary services.",
+                "image": "/assets/dicDubaiInternetCity/bgImage/2.webp"
+            },
+            {
+                "title": "Clear, Customisable Pricing",
+                "description": "Pay only for what you need with our tailored business setup packages. Budget confidently with full cost breakdowns- no hidden costs, no surprises.",
+                "image": "/assets/dicDubaiInternetCity/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dicDubaiInternetCity/grid/1.webp",
+        "title": "Power Your Business Ideas with DIC's R&D Powerhouses",
+        "description": "With 19 dedicated R&D hubs, Dubai Internet City offers the perfect launchpad for innovating products, technologies, and game-changing solutions.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up my tech consultancy in Dubai Internet City was smoother than I imagined. One Nexuz handled everything — from license approvals to securing the perfect flexi-desk. I was operational in just 12 days and already networking with industry leaders.",
+                "role": "IT Consulting Industry Founder",
+                "image": "/assets/dicDubaiInternetCity/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "I wanted a business location that gave credibility and global exposure. With One Nexuz guiding me through DIC’s process, I not only got my license quickly but also connected with potential clients within the first month.",
+                "role": "Digital Marketing Industry Creative Director",
+                "image": "/assets/dicDubaiInternetCity/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "The biggest worry for me was compliance and paperwork. One Nexuz made sure every document was in order and kept me updated at every step. Now my startup is based in one of the most prestigious hubs in the region.",
+                "role": "Cloud Services Industry CEO",
+                "image": "/assets/dicDubaiInternetCity/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand to the UAE's Most Powerful Business Hubs",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Fast-track your trade operations with unmatched logistics and airfreight efficiency.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Position your automotive business at the heart of Dubai's dedicated auto trading hub.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Media City",
+                "description": "Collaborate with global media leaders in DMC’s thriving media community.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Join the world’s #1 Free Zone for commodities, trade, and enterprise growth.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Build and innovate in Dubai's top tech hub to access world-class infrastructure.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Network with 1,000+ innovators and accelerate business growth in DTEC.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Center",
+                "description": "Expand your business across the globe with unmatched trade and logistics reach.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Connect with global industry leaders via global exhibitions and tradeshows.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Grow in a sustainability-driven environment designed for forward-thinking businesses.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Bundle 5+ activities under a single license with IFZA's flexible setup solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Connect to 150+ shipping lines with strategic access to the Jebel Ali port.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Expedite business setup in Meydan Free Zone and gain 100% foreign ownership.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Base your business in Dubai's leading creative and innovation districts.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Discover Sustainable Business Growth in DIC Free Zone",
+        "description": "Tap into Dubai Internet City's rich network of Fortune 500 companies to unlock state-of-the-art business resources, partnership opportunities, and creative ideas with our expert consultants to guide you every step of the way.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dicDubaiInternetCity/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to set up a business in Dubai Internet City?",
+                "answer": "It generally takes 1-3 weeks to launch your business in DIC. However, our experts fast-track the process, empowering you to get started in 1-14 days."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need a local sponsor to launch a DIC company?",
+                "answer": "No, Dubai Internet City allows 100% foreign ownership with no local sponsor or partner required."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to own or rent a physical office to set up in Dubai Internet City?",
+                "answer": "You can explore alternative office solutions, such as a flexi-desk, virtual, or co-working spaces in DIC to simplify business setup."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need for DIC company formation?",
+                "answer": "Typically, you'll need passport copies, proof of address, business plan, and in some cases, qualifications or portfolio, depending on your selected license."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I operate outside the Free Zone with a DIC license?",
+                "answer": "You can work with the UAE mainland clients through a local distributor, service agent, or by opening a mainland branch."
+            }
+        ]
+    }
+}

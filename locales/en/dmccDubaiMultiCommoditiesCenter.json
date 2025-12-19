@@ -1,0 +1,414 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dmccDubaiMultiCommoditiesCenter.webp",
+        "title": "Trade Smarter, Scale Faster — Get Full 360° Business Support to Expand in Dubai Multi Commodities Centre",
+        "description": "Keep complex local regulatory requirements, confusing activity categories, and missing documents from delaying approvals and stalling growth. With One Nexuz, you can secure your trade license within days, offering you access to world-class infrastructure, 100% foreign ownership, and 0% corporate taxes. Join DMCC Free Zone's bustling community of 90,000+ professionals, 25,000+ companies, and 85+ residential & commercial towers today to unlock limitless business growth and drive profitability!"
+    },
+    "leftSection_1": {
+        "title": "Why Founders Choose Dubai Multi Commodities Centre",
+        "description": "Take advantage of DMCC's strategic positioning, diverse trading portfolio, and fast-growing commodities market to scale your business to new heights. Trade precious metals, diamonds, and coloured stones, fully compliant and secure.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Tap into Regional & Global Markets ",
+                "subTitle": "Tap into Regional & Global Markets ",
+                "description": "Launch in the heart of the UAE to gain unrestricted access to lucrative markets in the Middle East, North Africa, GCC, and Central & South Asia.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Explore Flexible Setup Options ",
+                "subTitle": "Explore Flexible Setup Options ",
+                "description": "Save millions of dirhams with DMCC's multi-year licensing options, dual licenses, and fully-furnished warehouses & offices.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Discover Strategic Networking Opportunities",
+                "subTitle": "Discover Strategic Networking Opportunities",
+                "description": "Be the first to learn about global events, expos, and workshops to connect with thought leaders, like-minded professionals, and industry experts.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Top-Tier Business Facilities ",
+                "subTitle": "Unlock Top-Tier Business Facilities ",
+                "description": "Gain unrestricted access to DMCC's online member portal to enjoy round-the-clock administrative support, regulatory updates, and licensing resources.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Top Permitted Business Activities in DTEC",
+        "items": [
+            {
+                "id": 1,
+                "title": "Automotive Transportation"
+            },
+            {
+                "id": 2,
+                "title": "Commodity Business"
+            },
+            {
+                "id": 3,
+                "title": "Consultancy Services"
+            },
+            {
+                "id": 4,
+                "title": "Energy & Petroleum"
+            },
+            {
+                "id": 5,
+                "title": "Food & Beverage"
+            },
+            {
+                "id": 6,
+                "title": "General Trading"
+            },
+            {
+                "id": 7,
+                "title": "Healthcare & Pharmaceuticals"
+            },
+            {
+                "id": 8,
+                "title": "Real Estate & Property"
+            },
+            {
+                "id": 9,
+                "title": "Shipping & Logistics"
+            },
+            {
+                "id": 10,
+                "title": "Technology & IT Services"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Explore the Top DMCC Licenses for Your Business Activity",
+        "description": "Choose from countless trade licenses to secure the one that aligns with your company’s structure and business activity.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Lease a physical office that reflects your brand to secure a commercial license."
+            },
+            {
+                "id": 2,
+                "title": "Crypto License",
+                "description": "Verify and attest your documents via the DMCC Authority to diversify and preserve your digital assets."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Launch your solo journey or consultancy with a service license- no minimum capital required"
+            },
+            {
+                "id": 4,
+                "title": "Trading License",
+                "description": "Choose from 150+ diverse trading activities and lease a tailored office space to lock in your DMCC trading license."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dmccDubaiMultiCommoditiesCenter/left4/1.webp",
+            "title": "our Gateway to a Global Business Community",
+            "description": "Home to 13,000+ international businesses, DMCC delivers the credibility, connections, and commercial advantages that fast-track your expansion. Begin your DMCC registration with One Nexuz today.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dmccDubaiMultiCommoditiesCenter/left4/2.webp",
+            "title": "Your Business, Your Terms — DMCC License Costs Tailored to Your Needs",
+            "description": "From tradename reservation and company formation to office leasing and visa issuance, get exactly what your business needs without paying for extras. No hidden costs, no surprise add-ons!",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify DMCC Company Formation in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose the Ideal Business Activity",
+                "description": "We’ll start with a brief call to discuss your business needs and suggest the best-fit business activities and legal structure.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Craft a Unique Trade Name",
+                "description": "Next, we'll help you create, search, and register a DMCC-compliant company name that reflects your brand.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Licensing Application",
+                "description": "Our experts will then assist in applying for the best-fit license by preparing the necessary documents and paying the fees.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain Your Trade License",
+                "description": "We streamline all the paperwork to help secure your Free Zone license in 1-10 days, simplifying your DMCC company setup journey.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Ongoing Business Support",
+                "description": "Beyond licensing, our expert advisors help you open a bank account, ensure compliance, and automate administrative tasks.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Reliable DMCC Business Setup",
+        "description": "Reclaim time lost navigating the complexities of DMCC's regulatory landscape, visa processing, and office space leasing with our team of expert consultants.",
+        "items": [
+            {
+                "title": "Fast, Reliable Turnarounds",
+                "description": "Secure your DMCC Free Zone license in half the time with our seamless business setup solutions, direct government links, and bank partnerships.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Business Support",
+                "description": "Our seasoned expert consultants help you choose from 9,000+ business activities to secure the ideal license for a hassle-free launch.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/bgImage/2.webp"
+            },
+            {
+                "title": "Transparent Pricing",
+                "description": "Pay only for what you need with our clear packages, covering DMCC licensing & visa costs, so you can budget with total confidence- no surprise add-ons.",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dmccDubaiMultiCommoditiesCenter/grid/1.webp",
+        "title": "Leverage the Power of a Globally Proven Trade Platform",
+        "description": "From 1,000-carat stones to billion-dollar tenders, DMCC attracts the world's most valuable assets. Make your mark in the Free Zone's high-value ecosystem with our expert business consultants.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I was overwhelmed with free zone options until I found this team. They helped me pick the perfect activity, handled everything, and I had my DMCC license in just 7 days.”",
+                "role": " Logistics Startup Founder",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“What stood out was the transparency—no hidden charges, no vague promises. I knew the full cost upfront, and every step was explained clearly.”",
+                "role": "E-commerce Consultant",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Getting a crypto license in DMCC sounded complex, but they simplified the entire process. From company setup to banking support, it was smooth and fast.”",
+                "role": "Blockchain Entrepreneur",
+                "image": "/assets/dmccDubaiMultiCommoditiesCenter/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Scale Your Business across Dubai’s Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Maximise logistics and trade efficiency with DAFZ’s strategic location and 0% customs clearance.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Set up in the epicenter of Dubai’s vehicle trade hub to buy, sell, rent, or lease automobiles worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Build, scale, and connect inside a free zone designed for innovative, digital-first businesses.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Create without limits in Dubai's top free zone for advertising agencies, media professionals, and influencers",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Discover state-of-the-art innovation hubs and business facilities by launching your tech venture in DSO.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Access lucrative funding and mentorship opportunities to kickstart and scale your tech startup.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Zone",
+                "description": "Set up in a Free Zone built for scale and connectivity for seamless logistics and business growth.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center FZ",
+                "description": "Establish your HQ in Dubai’s bustling business district with 100% foreign ownership and 0% taxes.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Strengthen your professional network and create organic relationships by building your business in Expo City.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Start smart with IFZA’s cost-efficient business registration process- no physical office required.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Scale warehousing, manufacturing, or logistics by launching your business adjacent to the Jebel Ali Port.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Start as a solopreneur or consultant in one of the fastest-growing digital hubs in Meydan Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "TECOM",
+                "description": "Centralise your creative or tech venture by choosing one of the top innovation-driven Free Zones in the TECOM.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Simplify Cross-Border Trade with DMCC's Strategic Connectivity",
+        "description": "Import and export precious metals, diamonds, and commodities within and beyond the UAE with strategic access to lucrative markets in Africa, Asia, and the GCC. Our one-window business solutions expedite licensing to streamline your value chain.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dmccDubaiMultiCommoditiesCenter/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to issue a trade license in DMCC?",
+                "answer": "Generally, it takes 1-14 business days to obtain a Free Zone license, depending on your selected business activity, legal entity, office type, and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I have to be in Dubai to launch a DMCC company?",
+                "answer": "No, we offer fully remote business setup solutions, empowering you to launch, operate, and thrive from any corner of the world."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What are the different legal entities I can choose in Dubai Multi Commodities Center?",
+                "answer": "DMCC allows you to choose from three corporate structures, including an LLC, a branch of a foreign company, or a branch of a UAE company."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Does One Nexuz offer bank account opening assistance in DMCC?",
+                "answer": "Yes, our seasoned business consultants connect you with the ideal bank partner to set up a corporate or personal bank account, streamlining your finances. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How many visas can I get with a DMCC license?",
+                "answer": "DMCC offers flexible visa quotas, depending on the type and size of your office. "
+            }
+        ]
+    }
+}

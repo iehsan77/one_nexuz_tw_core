@@ -1,0 +1,430 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dmcDubaiMediaCity.webp",
+        "title": "Plan, Launch, & Scale Your Creative Venture in Dubai Media City Free Zone with Our Expert-Led Support",
+        "description": "Frustrated with complex documentation requirements, confusing visa regulations, or stringent KYC checks? At One Nexuz, our team of seasoned business consultants streamlines all the paperwork, fast-tracking license approvals, so you can start growing in Dubai Media City from day one! Unleash your creativity in Dubai’s #1 media hub, boasting a thriving digital landscape, state-of-the-art infrastructure, and a cutting-edge interconnected network."
+    },
+    "leftSection_1": {
+        "title": "Why Visionaries Choose Dubai Media City Free Zone",
+        "description": "Take advantage of DMC Free Zone’s strategic location to gain unrestricted access to a 1B+ consumer base across Europe, Africa, and Asia.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Launch, Network, & Thrive Stress-Free",
+                "subTitle": "Launch, Network, & Thrive Stress-Free",
+                "description": "Uncover exciting growth opportunities by positioning your business at the crossroads of East and West. Collaborate with media leaders and like-minded creatives from 142+ countries via industry events and product launches.",
+                "image": "/assets/dmcDubaiMediaCity/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Discover World-Class Facilities ",
+                "subTitle": "Discover World-Class Facilities ",
+                "description": "Unlock limitless business growth and fuel creativity by tapping into Dubai Media City’s thriving business ecosystem, thriving business centres, and cutting-edge incubation custom-built for startups",
+                "image": "/assets/dmcDubaiMediaCity/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Access Innovative Networking Infrastructure",
+                "subTitle": "Access Innovative Networking Infrastructure",
+                "description": "Simplify global connectivity, boost collaboration, and enjoy unrestricted access to international markets with DMC’s master-planned networking infrastructure, scalable IT solutions, and fully equipped warehouses.",
+                "image": "/assets/dmcDubaiMediaCity/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Minimise Overheads, Maximise Profitability",
+                "subTitle": "Minimise Overheads, Maximise Profitability",
+                "description": "Drive business revenue by capitalising on DMC Free Zone’s business-friendly landscape. Get complete strategic ownership of your business and qualify for 0% corporate and personal income tax exemption.",
+                "image": "/assets/dmcDubaiMediaCity/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Permitted Dubai Media City Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Actor"
+            },
+            {
+                "id": 2,
+                "title": "Broadcasting"
+            },
+            {
+                "id": 3,
+                "title": "Content Provider"
+            },
+            {
+                "id": 4,
+                "title": "Copywriter"
+            },
+            {
+                "id": 5,
+                "title": "Digital Media"
+            },
+            {
+                "id": 6,
+                "title": "Event Management"
+            },
+            {
+                "id": 7,
+                "title": "Graphic Designer"
+            },
+            {
+                "id": 8,
+                "title": "Market Analyst"
+            },
+            {
+                "id": 9,
+                "title": "Media Associates"
+            },
+            {
+                "id": 10,
+                "title": "Media & Consultancy"
+            },
+            {
+                "id": 11,
+                "title": "Musician"
+            },
+            {
+                "id": 12,
+                "title": "Social Media Specialist"
+            },
+            {
+                "id": 13,
+                "title": "Translator"
+            },
+            {
+                "id": 14,
+                "title": "Web Developer"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Right DMC License to Power Your Media Business",
+        "description": "Partner with our expert business consultants to get matched with the ideal Dubai Media City license tailored to your business activity.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Consultancy License",
+                "description": "Set up your consultancy or advisory firm to serve local and international clients."
+            },
+            {
+                "id": 2,
+                "title": "Freelancer Permit ",
+                "description": "Build a compelling portfolio to kickstart your creative venture in DMC."
+            },
+            {
+                "id": 3,
+                "title": "Media License",
+                "description": "Produce, publish, broadcast, and distribute media content 100% DDA compliant."
+            },
+            {
+                "id": 4,
+                "title": "Service License",
+                "description": "Showcase your certificates, qualifications, and skill sets to launch your business."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dmcDubaiMediaCity/left4/1.webp",
+            "title": "Work Where Global Media Leaders Thrive",
+            "description": "Claim your spot among media titans like CNN, Song, and Reuters with access to premium production spaces, world-class studios, and cutting-edge infrastructure.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dmcDubaiMediaCity/left4/2.webp",
+            "title": "Launch Your Media Business in DMC — Simple Pricing, Full Control",
+            "description": "No hidden fees, no inflated packages. Get the exact business setup services you need, right when you need them, with complete cost transparency",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Streamline Business Setup in Dubai Media City in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Call",
+                "description": "We’ll schedule the first consultation per your convenience to discuss your business goals. This will help our experts suggest the ideal business activity.",
+                "image": "/assets/dmcDubaiMediaCity/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Documents",
+                "description": "Next, we’ll assist you in gathering and preparing all the required paperwork to minimise government back-and-forth.",
+                "image": "/assets/dmcDubaiMediaCity/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure License Approvals",
+                "description": "We’ll submit your licensing application to the DMC Authority and pay the necessary fees. Once approved, we’ll issue it within 3-5 days.",
+                "image": "/assets/dmcDubaiMediaCity/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Your Visa",
+                "description": "Our expert PRO specialists will help you apply for and receive investor or employee visas to build your team and scale your business.",
+                "image": "/assets/dmcDubaiMediaCity/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open a Bank Account",
+                "description": "Lastly, we leverage our trusted network of bank partners to expedite a corporate bank account, empowering you to simplify financial management.",
+                "image": "/assets/dmcDubaiMediaCity/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Creatives Trust Us for Reliable DMC Company Formation Services",
+        "description": "Without the expert guidance, you risk costly delays that push your launch back by weeks and hidden costs that blow up your budget. We handle every step with precision, so you can focus on what you do best- growing your business!",
+        "items": [
+            {
+                "title": "End-to-End Setup Management",
+                "description": "We handle everything, from trade licensing to Dubai Media City Free Zone visa application, so you can focus on scaling instead of chasing paperwork.",
+                "image": "/assets/dmcDubaiMediaCity/bgImage/1.webp"
+            },
+            {
+                "title": "Specialised Media Zone Expertise",
+                "description": "Our team boasts in-depth local knowledge, empowering you to navigate DMC's stringent regulations and licensing requirements with confidence.",
+                "image": "/assets/dmcDubaiMediaCity/bgImage/2.webp"
+            },
+            {
+                "title": "Seamless Banking Assistance",
+                "description": "We connect you with trusted UAE banks that understand media businesses, helping you open a reliable and secure corporate account stress-free.",
+                "image": "/assets/dmcDubaiMediaCity/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dmcDubaiMediaCity/grid/1.webp",
+        "title": "Build Your Brand in the Capital of Arab Media",
+        "description": "Dubbed the 'Capital of Arab Media 2020,' Dubai Media City is the go-to hub for content creators, publishers, and innovators. Fast-track business setup to tap into the region's unmatched influence, talent, and networks",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I thought setting up in Dubai would be a slow and complicated process, but One Nexuz proved me wrong. They walked me through every step, handled all the paperwork, and got my Dubai Media City license approved in just 8 days. I was able to start pitching to clients immediately.",
+                "role": "Film Director",
+                "image": "/assets/dmcDubaiMediaCity/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "What stood out to me was how transparent they were about costs and timelines. No hidden fees, no surprises — just clear communication and professional service. Even after setup, they helped me open my corporate bank account and hire my first two employees.",
+                "role": "Media Production CEO",
+                "image": "/assets/dmcDubaiMediaCity/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Choosing Dubai Media City was the best decision for my marketing agency, and One Nexuz made the move effortless. They knew exactly which license I needed, handled the visa process, and even introduced me to potential partners in the community. I felt supported every step of the way.",
+                "role": " Digital Marketing Agency Owner",
+                "image": "/assets/dmcDubaiMediaCity/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Choose from Dubai's Most Strategic Business Hubs",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Build your business in one of the world's most interconnected logistics locations.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Import, export, and re-export automobiles worldwide with DAZ Free Zone's strategic location.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Fuel business growth with DIC’s world-class infrastructure and business facilities.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Simplify cross-border trade with DMCC’s strategic access to the MENA and GCC.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Silicon Oasis",
+                "description": "Kickstart your tech-driven company in Dubai's top tech hub to access innovation incubations.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Launch, operate, and scale your tech venture with innovative co-working and accelerator programs.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Center",
+                "description": "Expand in a future-ready community designed for global commerce in Dubai South.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Kickstart your tech-driven company in Dubai's top tech hub to access innovation incubations.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Access world-class sustainable infrastructure and business facilities in Expo City Dubai FZ.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "International Free Zone Authority",
+                "description": "Set up anywhere, anytime with IFZA’s 100% remote and affordable solutions.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Tap into JAFZA’s integrated logistics to gain unmatched multimodal connectivity.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Save thousands on office leasing and licensing with MFZ’s cost-effective business setup packages.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Select from 10 specialised Free Zones tailored to your industry to fuel creativity and innovation.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Kickstart Your Creative Story in Dubai's Top Media Zone",
+        "description": "Breathe life into your creative ideas in Dubai Media City Free Zone- connecting you with a diverse community of 1,500+ media leaders. We handle every step of the process, so you can focus on growing your brand stress-free.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dmcDubaiMediaCity/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DSO - Dubai Silicon Oasis",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are the benefits of setting up in the DMC Free Zone?",
+                "answer": "Creatives setting up in Dubai Media City Free Zone can benefit from the region's tax-friendly landscape, seamless immigration process, unmatched networking opportunities, and fast-growing industrial landscape."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What business structures can I choose in Dubai Media City?",
+                "answer": "Dubai Media City Free Zone allows you to choose from four primary legal structures, including Free Zone Establishment, Free Zone Company, Branch of a Foreign Company, and Branch of a Local Company."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How many shareholders do I need to set up a Dubai Media City FZ business?",
+                "answer": "DMC Free Zone allows you to choose from 2-50 shareholders, depending on your unique business requirements."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need a local partner or agent to launch my business in DMC Free Zone?",
+                "answer": "No, Dubai Media City Free Zone offers 100% foreign ownership, empowering you to launch, operate, and thrive in the region without the hassle of a local sponsor."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz help me secure a Dubai Media City Free Zone Visa?",
+                "answer": "Yes, our PRO specialists can help you secure your desired UAE visa, from investor visas right down to golden visas."
+            }
+        ]
+    }
+}

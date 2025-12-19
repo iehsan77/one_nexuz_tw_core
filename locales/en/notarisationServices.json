@@ -1,0 +1,286 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/notarisationServices.webp",
+        "title": "Review Contracts, Authenticate Every Page, and Notarise Officially with Our Complete Notary Public Services in Dubai",
+        "description": "Skip the complex paperwork, complex legal requirements, incomplete cross-border documents, and tight deadlines with our seasoned UAE notaries. At One Nexuz, our experts handle all the submissions, approvals, and attestations, improving your time-to-market and powering limitless business growth. Save time, cut stress, and scale across the Emirates with our trusted public notaries!"
+    },
+    "leftSection_1": {
+        "title": "Why Your UAE Business Needs Notarisation Services",
+        "description": "Build brand credibility, prevent fraud, and simplify cross-border transactions with professional notary public services.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Keep Your Documents Secure, Verified, and Fraud-Proof",
+                "subTitle": "Keep Your Documents Secure, Verified, and Fraud-Proof",
+                "description": "Protect your business reputation and finances, prevent costly disputes, and mitigate the risk of forgery or misuse with notarised documents.",
+                "image": "/assets/notarisationServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Make Every Document Official, Legally Binding, and Universally Recognised",
+                "subTitle": "Make Every Document Official, Legally Binding, and Universally Recognised",
+                "description": "Build legal recognition and boost evidentiary strength through notarisation, signalling confidence that your documents carry legal authority.",
+                "image": "/assets/notarisationServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Go Beyond Borders—Get Documents that Work Wherever You Do",
+                "subTitle": "Go Beyond Borders—Get Documents that Work Wherever You Do",
+                "description": "Win instant client and partner trust, ensure compliance with global legal standards, facilitate cross-border transactions, and simplify government-related processes.",
+                "image": "/assets/notarisationServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "",
+                "subTitle": "",
+                "description": "",
+                "image": "/assets/notarisationServices/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Explore Our End-to-End Notarisation Services Built for Your Every Need",
+        "description": "Strengthen business resilience, prevent fraud, and nurture high-value local and global partnerships with our holistic notarisation solutions.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/notarisationServices/iconTitleSec/1.svg",
+                "title": "Power of Attorney"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/notarisationServices/iconTitleSec/2.svg",
+                "title": "Affidavits & Declarations"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/notarisationServices/iconTitleSec/3.svg",
+                "title": "Commercial Contracts & Agreements"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/notarisationServices/iconTitleSec/4.svg",
+                "title": "Certified True Copies"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/notarisationServices/iconTitleSec/5.svg",
+                "title": "International Document Notarisation"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/notarisationServices/iconTitleSec/2.svg",
+                "title": "Corporate Resolutions & Legal Documents"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/notarisationServices/iconTitleSec/3.svg",
+                "title": "Sale & Purchase Agreements"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/notarisationServices/iconTitleSec/4.svg",
+                "title": "Miscellaneous Notarisation Needs"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/notarisationServices/left4/1.webp",
+            "title": "Professional Notarisation Without Surprises — Pricing That Makes Sense",
+            "description": "No rigid packages, no hidden fees, and no unnecessary add-ons. Whether it’s a single document or multiple certifications, get a quote built around your unique notarisation needs and budget.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Prepare, Verify, & Authenticate Your Documents with Our 4-Step Process",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We'll schedule a call to discuss your notarisation and attestation needs. You’ll be requested to upload or share your business, visa, or corporate documents.",
+                "image": "/assets/notarisationServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare, Verify, & Submit",
+                "description": "Next, our notarisation experts will review everything, from signatures to agreements, ensuring accuracy, completeness, and UAE compliance.",
+                "image": "/assets/notarisationServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Notarise & Attest Your Documents",
+                "description": "We’ll handle the entire notarisation process, including legal stamps, translations, and attestations to build local and global recognition.",
+                "image": "/assets/notarisationServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Ready-to-Use Documents",
+                "description": "Finally, we’ll courier or upload your fully notarised and attested documents ready for submission to banks, Free Zones, and immigration authorities!",
+                "image": "/assets/notarisationServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Notary Public Service Provider",
+        "description": "Tired of rejected applications, delayed approvals, or endless trips to government offices? Our expert notarisation specialists streamline all your paperwork, fast-tracking attestations to prevent fines and accelerate approvals.",
+        "items": [
+            {
+                "title": "Connect with Local Experts",
+                "description": "Our professional PRO specialists understand the ins and outs of the UAE's notarisation and verification requirements, ensuring local & global compliance.",
+                "image": "/assets/notarisationServices/bgImage/1.webp"
+            },
+            {
+                "title": "Unlock Faster Turnarounds",
+                "description": "Slash document attestation and approval timelines by half with our notary specialists. Secure verifications within days, not weeks, to save time and costs.",
+                "image": "/assets/notarisationServices/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy End-to-End Guidance",
+                "description": "From preparation and submission to verification and approvals, our experts guide you every step of the way, providing you with complete peace of mind.",
+                "image": "/assets/notarisationServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/notarisationServices/grid/1.webp",
+        "title": "Protect Your Business From AED 50,000 Fines with One Nexuz",
+        "description": "Every missing attestation costs AED 500+! Don’t let money slip through the cracks— save millions of dirhams with our fast, reliable, and transparent notarisation services.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz handled all our documents flawlessly — fast, accurate, and completely hassle-free.",
+                "role": "Tech Startup Founder",
+                "image": "/assets/notarisationServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Their expertise saved us weeks of delays and gave us full confidence our documents would be accepted.",
+                "role": "Trading Company Managing Director",
+                "image": "/assets/notarisationServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Professional, reliable, and efficient — the notarisation process has never been this smooth.",
+                "role": "Consulting Firm CEO",
+                "image": "/assets/notarisationServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Ready to Turn Your UAE Documents Into Legally Binding Assets?",
+        "description": "Verify, notarise, and attest all your contracts, POAs, and declarations with official stamps and seals to reinforce credibility and ensure legal validity before courts, government bodies, and banks.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/notarisationServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Ultimate Beneficial Owner (UBO) Filing",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are notarisation services in Dubai, UAE?",
+                "answer": "Notarisation services, or notary public services, encompass the authentication, verification, and certification of signatures, agreements, contracts, and documents to ensure compliance with UAE law."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Why does my business need notary public services in the UAE?",
+                "answer": "Notary public services strengthen your legal validity, prevent forgery or fraud, protect your business interests, build financial resilience, and simplify cross-border transactions."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Which documents require notarisation for UAE business setup?",
+                "answer": "Common documents include trade licenses, shareholder agreements, powers of attorney, contracts, visas, and foreign documents needing legalisation."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does the notarisation process take?",
+                "answer": "Notarisation and attestation can take anywhere between 1 and 14 days, depending on the type of documents and involved government authorities."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can One Nexuz notarise documents from other countries?",
+                "answer": "Absolutely! Our experts handle cross-border documents with proper apostilles, legalisations, and verified translations accepted by UAE authorities."
+            }
+        ]
+    }
+}

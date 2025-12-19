@@ -1,0 +1,319 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/mailManagement.webp",
+        "title": "Manage Incoming Mail, Prioritise What Matters, & Stay Organized with Our All-in-One Mail Management Services",
+        "description": "Drowning in unopened mail, missed contracts, and lost packages? With One Nexuz’s expert-led UAE mail management solutions, you’ll never miss another essential customer contract or mail. Our experts handle, organise, and securely store all incoming documents, parcels, and packages so you stay focused on growth, not time-consuming logistics."
+    },
+    "leftSection_1": {
+        "title": "What is Mail Management & Why Your Business Needs It",
+        "description": "Mitigate the risk of misplaced contracts, delayed parcels, and time lost searching for vital business documents with professional mail management.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get Real-Time Notifications ",
+                "subTitle": "Get Real-Time Notifications ",
+                "description": "Stay in the know with instant updates via email and dashboard notifications. No surprise mails, no missed correspondences.",
+                "image": "/assets/mailManagement/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Cut Down Errors by Over 15%",
+                "subTitle": "Cut Down Errors by Over 15%",
+                "description": "Boost operational productivity by avoiding misrouted deliveries, missed deadlines, returns, and compliance headaches. ",
+                "image": "/assets/mailManagement/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Save Time on Administrative Tasks ",
+                "subTitle": "Save Time on Administrative Tasks ",
+                "description": "Reclaim time lost on collecting and organising letters and parcels, so you can focus on more critical business tasks.",
+                "image": "/assets/mailManagement/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Gain Secure Mail Storage",
+                "subTitle": "Gain Secure Mail Storage",
+                "description": "Ensure all documents and packages are handled with utmost care and stored in a fully compliant, well-organised facility.",
+                "image": "/assets/mailManagement/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Everything You Need to Streamline Your Mail",
+        "description": "Stay ahead of the curve with our efficient mail management solutions, giving you administrative peace of mind. Here’s what you get:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/mailManagement/iconTitleSec/1.svg",
+                "title": "A unique UAE business address"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/mailManagement/iconTitleSec/2.svg",
+                "title": "Mail sorting, storage, and handling"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/mailManagement/iconTitleSec/3.svg",
+                "title": "Instant notifications and alerts"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/mailManagement/iconTitleSec/4.svg",
+                "title": "Local and international forwarding"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/mailManagement/iconTitleSec/5.svg",
+                "title": "Optional pickup services"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/mailManagement/left4/1.webp",
+            "title": "Reclaim 10+ Hours Weekly with Reliable Mail Management",
+            "description": "Founders and teams lose hours managing and sorting inbound mail. We take over the entire mail process, giving you time back to focus on clients, operations, and growth.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/mailManagement/left4/2.webp",
+            "title": "Break Clutter, Not the Bank — Manage Your Mail on Your Terms",
+            "description": "No confusing packages, no hidden fees, and no surprise add-ons. Pay only for the mail services you need—sort, scan, or forward mail exactly when it matters, giving you full control and peace of mind.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Manage Your Mail in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select the Best-Fit Plan",
+                "description": "We discuss your unique mail management needs to curate a plan that aligns with your workflow.",
+                "image": "/assets/mailManagement/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Secure Your UAE Business Address",
+                "description": "Next, our experts assign you a mailing address where we’ll receive and sort your documents, parcels, and packages.",
+                "image": "/assets/mailManagement/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Receive Your Mail Securely",
+                "description": "We’ll date-stamp, record, and digitally log every delivery so you never lose track of what’s incoming.",
+                "image": "/assets/mailManagement/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Alerts & Notifications",
+                "description": "We send real-time alerts of all delivered mail, so you can choose to scan, forward, or hold the parcel.",
+                "image": "/assets/mailManagement/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Retrieve at Your Convenience",
+                "description": "Choose weekly pickups, on-demand forwarding, or international delivery to manage all mail efficiently.",
+                "image": "/assets/mailManagement/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Manage Your Business Mail",
+        "description": "Ensure your mail is received and stored with care by outsourcing all incoming mail to our experts. We handle all deliveries and provide instant alerts so you never miss another important document.",
+        "items": [
+            {
+                "title": "Reduce Overheads by Up to 30%",
+                "description": "Slash costs by eliminating in-house equipment, mailroom team, inventory management, and maintenance expenses.",
+                "image": "/assets/mailManagement/bgImage/1.webp"
+            },
+            {
+                "title": "Get Scalable Mail Solutions",
+                "description": "Maximise workplace efficiency with mail management services that scale with you. Enjoy fast turnarounds, zero errors, and consistent quality every time.",
+                "image": "/assets/mailManagement/bgImage/2.webp"
+            },
+            {
+                "title": "Stay Compliant & Secure",
+                "description": "Ensure adherence to the UAE’s ever-changing regulations with our 100% compliant and secure mail management solutions.",
+                "image": "/assets/mailManagement/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/mailManagement/grid/1.webp",
+        "title": "Cut Overheads without Sacrificing Control",
+        "description": "Skip the cost of full-time management staff by trusting our pros to sort, scan, and route your mail. We track and digitise every letter, parcel, and package so you stay informed without lifting a single finger.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I was missing important documents while working abroad. Since switching to this service, I haven’t missed a single delivery. It’s honestly one of the best investments I’ve made.”",
+                "role": "Global Tech Consultancy Founder",
+                "image": "/assets/mailManagement/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We were scaling fast and didn’t have time to deal with daily mail. Their dashboard alerts and scanning saved us hours every week.”",
+                "role": "Logistics Startup CEO",
+                "image": "/assets/mailManagement/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Professional, fast, and surprisingly affordable. The international forwarding option has helped us stay on track while managing clients across two continents.”",
+                "role": "EdTech Platform CEO",
+                "image": "/assets/mailManagement/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Get Peace of Mind with Smart Operational Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "description": "Build a robust IT infrastructure and enjoy proactive tech support with our reliable IT services.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Virtual Receptionist",
+                "description": "Foster customer satisfaction and boost retention with custom-built VR solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "HR & Recruitment Assistance",
+                "description": "Recruit and retain top talent, streamline onboarding, and strengthen workplace culture.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "description": "Scan, store, organise, and retrieve all your files within a secure hub to streamline all your paperwork.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "description": "Simplify global shipments and ensure timely deliveries with our end-to-end logistics solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "description": "Simplify sourcing, negotiate better terms, and secure quality goods to optimise operations.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "description": "Get registered on all relevant portals, discover lucrative opportunities, and stay compliant.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "description": "Access high-value contracts, stay compliant, and fast-track approvals with expert support.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Never Miss a Mail Again with Our Secure Solutions",
+        "description": "Streamline your direct mail with reliable, secure, and professional mail management solutions tailored for modern entrepreneurs. Save hours each week, avoid compliance risks, and organise all essential documents with our expert support!",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/mailManagement/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Virtual Receptionist",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "HR & Recruitment Assistance",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Document Management & Filing Services",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Procurement Support",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Supplier & Vendor Registration Support",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Government Tender Registration Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I get international mail forwarding? ",
+                "answer": "Yes. Our mail management solutions include international shipping for all letters, packages, and courier deliveries."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How secure is my mail with One Nexuz?",
+                "answer": "We receive, sort, and organise all your mail in a secure facility, logged with time stamps, and handled only by authorised staff."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What happens if I miss a delivery or urgent government mail?",
+                "answer": "You won’t! With real-time alerts for every incoming item, we keep you up-to-date with each delivery, so you can efficiently re-route any vital documents."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I use this mailing address for my company's trade license?",
+                "answer": "Yes, we use a fully compliant mailing address so you can utilise it for DED registrations, free zone applications, and official documents."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I manage my mail remotely if I’m traveling?",
+                "answer": "Absolutely. You can instruct us to scan, hold, forward, or discard mail remotely, as well as collect essential documents when you’re available."
+            }
+        ]
+    }
+}

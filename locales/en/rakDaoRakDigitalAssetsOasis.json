@@ -1,0 +1,305 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/rakDaoRakDigitalAssetsOasis.webp",
+        "title": "Launch, Trade, & Scale Your Web3 or Blockchain Venture in RAK Digital Asset Oasis",
+        "description": "Enter the world's #1 Free Zone tailored for digital and virtual asset companies to unlock modern infrastructure, state-of-the-art incubation centers, and start-up friendly business policies. Our expert business consultants streamline all the paperwork to ensure you're at the forefront of the UAE's next digital revolution."
+    },
+    "leftSection_1": {
+        "title": "Why Entrepreneurs Choose RAK Digital Assets Oasis Free Zone?",
+        "description": "Launch your cryptocurrency or blockchain project in a Free Zone custom-built for digital businesses. Expand worldwide with Ras Al Khaimah's strategic location, 100% foreign ownership, and complete profit repatriation rights.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access World-Class Facilities",
+                "subTitle": "Access World-Class Facilities",
+                "description": "Diversify your cryptocurrency portfolio and preserve your digital assets by taking advantage of RAK DAO Free Zone's high-speed connectivity, cutting-edge networking infrastructure, and top-tier business facilities.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Get Unmatched Startup Support",
+                "subTitle": "Get Unmatched Startup Support",
+                "description": "Launch, operate, and thrive in RAK DAO’s conducive business environment through exciting mentorship, networking, and funding opportunities.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Unlock High-Privacy Protection",
+                "subTitle": "Unlock High-Privacy Protection",
+                "description": "Build, mine, and secure your digital assets with RAK DAO's flexible trading & Web3 regulations, along with robust privacy laws, ensuring the confidentiality of your portfolio.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Discover Exciting Tax Benefits",
+                "subTitle": "Discover Exciting Tax Benefits",
+                "description": "Retain more of your profits with the region's competitive corporate, personal income, import, and export taxes, driving profitability.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Permitted Business Activities in RAK Digital Assets Oasis",
+        "items": [
+            {
+                "id": 1,
+                "title": "Artificial Intelligence"
+            },
+            {
+                "id": 2,
+                "title": "Blockchain Development"
+            },
+            {
+                "id": 3,
+                "title": "Coding"
+            },
+            {
+                "id": 4,
+                "title": "Cybersecurity"
+            },
+            {
+                "id": 12,
+                "title": "DLT Services"
+            },
+            {
+                "id": 13,
+                "title": "Gaming & E-Gaming"
+            },
+            {
+                "id": 5,
+                "title": "Metaverse"
+            },
+            {
+                "id": 6,
+                "title": "Mining Equipment Manufacturing"
+            },
+            {
+                "id": 7,
+                "title": "Offshore Gaming Operator"
+            },
+            {
+                "id": 8,
+                "title": "Online Gaming Services"
+            },
+            {
+                "id": 9,
+                "title": "Proprietary Mining of Cryptocurrencies"
+            },
+            {
+                "id": 10,
+                "title": "Web3 Incubators"
+            },
+            {
+                "id": 11,
+                "title": "Web3 Venture Studio"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Right Digital License for Your Business Model",
+        "description": "Unlock limitless business growth and tax benefits by picking the best-fit trade license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Crypto License",
+                "description": "Kickstart your blockchain, DeFi, or token-based startup with the RAK DAO Authority-approved documents."
+            },
+            {
+                "id": 2,
+                "title": "Freelance Permit",
+                "description": "Build a powerful portfolio to launch your solo career or consultancy agency- no physical office needed."
+            },
+            {
+                "id": 3,
+                "title": "Professional License",
+                "description": "Draft a professional business plan to polish and showcase your skillset within and beyond the UAE."
+            },
+            {
+                "id": 4,
+                "title": "IT License",
+                "description": "Capitalise on RAK DAO's fast-growing tech industry by defining your tech scope and submitting a business plan."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/rakDaoRakDigitalAssetsOasis/left4/1.webp",
+            "title": "Join 400+ Web3 Innovators Thriving in a Digita-First Zone",
+            "description": "Gain instant investor and stakeholder trust by launching your business in the UAE's first-ever digital asset zone. We do all the heavy lifting to fast-track licensing.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/rakDaoRakDigitalAssetsOasis/left4/2.webp",
+            "title": "Pay Smart, Scale Fast— Get Tailored RAK DAO Licensing Costs",
+            "description": "Build your fintech or blockchain business in RAK with flexible pricing that grows with you—no surprises, no hidden fees. Only pay for the licensing solutions your digital business requires and scale as you grow.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify RAK DAO Setup in 5 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick a Business Activity",
+                "description": "We'll start with a brief call to gain a deep understanding of your products or services and business needs to suggest the ideal activity.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Reserve a Unique Name",
+                "description": "Next, our experts will help you select the best-fit legal entity and guide you in creating and registering a trade name.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Collect & Attest Documents",
+                "description": "We'll help you prepare the necessary documents, including passport and visa copies, corporate documents, and a business plan.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Issue a License",
+                "description": "Our seasoned consultants will help you apply for the appropriate trade license, pay the application fees, and send it your way.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Apply for a Bank Account",
+                "description": "We offer expert guidance beyond licensing, empowering you to apply for visa applications and create a corporate account.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Thousands Trust One Nexuz for Seamless RAK DAO Setup",
+        "description": "Navigate the complexities of RAK Digital Assets Oasis's digital-first business regulations with our team of seasoned business consultants and advisors.",
+        "items": [
+            {
+                "title": "Enjoy Seamless Trade Licensing",
+                "description": "We slash business setup times in half with our seamless registration and company formation process. Get started from anywhere, anytime- no physical presence required.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/bgImage/1.webp"
+            },
+            {
+                "title": "Unlock End-to-End Visa Solutions",
+                "description": "Our seasoned business consultants help you secure a UAE Residency or Investor Visa within days, not weeks, empowering you to work and live in the UAE.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/bgImage/2.webp"
+            },
+            {
+                "title": "Get Top-Notch Banking Support",
+                "description": "We leverage our reliable network of top-tier bank partners to guarantee first-time approvals even for high-risk cryptocurrency business activities.",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/rakDaoRakDigitalAssetsOasis/grid/1.webp",
+        "title": "Build, Scale, & Monetise with 170+ Approved Activities",
+        "description": "Enjoy unmatched licensing flexibility to fuel your growth—whether you're launching an NFT marketplace or building blockchain infrastructure. We help you choose the right RAK DAO business activity to match your goals.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up through RAK DAO was surprisingly smooth. As a crypto startup, we needed a jurisdiction that actually understood token-based business models—and this was the only one that did.",
+                "role": "DeFi Platform Co-Founder",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "What stood out to me was how crypto-friendly and bank-aware the team was. They knew exactly how to structure my setup to improve account approval chances.",
+                "role": "Blockchain Analytics Firm CEO",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "I applied for the freelance permit while working remotely and was licensed in under a week. No hidden fees, no office hassles—just clean, fast setup.",
+                "role": "Freelance UX Designer",
+                "image": "/assets/rakDaoRakDigitalAssetsOasis/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Ras Al Khaimah’s Top Free Zones",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAK Economic Zone",
+                "description": "Tap into emerging markets in the Middle East, Europe, North Africa, and Asia to recruit, hire, and retain top talent worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAK Maritime City",
+                "description": "Maximise freight efficiency by taking advantage of RAK Maritime City's access to key seaports, deep-water habours, and logistics facilities.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Unlock Limitless Web3 Growth with RAK DAO, UAE",
+        "description": "Scale your De-Fi, Web3, or NFT project by setting up at the crossroads of the East and West markets in RAK Digital Assets Oasis. Partner with our expert consultants to secure your license within 1-5 business days without breaking the bank.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/rakDaoRakDigitalAssetsOasis/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "RAKEZ - Ras Al Khaimah Economic Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "RAKMC - RAK Maritime City Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can expats set up a cryptocurrency business in RAK DAO?",
+                "answer": "Yes, RAK DAO offers foreigners 100% strategic ownership of their business- all without the hassle of a local partner or agent."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who can kickstart a company in the RAK Digital Assets Oasis Free Zone?",
+                "answer": "Anyone can launch a business in RAK DAO, as long as the nature of your company aligns with the available business activities."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to rent or lease a physical office to launch my business?",
+                "answer": "No, you can explore alternative, more cost-effective options like flexi-desks, virtual offices, and co-working spaces."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does it take to secure a license in the RAK DAO Free Zone?",
+                "answer": "It typically takes 1-14 days to select the ideal business activity and issue the relevant trade license."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I apply for a RAK Digital Assets Oasis license remotely?",
+                "answer": "Yes, our experts offer 100% remote business setup solutions, allowing you to launch from any corner of the world."
+            }
+        ]
+    }
+}

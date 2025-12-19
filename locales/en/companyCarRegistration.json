@@ -1,0 +1,324 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/companyCarRegistration.webp",
+        "title": "Drive Engagement, Boost Morale, & Win Talent with Our Seamless Company Car Registration Solutions in Dubai",
+        "description": "Frustrated with the UAE's stringent technical inspections, heavy documentation, and compliance requirements? At One Nexuz, we handle the entire process, from filing paperwork to securing insurance, so you can focus on core business activities. Build a healthy, more productive workplace, minimise transport costs, and diversify business assets with top-notch registered company vehicles."
+    },
+    "leftSection_1": {
+        "title": "Why Register Your Car Under Your UAE-Based Business",
+        "description": "Improve employee satisfaction, foster employee loyalty, and claim exciting tax deductions and capital gains benefits with a reliable registered company car.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Diversify Your Talent Pool",
+                "subTitle": "Diversify Your Talent Pool",
+                "description": "Attract, recruit, and retain top talent across borders by adding company vehicles to existing compensation packages, empowering employees to save thousands in repair, maintenance, and insurance costs.",
+                "image": "/assets/companyCarRegistration/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Unlock Exciting Tax Incentives",
+                "subTitle": "Unlock Exciting Tax Incentives",
+                "description": "Reclaim up to 10% VAT by registering cars through your company and building strategic taxation structures. Maximise your savings with low-emission or electric vehicles, slashing Benefit in Kind tax.",
+                "image": "/assets/companyCarRegistration/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Gain Unmatched Operational Mobility ",
+                "subTitle": "Gain Unmatched Operational Mobility ",
+                "description": "Ease travel across the UAE for employees, field technicians, directors, and co-owners with a fully compliant company car.",
+                "image": "/assets/companyCarRegistration/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Build a Strong Brand Image",
+                "subTitle": "Build a Strong Brand Image",
+                "description": "Boost brand visibility and credibility with branded corporate vehicles or a uniform fleet, signalling professionalism to prospective clients and investors.",
+                "image": "/assets/companyCarRegistration/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Foster Employee Loyalty with Our Comprehensive Company Car Registration Services",
+        "description": "Skip the endless paperwork, eliminate administrative headaches, and cut down registration costs with our end-to-end solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "New Vehicle Registration",
+                "description": "Be road-ready from day one with seamless company car registration solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Vehicle Registration Renewals",
+                "description": "Keep your vehicles compliant with remote and hassle-free renewals.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Ownership Transfers",
+                "description": "Transfer vehicles smoothly between branches or employees.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Inspection Solutions",
+                "description": "Schedule mandatory RTA inspections without zero operational disruptions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Car Insurance",
+                "description": "Gain strategic insurance advice to secure custom-built coverage.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Number Plate Services",
+                "description": "Replace or upgrade plates effortlessly to keep your fleet fully operational.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/companyCarRegistration/left4/1.webp",
+            "title": "Register Your Company Car in Days, Not Weeks",
+            "description": "Why waste time in queues and approvals? Our seamless company car registration service gets your fleet road-ready within 48 hours, so you can focus on business growth.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/companyCarRegistration/left4/2.webp",
+            "title": "Register Your Company Car Without the Hassle — Simple Pricing that Works for You",
+            "description": "No hidden fees, no confusing packages, and no surprise add-ons. Pay only for the services your business requires—vehicle registration, document handling, or compliance support—exactly when you need them.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Vehicle Registration for Your Company",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a No-Obligation Call",
+                "description": "We'll schedule a free consultation to discuss your business needs and collect the necessary documents.",
+                "image": "/assets/companyCarRegistration/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Conduct a Compliance Check",
+                "description": "Next, our specialists will verify documents, coordinate insurance, and inspect your car to flag any gaps.",
+                "image": "/assets/companyCarRegistration/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Register, Renew, or Transfer",
+                "description": "We submit and track your car registration or renewal application with the RTA, saving you the hassle of endless office visits.",
+                "image": "/assets/companyCarRegistration/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Obtain Official Documents",
+                "description": "Lastly, we'll send your registration documents and number plates to your preferred address, as well as set renewal reminders.",
+                "image": "/assets/companyCarRegistration/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Boost Employee Loyalty with One Nexuz's End-to-End Car Registration Services",
+        "description": "Navigate the UAE's stringent business landscape confidently with our seamless vehicle registration solutions. Ensure accuracy and precision in every application to mitigate the risk of costly errors and lawsuits.",
+        "items": [
+            {
+                "title": "Hit the Road in Days, Not Weeks",
+                "description": "Save 20+ hours of admin time per vehicle by partnering with our pros! We do all the legwork so you can focus on what you do best- growing your business.",
+                "image": "/assets/companyCarRegistration/bgImage/1.webp"
+            },
+            {
+                "title": "Maximise Investments at Resale",
+                "description": "Turn corporate cars into assets with a seamless company registration journey. Reclaim 5%+ VAT on every car and ensure a smooth transfer of ownership.",
+                "image": "/assets/companyCarRegistration/bgImage/2.webp"
+            },
+            {
+                "title": "Stay 100% RTA-Compliant",
+                "description": "With over a decade of experience, our experts ensure precision and accuracy in every application, saving you AED 10,000+ in hefty fines and penalties.",
+                "image": "/assets/companyCarRegistration/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/companyCarRegistration/grid/1.webp",
+        "title": "Fast-Track Your Fleet and Keep Operations Moving",
+        "description": "Whether you have one car or fifty, our registration experts manage the process from start to finish, giving your business unmatched speed and efficiency.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "We operate multiple vehicles under our trade license, and keeping track of renewal dates used to be a nightmare. With this service, all deadlines are monitored and handled for us, and registrations are processed in bulk. It’s saved our finance team from unnecessary fines and improved how we manage company assets.",
+                "role": "Contracting Firm Finance Director",
+                "image": "/assets/companyCarRegistration/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "We operate multiple vehicles under our trade license, and keeping track of renewal dates used to be a nightmare. With this service, all deadlines are monitored and handled for us, and registrations are processed in bulk. It’s saved our finance team from unnecessary fines and improved how we manage company assets.",
+                "role": " Tech Startup Founder",
+                "image": "/assets/companyCarRegistration/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "We manage a fleet of delivery vans across Dubai, and the renewal process used to eat up entire days of my team’s time. Since shifting to remote company car registration support, we no longer deal with queues, paperwork errors, or late fines.",
+                "role": " Logistics Firm Operations Manager ",
+                "image": "/assets/companyCarRegistration/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Supercharge Business Growth with Our Strategic Add-Ons",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Business Plan Preparation",
+                "description": "Win investor trust, expedite market-to-entry, and secure licenses with a business plan.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Build a lasting first impression and foster credibility with fully equipped meeting rooms.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registration",
+                "description": "Save thousands on import and export by securing your FTA-approved IEC code",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "description": "Validate product ideas and unlock market insights with data-driven feasibility studies.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Move across borders stress-free with our end-to-end travel and visa support solutions.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Nominee",
+                "description": "Streamline all government approvals and maintain privacy with nominee support.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Sponsor Arrangement",
+                "description": "Tap into cutting-edge local markets and facilities with a verified sponsor.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner Services",
+                "description": "Expedite visa & bank approvals and unlock market insights with a trusted local agent.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Cut Insurance Risks with Professional Company Car Registration",
+        "description": "Stop losing hours in queues and government back-and-forth with our seamless company car registration services. Stay 100% RTA compliant, prevent costly fines, and boost operational flexibility, so your business never slows down.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/companyCarRegistration/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Local Sponsor Arrangement",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I register or renew a company car without an Emirates ID?",
+                "answer": "No, an Emirates ID is vital for registering a company car, as well as renewing your registration. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What documents do I need to register my company car?",
+                "answer": "Generally, you'll need a trade license, Emirates ID, vehicle purchase invoice, insurance certificate, and an authorisation letter from the company, depending on your selected company car and jurisdiction."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I renew my company car online in the UAE?",
+                "answer": "Yes, our experts allow you to handle your company car renewals entirely online and stay compliant without risking penalties or losing valuable time.”"
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How long does it take to register a company vehicle?",
+                "answer": "It takes 1-2 working days to register your company vehicle, depending on the readiness of the documents and the size of your fleet."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer support for de-registering a car in Dubai, UAE?",
+                "answer": "Yes, our certified professionals can assist you with registering or deregistering a company car anywhere in the UAE."
+            }
+        ]
+    }
+}

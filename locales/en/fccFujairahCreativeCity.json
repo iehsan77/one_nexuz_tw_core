@@ -1,0 +1,275 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/fccFujairahCreativeCity.webp",
+        "title": "Create, Collaborate, & Scale Your Media Venture Seamlessly in Fujairah Creative City with One Nexuz",
+        "description": "Streamline your licensing application, secure bank account approvals, and stay compliant stress-free with our end-to-end business setup solutions in Fujairah Creative City Free Zone. Live, work, and thrive in the region’s media clusters designed to empower creatives with strategic access to global markets and exciting growth opportunities."
+    },
+    "leftSection_1": {
+        "title": "Why Creative Professionals Choose Fujairah Creative City Free Zone",
+        "description": "With minimal capital requirements and maximum flexibility, Fujairah Creative City is the go-to zone for solopreneurs and creative consultants. Kickstart your startup or expand globally with fast, reliable, and cost-efficient setup solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Gain Unrestricted Global Access ",
+                "subTitle": "Gain Unrestricted Global Access ",
+                "description": "Take advantage of Fujairah Creative City's strategic location to tap into over 1.4 billion consumers across Asia, Africa, and the Middle East.",
+                "image": "/assets/fccFujairahCreativeCity/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Save Millions on Office Setup ",
+                "subTitle": "Save Millions on Office Setup ",
+                "description": "Reclaim AED 10,000-30,000 annually on physical office space by exploring alternative flexi-desk and virtual office options.",
+                "image": "/assets/fccFujairahCreativeCity/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Apply for Multiple Visas ",
+                "subTitle": "Apply for Multiple Visas ",
+                "description": "Scale your business across the UAE by bundling up to 3 business activities under a single license. Apply for 15+ visas with your license as your team grows. ",
+                "image": "/assets/fccFujairahCreativeCity/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Enjoy Full Capital Repatriation",
+                "subTitle": "Enjoy Full Capital Repatriation",
+                "description": "Maximise your revenue with 100% strategic control of your business, 0% income & personal tax, and complete profit repatriation.",
+                "image": "/assets/fccFujairahCreativeCity/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Eligible Business Activities in Fujaira Creative City Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Audio & Visual Business"
+            },
+            {
+                "id": 2,
+                "title": "Broadcasting"
+            },
+            {
+                "id": 3,
+                "title": "Business Information"
+            },
+            {
+                "id": 4,
+                "title": "Consultancy"
+            },
+            {
+                "id": 5,
+                "title": "Design"
+            },
+            {
+                "id": 6,
+                "title": "Education"
+            },
+            {
+                "id": 7,
+                "title": "Event Management"
+            },
+            {
+                "id": 8,
+                "title": "Information Technology"
+            },
+            {
+                "id": 9,
+                "title": "Media & Entertainment"
+            },
+            {
+                "id": 10,
+                "title": "Media & Marketing"
+            },
+            {
+                "id": 11,
+                "title": "Media Support Services"
+            },
+            {
+                "id": 12,
+                "title": "New Media Services"
+            },
+            {
+                "id": 13,
+                "title": "Production"
+            },
+            {
+                "id": 14,
+                "title": "Publishing Business"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Explore Diverse Trade Licenses in the FCC Free Zone",
+        "description": "Find the ideal license in Fujairah Creative City FZ based on your selected business activity and legal structure",
+        "items": [
+            {
+                "id": 1,
+                "title": "IT License",
+                "description": "Launch your digital service, tech, or software company- no office or local partner required."
+            },
+            {
+                "id": 2,
+                "title": "Media License",
+                "description": "Set up as a freelancer or agency with your passport and brief business description."
+            },
+            {
+                "id": 3,
+                "title": "Professional License",
+                "description": "Start your solo practice or consultancy with a powerful resume & MOFA-verified degrees."
+            },
+            {
+                "id": 4,
+                "title": "Consultancy License",
+                "description": "Submit your business profile and secure your license, all without the hassle of lengthy audits"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/fccFujairahCreativeCity/left4/1.webp",
+            "title": "Launch From Anywhere With No Office Requirement",
+            "description": "Simplify business setup with Fujairah Creative City’s 100% remote business operations- no physical or NOC needed!",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/fccFujairahCreativeCity/left4/2.webp",
+            "title": "Build Your Vision, Your Way—Get Tailored Fujairah Creative City Licensing Costs",
+            "description": "Start small, scale smart. Avoid hidden fees and rigid packages while building your creative business with a setup tailored quote to your needs.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Fujairah Creative City Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select Your Trade License",
+                "description": "We’ll start by assessing your business needs and suggest the ideal business activities and license.",
+                "image": "/assets/fccFujairahCreativeCity/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Next, our expert business consultants will help you attest and submit all the necessary documents.",
+                "image": "/assets/fccFujairahCreativeCity/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get Initial Approvals",
+                "description": "Once the Fujairah FZ Authority approves your application, we’ll help you apply for and secure your license.",
+                "image": "/assets/fccFujairahCreativeCity/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Pay Application Fees",
+                "description": "We’ll pay the licensing fee on your behalf and collect it within 1-7 working days, empowering you to set up 100% compliant.",
+                "image": "/assets/fccFujairahCreativeCity/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "We provide ongoing support to help you apply for a residency visa, open a corporate account, and sponsor teams or family members.",
+                "image": "/assets/fccFujairahCreativeCity/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Founders Trust One Nexuz for Seamless FCC FZ Business Setup",
+        "description": "Reclaim time spent navigating the complexities of Fujairah Creative City’s complex regulatory landscape with our expert team of business consultants.",
+        "items": [
+            {
+                "title": "Set up in Days, Not Weeks",
+                "description": "With direct access to the FCC, our expert consultants fast-track your application, providing you with your license within 1-7 days.",
+                "image": "/assets/fccFujairahCreativeCity/bgImage/1.webp"
+            },
+            {
+                "title": "Get Tailored Setup Solutions",
+                "description": "Our experts match you with one of the 7 dedicated hubs and 2,000+ business activities to provide you with customised business setup services.",
+                "image": "/assets/fccFujairahCreativeCity/bgImage/2.webp"
+            },
+            {
+                "title": "Secure Residency with Ease",
+                "description": "Get your trade license, bank account, residency visa, and sponsor your loved ones all under one roof with our comprehensive FCC setup plans.",
+                "image": "/assets/fccFujairahCreativeCity/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/fccFujairahCreativeCity/grid/1.webp",
+        "title": "Join the 3,000+ Businesses Succeeding in FCC Free Zone",
+        "description": "Access over 2,000 licensed activities and 100% foreign ownership without capital requirements with our seamless setup solutions in Fujairah Creative City.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“As a freelance videographer, I needed a legal way to invoice clients and apply for a visa. Creative City made it affordable and stress-free, and the team guided me every step of the way.”",
+                "role": "Media Freelancer",
+                "image": "/assets/fccFujairahCreativeCity/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I was outside the UAE and still managed to get my IT license remotely. The process was fast, transparent, and perfectly suited for solo founders like me working with international clients.”",
+                "role": " SaaS Entrepreneur",
+                "image": "/assets/fccFujairahCreativeCity/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“Setting up my consultancy through FCC was smoother than I imagined. I submitted my documents online and had my license in less than a week—with no office rent or hidden costs.”",
+                "role": "Marketing Consultant",
+                "image": "/assets/fccFujairahCreativeCity/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Go Global with a Fujairah Creative City License",
+        "description": "Unlock flexible licensing options, affordable business setup, and access to UAE residency by launching in Fujairah Creative City Free Zone. Partner with our experts to streamline all the paperwork and avoid compliance headaches.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/fccFujairahCreativeCity/grid/2.webp"
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why should I set up or expand my business in Fujairah Creative City?",
+                "answer": "FCC Free Zone boasts a vibrant culture, competitive tax benefits, full profits repatriation, and world-class infrastructure."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to get licensed in Fujairah Creative City?",
+                "answer": "It generally takes 1-7 working days to secure your FCC license and set up your business."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I set up my business in Fujairah Creative City FZ remotely?",
+                "answer": "Yes, Fujairah Creative City offers 100% remote business set up solutions, empowering you to launch your creative ventures from any corner of the world. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What are the different types of business structure allowed in FCC FZ?",
+                "answer": "The FCC Free Zone allows businesses to choose from a variety of legal entities, including branch of a foreign or UAE company, free zone company, and free zone establishment."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How many business activities can I choose from in Fujairah Free Zone?",
+                "answer": "You can choose from 2,000+ business activities, including medical, media, communication, travel, hotel supplies, aviation, and more."
+            }
+        ]
+    }
+}

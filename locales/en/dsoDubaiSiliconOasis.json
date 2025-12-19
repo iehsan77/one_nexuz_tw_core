@@ -1,0 +1,442 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/dsoDubaiSiliconOasis.webp",
+        "title": "From Idea to Prototype to Market — Innovate Breakthrough Technologies in Dubai Silicon Oasis Free Zone with One Nexuz",
+        "description": "Struggling to meet DSO’s innovation-centric licensing criteria, multiple business plan rejections, or insufficient visa quotas? At One Nexuz, our skilled consultants simplify all the documentation and bureaucracy, accelerating license and visa issuance and reducing your time-to-market. Launch in a global innovation hub to tap into DSO Free Zone's innovative infrastructure, a thriving technology ecosystem, and zero personal or corporate income taxes!"
+    },
+    "leftSection_1": {
+        "title": "Why Tech Experts Choose Dubai Silicon Oasis Free Zone",
+        "description": "Take advantage of DSO's strategic location to gain international connectivity via the Dubai International Airport, Port Rashid, and Jebel Ali Port. Drive business growth with the Free Zone's hi-tech ecosystem, ready-made offices, and modern amenities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Cutting-Edge Infrastructure",
+                "subTitle": "Access Cutting-Edge Infrastructure",
+                "description": "Discover, innovate, and introduce revolutionary tech products or services by tapping into Dubai Silicon Oasis's world-class business facilities, such as the Techno Hub, Incubators, and Digital Parks.",
+                "image": "/assets/dsoDubaiSiliconOasis/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Discover Unmatched Tax-Efficiency",
+                "subTitle": "Discover Unmatched Tax-Efficiency",
+                "description": "Maximise profitability with DSO Free Zone's tax-friendly landscape, offering zero personal income, import, and export taxes, and full profit repatriations.",
+                "image": "/assets/dsoDubaiSiliconOasis/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Build organic relationships with venture capitalists, industry leaders, and like-minded individuals during professional conferences, product launches, tech expos, and more!",
+                "image": "/assets/dsoDubaiSiliconOasis/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Scale Your Team Confidently",
+                "subTitle": "Scale Your Team Confidently",
+                "description": "Recruit, hire, and retain top talent worldwide stress-free with Dubai Silicon Oasis's visa allocation flexibility. Bundle up to 7 business activities and apply for 5+ visas under a single license.",
+                "image": "/assets/dsoDubaiSiliconOasis/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Dubai Silicon Oasis Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Āviation"
+            },
+            {
+                "id": 2,
+                "title": "CAD/CAE Services"
+            },
+            {
+                "id": 3,
+                "title": "Consultancy"
+            },
+            {
+                "id": 4,
+                "title": "Design"
+            },
+            {
+                "id": 5,
+                "title": "Education"
+            },
+            {
+                "id": 6,
+                "title": "Health"
+            },
+            {
+                "id": 7,
+                "title": "Hospitality"
+            },
+            {
+                "id": 8,
+                "title": "Logistics"
+            },
+            {
+                "id": 9,
+                "title": "Marketing"
+            },
+            {
+                "id": 10,
+                "title": "Office Manufacturing"
+            },
+            {
+                "id": 11,
+                "title": "Packaging"
+            },
+            {
+                "id": 12,
+                "title": "Storage"
+            },
+            {
+                "id": 13,
+                "title": "Testing"
+            },
+            {
+                "id": 14,
+                "title": "Tourism"
+            },
+            {
+                "id": 15,
+                "title": "Trading"
+            },
+            {
+                "id": 16,
+                "title": "Transport"
+            },
+            {
+                "id": 17,
+                "title": "Waste Management"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Choose the Best Free Zone License for Your DSO Business Model",
+        "description": "Browse over 500+ business activities and get matched with the ideal license to unlock exciting tax benefits.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Industrial License",
+                "description": "Get DSOA approvals to manufacture and package in the FZ's cutting-edge tech hubs."
+            },
+            {
+                "id": 2,
+                "title": "Service License",
+                "description": "Create a professional resume to establish your service-based or professional business."
+            },
+            {
+                "id": 3,
+                "title": "Trade License",
+                "description": "Craft a tailored business plan and select the best-fit business activity to simplify global trade."
+            },
+            {
+                "id": 4,
+                "title": "Business Operation Permit",
+                "description": "Secure a mainland trade license to scale your mainland company to the DSO Free Zone."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/dsoDubaiSiliconOasis/left4/1.webp",
+            "title": "Cut Commute Friction in the UAE's 15-Minute City",
+            "description": "Set up in DSO to tap instant talent pools, smart infrastructure, and a live-work ecosystem that keeps your team productive and your costs predictable.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/dsoDubaiSiliconOasis/left4/2.webp",
+            "title": "Launch in DSO Confidently — Transparent Costs, No Surprises",
+            "description": "No hidden charges, no unnecessary add-ons. Get clear Dubai Silicon Oasis Free Zone licensing costs built around your business setup needs and scale as you grow!",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Dubai Silicon Oasis Free Zone Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose a Legal Structure",
+                "description": "We'll start with a brief consultation to determine your business goals and suggest the best-fit company registration form.",
+                "image": "/assets/dsoDubaiSiliconOasis/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Finalise a Business Name",
+                "description": "Next, our experts will help you select and reserve a unique trade name and identify the ideal business activity.",
+                "image": "/assets/dsoDubaiSiliconOasis/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare Your Documents",
+                "description": "We'll help you compile and submit the required documents and complete paperwork to streamline company formation in DSO.",
+                "image": "/assets/dsoDubaiSiliconOasis/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Collect Your License",
+                "description": "Once the DSO Authority approves your application, we'll issue your trade license, empowering you to start operating.",
+                "image": "/assets/dsoDubaiSiliconOasis/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Set Up Your Bank Account",
+                "description": "Lastly, we'll connect you with a trusted bank partner to open a personal or corporate account to simplify business financing.",
+                "image": "/assets/dsoDubaiSiliconOasis/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Streamline DSO Company Formation with One Nexuz",
+        "description": "Prevent unexpected delays, costly rejections, and frustrating hidden fees with our seamless Dubai Silicon Oasis business setup solutions.",
+        "items": [
+            {
+                "title": "Fast, Reliable, and Affordable Setup",
+                "description": "Our skilled business consultants simplify documentation and coordinate government back-and-forth to slash setup times by half at a fraction of the cost.",
+                "image": "/assets/dsoDubaiSiliconOasis/bgImage/1.webp"
+            },
+            {
+                "title": "Dedicated PRO for Every Client",
+                "description": "Skip the hassle of juggling multiple departments, filling endless paperwork, and losing track of your setup process with reliable PRO specialists.",
+                "image": "/assets/dsoDubaiSiliconOasis/bgImage/2.webp"
+            },
+            {
+                "title": "All-in-One Business Solutions",
+                "description": "Launch your business, get your trade license, open a corporate bank account, and secure investor or employer visas under one roof without breaking the bank.",
+                "image": "/assets/dsoDubaiSiliconOasis/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/dsoDubaiSiliconOasis/grid/1.webp",
+        "title": "Plug Into 11 Industry Clusters and Access 60,000+ Talents",
+        "description": "Partner with our skilled consultants to get matched with the right DSO cluster to tap into a diverse talent pool and build strategic partnerships to power your growth.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "I had heard horror stories about delays and hidden fees, but my DSO license was ready in just 5 days exactly as quoted. The team handled every step and even secured my bank account in under a week.",
+                "role": "Founder, E-Commerce Startup",
+                "image": "/assets/dsoDubaiSiliconOasis/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Setting up remotely seemed risky, but I didn’t have to fly in until my Emirates ID appointment. Everything from document submission to visa stamping was seamless and transparent.",
+                "role": "CEO, Tech Consultancy",
+                "image": "/assets/dsoDubaiSiliconOasis/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "They explained every cost upfront and there were zero surprises. We went from business idea to operational in 8 days, with all 4 visas processed on time.",
+                "role": "Director, Software Development Firm",
+                "image": "/assets/dsoDubaiSiliconOasis/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Find Your Perfect Business Launchpad in Dubai",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dubai Airport Free Zone",
+                "description": "Unlock tax-free trade in a hub designed for speed, efficiency, and seamless customs clearance.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Dubai Auto Zone",
+                "description": "Position your brand in a specialised zone to import, export, and re-export vehicles across borders.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Dubai Internet City",
+                "description": "Access a thriving ecosystem of 1,600+ ICT companies and global tech giants in the heart of Dubai.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Dubai Media City",
+                "description": "Collaborate with top media brands and content creators to produce and publish stress-free.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Dubai Multi Commodities Center",
+                "description": "Base your operations in the world's #1 free zone to trade precious metals, coloured gems, and diamonds.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai Technology Entrepreneur Center",
+                "description": "Scale your startup effortlessly in MENA's largest tech co-working hub with access to cutting-edge facilities.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Dubai South Free Center",
+                "description": "Build your business adjacent to the Jebel Ali Port and  Al Maktoum International Airport for seamless trade.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Dubai World Trade Center Free Zone",
+                "description": "Network with global businesses in high-profile trade shows, product launches, and expos in DWTC FZ.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "description": "Position your brand in Dubai’s top visionary hub for clean tech, global events, and future industries.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Free Zone Authority",
+                "description": "Expedite business setup with IFZA’s fast business setup, remote registration, and competitive visa packages.",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Jebel Ali Free Zone",
+                "description": "Join a Free Zone with over 8,000 companies from 140+ countries by launching at the junction of the East & West.",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Meydan Free Zone",
+                "description": "Access cutting-edge business hubs and save on office space by choosing Meydan Free Zone.",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "Technology Electronic Commerce and Media Group",
+                "description": "Discover specialised business communities and top-notch facilities by exploring 10+ Free Zones.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Set Up Your DSO Business in Dubai's Top Tech Hub",
+        "description": "Kickstart your business in one of Dubai's most advanced Free Zones to research and innovate in IT, industrial, engineering, and electronics sectors. Trust our skilled business consultants to streamline the process to fast-track DSO business setup.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/dsoDubaiSiliconOasis/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "DAFZ - Dubai Airport Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "DAZ - Dubai Auto Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "DIC - Dubai Internet City",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "DMC - Dubai Media City",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "DMCC - Dubai Multi Commodities Center",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Dubai South Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "DTEC - Dubai Technology Entrepreneur Center",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "DWTC - Dubai World Trade Center Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Expo City Dubai Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "IFZA - International Free Zone Authority ",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "MFZ - Meydan Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "TECOM - Technology Electronic Commerce and Media Group",
+                "url": "#"
+            },
+            {
+                "id": 13,
+                "title": "JAFZA - Jebel Ali Free Zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are the benefits of setting up in Dubai Silicon Oasis?",
+                "answer": "The Dubai Silicon Oasis Free Zone empowers entrepreneurs and business owners with state-of-the-art infrastructure, modern tech facilities, innovative incubators, and strategic access to international markets."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to have a local partner to launch my DSO company?",
+                "answer": "No, DSO FZ offers expats 100% strategic ownership of their company alongside full capital and profit repatriation."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How many activities can I bundle on my trade license in DSO? ",
+                "answer": "You can bundle 3-7 business activities, depending on your chosen Free Zone license and legal structure."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is physical presence necessary to set up a business in Dubai Silicon Oasis?",
+                "answer": "No, our experts offer completely remote business setup solutions, empowering you to get started from any corner of the world."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz offer assistance for opening a DSO corporate bank account?",
+                "answer": "Yes, our skilled business specialists can help you set up a corporate bank account linked to your DSO company for seamless financing."
+            }
+        ]
+    }
+}

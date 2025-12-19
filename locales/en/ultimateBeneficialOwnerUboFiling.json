@@ -1,0 +1,269 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/ultimateBeneficialOwnerUboFiling.webp",
+        "title": "Clarify Ownership Structures, Resolve Ambiguities, and Submit Error-Free UBO Filings with Our All-in-One Solutions",
+        "description": "Struggling with complex local regulations, endless paperwork, and costly delays? Navigate UBO filings, tradename approvals, and notarisation with One Nexuz, saving you time and costs. Build brand trust and credibility, strengthen your business reputation, minimise the risk of legal disputes, and ensure regulatory readiness with our expert UBO filing services in the UAE."
+    },
+    "leftSection_1": {
+        "title": "Why Accurate UBO Reporting Is Critical for Every UAE Business",
+        "description": "Build transparency, foster stakeholder trust, and ensure regulatory compliance with professional ultimate beneficial owner filing solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Stay Ahead of Fines and Keep Your Operations Risk-Free",
+                "subTitle": "Stay Ahead of Fines and Keep Your Operations Risk-Free",
+                "description": "Prevent hefty fines or penalties, ensure compliance with the UAE’s stringent requirements, and stay inspection-ready with reliable UBO filing support.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Capture, Verify & Showcase Ownership Instantly—Impress Stakeholders without Lifting a Finger",
+                "subTitle": "Capture, Verify & Showcase Ownership Instantly—Impress Stakeholders without Lifting a Finger",
+                "description": "Win instant credibility with banks, investors, and government authorities, protect your business reputation, and signal professionalism.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Stay Inspection-Ready, Avoid Surprises, and Operate Confidently",
+                "subTitle": "Stay Inspection-Ready, Avoid Surprises, and Operate Confidently",
+                "description": "Streamline corporate transactions, minimise operational disruptions, and stay prepared for inspections, audits, and government queries all year round.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left1/3.webp"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/ultimateBeneficialOwnerUboFiling/left4/1.webp",
+            "title": "Your UBO Filing, Your Way — Transparent Quotes Built for Your Business",
+            "description": "No confusing packages. No hidden fees. No surprise add-ons. Know your costs upfront and focus on scaling while we handle your UBO obligations in the UAE.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Simplify UBO Compliance with Our 4-Step Solution",
+        "items": [
+            {
+                "id": 1,
+                "title": "Share Your Business Details",
+                "description": "We’ll schedule a free consultation to assess your company structure, ownership information, and any existing documents.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Determine Your UBOs",
+                "description": "Our experts determine the ultimate beneficial owners per UAE regulations, handling even complex ownership structures with precision.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Verify & Notarise Documents",
+                "description": "Next, we’ll prepare, validate, attest, and notarise the required documents, ensuring every form is fully compliant and submission-ready.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Compliance Confirmations",
+                "description": "Finally, we’ll submit your UBO filings to the relevant Mainland or Free Zone authorities and provide confirmation of compliance!",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why UAE-Based Businesses Trust One Nexuz for Expert UBO Filing Services",
+        "description": "Stay audit-ready, avoid fines, and build credibility with accurate, hassle-free UBO filings.",
+        "items": [
+            {
+                "title": "Expert Regulatory Knowledge",
+                "description": "Prevent costly errors and ensure accurate, timely, and UAE-compliant filings with our local experts guiding you every step of the way.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/bgImage/1.webp"
+            },
+            {
+                "title": "Time-Saving Convenience",
+                "description": "Reclaim time and money lost navigating complex UBO requirements by trusting our seasoned PRO specialists to handle the 60-day filing and 15-day updates.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/bgImage/2.webp"
+            },
+            {
+                "title": "Future-Ready Compliance",
+                "description": "Our experts keep you up-to-date with the UAE’s fast-evolving UBO regulations, protecting you from potential penalties or operational disruptions.",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/ultimateBeneficialOwnerUboFiling/grid/1.webp",
+        "title": "Avoid Fines of AED100,000+ — Get UBO Right with One Nexuz",
+        "description": "Skip the licensing headaches, prevent costly penalties, and stay fully compliant with the UAE’s UBO regulations. With our experts, you can save time, protect your business, and gain complete peace of mind!",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz made what seemed like a complicated compliance process completely effortless. Their team handled every document and filing with precision, saving us time and avoiding costly mistakes.”",
+                "role": "Tech Startup Finance Director",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Thanks to One Nexuz, our UBO filings were completed quickly and accurately. The team’s guidance gave us complete peace of mind, letting us focus on growing our business in the UAE.”",
+                "role": "Offshore Consulting Firm Managing Partner",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I was worried about navigating UAE regulations, but One Nexuz simplified everything. From notarization to trade name approvals, they handled it all efficiently and professionally.”",
+                "role": "Mainland Trading Company CEO",
+                "image": "/assets/ultimateBeneficialOwnerUboFiling/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Never Miss a UBO Filing Again with One Nexuz",
+        "description": "Win investor and creditor confidence, strengthen business resilience, and ensure AML/CTF compliance with One Nexuz. Our expert team ensures fast, hassle-free submission—so you stay compliant without lifting a finger.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/ultimateBeneficialOwnerUboFiling/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Copyright Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Company Registration",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Trade Name Reservation",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Trademark Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "License Registration & Renewal",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "VAT Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Corporate Tax Registration & Filing",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Document Attestation",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Legal Translation",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Power of Attorney Drafting",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Notarisation Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is an Ultimate Beneficial Owner (UBO)?",
+                "answer": "A UBO is the natural person who ultimately owns or controls a company, typically someone holding 25% or more ownership or controlling key decisions."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Who needs to file UBO information in the UAE?",
+                "answer": "All Mainland and Free Zone companies — including LLCs, partnerships, and certain offshore entities — are required to submit accurate UBO details to authorities."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does the UBO filing process take?",
+                "answer": "With One Nexuz, most filings are completed within a few business days once you provide all the necessary documents."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What happens if I don’t file my UBO information?",
+                "answer": "Failure to submit UBO filings can result in fines, license suspensions, or even legal penalties. Our experts help you ensure regulatory requirements and timely filings."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Is my personal information secure with One Nexuz?",
+                "answer": "Absolutely! We adhere to strict data protection standards to safeguard all sensitive business and personal information."
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Comprehensive UBO Filing Solutions at Your Fingertips",
+        "description": "Ensure your business stays compliant with our all-in-one UBO filing solutions tailored to Mainland and Free Zone requirements.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/1.svg",
+                "title": "UBO Preparation & Documentation"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/2.svg",
+                "title": "UBO Filing & Submission"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/3.svg",
+                "title": "Ownership Updates & Amendments"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/4.svg",
+                "title": "Compliance Review & Advisory"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/5.svg",
+                "title": "Audit & Verification Support"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/ultimateBeneficialOwnerUboFiling/iconTitleSec/5.svg",
+                "title": "Regulatory Guidance"
+            }
+        ]
+    }
+}
