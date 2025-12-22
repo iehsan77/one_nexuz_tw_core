@@ -46,9 +46,9 @@ function Footer() {
             {t.btn.contactUsNow}
           </LanguageAwareLink>
           <div className="space-y-3 sm:block hidden">
-              <Typography color="white" size="base">
-                {t.footer.social}
-              </Typography>
+            <Typography color="white" size="base">
+              {t.footer.social}
+            </Typography>
             <div className="flex items-center gap-4">
               {footerSocials?.map((item, i) => (
                 <Link href={item?.href} key={i} className="text-white">
@@ -56,13 +56,13 @@ function Footer() {
                 </Link>
               ))}
             </div>
-              <Image
-                src="/assets/qrCode.svg"
-                alt="logo"
-                width={153}
-                height={46}
-                className="w-auto h-auto object-contain"
-              />
+            <Image
+              src="/assets/qrCode.svg"
+              alt="logo"
+              width={153}
+              height={46}
+              className="w-auto h-auto object-contain"
+            />
           </div>
         </div>
         {/*  */}
@@ -163,7 +163,7 @@ function Footer() {
                   </Typography>
                   <div className="flex flex-col gap-4">
                     {item?.items?.map((item) => (
-                      <LanguageAwareLink key={item?.id} href="#">
+                      <LanguageAwareLink key={item?.id} href={item?.url || "#"}>
                         <Typography as="p" size="sm" color="white">
                           {item?.title}
                         </Typography>
@@ -177,24 +177,24 @@ function Footer() {
           </div>
         </div>
         <div className="space-y-3 sm:hidden block">
-              <Typography color="white" size="base">
-                {t.footer.social}
-              </Typography>
-            <div className="flex items-center gap-4">
-              {footerSocials?.map((item, i) => (
-                <Link href={item?.href} key={i} className="text-white">
-                  <Icon icon={item?.icon} width={22} height={22} />
-                </Link>
-              ))}
-            </div>
-              <Image
-                src="/assets/qrCode.svg"
-                alt="logo"
-                width={153}
-                height={46}
-                className="w-auto h-auto object-contain"
-              />
+          <Typography color="white" size="base">
+            {t.footer.social}
+          </Typography>
+          <div className="flex items-center gap-4">
+            {footerSocials?.map((item, i) => (
+              <Link href={item?.href} key={i} className="text-white">
+                <Icon icon={item?.icon} width={22} height={22} />
+              </Link>
+            ))}
           </div>
+          <Image
+            src="/assets/qrCode.svg"
+            alt="logo"
+            width={153}
+            height={46}
+            className="w-auto h-auto object-contain"
+          />
+        </div>
       </div>
     </div>
   );

@@ -34,12 +34,18 @@
         "title": "10+",
         "description": "Years of Building & Scaling Businesses"
       },
-      { "title": "1000+", "description": "Clients Thriving With Our Support" },
+      {
+        "title": "1000+",
+        "description": "Clients Thriving With Our Support"
+      },
       {
         "title": "200+",
         "description": "Professionals Working Behind Your Success"
       },
-      { "title": "99%", "description": "Success Rate on License Approvals" },
+      {
+        "title": "99%",
+        "description": "Success Rate on License Approvals"
+      },
       {
         "title": "AED 10M+",
         "description": "Saved for Businesses via PRO Solutions"
@@ -124,9 +130,18 @@
         "description": "PRO Services Director",
         "image": "/assets/meetVisionaries/1.webp",
         "links": [
-          { "link": "#", "icon": "ic:baseline-facebook" },
-          { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "pajamas:twitter" }
+          {
+            "link": "#",
+            "icon": "ic:baseline-facebook"
+          },
+          {
+            "link": "#",
+            "icon": "ant-design:linkedin-filled"
+          },
+          {
+            "link": "#",
+            "icon": "pajamas:twitter"
+          }
         ]
       },
       {
@@ -134,9 +149,18 @@
         "description": "Head of Business Setup",
         "image": "/assets/meetVisionaries/2.webp",
         "links": [
-          { "link": "#", "icon": "ic:baseline-facebook" },
-          { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "pajamas:twitter" }
+          {
+            "link": "#",
+            "icon": "ic:baseline-facebook"
+          },
+          {
+            "link": "#",
+            "icon": "ant-design:linkedin-filled"
+          },
+          {
+            "link": "#",
+            "icon": "pajamas:twitter"
+          }
         ]
       },
       {
@@ -144,9 +168,18 @@
         "description": "Corporate Services Manager",
         "image": "/assets/meetVisionaries/3.webp",
         "links": [
-          { "link": "#", "icon": "ic:baseline-facebook" },
-          { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "pajamas:twitter" }
+          {
+            "link": "#",
+            "icon": "ic:baseline-facebook"
+          },
+          {
+            "link": "#",
+            "icon": "ant-design:linkedin-filled"
+          },
+          {
+            "link": "#",
+            "icon": "pajamas:twitter"
+          }
         ]
       },
       {
@@ -154,9 +187,18 @@
         "description": "Client Relations Manager",
         "image": "/assets/meetVisionaries/4.webp",
         "links": [
-          { "link": "#", "icon": "ic:baseline-facebook" },
-          { "link": "#", "icon": "ant-design:linkedin-filled" },
-          { "link": "#", "icon": "pajamas:twitter" }
+          {
+            "link": "#",
+            "icon": "ic:baseline-facebook"
+          },
+          {
+            "link": "#",
+            "icon": "ant-design:linkedin-filled"
+          },
+          {
+            "link": "#",
+            "icon": "pajamas:twitter"
+          }
         ]
       }
     ]
@@ -219,27 +261,27 @@
           {
             "id": 1,
             "title": "Affiliates & Partners",
-            "url": "#"
+            "url": "/affiliates-partners"
           },
           {
             "id": 2,
             "title": "About Us",
-            "url": "#"
+            "url": "/about-us"
           },
           {
             "id": 3,
             "title": "Contact us",
-            "url": "#"
+            "url": "/contact-us"
           },
           {
             "id": 4,
             "title": "Privacy policy",
-            "url": "#"
+            "url": "/privacy-policy"
           },
           {
             "id": 5,
             "title": "Terms of Service",
-            "url": "#"
+            "url": "/terms-and-conditions"
           },
           {
             "id": 6,
@@ -273,44 +315,86 @@
       {
         "id": 1,
         "title": "Mortgage Partners",
+        "description": "Simplify financing with our reputable mortgage lenders to close deals faster.",
         "data": [
-          { "image": "/assets/mortgagePartner/1.webp" },
-          { "image": "/assets/mortgagePartner/2.webp" },
-          { "image": "/assets/mortgagePartner/3.webp" }
+          {
+            "image": "/assets/mortgagePartner/1.webp"
+          },
+          {
+            "image": "/assets/mortgagePartner/2.webp"
+          },
+          {
+            "image": "/assets/mortgagePartner/3.webp"
+          }
         ]
       },
       {
         "id": 2,
         "title": "Banking Partners",
+        "description": "Skip the guesswork with direct access to leading regional and global banks.",
         "data": [
-          { "image": "/assets/bankingPartner/1.webp" },
-          { "image": "/assets/bankingPartner/2.webp" },
-          { "image": "/assets/bankingPartner/3.webp" },
-          { "image": "/assets/bankingPartner/4.webp" },
-          { "image": "/assets/bankingPartner/5.webp" }
+          {
+            "image": "/assets/bankingPartner/1.webp"
+          },
+          {
+            "image": "/assets/bankingPartner/2.webp"
+          },
+          {
+            "image": "/assets/bankingPartner/3.webp"
+          },
+          {
+            "image": "/assets/bankingPartner/4.webp"
+          },
+          {
+            "image": "/assets/bankingPartner/5.webp"
+          }
         ]
       },
       {
         "id": 3,
         "title": "Wealth Management Partners",
+        "description": "Amplify your wealth and preserve your assets with elite-level financial structuring.",
         "data": [
-          { "image": "/assets/wealthPartner/1.webp" },
-          { "image": "/assets/wealthPartner/2.webp" },
-          { "image": "/assets/wealthPartner/3.webp" },
-          { "image": "/assets/wealthPartner/4.webp" },
-          { "image": "/assets/wealthPartner/5.webp" },
-          { "image": "/assets/wealthPartner/6.webp" }
+          {
+            "image": "/assets/wealthPartner/1.webp"
+          },
+          {
+            "image": "/assets/wealthPartner/2.webp"
+          },
+          {
+            "image": "/assets/wealthPartner/3.webp"
+          },
+          {
+            "image": "/assets/wealthPartner/4.webp"
+          },
+          {
+            "image": "/assets/wealthPartner/5.webp"
+          },
+          {
+            "image": "/assets/wealthPartner/6.webp"
+          }
         ]
       },
       {
         "id": 4,
         "title": "Government Entities We Work Closely With",
+        "description": "Unleash your business potential with our endorsed government partnerships.",
         "data": [
-          { "image": "/assets/governmentPartner/1.webp" },
-          { "image": "/assets/governmentPartner/2.webp" },
-          { "image": "/assets/governmentPartner/3.webp" },
-          { "image": "/assets/governmentPartner/4.webp" },
-          { "image": "/assets/governmentPartner/5.webp" }
+          {
+            "image": "/assets/governmentPartner/1.webp"
+          },
+          {
+            "image": "/assets/governmentPartner/2.webp"
+          },
+          {
+            "image": "/assets/governmentPartner/3.webp"
+          },
+          {
+            "image": "/assets/governmentPartner/4.webp"
+          },
+          {
+            "image": "/assets/governmentPartner/5.webp"
+          }
         ]
       }
     ]
@@ -711,5 +795,137 @@
       "message": "Message cannot be empty",
       "checkBox": "You must agree to the privacy policy"
     }
+  },
+  "aboutHeader": {
+    "title": "About Us",
+    "description": "At One Nexuz, we are a team of experienced business and wealth experts, helping entrepreneurs, all-sized businesses, and investors navigate the intricacies of business setup, licensing, banking, digital branding, and wealth management in the UAE.",
+    "description2": "Whether you're launching a startup, expanding your operations, or building your wealth, we guide you step by step, turning complex processes into clear, actionable solutions. Begin your next success story with our experts!",
+    "image": "/assets/header/aboutUs.webp"
+  },
+  "aboutGridSec": {
+    "image": "/assets/aboutUs/aboutGridSec.webp",
+    "title": "Still Have Questions?",
+    "description": "Our expert consultants are ready to answer all your questions and guide you through every step of your business journey in the UAE.",
+    "btn": "Book Your Free Consultation"
+  },
+  "whoWeAre": {
+    "image": "/assets/aboutUs/whoWeAre.webp",
+    "title": "^Who We Are^",
+    "description": [
+      "At One Nexuz, we are more than advisors — we are your dedicated partners in growth. We believe that every business journey is unique and work closely with you to understand your goals and deliver solutions that align perfectly with your vision, timeline, and ambitions.",
+      "Combining deep local expertise with global standards, we make complex procedures simple, guiding you every step of the way so your UAE business or wealth journey is smooth, secure, and strategically aligned."
+    ]
+  },
+  "missionVision": [
+    {
+      "image": "/assets/aboutUs/mission.svg",
+      "title": "Our Mission",
+      "description": "To empower entrepreneurs, corporates, and high-net-worth individuals to succeed in the UAE through seamless, expert, and integrated business and wealth solutions."
+    },
+    {
+      "image": "/assets/aboutUs/vision.svg",
+      "title": "Our Vision",
+      "description": "To be the UAE's most trusted and innovative partner for business and wealth success, delivering clarity, confidence, and seamless growth experiences."
+    }
+  ],
+  "ourValues": {
+    "title": "Our Values",
+    "description": "Our philosophy is anchored in five pillars: Authority, Excellence, Innovation, Integrity, and Empowerment. These principles shape every decision, every solution, and every client experience, ensuring you receive strategic guidance, seamless execution, and sustainable success.",
+    "items": [
+      {
+        "image": "/assets/aboutUs/value1.svg",
+        "title": "Authority",
+        "description": "Expert knowledge and guidance"
+      },
+      {
+        "image": "/assets/aboutUs/value2.svg",
+        "title": "Excellence",
+        "description": "Unmatched quality in service"
+      },
+      {
+        "image": "/assets/aboutUs/value3.svg",
+        "title": "Innovation",
+        "description": "Forward-thinking solutions`"
+      },
+      {
+        "image": "/assets/aboutUs/value4.svg",
+        "title": "Integrity",
+        "description": "Transparent and honest"
+      },
+      {
+        "image": "/assets/aboutUs/value5.svg",
+        "title": "Empowerment",
+        "description": "Enabling your success"
+      }
+    ]
+  },
+  "trustUs": {
+    "title": "Why 1000+ Business Owners Trust Us",
+    "items": [
+      {
+        "image": "/assets/aboutUs/trust1.svg",
+        "title": "All-in-One Expertise",
+        "description": "From company formation and trade licensing to compliance and digital branding, we manage every aspect under one roof."
+      },
+      {
+        "image": "/assets/aboutUs/trust2.svg",
+        "title": "Tailored Solutions",
+        "description": "Scale effortlessly with our customized services tailored to fit your business size, growth stage, and long-term goals."
+      },
+      {
+        "image": "/assets/aboutUs/trust3.svg",
+        "title": "End-to-End Guidance",
+        "description": "We do all the heavy lifting, from government back-and-forth to registrations, guiding you confidently through every stage."
+      },
+      {
+        "image": "/assets/aboutUs/trust4.svg",
+        "title": "Strong Strategic Partnerships",
+        "description": "Our robust network of mortgage providers, banking partners, and key government agencies ensures seamless approvals."
+      },
+      {
+        "image": "/assets/aboutUs/trust5.svg",
+        "title": "Trustworthy & Transparent",
+        "description": "We empower startups, SMEs, entrepreneurs, and UHNIWs with expert, custom-built solutions, no hidden fees, no surprises."
+      }
+    ]
+  },
+  "contactHeader": {
+    "title": "^Contact Us^",
+    "subTitle": "Ready to Turn Your Vision into Reality?",
+    "description": [
+      "At One Nexuz, we are a team of experienced business and wealth experts, helping entrepreneurs, all-sized businesses, and investors navigate the intricacies of business setup, licensing, banking, digital branding, and wealth management in the UAE.",
+      "Whether you're launching a startup, expanding your operations, or building your wealth, we guide you step by step, turning complex processes into clear, actionable solutions. Begin your next success story with our experts!"
+    ],
+    "image": "/assets/header/contactUs.webp"
+  },
+  "getInTouch": {
+    "title": "^Get In Touch^",
+    "description": "Have questions? Our team is ready to assist you with expert guidance on business setup and wealth management in the UAE.",
+    "items": [
+      {
+        "image": "/assets/contactUs/1.svg",
+        "title": "Email Us",
+        "description": "Send us an email anytime",
+        "info": "^Info@onenexuz.ae^"
+      },
+      {
+        "image": "/assets/contactUs/2.svg",
+        "title": "Call Us",
+        "description": "Mon-Fri from 9am to 6pm",
+        "info": "^(+971) 555-0105^"
+      },
+      {
+        "image": "/assets/contactUs/3.svg",
+        "title": "Visit Us",
+        "description": "Our office in Dubai",
+        "info": "^Dubai, UAE^"
+      }
+    ]
+  },
+  "affiliatesPartners": {
+    "image": "/assets/header/affiliatesPartners.webp",
+    "title": "Our Affiliates & Partners",
+    "subTitle": "Launch, Operate, and Thrive in the UAE with Our Strategic Partnerships",
+    "description": "Get fast, reliable, and cost-effective business setup in the UAE with our reputable financial, legal, and government partners. We partner with trusted names, so your business can launch and scale with confidence."
   }
 }

@@ -5,6 +5,7 @@ import LinkColumCard from "./LinkColumCard";
 import GridLinkCard from "./GridLinkCard";
 import { useMenu } from "@/context/menu-context";
 import LanguageAwareLink from "../LanguageAwareLink/LanguageAwareLink";
+import InnerTabView from "./InnerTabView";
 
 function NavTabs({ data }) {
   const { hideMenu } = useMenu();
@@ -30,11 +31,13 @@ function NavTabs({ data }) {
                   ? "border-primary"
                   : "border-transparent"
               }`}
-            onMouseEnter={() => setActiveTab(item)}>
+            onMouseEnter={() => setActiveTab(item)}
+          >
             <Typography
               weight="medium"
               className={`
-              ${activeTab?.id === item?.id && "!text-primary"}`}>
+              ${activeTab?.id === item?.id && "!text-primary"}`}
+            >
               {item?.title}
             </Typography>
           </LanguageAwareLink>
@@ -42,6 +45,8 @@ function NavTabs({ data }) {
       </div>
       {activeTab?.view === "childView" ? (
         <GridLinkCard data={activeTab?.items} />
+      ) : activeTab?.view === "innerTabView" ? (
+        <InnerTabView data={activeTab?.items} />
       ) : (
         <LinkColumCard data={activeTab?.items} />
       )}

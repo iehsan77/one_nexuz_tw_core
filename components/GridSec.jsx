@@ -8,13 +8,7 @@ function GridSec({ data }) {
   return (
     <div className="secPadding container grid lg:grid-cols-2 gap-5 xl:gap-8 items-center">
       <div className="">
-        <Image
-          src={data?.image}
-          alt={data?.title}
-          width={640}
-          height={383}
-          // className="w-auto h-auto object-cover"
-        />
+        <Image src={data?.image} alt={data?.title} width={640} height={383} />
       </div>
       <div className="space-y-3 lg:order-last order-first">
         <Typography size="3xl" weight="bold" color="gray">

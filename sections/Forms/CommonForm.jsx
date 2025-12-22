@@ -19,7 +19,7 @@ import CheckboxInput from "@/components/FormFields/CheckboxInput";
 import { toast } from "sonner";
 import { useModal } from "@/context/commonModalProvider";
 
-function CommonForm() {
+function CommonForm({ condition }) {
   const { locale } = useContext(LanguageContext);
   const arabic = locale === "ar";
   const t = locale === "ar" ? ar : en;
@@ -89,7 +89,7 @@ function CommonForm() {
   };
 
   return (
-    <div>
+    <div className={condition ? "bg-secondary p-8 rounded-2xl" : ""}>
       <Typography as="p" weight="bold" size="2xl" align="center" color="white">
         {t?.commonForm?.title}
       </Typography>
@@ -187,7 +187,8 @@ function CommonForm() {
               )}
               isLoading={isSubmitting}
               iconPosition="right"
-              className="text-white">
+              className="text-white"
+            >
               {t.btn.submitNow}
             </Button>
           </form>
