@@ -1,0 +1,313 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/eCommerceLicenseInUae.webp",
+        "title": "From Documents to Live Store—Launch Your Online Business in the UAE with Ease",
+        "description": "Struggling with complex documentation, multiple approvals, and constantly changing e-commerce regulations? At One Nexuz, our experts streamline all the paperwork, from government submissions to approvals, so you can focus on growing your online store, not chasing paperwork. Tap into a 2.2B+ online consumer base, reduce your time-to-market, and discover lucrative marketplace opportunities with an e-commerce license in the UAE."
+    },
+    "leftSection_1": {
+        "title": "Why Get an E-commerce License in the UAE",
+        "description": "Expand your market reach across the UAE, minimise the risk of penalties, and gain instant credibility with an e-commerce license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Expand Your Market Reach",
+                "subTitle": "Expand Your Market Reach",
+                "description": "Capitalise on fast-growing local and global markets across the Emirates by positioning your business in a global trade hub.",
+                "image": "/assets/eCommerceLicenseInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Boost Credibility & Consumer Trust",
+                "subTitle": "Boost Credibility & Consumer Trust",
+                "description": "Build confidence with customers, win investor trust, and strengthen partnerships with a globally recognised e-commerce license.",
+                "image": "/assets/eCommerceLicenseInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enjoy Flexible Business Setup",
+                "subTitle": "Enjoy Flexible Business Setup",
+                "description": "Skip the hassle of setting up a brick-and-mortar or managing a warehouse with an e-commerce license, minimising overheads and maximising efficiency.",
+                "image": "/assets/eCommerceLicenseInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Gain 100% Foreign Ownership",
+                "subTitle": "Gain 100% Foreign Ownership",
+                "description": "Enjoy strategic ownership of your business, unlock full profit repatriation, and qualify for complete tax exemptions with a UAE-compliant license.",
+                "image": "/assets/eCommerceLicenseInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Approved E-commerce Services in the UAE",
+        "description": "Buy, sell, and trade online products or services within and beyond the UAE with a fully compliant e-commerce license.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Online Retail of Goods",
+                "description": "Sell physical products within the Emirates, 100% compliant.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Digital Products & Downloads",
+                "description": "Offer software, e-books, courses, or digital content, hassle-free.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Marketplace Platforms",
+                "description": "Operate your marketplace, connecting multiple sellers to buyers globally.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "E-services & Consultations",
+                "description": "Provide professional services, consultations, or digital solutions.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/eCommerceLicenseInUae/left4/1.webp",
+            "title": "Provide professional services, consultations, or digital solutions.",
+            "description": "Operating online without a license limits growth. Our experts help you get licensed, integrate payments, ship domestically and internationally, and build credibility within minutes, not days.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/eCommerceLicenseInUae/left4/2.webp",
+            "title": "Personalized Licensing. Transparent Pricing. No Surprises",
+            "description": "No rigid packages, no surprise add-ons, no hidden fees. Nexuz offers clear, personalized pricing for e-commerce licensing, so your business can launch and stay compliant on time without costs spiraling.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify Real Estate Licensing in Dubai",
+        "items": [
+            {
+                "id": 1,
+                "title": "Choose Your Business Structure",
+                "description": "We’ll start with a free consultation to help you pick the ideal jurisdiction, based on your business goals, target market, and ownership requirements.",
+                "image": "/assets/eCommerceLicenseInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Define Your Approved Activities",
+                "description": "Our experts will help you pick the best-fit activities to ensure you’re fully compliant with UAE e-commerce regulations, minimizing delays or rejections.",
+                "image": "/assets/eCommerceLicenseInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare and Submit Documentation",
+                "description": "From passport copies to trade license applications, we handle all document preparation and submission on your behalf, fast-tracking approvals.",
+                "image": "/assets/eCommerceLicenseInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Government Approvals & Licensing",
+                "description": "We liaise directly with authorities, expedite your application, and manage all government interactions, delivering your e-commerce license quickly and efficiently.",
+                "image": "/assets/eCommerceLicenseInUae/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Launch & Operate Confidently",
+                "description": "Once approved, your business is fully licensed to operate online, offering instant access to payment gateways, marketplaces, and regulatory support.",
+                "image": "/assets/eCommerceLicenseInUae/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Launch Your Online Business",
+        "description": "Navigate the UAE’s complex regulatory requirements, confusing approvals, and endless paperwork with our seasoned business consultants guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Complete End-to-End Support",
+                "description": "From consultation and document preparation to government submissions and approvals, we handle every step, so you can focus on growing your business.",
+                "image": "/assets/eCommerceLicenseInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Fully Compliant & Risk-Free",
+                "description": "We ensure all activities, documentation, and approvals meet UAE federal and local requirements, helping you avoid fines, delays, and operational disruptions.",
+                "image": "/assets/eCommerceLicenseInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Ongoing Support & Renewals",
+                "description": "We don’t stop at approval. Our team proactively manages renewals, document updates, and compliance alerts to ensure your operations run seamlessly.",
+                "image": "/assets/eCommerceLicenseInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/eCommerceLicenseInUae/grid/1.webp",
+        "title": "Don’t Miss Out on Double-Digit Growth in Online Sales",
+        "description": "With e‑commerce in the UAE growing at 9.4% annually, licensed businesses are the ones capturing market share. Get yours today with end-to-end guidance and compete confidently in this digital boom.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about One Nexuz",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“The One Nexuz team made the entire e-commerce licensing process seamless. From document submission to final approval, they handled everything professionally and quickly. Our online store went live without any compliance issues.”",
+                "role": "Online Retail Store E-Commerce Manager",
+                "image": "/assets/eCommerceLicenseInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Navigating UAE regulations was overwhelming, but the PRO services and licensing support simplified everything. We now operate confidently and can focus on scaling our subscription service without worrying about legal hurdles.”",
+                "role": "Subscription Box Business Founder",
+                "image": "/assets/eCommerceLicenseInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From consultation to approval, the team ensured our digital services were fully compliant. Their step-by-step guidance and follow-ups saved us weeks of paperwork and stress.”",
+                "role": "Online Consultancy & Digital Services Operations Head",
+                "image": "/assets/eCommerceLicenseInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover the Right License for Your UAE Business",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Dual License",
+                "description": "Expand to the UAE onshore without a separate legal entity.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Freelancer Permit",
+                "description": "Work with multiple clients across the UAE with a freelancer permit.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Crypto & Web3 License",
+                "description": "Launch your crypto, blockchain, or Web3 venture, fully compliant.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Real Estate License",
+                "description": "Buy, sell, and manage properties with a UAE-compliant license.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Event License",
+                "description": "Host corporate, social, or entertainment events.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Industrial License",
+                "description": "Innovate, package, and sell products across the Emirates.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Professional License",
+                "description": "Offer consulting, advisory, or specialised services.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Commercial License",
+                "description": "Simplify trade, unlock new markets, and forge parternships.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Why Let Red Tape Slow Your Online Growth?",
+        "description": "Secure your e-commerce license today and unlock the tools you need, from payment gateways, logistics integration, and legal standing, so you can compete confidently and scale stress-free.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/eCommerceLicenseInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Real Estate License",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Industrial License",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Professional License",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Crypto & Web3 License",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Event License",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Freelance Permit",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is an e-commerce license in the UAE?",
+                "answer": "An e-commerce license legally allows you to operate an online business in the UAE, sell products or services, and comply with federal and local regulations."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need a physical office to get an e-commerce license?",
+                "answer": "No, many free zones allow e-commerce businesses to operate without a physical office, although mainland businesses may have different requirements."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to get an e-commerce license?",
+                "answer": "With proper documentation and expert support, the process typically takes 7–21 business days, depending on the jurisdiction and business activity."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can foreigners own 100% of a UAE e-commerce business?",
+                "answer": "Yes, certain UAE free zones allow 100% foreign ownership. Mainland businesses may require a local sponsor, depending on the activity."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Which activities can I legally operate under an e-commerce license?",
+                "answer": "Licensed activities include online retail of goods, digital products, marketplaces, e-services, subscriptions, dropshipping, and import/export of products."
+            }
+        ]
+    }
+}

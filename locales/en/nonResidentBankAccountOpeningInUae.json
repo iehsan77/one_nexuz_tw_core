@@ -1,0 +1,278 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/nonResidentBankAccountOpeningInUae.webp",
+        "title": "Unlock Global Banking, Manage Transactions, & Simplify Your Finances with Our Non-Resident Banking Solutions",
+        "description": "Struggling with endless paperwork, strict AML/KYC checks, and in-person verifications? Our experts help combat costly delays, rejections, and missed business opportunities by streamlining all the paperwork and fast-tracking approvals. Unlock enticing tax benefits, financial flexibility, and access to cash in over 200 countries worldwide without the hassle of securing UAE residency."
+    },
+    "leftSection_1": {
+        "title": "Why Should Expats Open a UAE Non-Resident Bank Account?",
+        "description": "Wondering whether a non-resident can open a bank account in the UAE? The Emirates allows foreigners to open a savings account, enjoy attractive interest rates, and safeguard their investments.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Access Global Banking Remotely",
+                "subTitle": "Access Global Banking Remotely",
+                "description": "Manage, transfer, and view funds from anywhere with multi-currency accounts, online banking, and seamless international transfers.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Protect & Diversify Your Wealth ",
+                "subTitle": "Protect & Diversify Your Wealth ",
+                "description": "Hold, diversify, and preserve assets in a stable, tax-friendly jurisdiction to amplify your wealth. Uplift your revenue with zero income and corporate taxes.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Simplify International Transactions  ",
+                "subTitle": "Simplify International Transactions  ",
+                "description": "Instantly send and receive money to more than 200 countries and regions worldwide. Open your account in AED, USD, EUR, or GBP for seamless transactions.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Profitable Investment Opportunities",
+                "subTitle": "Unlock Profitable Investment Opportunities",
+                "description": "Tap into exclusive property investments in the UAE and GCC, explore high-growth property funds, and unlock high-interest deposits tailored for millionaires.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What You Get with a UAE Non-Resident Bank Account",
+        "description": "With a non-resident savings account, you can streamline personal and corporate finances and enjoy:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/1.svg",
+                "title": "Attractive Interest Rates"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/2.svg",
+                "title": "HSBC-free Transfer"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/3.svg",
+                "title": "Access to Multi-Currency Banking"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/4.svg",
+                "title": "Debit or Credit Card"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "UAE Chequebook "
+            },
+            {
+                "id": 6,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Secure Online & Mobile Banking"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Tax-Efficient Structures & Wealth Planning Services"
+            },
+            {
+                "id": 8,
+                "icon": "/assets/nonResidentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Value-Added Services, including Relocation & Legal Support."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/nonResidentBankAccountOpeningInUae/left4/1.webp",
+            "title": "Join the 4,000+ HNWI Setting Up UAE Non-Resident Accounts",
+            "description": "The UAE’s tax-efficient structure attracts thousands of millionaires and international investors. We help you set up a multi-currency account to streamline global transactions and unlock profitable investment opportunities.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/nonResidentBankAccountOpeningInUae/left4/2.webp",
+            "title": "Bank Globally, Pay Smart — Transparent Fees for Non-Residents",
+            "description": "Bank confidently across borders with no hidden costs. Stay compliant, control your account features, and scale your services as needed.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Open a Non-Resident Bank Account in the UAE",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select from 30+ Jurisdictions",
+                "description": "We’ll start with a free consultation where we assess your profile, residency status, and banking needs to find the best-fit bank.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Meet UAE Non-Resident Bank Account Requirements",
+                "description": "Next, our experts assist you in gathering and preparing all the required documents to ensure you’re fully compliant with the UAE’s bank policies.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get Matched with Top-Tier Bank Accounts",
+                "description": "We liaise directly with relationship managers, submit your application, and handle all government back-and-forth until approval.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Activate Your Savings Account Remotely",
+                "description": "Once approved, your account is activated and you’ll receive your credit or debit card, cheque book, and account credentials.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Set Up Your Non-Resident Bank Account",
+        "description": "Navigate the UAE’s complex banking requirements and regulatory landscape with our expert consultants. We connect you with the right financial partner, fast-tracking your setup with direct direct bank coordination.",
+        "items": [
+            {
+                "title": "Tailored Bank Matching",
+                "description": "Our dedicated consultants assess and pick the right banking partner based on your profile, goals, and industry, empowering you to earn attractive interest rates.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Gain Financial Flexibility",
+                "description": "Manage multi-currency transactions, invest in lucrative opportunities, or fund a business in the Emirates with a fully compliant bank account.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/bgImage/2.webp"
+            },
+            {
+                "title": "24/7 Online & Mobile Banking",
+                "description": "Set up your UAE bank account 100% remotely and manage your funds, transfers, and statements from your phone, laptop, or in person.",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/nonResidentBankAccountOpeningInUae/grid/1.webp",
+        "title": "Expand Your International Footprint With a UAE Bank Account",
+        "description": "Whether you're a solo consultant or managing cross-border assets, a UAE non-resident account gives you access to stable, tax-neutral banking.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz.  ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "As a UK-based entrepreneur, I struggled to find a UAE bank that would support my international business. One Nexuz handled everything—from compliance to documentation—and got my account approved in under two weeks.",
+                "role": " E-commerce Founder",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "I didn’t think I could open a UAE account without flying in. But the remote onboarding was seamless, and now I can easily manage payments in AED and USD from Europe.",
+                "role": "Independent Consultant",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Thanks to One Nexuz, I now have a UAE bank account with multi-currency access and zero FX markups on major transfers. Their support team was always responsive and clear.",
+                "role": "Real Estate Investor",
+                "image": "/assets/nonResidentBankAccountOpeningInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Banking Solutions Beyond Savings Account",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "UAE Resident Bank Account",
+                "description": "Open a savings or current account to streamline finances and benefit from loans and zero taxes.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account",
+                "description": "Launch your Free Zone, Mainland, or Offshore business account to simplify global transactions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Offshore Bank Account",
+                "description": "Enjoy tax exemptions and zero restrictions on multi-currency transfers with an Offshore bank account.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Access Premium UAE Banking Services without a Local Residency",
+        "description": "Partner with our trusted specialists to access world-class banking for multi-currency exchange, tax benefits, and global investment opportunities without ever stepping foot in the UAE.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/nonResidentBankAccountOpeningInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Offshore Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Non Resident Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "UAE Resident Bank Account",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I set up a bank account in the UAE without a residency visa?",
+                "answer": "Absolutely, you can open a non-resident UAE bank account to preserve your wealth, hold assets, and conduct multi-currency transactions.  "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can non-residents open a business bank account in Dubai?",
+                "answer": "Yes! Once you provide the necessary documents, including corporate documents, shareholder information, trade license, proof of ownership, and source of funds, our experts can assist you in setting up your bank account."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take to set up a bank account in the UAE?",
+                "answer": "Generally, it takes 1-21 business days to open a personal or business non-resident bank account."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do I need an Emirates ID to create a UAE bank account?",
+                "answer": "Yes, an Emirates ID is required to open a non-resident bank account in the UAE. However, some banks allow you to set up your savings account with just your passport and proof of address. "
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What happens to my UAE bank account if I go abroad?",
+                "answer": "Your bank account will remain active so long as you continue to meet the bank’s requirements and update your information."
+            }
+        ]
+    }
+}

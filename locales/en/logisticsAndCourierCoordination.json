@@ -1,0 +1,346 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/logisticsAndCourierCoordination.webp",
+        "title": "Courier & Logistics Services - Logistics and Relocation",
+        "description": "Stop wasting hours comparing couriers, chasing quotes, and dealing with unpredictable delivery times. With our extensive network of trustworthy logistics and courier service providers in the UAE, One Nexuz empowers you to save time, cut costs, and gain full visibility from pickup to delivery. Whether you’re shipping locally or internationally, we make logistics effortless so your business can scale with confidence."
+    },
+    "leftSection_1": {
+        "title": "Maximize Efficiency, Reliability, and Reach with Top Logistics & Courier Providers",
+        "description": "Wave goodbye to costly delays, slash shipment costs, and maintain business momentum with reliable logistics and courier service providers.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Keep Your Business Moving — Effortless Door-to-Door Shipping Handled ",
+                "subTitle": "Keep Your Business Moving — Effortless Door-to-Door Shipping Handled ",
+                "description": "Move parcels, documents, or products from any location to any destination effortlessly. With professional providers handling pickups, transports, and deliveries, you no longer have to worry about logistics details.",
+                "image": "/assets/logisticsAndCourierCoordination/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Optimize Routes, Track Shipments, & Deliver On-Time with Speedy Courier Services",
+                "subTitle": "Optimize Routes, Track Shipments, & Deliver On-Time with Speedy Courier Services",
+                "description": "Ensure your goods, documents, and parcels reach their destination quickly, securely, and on time, whether locally or internationally, with optimal shipment routes, seamless coordination, and dedicated tracking systems. ",
+                "image": "/assets/logisticsAndCourierCoordination/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "From Dispatch to Delivery — Logistics That Keep Your Operations on Track",
+                "subTitle": "From Dispatch to Delivery — Logistics That Keep Your Operations on Track",
+                "description": "Keep your business operations on track, minimize downtime, and drive unlimited growth with trustworthy shipping services — helping you avoid talent loss and maintain productivity.",
+                "image": "/assets/logisticsAndCourierCoordination/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Full Visibility and Real-Time Tracking for Complete Peace of Mind ",
+                "subTitle": "Full Visibility and Real-Time Tracking for Complete Peace of Mind ",
+                "description": "Aren’t remote negotiations winning you enough deals? In the UAE, deals are personal. Build trust and credibility with potential partners, banks, and stakeholders by stepping into the market. Establish strong relationships, gain valuable insights, and position your business for long-term success.",
+                "image": "/assets/logisticsAndCourierCoordination/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/logisticsAndCourierCoordination/left4/1.webp",
+            "title": "Stop Losing Shipments—Cut Delivery Disputes by 22% with One Nexuz",
+            "description": "With centralized tracking and seamless coordination, we handle every step of your logistics—so you can drive business growth while we ensure every shipment arrives safely and on time.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/logisticsAndCourierCoordination/left4/2.webp",
+            "title": "Flexible Shipping, Transparent Pricing — No Hidden Costs, No Surprises",
+            "description": "You tell us what you need moved — from any country into the UAE, or from one city to another — and we connect you with trustworthy, cheap courier or logistics partners in the UAE on the spot. No complicated packages, no mandatory ‘add-ons.’",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Help You Compare & Choose the Best Pickup and Delivery Services in the UAE",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Free Consultation",
+                "description": "We’ll kick off with a no-obligation call to discuss your shipping needs and budget, and shortlist the best courier or logistics partner for your requirements. ",
+                "image": "/assets/logisticsAndCourierCoordination/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get Tailored Partner Options",
+                "description": "Next, our experts connect you with multiple trusted providers, highlighting services, costs, and delivery timelines, so you can choose what works best for your busines.",
+                "image": "/assets/logisticsAndCourierCoordination/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Select the Ideal Solution",
+                "description": "We’ll then pick and book the shipping service provider that fits your timeline, budget, and service requirements, whether it's local express or international freight.",
+                "image": "/assets/logisticsAndCourierCoordination/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Schedule and Coordinate Pickup",
+                "description": "Next, our experts handle pickups directly from your location, saving you time and eliminating the hassle of managing multiple logistics & courier service providers.",
+                "image": "/assets/logisticsAndCourierCoordination/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Track Your Shipment in Real-Time",
+                "description": "Monitor your parcel every step of the way with real-time updates, giving you complete peace of mind about where your items are.",
+                "image": "/assets/logisticsAndCourierCoordination/left5/5.svg"
+            },
+            {
+                "id": 5,
+                "title": "Confirm Safe & On-Time Delivery",
+                "description": "Ensure your shipment arrives safely and on time, with confirmation provided for every parcel, package, or document delivered.",
+                "image": "/assets/logisticsAndCourierCoordination/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Businesses Trust One Nexuz for Seamless Logistics & Courier Services in the UAE",
+        "description": "Skip the hassle of comparing, picking, and coordinating logistics and courier with our robust network of trustworthy partners. We do all the heavy lifting, from managing pickups to tracking shipments, so you can focus on growing your business.",
+        "items": [
+            {
+                "title": "All-in-One Shipping Solution",
+                "description": "No more juggling multiple courier accounts or websites. We bring all your logistics and courier options into a single platform, so you can instantly arrange pickups and track deliveries.",
+                "image": "/assets/logisticsAndCourierCoordination/bgImage/1.webp"
+            },
+            {
+                "title": "Time-Saving Automation",
+                "description": "Reclaim 5-10+ hours per week spent coordinating deliveries, tracking lost items, and following up on delayed shipments, so you can focus on what truly matters — scaling your business.",
+                "image": "/assets/logisticsAndCourierCoordination/bgImage/2.webp"
+            },
+            {
+                "title": "Ship Across Cities and Borders with Ease",
+                "description": "Whether it’s last-mile delivery within UAE cities or international shipments, we connect you with the right partner for every route. Enjoy hassle-free logistics and reliable service across the Emirates!",
+                "image": "/assets/logisticsAndCourierCoordination/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/logisticsAndCourierCoordination/grid/1.webp",
+        "title": "Minimize Shipping Overheads & Maximize Savings with Our Hassle-Free Logistics Solutions",
+        "description": "Ship from 100+ countries to the UAE, or city to city within the UAE, without worrying about logistics. We handle all courier coordination, ensuring smooth deliveries and up to 40% savings on shipping costs.",
+        "btn": "Get a free consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "One Nexuz connected us with the right courier partner in minutes — our shipments now arrive on time every time, and managing deliveries has never been easier.",
+                "role": "Retail E-commerce Manager",
+                "image": "/assets/logisticsAndCourierCoordination/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Thanks to the professional logistics partners we accessed through One Nexuz, our international shipments are seamless. We've cut downtime and can focus entirely on growing our business.",
+                "role": "Manufacturing Operations Head",
+                "image": "/assets/logisticsAndCourierCoordination/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "The door-to-door services saved our team countless hours. From documents to product shipments, everything is now handled efficiently and reliably.",
+                "role": "Tech Startup Founder & CEO",
+                "image": "/assets/logisticsAndCourierCoordination/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore More Solutions to Live, Relocate, and Thrive in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Procurement Support",
+                "description": "Save time and avoid hassle with expert help in sourcing and managing your supplies.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "UAE Residence Visa",
+                "description": "Get your UAE residence visa quickly and smoothly, with expert guidance.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Free Zone Visa",
+                "description": "Secure your Free Zone visa effortlessly and start your business journey.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Mainland Visa",
+                "description": "Obtain your Mainland visa with ease and stay compliant in the UAE.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Your Products, Delivered Smoothly Across the UAE — Every Time with One Nexuz",
+        "description": "Grow your business without worrying about shipping. We handle every shipment, from international deliveries to UAE cities, taking care of customs, carriers, and coordination, so your products reach their destination safely and on time.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/logisticsAndCourierCoordination/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa UAE",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Tourist Visa",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Family Relocation Support",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "UAE Residence Visa",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Maid Visa",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How does your logistics service work for businesses outside the UAE?",
+                "answer": "We act as your local partner, handling all coordination with UAE couriers so you can ship products seamlessly without worrying about customs, regulations, or paperwork."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can you deliver between cities within the UAE?",
+                "answer": "Yes! We manage shipments between any UAE cities, ensuring your products reach customers or partners quickly and reliably."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How do you ensure my shipments are safe?",
+                "answer": " We partner with trusted courier and logistics providers, track every shipment in real time, and handle all back-and-forth so you can ship with peace of mind."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I scale my shipping as my business grows?",
+                "answer": " Absolutely. Our flexible, pay-as-you-go model allows you to ship more or less as your business needs change—scaling effortlessly."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can you assist with multiple shipments at once?",
+                "answer": "Definitely. We can manage single shipments or bulk orders, coordinating everything so you can focus on your business growth."
+            }
+        ]
+    },
+    "slider1": {
+        "title": "Top Logistics Companies in the UAE – Reliable Solutions for Your Business",
+        "description": "Partner with trusted logistics providers that ensure your shipments are handled professionally, reliably, and efficiently — every time.",
+        "items": [
+            {
+                "id": 1,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_1.svg"
+            },
+            {
+                "id": 2,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_2.svg"
+            },
+            {
+                "id": 3,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_3.svg"
+            },
+            {
+                "id": 4,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_4.svg"
+            },
+            {
+                "id": 5,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_5.svg"
+            },
+            {
+                "id": 6,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider1_6.svg"
+            }
+        ]
+    },
+    "slider2": {
+        "title": "Best Courier Services in the UAE — Fast, Trusted, and Scalable",
+        "description": "Never lose another business document, parcel, or shipment with our trusted courier service providers in Dubai and 5+ Emirates.",
+        "items": [
+            {
+                "id": 1,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider2_1.svg"
+            },
+            {
+                "id": 2,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider2_2.svg"
+            },
+            {
+                "id": 3,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider2_3.svg"
+            },
+            {
+                "id": 4,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider2_4.svg"
+            },
+            {
+                "id": 5,
+                "logo_url": "/assets/logisticsAndCourierCoordination/logoSlider/slider2_5.svg"
+            }
+        ]
+    }
+}

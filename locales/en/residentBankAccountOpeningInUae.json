@@ -1,0 +1,273 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/residentBankAccountOpeningInUae.webp",
+        "title": "Centralise Your Finances, Secure Funds, and Simplify Payments with Our UAE Resident Banking Solutions",
+        "description": "Cut through the red tape, skip the compliance headaches, and streamline all the paperwork with One Nexuz. Our experts do all the heavy lifting, fast-tracking account approvals so you can focus on growing your business. Experience unlimited financial convenience, from seamless salary transfers and bill payments to profitable investment opportunities, all through secure, easy-to-use secure online banking platforms."
+    },
+    "leftSection_1": {
+        "title": "Why Should You Set Up a UAE Resident Bank Account",
+        "description": "Take advantage of the UAE’s thriving economy and exciting local facilities by opening a resident bank account. Receive all funds on time, pay rent and utility bills with a single click, and qualify for tax exemptions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Streamline Global Transactions ",
+                "subTitle": "Streamline Global Transactions ",
+                "description": "Receive or send funds to 200+ countries or territories across the globe. Simplify multi-currency exchange with zero transfer lags or third-party fees.",
+                "image": "/assets/residentBankAccountOpeningInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Qualify for Exciting Tax Advantages ",
+                "subTitle": "Qualify for Exciting Tax Advantages ",
+                "description": "Tap into local banking facilities, including 0% tax on personal income, capital gains, and investment, and unlock loan eligibility with a resident account.",
+                "image": "/assets/residentBankAccountOpeningInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enjoy Long-Term Residency Benefits ",
+                "subTitle": "Enjoy Long-Term Residency Benefits ",
+                "description": "Simplify everyday life in the UAE with a resident bank account, empowering you to renew your residency visa, lease a home, and invest in properties.",
+                "image": "/assets/residentBankAccountOpeningInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get 24/7 Mobile & Online Banking",
+                "subTitle": "Get 24/7 Mobile & Online Banking",
+                "description": "Access, manage, and transfer funds anytime, anywhere via secure online and mobile banking apps boasting built-in fraud detection technology.",
+                "image": "/assets/residentBankAccountOpeningInUae/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Everything You Get with Your UAE Resident Account",
+        "description": "Choose from a UAE current, savings, Sharia-compliant, or joint bank account and enjoy the following:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/1.svg",
+                "title": "UAE-registered Chequebook"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/2.svg",
+                "title": "Linked Debit Card"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/3.svg",
+                "title": "0% Tax on Capital Gains & Personal Income"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/4.svg",
+                "title": "Automated Salary Transfer Setup"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Mobile & Online Banking Facilities "
+            },
+            {
+                "id": 6,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Free Monthly E-Statements"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Credit & Debit Cards and Loans"
+            },
+            {
+                "id": 8,
+                "icon": "/assets/residentBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "title": "Value-Added Extras, including International Remittance Support"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/residentBankAccountOpeningInUae/left4/1.webp",
+            "title": "Get Your Bank Account Up & Running Fast ",
+            "description": "New to the UAE? We simplify your resident banking setup, from salary account and bill payments, so you’re fully operational from week one.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/residentBankAccountOpeningInUae/left4/2.webp",
+            "title": "Your Banking, Your Way — Clear, Transparent Pricing that Fits Your Budget",
+            "description": "No hidden charges. No complicated packages. Just straightforward banking. Get a custom quote tailored to your unique banking needs, whether it’s savings, checking, or digital services.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Streamline Bank Account Opening for UAE Residents",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule a No-Obligation Call",
+                "description": "We kick off your account setup journey with a discovery call to understand your unique banking needs and selected jurisdiction.",
+                "image": "/assets/residentBankAccountOpeningInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select the Best-Fit Account",
+                "description": "Based on the assessment, our experts will match you with the ideal banking partner and the most suitable account type.",
+                "image": "/assets/residentBankAccountOpeningInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Compile All Documents",
+                "description": "Next, our consultants provide you with a checklist of the necessary documents, fill out the paperwork, and handle government coordination.",
+                "image": "/assets/residentBankAccountOpeningInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Activate Your Account",
+                "description": "With the application submitted, we secure all necessary approvals and provide you with an IBAN, debit card, and complete online banking access.",
+                "image": "/assets/residentBankAccountOpeningInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz to Open Your UAE Resident Bank Account",
+        "description": "Skip the hassle of delayed approvals, complex banking requirements, and bouncing between branches with expert-led setup solutions. Our dedicated consultants guide you through every step, allowing you to manage your business finances on the go.",
+        "items": [
+            {
+                "title": "Slash Set Up Times in Half",
+                "description": "Our expert consultants partner with top-tier UAE banks, ensuring fast processing and account activation in as little as 1 business day.",
+                "image": "/assets/residentBankAccountOpeningInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Ensure 100% Compliance",
+                "description": "Secure first-time approvals and stay fully compliant with the UAE’s dynamic regulations with on-time and accurate applications, reviews,  and pre-verifications.",
+                "image": "/assets/residentBankAccountOpeningInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Save Over AED 1000 Annually",
+                "description": "Retain more of your revenue with low international banking charges, zero local taxes and transfer fees, and mobile-first banking apps.",
+                "image": "/assets/residentBankAccountOpeningInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/residentBankAccountOpeningInUae/grid/1.webp",
+        "title": "9 Out of 10 UAE Residents Use Local Banks for Salary Transfers",
+        "description": "Receive or send your income on time, set up auto-payments, and pay electricity and phone bills with a secure online bank account setup. We help streamline onboarding so you can get set up in 1-5 days.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Got my bank account opened in just 4 days without a single document error. Super smooth process.”",
+                "role": " Software Engineer",
+                "image": "/assets/residentBankAccountOpeningInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“They matched me with a zero-balance account that fits my salary—no guesswork, no delays.”",
+                "role": "Marketing Executive",
+                "image": "/assets/residentBankAccountOpeningInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“From paperwork to bank appointments, everything was handled efficiently. I was updated every step of the way.”",
+                "role": "HR Manager",
+                "image": "/assets/residentBankAccountOpeningInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Discover the Best-Fit UAE Bank Account",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Non-Resident Bank Account",
+                "description": "Open a savings or current account to streamline finances and benefit from loans and zero taxes.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account",
+                "description": "Simplify business finances and enjoy tax-free multi-currency transactions with a corporate account.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Offshore Bank Account",
+                "description": "Open a business account linked to your Offshore Company, enjoy 0% tax, and maximise your revenue.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Hit Your Financial Goals Faster with a UAE Resident Bank Account",
+        "description": "Open your current or savings resident bank account and enjoy the flexibility of paying bills from the comfort of your home. Partner with our trusted specialists today to unlock attractive interest rates, investment opportunities, and seamless global transactions.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/residentBankAccountOpeningInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Offshore Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Non Resident Bank Account",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I open a bank account in the UAE if I am not a resident?",
+                "answer": "Absolutely! With our expert consultants, you can ensure you meet the eligibility criteria and open a non-resident bank account."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What is the minimum amount I need to earn to open a bank account in the UAE?",
+                "answer": "Generally, you need to earn a minimum of AED 3,000 to set up a bank account. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I set up a bank account before arriving in the UAE?",
+                "answer": "Yes, you can set up a UAE savings account without ever having to set foot in the country. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What happens to my UAE resident account if my visa changes or expires?",
+                "answer": "You’ll have to notify the bank and provide the necessary documents, including your new visa. If your visa expires, your account may be frozen until you renew and update the information."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What interest rate can I get on my UAE savings account?",
+                "answer": "Non-residents and residents can enjoy interest rates ranging from 0.5 to 5.25%, depending on their savings and selected bank account. "
+            }
+        ]
+    }
+}

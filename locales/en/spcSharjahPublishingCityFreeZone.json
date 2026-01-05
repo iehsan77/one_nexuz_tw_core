@@ -1,0 +1,312 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/spcSharjahPublishingCityFreeZone.webp",
+        "title": "Polish, Publish, & Print from a Single Platform — Grow Your Publishing Enterprise with One Nexuz",
+        "description": "Juggling complex licensing requirements, slow paperwork, and visa approvals in Sharjah Publishing City Free Zone? At One Nexuz, our experts handle all the administrative overheads, expediting your time-to-market and empowering you to establish a global presence.  Gain unrestricted access to state-of-the-art publishing and printing facilities, fully-equipped warehouses, and close proximity to the GCC, Europe, Africa, South Asia, and the Middle East."
+    },
+    "leftSection_1": {
+        "title": "Why Should Publishers Choose Sharjah Publishing City Free Zone",
+        "description": "Build global recognition by capitalising on SPC Free Zone's tax-free landscape, strategic location, and top publishing events.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Gain Proximity to Global Markets",
+                "subTitle": "Gain Proximity to Global Markets",
+                "description": "Set up at the crossroads of global trade routes to market, print, and sell in 20+ countries. Simplify logistics with the region's strategic access to key seaports and airports.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Connect with renowned publishers, industry leaders, and like-minded creatives from over 70+ countries by attending the Sharjah International Book Fair.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Access World-Class Infrastructure",
+                "subTitle": "Access World-Class Infrastructure",
+                "description": "Translate, publish, store, and print-on-demand your best sellers by taking advantage of the region's world-class infrastructure, the Lightning Source Sharjah program, and state-of-the-art logistic networks.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get Unmatched Licensing Flexibility",
+                "subTitle": "Get Unmatched Licensing Flexibility",
+                "description": "Bundle 5+ business activities and apply for unlimited visas under a single license to scale your business hassle-free.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible SPC Free Zone Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Advertising"
+            },
+            {
+                "id": 2,
+                "title": "Branding & Corporate Identity"
+            },
+            {
+                "id": 3,
+                "title": "Consultancy Services"
+            },
+            {
+                "id": 4,
+                "title": "E-commerce"
+            },
+            {
+                "id": 5,
+                "title": "E-publishing"
+            },
+            {
+                "id": 6,
+                "title": "E-publishing"
+            },
+            {
+                "id": 7,
+                "title": "IT & Electronics Trading"
+            },
+            {
+                "id": 8,
+                "title": "Manufacture of Special-Purpose Machinery"
+            },
+            {
+                "id": 9,
+                "title": "Office & Stationery Supplies Trading"
+            },
+            {
+                "id": 10,
+                "title": "Online Publications & Media Materials"
+            },
+            {
+                "id": 11,
+                "title": "Sports Events Marketing"
+            },
+            {
+                "id": 12,
+                "title": "Trading Services"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Discover Top Licenses in Sharjah Publishing City Free Zone",
+        "description": "Select the best-fit license that matches your business activity to save millions of dirhams on taxes and non-compliance.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Commercial License",
+                "description": "Buy, store, and sell physical goods with the ideal trade commercial activity and passport copies."
+            },
+            {
+                "id": 2,
+                "title": "E-commerce License",
+                "description": "Launch your digital store or drop ship by securing your e-commerce license- no physical office required."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Offer professional services globally with minimal educational document requirements."
+            },
+            {
+                "id": 4,
+                "title": "Trading License",
+                "description": "Trade within and beyond the UAE by securing a warehouse or office lease and an import/export code."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/spcSharjahPublishingCityFreeZone/left4/1.webp",
+            "title": "Launch Your Creative Business at the Heart of the Industry",
+            "description": "Join the world’s top publishing events to connect with over 2 million publishers from 70+ countries, giving you built-in visibility and a vibrant business ecosystem.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/spcSharjahPublishingCityFreeZone/left4/2.webp",
+            "title": "Your Publishing Business, Your Budget—Get a Custom Quote Built Around Your Needs",
+            "description": "No inflated bundles, no rigid packages, no surprise fees. Receive personalised SPC Free Zone licensing costs tailored to your unique business setup needs.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Simplify SPC Free Zone Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Select Business Activities",
+                "description": "We’ll start by assessing your business needs and providing products or services to match you with the ideal activity.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose the Necessary Facilities",
+                "description": "Next, our experts will assist in selecting the ideal legal structure and leasing a fully furnished warehouse or office.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Prepare & Submit Documents",
+                "description": "We’ll provide you with a checklist to collect, attest, and submit the necessary documents and application.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Your Trade License",
+                "description": "Once approved, we’ll secure and send your trade license alongside your Emirates ID and visa application, per requirement.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Get Post-Licensing Support",
+                "description": "We go beyond licensing, helping you open a corporate bank account, obtain a residence visa, and issue an entry permit.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Sharjah Publishing City Free Zone Business Licensing",
+        "description": "Gain complete ownership of your business, qualify for tax exemptions, and enjoy full capital repatriation by choosing from 1500+ business activities. Our experts match you with the perfect trade license to ease company formation and account setup.",
+        "items": [
+            {
+                "title": "Quick, Reliable, & Affordable Setup",
+                "description": "Our seasoned consultants streamline all the paperwork and government back-and-forth to secure your trade license in 1-10 days.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Licensing Solutions",
+                "description": "Lease a warehouse, open a corporate bank account, and gain UAE residency stress-free with our all-in-one business setup plans.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Complete Transparency",
+                "description": "Pay for only what you need with our flat SPC Free Zone business setup and visa costs- no surprise fees, vague deliverables, or hidden charges.",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/spcSharjahPublishingCityFreeZone/grid/1.webp",
+        "title": "Fast-Track Business Success with Global Trade Connectivity",
+        "description": "Tap into global markets with SPC’s strategic access to Port Khalid, Khor Fakkan, Hamriyah Port, and Sharjah Airport. We do all the legwork, so you can focus on growing a multi-national business.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I launched my independent publishing company through SPCFZ and had my license within 24 hours. The process was simple, affordable, and completely remote. Perfect for solo founders like me.”",
+                "role": "Independent Publisher",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As a media consultant working with clients across the GCC, SPCFZ gave me full ownership, visa support, and the freedom to operate from anywhere. Zero red tape, and the setup team was incredibly responsive.”",
+                "role": "Media Consultant Founder",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“We moved our e-commerce operations to SPCFZ to take advantage of the 0% tax and affordable licensing. The flexibility and fast setup saved us both time and money.”",
+                "role": "E-commerce Business Owner",
+                "image": "/assets/spcSharjahPublishingCityFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Sharjah Free Zone’s Beyond SPC FZ",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Hamriyah Free Zone",
+                "description": "Access global ports, world-class logistics, and tax-free trade by setting up in HFZ.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Sharjah Airport International Free Zone",
+                "description": "Launch your company near the airport hub to streamline logistics and gain cargo support.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Media City Free Zone",
+                "description": "Choose from 1200+ creative activities to launch and expand your creative venture.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Gain Global Business Reach with Sharjah Publishing City",
+        "description": "Launch your writing, publishing, or printing business in the SPC Free Zone to tap into a diverse 2B+ market in Europe, Asia, and Africa. Partner with our seasoned consultants to license, lease, and set up in the heart of the UAE.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/spcSharjahPublishingCityFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Explore Other Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "SAIF - Sharjah Airport International free zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "SHAMS - Sharjah Media City free zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why should I set up my business in Sharjah Publishing City Free Zone?",
+                "answer": "Choosing SPC Free Zone offers several benefits, including 100% foreign ownership, access to state-of-the-art logistics and transportation networks, 0% personal income and capital taxes, and proximity to global markets."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I set up any business in the SPC Free Zone?",
+                "answer": "Yes, Sharjah Publishing City FZ allows businesses to choose from a plethora of business activities, from e-commerce and trading to fashion and publishing. You can connect with our experts to ensure your desired business activity is not restricted."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I own 100% of my business in Sharjah Publishing City?",
+                "answer": "Yes, SPC Free Zone offers expats complete strategic ownership of their business- no local sponsor or agent required."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I get a dual license in Sharjah Publishing City Free Zone?",
+                "answer": "Yes, SPC empowers businesses to secure a dual license and trade within and beyond free zones in the UAE."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz guarantee a bank account set up in the UAE?",
+                "answer": "Yes, our business consultants can help you secure a personal or business bank account under your trade license."
+            }
+        ]
+    }
+}

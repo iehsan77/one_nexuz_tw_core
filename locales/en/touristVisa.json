@@ -1,0 +1,316 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/touristVisa.webp",
+        "title": "Enter New Markets, Attend Key Events, & Unlock Growth Opportunities with Our UAE Tourist Visa Services",
+        "description": "Frustrated by bureaucratic delays and complex sponsorship requirements? Whether you’re visiting for a short market assessment or planning long-term expansion, network, negotiate, and explore setup opportunities without the need for a corporate sponsor or dealing with red tape. Our expert consultants handle the entire process, fast-tracking your approval so you can focus on growing your business."
+    },
+    "leftSection_1": {
+        "title": "How a Tourist Visa Gives You an Edge in the UAE?",
+        "description": "With a tourist visa, you get legal entry and room to assess the market without the commitment of a costly setup.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Connect, Collaborate, and Expand Your Market Reach with Zero Hassle",
+                "subTitle": "Connect, Collaborate, and Expand Your Market Reach with Zero Hassle",
+                "description": "Struggling to find the right connections and opportunities? Meet potential clients, attend exciting expos, or scout profitable investment opportunities to make your mark in the global market. Expand your network, build strategic partnerships, and grow your business faster with the right support and guidance",
+                "image": "/assets/touristVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Connect Beyond Borders,  Create Strategic Partnerships, and Gain Key Market Insights ",
+                "subTitle": "Connect Beyond Borders,  Create Strategic Partnerships, and Gain Key Market Insights ",
+                "description": "Struggling to grow beyond local clients? Join events, attend meetings, or visit coworking spaces across the UAE to connect with over 2 billion clients from the Middle East, Asia, Africa, and Europe. Leverage these connections to secure partnerships, expand your business, and maximize your global reach.",
+                "image": "/assets/touristVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Navigate UAE Business Opportunities & Work Independently Without Local Sponsors ",
+                "subTitle": "Navigate UAE Business Opportunities & Work Independently Without Local Sponsors ",
+                "description": "Tired of being tied down by corporate sponsors? Say goodbye to the hassle of partnering with a corporate sponsor by applying for a tourist visa. Choose 14, 30, or 90 days, with single or multiple entries, to gauge the market stress-free. Get firsthand insights, meet potential partners, and make informed decisions.",
+                "image": "/assets/touristVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Gain Local Confidence & Establish Credibility Through Face-to-Face Interactions",
+                "subTitle": "Gain Local Confidence & Establish Credibility Through Face-to-Face Interactions",
+                "description": "Aren’t remote negotiations winning you enough deals? In the UAE, deals are personal. Build trust and credibility with potential partners, banks, and stakeholders by stepping into the market. Establish strong relationships, gain valuable insights, and position your business for long-term success.",
+                "image": "/assets/touristVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Do Businesses Get with a UAE Tourist Visa?",
+        "description": "Once your UAE tourist visa is approved, you’ll receive the following official documents:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/touristVisa/iconTitleSec/1.svg",
+                "title": "Official UAE eVisa"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/touristVisa/iconTitleSec/2.svg",
+                "title": "Entry validity & stay duration details"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/touristVisa/iconTitleSec/3.svg",
+                "title": "Travel summary & overstay guidelines"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/touristVisa/iconTitleSec/4.svg",
+                "title": "Support access & immigration info"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/touristVisa/left4/1.webp",
+            "title": "One Nexuz Helps You Take The First Step to Setting Up in the Gulf’s #1 Market",
+            "description": "Use your tourist visa to explore licensing options, identify office spaces, or attend key events. Our experts handle all the paperwork, ensuring you arrive ready to network, grow, and move forward.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/touristVisa/left4/2.webp",
+            "title": "Get Premium UAE Tourist Visa Services with Clear, Transparent Pricing at One Nexuz",
+            "description": "Planning a business visit or market exploration in the UAE? Get a personalized tourist visa quote designed to fit your schedule and travel needs.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6 Simple Steps For the UAE Tourist Visa Approval",
+        "items": [
+            {
+                "id": 1,
+                "title": "Schedule the Initial Call",
+                "description": "We’ll start by assessing your visa needs and suggest the best-fit option to streamline the application process.",
+                "image": "/assets/touristVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Meet the UAE Tourist Visa Requirements",
+                "description": "Next, our expert consultants verify your eligibility, check for missing info, and ensure compliance before submission.",
+                "image": "/assets/touristVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit Your Application",
+                "description": "After ensuring your visa eligibility, we submit your documents, pay the fees, and file your visa application on the UAE immigration portal.",
+                "image": "/assets/touristVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Real-Time Updates",
+                "description": "Then our expert advisors send you updates via email or WhatsApp to ensure a clear and hassle-free visa journey.",
+                "image": "/assets/touristVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Secure Your Tourist Visa",
+                "description": "Once approved, we email the visa to your email address. You can save and print it for seamless entry into the Emirates.",
+                "image": "/assets/touristVisa/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Get Post-Visa Guidance",
+                "description": "With our ongoing support, you get up-to-date reminders for renewals, overstay rules, or converting to long-term visas.",
+                "image": "/assets/touristVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz for UAE Tourist Visa Services",
+        "description": "Navigating legal complexities, endless visa requirements, and confusing government portals can lead to costly errors and delays. Our expert consultants at One Nexuz handle every step to expedite visa approvals.",
+        "items": [
+            {
+                "title": "Experts Who Know the Process Inside Out",
+                "description": "Our experts boast over a decade of experience and know the exact requirements across nationalities and visa types. No guesswork, no rework- just a smooth, hassle-free process that gets approvals stress-free.",
+                "image": "/assets/touristVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Speed that Matches Your Schedule",
+                "description": "Cut down application processing times in half with expert-led Dubai tourist visa services, allowing you to fly out within 2-5 working days.",
+                "image": "/assets/touristVisa/bgImage/2.webp"
+            },
+            {
+                "title": "No Hidden Fees, No Confusion",
+                "description": "Forget vague quotes or surprise charges post-visa application. With One Nexuz, everything is upfront- pricing, timelines, and documentation included.",
+                "image": "/assets/touristVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/touristVisa/grid/1.webp",
+        "title": "Redefine Your Business Trajectory in the UAE with One Nexuz",
+        "description": "Redefine Your Business Trajectory in the UAE with One Nexuz 80% of startup founders in the UAE first entered on a tourist visa. Whether it’s scouting investors, attending events, or testing the market, your journey starts here.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I tried applying on my own and got stuck in document issues and delays. One Nexuz handled everything smoothly—I had my UAE visa in 36 hours and flew out the same week.”",
+                "role": "E-commerce Founder",
+                "image": "/assets/touristVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We needed multiple tourist visas for an upcoming investor trip to Dubai. The One Nexuz team handled all the coordination, kept us constantly updated, and got every approval on time.”",
+                "role": "Consulting Firm Partner",
+                "image": "/assets/touristVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I’ve dealt with unreliable agents before, but this was different. Transparent pricing, fast responses, and no surprises. This is how visa services should work for business travelers.”",
+                "role": "CEO of Fashion Startup ",
+                "image": "/assets/touristVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Our Additional Services to Scale Your Business in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Expedite visa approvals and simplify renewals with end-to-end PRO support.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Travel & Visa Support for Executives",
+                "description": "Ensure seamless global mobility with fast-tracked vias processing and travel assistance.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Book premium meeting spaces equipped with top-notch amenities and high-speed connectivity.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Visa Cancellation Services",
+                "description": "Ensure a smooth transition from the UAE with expert-led visa cancellation processing.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Secure Your UAE Tourist Visa Today with One Nexuz  & Build Global Presence",
+        "description": "Skip the confusing paperwork, intricate government portals, and hidden costs with reliable visa application solutions. Our seasoned advisors handle every step so you can get on the ground fast and discover lucrative opportunities.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/touristVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa UAE",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Family Relocation Support",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "UAE Residence Visa",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Maid Visa",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is the validity period of a UAE tourist visa?",
+                "answer": "A UAE tourist visa allows you to stay in the country for 10 to 60 days, depending on your application and unique needs. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long can I stay in the UAE after my tourist visa expires?",
+                "answer": "The UAE offers a 10-day grace period where you can apply for and obtain an extension. If you stay in the Emirates beyond this period, you may incur hefty fines or penalties. "
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can I convert my tourist visa to a residence or investor visa?",
+                "answer": "Yes, in most cases, your tourist visa can be converted without exiting the country. Our expert consultants assist in transitioning to your desired visa."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I apply for a UAE tourist visa without a local sponsor?",
+                "answer": "Yes! Our seasoned advisors eliminate the need for a local UAE sponsor by streamlining the application process."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What documents do I need to apply for a UAE tourist visa?",
+                "answer": "You’ll need copies of your passport, a recent photo, and basic travel information. "
+            }
+        ]
+    }
+}

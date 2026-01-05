@@ -1,0 +1,293 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/proServicesAjman.webp",
+        "title": "From Documentation to Government Approvals, Fast-Track Your Operations with PRO Services in Ajman",
+        "description": "Drowning in red tape, fast-approaching deadlines, or hefty fines? At One Nexuz, our seasoned PRO specialists track every expiry, renewal, and submission, keeping your licenses, contracts, and visas up to date. Reclaim hours spent navigating Ajman's stringent regulatory landscape, prevent costly compliance errors, and focus on what you do best, scaling your business!"
+    },
+    "leftSection_1": {
+        "title": "Why You Need Expert PRO Services in Ajman, UAE",
+        "description": "Stay fully compliant with Ajman's complex regulatory landscape, slash processing times, and keep your operations moving forward with PRO specialists.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Fast-Track Government Approvals",
+                "subTitle": "Fast-Track Government Approvals",
+                "description": "From trade name reservation and license issuance to trademark renewals, streamline all documentation and submission workflows.",
+                "image": "/assets/proServicesAjman/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Get Zero Penalty Guarantee",
+                "subTitle": "Get Zero Penalty Guarantee",
+                "description": "Avoid costly fines and noncompliance violations by staying up to date on Ajman's dynamic regulatory and licensing requirements.",
+                "image": "/assets/proServicesAjman/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Slash Visa Processing Times",
+                "subTitle": "Slash Visa Processing Times",
+                "description": "Cut licensing and visa processing in half through seamless document submissions, government coordination, and clearances.",
+                "image": "/assets/proServicesAjman/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Make Informed Business Decisions",
+                "subTitle": "Make Informed Business Decisions",
+                "description": "Navigate Ajman’s complex business landscape with confidence. Gain invaluable local market insights to take data-driven business decisions.",
+                "image": "/assets/proServicesAjman/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Discover Our All-Inclusive PRO Services in Ajman",
+        "description": "Ensure your Ajman-based business meets the region’s unique licensing protocols, free zone regulations, and visa eligibility requirements with our end-to-end solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Trademark Renewals",
+                "description": "Register and renew your trademark in Ajman to safeguard your brand identity against infringement.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Trade Name Reservation",
+                "description": "Search, secure, and approve your business name in Ajman with full compliance to local naming regulations.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "License Issuance & Renewals",
+                "description": "Streamline licensing and get instant renewal alerts to avoid hefty penalties and ensure smooth operations.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Ejari (Tenancy Contract Registration)",
+                "description": "Register your Ajman tenancy contracts to meet DED, licensing, and visa requirements.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Document Attestation",
+                "description": "Fast-track local and global document attestation through verified embassy and UAE legalisation.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Legal Translation",
+                "description": "Obtain certified Arabic-English legal translations to ensure compliance with Ajman DED & FZA.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Power of Attorney Drafting",
+                "description": "Draft legally binding Powers of Attorney compliant with the UAE, ready for notarisation and official use.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Notarisation Services",
+                "description": "Get all necessary documents translated, notarised, and attested by Ajman DED or FZA.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/proServicesAjman/left4/1.webp",
+            "title": "Be Among 9,000+ Successful Firms in Ajman Free Zone",
+            "description": "Our PRO services ensure flawless visa processing, licensing approvals, and regulatory compliance, empowering you to launch and succeed from day one.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/proServicesAjman/left4/2.webp",
+            "title": "Stay Compliant Without the Hassle — PRO Services That Scale With You",
+            "description": "No confusing service tiers. No hidden charges. No unnecessary extras. Pay only for the PRO support your company truly needs, exactly when you need it.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Our 6-Steps to Stress-Free PRO Onboarding",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get a Free Consultation",
+                "description": "We start with a quick call to assess your business activity, legal structure, and PRO needs to craft a custom-built checklist.",
+                "image": "/assets/proServicesAjman/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Compile & Submit Documents",
+                "description": "Next, our team collects, types, and verifies all documents required by Ajman DED or Free Zone authorities.",
+                "image": "/assets/proServicesAjman/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Government Approvals",
+                "description": "We file all your business applications and documents through the appropriate Ajman portals and in-person channels to get clearances.",
+                "image": "/assets/proServicesAjman/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Round-the-Clock Updates",
+                "description": "You get live updates at every stage, from submission confirmations to document approvals, for a transparent setup journey.",
+                "image": "/assets/proServicesAjman/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Receive Your Licenses",
+                "description": "We deliver all finalised approvals, Emirates IDs, licenses, and visas, empowering you to launch, operate, and scale.",
+                "image": "/assets/proServicesAjman/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Receive Renewal Alerts",
+                "description": "Our team ensures you’re always compliant by sending timely updates on upcoming renewals or compliance deadlines.",
+                "image": "/assets/proServicesAjman/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz for Expert Ajman PRO Services",
+        "description": "Skip the endless queues in government offices, piles of paperwork, and complex regulatory requirements with our seasoned PRO specialists guiding you every step of the way.",
+        "items": [
+            {
+                "title": "Hassle-Free Business Setup",
+                "description": "With a proven track record, our PRO specialists ensure your application gets approved on the very first submission.",
+                "image": "/assets/proServicesAjman/bgImage/1.webp"
+            },
+            {
+                "title": "Less Waiting, More Savings",
+                "description": "Outsource the admin, skip the setbacks, and watch your profits climb. We handle all the government back-and-forth so you can focus on scaling.",
+                "image": "/assets/proServicesAjman/bgImage/2.webp"
+            },
+            {
+                "title": "24/7 Regulatory Support",
+                "description": "Mitigate the risk of hefty fines and penalties with instant alerts on evolving legal standards, visa expiration dates, and license renewals.",
+                "image": "/assets/proServicesAjman/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/proServicesAjman/grid/1.webp",
+        "title": "Your Single Gateway to All Government Approvals",
+        "description": "Cut long lines and delays with seamless PRO support that handles submissions, follow-ups, and compliance at every touchpoint.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We had no idea how to navigate Ajman Free Zone visa processing until we hired this team. Everything got done within a week.”",
+                "role": "Boutique Owner",
+                "image": "/assets/proServicesAjman/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Their knowledge of Ajman compliance rules saved us time and at least AED 3,000 in unnecessary charges.”",
+                "role": "Tech Founder",
+                "image": "/assets/proServicesAjman/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“No delays, no confusion, and clear updates throughout. This is what PRO service should feel like.”",
+                "role": "Real Estate Consultant",
+                "image": "/assets/proServicesAjman/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Explore Our Full Range of Corporate PRO Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Scale your business across the Emirates with our end-to-end PRO solutions.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "PRO Services Dubai",
+                "description": "Operate and thrive 100% compliant in the UAE’s most profitable economy.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services Abu Dhabi",
+                "description": "Grow stress-free in Abu Dhabi with ADDED-compliant licensing.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "PRO Services Sharjah",
+                "description": "Simplify compliance and visa renewals in Sharjah with seamless PRO services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Tired of Red Tape Slowing Your Ajman Launch?",
+        "description": "From corporate bank accounts to visa renewals and labor approvals, our PRO specialists simplify all government interactions, submissions, and compliance, cutting down delays and powering your growth.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/proServicesAjman/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services Dubai",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "PRO Services Sharjah",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services Abu Dhabi",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Why do I need PRO services in Ajman, UAE?",
+                "answer": "Outsourcing PRO solutions empowers your business to streamline paperwork, secure visas and permits, and ensure compliance with the region’s local regulations."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to provide any documents for PRO services in Ajman?",
+                "answer": "Yes, our experts will provide you with a checklist of the required documents, including passport copies, visa application forms, and company registration papers."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does it take for One Nexuz to onboard us for PRO services?",
+                "answer": "We’ll get you started as soon as you book your first discovery call and provide the necessary documents."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can you assist with visa processing, sponsorships, and document attestation?",
+                "answer": "Absolutely! Our business consultants specialise in visa processing and stamping, sponsorships, document attestation, and clearances."
+            }
+        ]
+    }
+}

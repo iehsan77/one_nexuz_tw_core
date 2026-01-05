@@ -1,0 +1,314 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/hfzaHamriyahFreeZone.webp",
+        "title": "Tap into Global Trade Routes, Expand Reach, & Scale Operations in Hamriyah Free Zone",
+        "description": "Expand your business across the globe with strategic access to the Arabian Gulf, Port Khalid, Jebel Ali Port, and Sharjah International Airport. Save millions of dirhams with favourable land leasing policies, inexpensive energy, and competitive tax incentives. Trust our experts to streamline the licensing process so that you can go live in days, not months."
+    },
+    "leftSection_1": {
+        "title": "Why Should You Set Up in Hamriyah Free Zone?",
+        "description": "Located adjacent to GCC states, HFZ empowers founders with world-class infrastructure and seamless logistical connectivity. Choose from 7 dedicated sub-zones within Hamriyah FZ to unlock state-of-the-art business facilities.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Gain Access to Global Markets",
+                "subTitle": "Gain Access to Global Markets",
+                "description": "Take advantage of the Hamriyah Free Zone's 3 modern seaports, deep water port, and inner harbour to discover a diverse market of over 1.5 billion consumers in the MENA region, Europe, Asia, and Africa.",
+                "image": "/assets/hfzaHamriyahFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Discover Exciting Tax Benefits",
+                "subTitle": "Discover Exciting Tax Benefits",
+                "description": "Maximise profitability with HFZA's zero import, export, income, and corporate tax, low freight charges, and 100% capital repatriation.",
+                "image": "/assets/hfzaHamriyahFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Browse Ready-to-Move Warehouses",
+                "subTitle": "Browse Ready-to-Move Warehouses",
+                "description": "Expedite business setup by browsing HFZA's extensive catalogue of robust pre-built warehouses and fully furnished office units. Choose from 220+ units and 140+ industrial land in prime business destinations.",
+                "image": "/assets/hfzaHamriyahFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Unlock Limitless Business Growth",
+                "subTitle": "Unlock Limitless Business Growth",
+                "description": "Scale your company and build your team hassle-free by qualifying for over 15 visa applications and bundling 10+ activities under a single license.",
+                "image": "/assets/hfzaHamriyahFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Eligible Business Activities in Hamriyah Free Zone",
+        "items": [
+            {
+                "id": 1,
+                "title": "Customs Clearance"
+            },
+            {
+                "id": 2,
+                "title": "Data Entry"
+            },
+            {
+                "id": 3,
+                "title": "Fashion Designing"
+            },
+            {
+                "id": 4,
+                "title": "Halal Food Packaging"
+            },
+            {
+                "id": 5,
+                "title": "Insurance Consultancy"
+            },
+            {
+                "id": 6,
+                "title": "Petrochemical-Related Activities"
+            },
+            {
+                "id": 7,
+                "title": "Oil & Gas Equipment Production"
+            },
+            {
+                "id": 8,
+                "title": "Social Media App Management"
+            },
+            {
+                "id": 9,
+                "title": "Sports Research & Consultancy"
+            },
+            {
+                "id": 10,
+                "title": "Steel Fabrical"
+            },
+            {
+                "id": 11,
+                "title": "Wellness Centers"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Select the Best-Fit Trade License in HFZA",
+        "description": "Choose from diverse business licenses to find the one that best matches your business activity and legal structure:Choose from diverse business licenses to find the one that best matches your business activity and legal structure:",
+        "btn": "",
+        "items": [
+            {
+                "id": 1,
+                "title": "Industrial License",
+                "description": "Secure warehouse and environmental approvals to fabricate, package, and distribute goods stress-free."
+            },
+            {
+                "id": 2,
+                "title": "Commercial License",
+                "description": "Buy, sell, store, and trade goods across the Emirates with only your passport, application, and a trade name."
+            },
+            {
+                "id": 3,
+                "title": "Service License",
+                "description": "Offer consultancy or business support services with minimal documentation."
+            },
+            {
+                "id": 4,
+                "title": "General Trading License",
+                "description": "Streamline multi-category trading by providing a product list, passport copies, and a physical office lease."
+            },
+            {
+                "id": 5,
+                "title": "Investment License",
+                "description": "Hold, diversify, and preserve your shares with a professional business plan and shareholder documents."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/hfzaHamriyahFreeZone/left4/1.webp",
+            "title": "Thrive in One of the World's Best Free Zones",
+            "description": "Ranked #2 in the ‘World’s Best Free Zone,’ Hamriyah Free Zone offers unmatched access to global trade routes, robust warehouses, and long-term leases.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/hfzaHamriyahFreeZone/left4/2.webp",
+            "title": "Flexible Setup, Transparent Costs—Grow Confidently in Hamriyah Free Zone",
+            "description": "Receive your Hamriyah Free Zone licensing costs built around your business setup needs. Only pay for the licenses, offices, and services you actually need—no hidden fees, no surprises.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Fast-Track Hamriyah Free Zone Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Register Your Trade Name",
+                "description": "We’ll start with a free consultation to assess your business activity and suggest unique trade names.",
+                "image": "/assets/hfzaHamriyahFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select & Secure a Facility",
+                "description": "Next, our expert consultants will help you select, register, and lease or rent a warehouse or industrial land.",
+                "image": "/assets/hfzaHamriyahFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Fill Out Your Application",
+                "description": "We'll provide you with a checklist of the necessary documents and handle the paperwork to ensure timely submission.",
+                "image": "/assets/hfzaHamriyahFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Your Trade License",
+                "description": "Once approved, we'll secure your business license, issue a lease agreement, and hand over all documents.",
+                "image": "/assets/hfzaHamriyahFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Open a Corporate Account",
+                "description": "We offer post-licensing support to help you secure visas, sponsor employees, set up a business bank account.",
+                "image": "/assets/hfzaHamriyahFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz for Reliable Hamriyah Free Zone Business Setup Services",
+        "description": "Register your business within a day in Hamriyah Free Zone- no NOC or local sponsor/agent required.",
+        "items": [
+            {
+                "title": "Cut Licensing Times by Half",
+                "description": "We expedite your application through direct coordination with HFZA, eliminating unnecessary delays and issuing your license within 3 days.",
+                "image": "/assets/hfzaHamriyahFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Setup Solutions",
+                "description": "Choose from 2000+ business activities, open a corporate bank account, and secure your visa under one roof with our holistic business services.",
+                "image": "/assets/hfzaHamriyahFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Transparent Pricing Plans",
+                "description": "We'll provide you with an upfront quote that includes everything you need- no hidden costs, upsells, or surprise add-ons.",
+                "image": "/assets/hfzaHamriyahFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/hfzaHamriyahFreeZone/grid/1.webp",
+        "title": "Lock in 25 Years of Stability in Hamriyah Free Zone",
+        "description": "Lease pre-built warehouses and industrial land for over 25 years with our expert consultants to maximise cost savings and drive business growth.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“I got my industrial license and visa sorted in under 3 days. The team handled everything—from document submission to bank introduction—without me stepping foot in the free zone.”",
+                "role": "Light Manufacturing Startup Founder",
+                "image": "/assets/hfzaHamriyahFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“What stood out was the transparency. I knew exactly what I was paying for, and there were no hidden fees. The whole process was faster and smoother than I expected.”",
+                "role": "General Trading Company Owner",
+                "image": "/assets/hfzaHamriyahFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a first-time entrepreneur, I had no idea which license fit my business. They guided me through every step, helped me avoid unnecessary costs, and got my company live within the week.”",
+                "role": "Marketing Services Firm Consultant",
+                "image": "/assets/hfzaHamriyahFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Business across Sharjah Free Zone",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Sharjah Airport International Free Zone",
+                "description": "Unlock access to markets in GCC, the Middle East, CIS countries, Asia, and Africa in SAIFZ.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Sharjah Media City Free Zone",
+                "description": "Launch your creative journey in SHAMS FZ’s thriving and innovative community.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Publishing City Free Zone",
+                "description": "Capitalise on SPC Free Zone’s tax-friendly environment to launch your media or publishing venture.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Position Your Business at the Junction of Three Ports in HFZA",
+        "description": "Partner with our seasoned business consultants to secure your business license within 1-7 days and fuel unlimited business growth with purpose-built warehouses, cost-efficient setup plans, and direct access to seaports.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/hfzaHamriyahFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "SPC - Sharjah Publishing City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "SAIF - Sharjah Airport International free zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "SHAMS - Sharjah Media City free zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does it take to issue a business license?",
+                "answer": "With our experts, you can secure your HFZ trade license within 1-3 working days."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Do I need to lease a physical office to operate in Hamriyah Free Zone?",
+                "answer": "No, you can set up your business in HFZ without leasing or renting a physical office, co-working space, or virtual office."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What is the corporate tax rate in Hamriyah FZ?",
+                "answer": "The Hamriyah Free Zone offers businesses 0% corporate, personal income, import, and export taxes, providing unlimited savings."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Is an audit required annually for HFZ companies?",
+                "answer": "No, Hamriyah Free Zone doesn’t require businesses to conduct annual audits, empowering you to save costs."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz assist in setting up a corporate bank account in Hamriyah Free Zone?",
+                "answer": "Yes, our expert consultants can help you set up a personal or business account in HFZA to streamline finances."
+            }
+        ]
+    }
+}

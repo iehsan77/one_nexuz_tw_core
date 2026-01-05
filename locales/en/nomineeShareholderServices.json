@@ -1,0 +1,262 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/nomineeShareholderServices.webp",
+        "title": "Secure Ownership, Ensure Compliance, and Streamline Corporate Governance with Trusted Nominee Shareholder Services",
+        "description": "Struggling to navigate the UAE ownership rules while trying to grow your business? At One Nexuz, our skilled nominee shareholders empower you to stay 100% compliant with the UAE Free Zone and Mainland's ownership rules, driving cross-border expansion and maximising your profits. Capitalise on the Emirate’s thriving business landscape by tapping into the region's local and global markets, nurture investor trust, and secure your personal identity."
+    },
+    "leftSection_1": {
+        "title": "Why Business Owners Need Nominee Shareholder Services",
+        "description": "Shield your wealth from prying eyes, win investor confidence, and save millions of dirhams through strategic tax planning- all without losing operational control by appointing a nominee shareholder.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Retain Full Strategic Control",
+                "subTitle": "Retain Full Strategic Control",
+                "description": "Enjoy complete decision-making power and operational control over your UAE-based business with strategic nominee agreements tailored to your jurisdiction.",
+                "image": "/assets/nomineeShareholderServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Preserve Your Business Assets",
+                "subTitle": "Preserve Your Business Assets",
+                "description": "Build, diversify, and protect your investments from unwanted public attention, external interference, and hefty claims by adding an extra layer of protection.",
+                "image": "/assets/nomineeShareholderServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Uncover exciting growth opportunities by building long-lasting business relationships with industry experts, thought leaders, and innovators.",
+                "image": "/assets/nomineeShareholderServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Maintain Business Anonymity ",
+                "subTitle": "Maintain Business Anonymity ",
+                "description": "Safeguard your personal and business information by registering your local nominee shareholder on all public records.",
+                "image": "/assets/nomineeShareholderServices/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "Everything You Get with Our Nominee Shareholder Services",
+        "description": "Gain end-to-end legal and financial protection with our full range of nominee shareholder services.",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/1.svg",
+                "title": "Nominee Shareholder Agreement"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/2.svg",
+                "title": "Declaration of Trust"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/3.svg",
+                "title": "Power of Attorney"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/4.svg",
+                "title": "Board Resultion(s)"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/5.svg",
+                "title": "Non-Disclosure Agreement"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/5.svg",
+                "title": "Pre-Signed Resignation/Release Letter"
+            },
+            {
+                "id": 7,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/5.svg",
+                "title": "Indemnity Agreement"
+            },
+            {
+                "id": 8,
+                "icon": "/assets/nomineeShareholderServices/iconTitleSec/5.svg",
+                "title": "Supporting Identification Copies"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/nomineeShareholderServices/left4/1.webp",
+            "title": "Expand Globally Without Giving Up Ownership",
+            "description": "With 1.5M+ active licenses nationwide, competition in the Emirates is intense. Our strategic nominee solutions empower you to tap into lucrative markets and move faster than rivals.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/nomineeShareholderServices/left4/2.webp",
+            "title": "Professional Shareholding Solutions, Priced to Fit Your Needs",
+            "description": "No rigid packages, hidden charges, or surprise fees. Pay only for the nominee shareholder services you need, with complete compliance and peace of mind.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Appoint a Nominee Shareholder in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Assess Your Eligibility",
+                "description": "We'll start by discussing the nature of your business, industry, and legal structure to determine whether you need a nominee.",
+                "image": "/assets/nomineeShareholderServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare Your Documents",
+                "description": "Next, we'll provide you with a list of documents necessary to appoint a nominee, including your contact details.",
+                "image": "/assets/nomineeShareholderServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Draft Your Nominee Agreement",
+                "description": "Our skilled attorneys will then craft a professional nominee shareholder agreement, protecting the interests of both parties.",
+                "image": "/assets/nomineeShareholderServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Notify Legal Authorities",
+                "description": "Lastly, we'll assist you in officially registering with the relevant regulatory agencies in the Free Zone or Mainland Dubai.",
+                "image": "/assets/nomineeShareholderServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz for the Best Nominee Shareholder Services",
+        "description": "Take advantage of the UAE's lucrative local market and world-class amenities with our local nominee shareholders.",
+        "items": [
+            {
+                "title": "Minimise Administrative Burden",
+                "description": "Reclaim 2+ hours per employee by reducing mundane tasks. Our experts handle all the paperwork and attestations, so you can focus on growing.",
+                "image": "/assets/nomineeShareholderServices/bgImage/1.webp"
+            },
+            {
+                "title": "Combat Operational Disruptions",
+                "description": "Ensure full strategic control and prevent costly disruptions with our clear shareholder agreements, simplifying transfers, expansions, and exits.",
+                "image": "/assets/nomineeShareholderServices/bgImage/2.webp"
+            },
+            {
+                "title": "Gain Regulatory Peace of Mind",
+                "description": "Stay ahead of the curve in the UAE's rapidly evolving regulatory landscape with timely alerts and custom-tailored advice.",
+                "image": "/assets/nomineeShareholderServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/nomineeShareholderServices/grid/1.webp",
+        "title": "Protect Your Identity, Build With Confidence",
+        "description": "Gain complete confidentiality for your business, shield your name from public records, and stay 100% compliant to safeguard your business rights and profits.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“We needed a structure that kept us compliant with local laws without complicating our operations. The nominee service made the process seamless, transparent, and secure from day one.”",
+                "role": "International Trading Company CFO ",
+                "image": "/assets/nomineeShareholderServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Our firm values confidentiality when working with global clients. Appointing a nominee shareholder allowed us to maintain privacy while retaining full decision-making authority and profits.”",
+                "role": "Consulting Firm Managing Director ",
+                "image": "/assets/nomineeShareholderServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“As a founder entering the UAE market, I was concerned about privacy and compliance. The nominee shareholder arrangement gave me complete peace of mind while keeping my ownership fully protected.”",
+                "role": "Tech Startup Founder",
+                "image": "/assets/nomineeShareholderServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Protect Your Investments with Additional Nominee Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Nominee Director Services",
+                "description": "Maintain anonymity, access exclusive market insights, and diversify your assets with our local nominee directors.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account Opening Assistance",
+                "description": "Set up a local UAE corporate account to streamline, build, and secure your wealth by taking advantage of our nominee services.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Accelerate Market Entry with Professional Nominee Shareholder Support",
+        "description": "Build instant credibility, maintain privacy, and ease cross-border transactions with local nominee shareholders. Gain total peace of mind to focus on scaling your business beyond the Emirates, while we do all the legwork.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/nomineeShareholderServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Nominee Director Services",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Bank Account Opening Assistance",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a nominee shareholder in the UAE?",
+                "answer": "A nominee shareholder is an appointed UAE local or entity that holds shares on your behalf, ensuring your name doesn't appear on public company records."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does it take to appoint a nominee shareholder?",
+                "answer": "Our seamless onboarding process connects you with the best-fit nominee shareholder in 2-5 business days, accelerating your market entry."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Can nominee shareholders interfere with my company's decision-making?",
+                "answer": "No, business owners remain the beneficial owners of their company, meaning you retain 100% control over profits and decision-making power."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Will my personal and business information stay confidential with One Nexuz?",
+                "answer": "Yes, our experts ensure your identity, documents, and agreements remain secure through stringent confidentiality protocols and digital encryption."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Is it legal to use nominee shareholder services in the UAE?",
+                "answer": "Yes, nominee shareholder services are fully legal and widely used by foreign expatriates, as long as you secure your nominee service agreement, Power of Attorney, and declaration of trust."
+            }
+        ]
+    }
+}

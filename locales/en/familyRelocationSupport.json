@@ -1,0 +1,322 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/familyRelocationSupport.webp",
+        "title": "From Sponsorship to Settlement, Secure a Smooth Relocation for Your Family in the UAE ",
+        "description": "Struggling to navigate the UAE’s complex visa requirements, tackle housing headaches, and avoid costly compliance pitfalls? At One Nexuz, our expert visa consultants and movers handle the legal, logistical, and lifestyle elements of your transition, empowering you to capitalise on one of the world’s fastest-growing economes, access world-class infrastructure, and settle your loved ones stress-free."
+    },
+    "leftSection_1": {
+        "title": "Why Your Business Needs Family Relocation Services in the UAE",
+        "description": "Take advantage of the UAE's dynamic ecosystem, bring your loved ones closer, and ensure seamless transitions with end-to-end family sponsorship and relocation solutions.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Simplify Family Sponsorship, Secure Their Future, and Give Your Family a World of Opportunities ",
+                "subTitle": "Simplify Family Sponsorship, Secure Their Future, and Give Your Family a World of Opportunities ",
+                "description": "Bring your loved ones close, access world-class local amenities, enroll your children in top-tier international schools, and empower your spouse to apply for a work permit stress-free with a family visa.",
+                "image": "/assets/familyRelocationSupport/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Minimise Overheads, Maximise Profits, and Enjoy Unlimited Global Access ",
+                "subTitle": "Minimise Overheads, Maximise Profits, and Enjoy Unlimited Global Access ",
+                "description": "Don’t like sky-high costs, hidden fees, and Enjoy 100% personal and corporate income tax exemption, affordable housing, and convenient travel in 140+ countries, allowing your family to live, travel, and thrive within and beyond the Emirates.",
+                "image": "/assets/familyRelocationSupport/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "From Visa Approvals to Stress-Free Setup- Secure Your Loved One’s Lifestyle",
+                "subTitle": "From Visa Approvals to Stress-Free Setup- Secure Your Loved One’s Lifestyle",
+                "description": "Experience a stress-free move with end-to-end family relocation support, from packing to settling in, empowering you to find the perfect living space, utilities, transportation, and domestic help, so your family feels at home from day one.",
+                "image": "/assets/familyRelocationSupport/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Delegate Paperwork, Streamline Relocation, and Keep Your Business Moving Without Disruptions ",
+                "subTitle": "Delegate Paperwork, Streamline Relocation, and Keep Your Business Moving Without Disruptions ",
+                "description": "Worried that relocating will disrupt your business momentum? Keep scaling during the transition by delegating relocation logistics to experts. Reduce operational lag and simplify setup in a new city.",
+                "image": "/assets/familyRelocationSupport/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Our UAE Family Sponsorship and Relocation Services Include",
+        "description": "Get everything you and your loved ones need for a smooth transition to the UAE with our exhaustive relocation services, including:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/familyRelocationSupport/iconTitleSec/1.svg",
+                "title": "Dependent visa application & processing"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/familyRelocationSupport/iconTitleSec/2.svg",
+                "title": "Safe movement of your possessions to ensure zero losses"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/familyRelocationSupport/iconTitleSec/3.svg",
+                "title": "Complete insurance coverage to protect you against damage"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/familyRelocationSupport/iconTitleSec/4.svg",
+                "title": "Property search, school advisory, & banking support"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/familyRelocationSupport/left4/1.webp",
+            "title": "Bring Your Family to the UAE in Just 7 Working Days with One Nexuz",
+            "description": "Fast-track family relocation with seamless documentation, entry permits, family residence visas, and medicals. Our experts cut down processing times in half so you can settle and thrive in the Emirates.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/familyRelocationSupport/left4/2.webp",
+            "title": "Bring Your Family to the UAE Without Breaking the Bank",
+            "description": "No hidden fees or rigid plans—our custom UAE family sponsorship and relocation service costs provide clear, flexible pricing, so you can focus on settling your family, not stressing over budgets.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Streamline Family Relocation in 5 Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book an Exhaustive Assessment",
+                "description": "We take the time to assess your family goals, visa needs, and lifestyle expectations to build a custom sponsorship and relocation plan.",
+                "image": "/assets/familyRelocationSupport/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Compile All Necessary Documents",
+                "description": "Next, our experts assist you in preparing the necessary documents, from attestation right down to the final submission.",
+                "image": "/assets/familyRelocationSupport/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Get Tailored Recommendations",
+                "description": "Our expert visa consultants then help you pick the ideal location and provide you with a curated list of housing and school options for a seamless transition.",
+                "image": "/assets/familyRelocationSupport/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Secure Your Visa & IDs",
+                "description": "Next, we’ll assist you in processing the appropriate family visas, managing ID registration, and delivering your goods from your hometown to the UAE.",
+                "image": "/assets/familyRelocationSupport/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Enjoy Post-Relocation Support",
+                "description": "Once all approvals are in, we offer ongoing support, including renewal assistance, post-move follow-ups, and advice on long-term residency.",
+                "image": "/assets/familyRelocationSupport/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust Our Experts for a Stress-Free Family Move",
+        "description": "",
+        "items": [
+            {
+                "title": "Get Holistic Relocation Solutions",
+                "description": "We centralise everything, from visa processing and banking to residency, into one expert-led workflow, empowering you to reclaim 40+ hours otherwise lost to admin, unexpected delays, and local red tape.",
+                "image": "/assets/familyRelocationSupport/bgImage/1.webp"
+            },
+            {
+                "title": "Accelerate Relocation Timelines",
+                "description": "Get settled into the UAE within days, not weeks, with our seamless family relocation solutions. With access to a modern fleet of vehicles, we cut down delays, minimise stress, and optimise operational efficiency.",
+                "image": "/assets/familyRelocationSupport/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Full Visibility",
+                "description": "Get clarity at every phase of the move with a dedicated dashboard. Track relocation stages and receive proactive updates to stay in the know-how, ensuring you enjoy a transparent and stress-free transition.",
+                "image": "/assets/familyRelocationSupport/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/familyRelocationSupport/grid/1.webp",
+        "title": "Stay Compliant with One Nexuz and Avoid AED 10,000+ in Penalties",
+        "description": "Invalid visas and missing documents can cost you thousands of dirhams. We make sure every family member is fully sponsored, cleared, and insured — so your move is smooth, legal, and worry-free.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“They handled our relocation like a mission-critical launch—zero delays, clear communication, and no time wasted. It freed me up to focus entirely on our expansion into the UAE.”",
+                "role": "Fintech Startup CEO",
+                "image": "/assets/familyRelocationSupport/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“We were moving with two children, setting up a franchise, and under pressure to get licensed quickly. One Nexuz made the entire transition feel structured and completely manageable.”",
+                "role": " F&B Franchise Group Owner ",
+                "image": "/assets/familyRelocationSupport/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I didn’t have the bandwidth to manage documents, timelines, or government follow-ups. One Nexuz handled everything with startup-level urgency and precision—I barely had to lift a finger.”",
+                "role": "E-commerce Brand Founder",
+                "image": "/assets/familyRelocationSupport/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Simplify Every Step of Your Move with One Nexuz",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Fast-track visa approvals, minimise costly delays, and ensure timely renewals with our end-to-end PRO services across the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Bank Account Opening in the UAE",
+                "description": "Open secure UAE bank accounts for you and your family to simplify personal and business finances.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "UAE Residence Visa",
+                "description": "Live and work in the UAE alongside your loved ones with up to 2 years of residency by securing the right  UAE Residency visa.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Maid Visa Processing",
+                "description": "Bring in trustworthy domestic help with our hassle-free maid visa processing solutions.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Visa Cancellation Services",
+                "description": "Avoid costly fines and penalties with on-time, accurate, and hassle-free UAE visa cancellation services.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Courier & Logistics Services",
+                "description": "Securely pack and move household goods and essential goods with our global courier and logistics solutions",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Relocate with Confidence- Build Your Dream Life in the UAE with One Nexuz",
+        "description": "Ready to join the millions transitioning to the UAE? Set up and scale your business while staying close to your loved ones by relocating your family. Trust our expert movers and advisors to handle the move so you can live, lead, and grow stress-free.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/familyRelocationSupport/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa UAE",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Tourist Visa",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "UAE Residence Visa",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Maid Visa",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Can I sponsor my spouse or parents with a UAE residence visa?",
+                "answer": "Yes, you can sponsor your loved ones, including your partner, children, and parents by ensuring you meet the region’s regulatory requirements. Our expert visa consultants offer free eligibility assessment and end-to-end visa processing support."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does family relocation services take?",
+                "answer": "The relocation process can take anywhere between 1 and 3 weeks, depending on your equipment, availability, and unique relocation requirements."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents do I need to relocate my family to the UAE?",
+                "answer": "You’ll need passport copies, marriage and birth certificates, tenancy contracts, an Emirates ID application, medical checkups, and valid health insurance. Our experts assist you through the entire document checklist and attestation."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Does One Nexuz assist with last-minute moves?",
+                "answer": "Yes, our expert relocaters offer urgent relocation solutions to handle quick turnarounds in the UAE."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Do I need to be present in the UAE during the relocation process?",
+                "answer": "Our experts handle all the government back-and-forth, equipment movement, and setup, minimising your time on the ground. You’ll only have to show up at key stages, such as medical tests and biometrics."
+            }
+        ]
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/smartDesksInUae.webp",
+        "title": "Boost Employee Wellbeing, Engagement, & Retention — Power Team Productivity with Our Agile Flexi-Desks in Dubai",
+        "description": "Struggling with skyrocketing office rents, feeling constrained by rigid work setups, or draining your budget on spaces you barely use? One Nexuz empowers you with an extensive catalogue of fully equipped flexi desk offices in Dubai, UAE, fostering higher workplace productivity, fueling team creativity, and encouraging seamless collaboration. Slash real estate costs, boost travel flexibility, and cultivate a happier workplace by booking, renting, or leasing innovative smart desk spaces."
+    },
+    "leftSection_1": {
+        "title": "Prioritise Employee Well-Being with a Flexi-Desk Office in Dubai",
+        "description": "Network, collaborate, and innovate alongside like-minded people and creative solopreneurs with fully-equipped flexi desks in the UAE.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Increase Employee Satisfaction by 20%",
+                "subTitle": "Increase Employee Satisfaction by 20%",
+                "description": "Boost workplace engagement by 70%+ and team productivity by 80% by minimising commute fatigue, improving focus, and creating a clutter-free working environment.",
+                "image": "/assets/smartDesksInUae/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Uncover Exciting Business Opportunities",
+                "subTitle": "Uncover Exciting Business Opportunities",
+                "description": "Build meaningful connections with investors, business partners, and potential clients through flexi-desks' collaborative infrastructure.",
+                "image": "/assets/smartDesksInUae/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Slash Real Estate Costs by 25%",
+                "subTitle": "Slash Real Estate Costs by 25%",
+                "description": "Optimise your square footage, scale effortlessly, and save AED 10,000+ in rent, energy consumption, and maintenance with space-efficient smart desks solutions.",
+                "image": "/assets/smartDesksInUae/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Get Unmatched Convenience",
+                "subTitle": "Get Unmatched Convenience",
+                "description": "Gain unrestricted access to world-class amenities, including cutting-edge meeting rooms, fully equipped boardrooms, high-speed connectivity, and a registered PO box.",
+                "image": "/assets/smartDesksInUae/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Everything You Get with Our Top Flexi Desk Spaces in the UAE",
+        "description": "Drive innovation and creativity by browsing our diverse catalogue, boasting 50+ flexi-desk office spaces across the Emirates.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Business Address",
+                "description": "Win instant trust with clients, banks, and government authorities by securing a prime UAE location."
+            },
+            {
+                "id": 2,
+                "title": "Workspace Access",
+                "description": "Enjoy spacious hot desks, modern shared lounges, and innovative business centre facilities on demand."
+            },
+            {
+                "id": 3,
+                "title": "Meeting & Conference Rooms",
+                "description": "Build client, partner, and employee trust by taking advantage of fully equipped meeting spaces."
+            },
+            {
+                "id": 4,
+                "title": "High-Speed Internet",
+                "description": "Get access to reliable connectivity, advanced IT infrastructure, and dedicated technical support."
+            },
+            {
+                "id": 5,
+                "title": "Mail & Courier Management",
+                "description": "Store, forward, and secure fragile mail and packages with end-to-end mail management and a registered address."
+            },
+            {
+                "id": 6,
+                "title": "Reception & Call Handling",
+                "description": "Create a lasting first impression with round-the-clock front-desk reception and phone answering services."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/smartDesksInUae/left4/1.webp",
+            "title": "Stay Ahead of the Curve with Our Scalable Office Solutions",
+            "description": "With 59% of businesses choosing flexibility over traditional offices, smart desks are a foolproof solution to scale without the high costs. ",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/smartDesksInUae/left4/2.webp",
+            "title": "Work Smarter, Not Harder — Smart Desk Spaces Tailored to Your Needs",
+            "description": "No long-term commitments. No hidden charges. No one-size-fits-all packages. Choose the flexi-desk setup that fits your workflow. Pay only for the space and amenities your team actually uses and upgrade as your business grows.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Select & Rent Top-Notch Flexi-Desks in 4 Easy Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Pick the Ideal Location",
+                "description": "We’ll schedule a no-obligation call to assess your needs and preferred location to match you with the ideal UAE flexi desk.",
+                "image": "/assets/smartDesksInUae/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Prepare All Documents",
+                "description": "Once you give us the green signal, we’ll help you compile the necessary documents, including your trade name, contact info, and Emirates ID.",
+                "image": "/assets/smartDesksInUae/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Sign Your Lease Agreement",
+                "description": "Next, we’ll send you the agreement draft for signing and start setting up your business address as soon as you make the payment.",
+                "image": "/assets/smartDesksInUae/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Start Working Instantly",
+                "description": "Simply grab your laptop, log onto our Wi-Fi, and book meeting rooms or business centres as needed- no downtime, no fit-out!",
+                "image": "/assets/smartDesksInUae/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your Trusted Partner for Top-Notch Flexi Desk",
+        "description": "Combine 3+ visa applications, optimise resource allocation, and boost business agility with our ready-to-use flexi-desk office spaces.",
+        "items": [
+            {
+                "title": "Unlock Top-Tier Amenities",
+                "description": "Cultivate a productive workplace with our access to diverse business amenities, including bookable meeting rooms, innovative equipment, and on-site staff support.",
+                "image": "/assets/smartDesksInUae/bgImage/1.webp"
+            },
+            {
+                "title": "Discover Prime Locations",
+                "description": "Browse, choose, and book fully furnished flexi-desks in top UAE locations to strengthen business reputation, attract clients, and network with industry experts.",
+                "image": "/assets/smartDesksInUae/bgImage/2.webp"
+            },
+            {
+                "title": "Fast-Track Setup Times",
+                "description": "Skip lease negotiations, fit-outs, and administrative downtime with ready-to-move flexi-desk office spaces. Set up and start working within 24-48 hours!",
+                "image": "/assets/smartDesksInUae/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/smartDesksInUae/grid/1.webp",
+        "title": "Boost Revenue by Improving Workplace Flexibility — Powered by One Nexuz",
+        "description": "Companies offering flexible office solutions record 16% higher revenue growth. Start with a UAE flexi-desk now to scale your business to new levels!",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“Setting up my company in Dubai was much easier than I expected. The flexi desk gave me a professional business address right away, and I could start operations within a day without dealing with long leases.”",
+                "role": "Software Startup Founder",
+                "image": "/assets/smartDesksInUae/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“As a startup founder, cost was a big concern. The flexi desk option let me meet licensing requirements and gave me access to meeting rooms whenever I needed them, all at a fraction of the cost of a traditional office.”",
+                "role": "Sustainability SME Co-Founder",
+                "image": "/assets/smartDesksInUae/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I was worried about the admin side of things, but the support team handled everything from the agreement to mail services. It felt seamless, and I could focus on growing my business instead of office logistics.”",
+                "role": "IT Freelance Consultancy Founder ",
+                "image": "/assets/smartDesksInUae/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Find the Ideal Office Setup Solution in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Physical Office Leasing",
+                "description": "Bundle up to 15+ visa applications under a single office by leasing tailored physical office spaces.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Virtual Office Services",
+                "description": "Reduce setup costs, boost workplace productivity, and recruit top talent worldwide with a virtual office.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Co-Working Space Solutions",
+                "description": "Network and collaborate with thought leaders, innovators, and like-minded professionals.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Private Offices",
+                "description": "Drive workplace productivity, fuel creativity, and maintain privacy with strategic private offices.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "UAE Residence Visa",
+                "description": "Secure 2+ residence, access local markets, and sponsor your loved ones.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Employment Visa",
+                "description": "Attract, recruit, and retain top talent beyond the Emirates with 5+ visa quotas.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Green Visa",
+                "description": "Self-sponsor and live, work, and thrive in the UAE for 5+ years with a UAE Green Visa.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Minimal Costs, Maximum Freedom- Scale Stress-Free with Our Flexi Desk Setup",
+        "description": "Stay connected with high-speed Wi-Fi, shared lounges, and innovative business center facilities. Choose from our extensive catalogue today to unlock the perks of an office without the office price tag.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/smartDesksInUae/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Physical Office Leasing",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Virtual Office Services",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Co-working Space Solutions",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is a Flexi-Desk agreement in Dubai, UAE?",
+                "answer": "A Flexi Desk agreement in Dubai is a flexible and convenient office space arrangement, empowering businesses to cut costs, encourage collaboration, and maximise real estate space"
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How are flexi-desks different from a virtual office?",
+                "answer": "The primary difference between a smart/flex-desk and a virtual office is that the former involves leasing a dedicated physical office space. In contrast, a virtual office involves registering an address without being able to ‘operate’ at that space."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Are flexi or smart desk offices legal in the UAE?",
+                "answer": "Yes, business owners and entrepreneurs can rent a flexi-desk to set up, as long as you issue the relevant license."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "How quickly can I start using my Flexi Desk?",
+                "answer": "Once documents are submitted and the agreement is signed, you can usually access your Flexi Desk within 24 hours."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How many visa applications can I bundle with a flexi-desk in the UAE?",
+                "answer": "Generally, you can secure 2-3 visas, depending on your desired location, business activity, license, and legal structure."
+            }
+        ]
+    }
+}

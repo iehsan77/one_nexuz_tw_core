@@ -1,0 +1,311 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/shamsSharjahMediaCityFreeZone.webp",
+        "title": "Create, Collaborate, & Expand — Unleash Your Creative Power in Sharjah Media City Free Zone",
+        "description": "Skip the costly errors, endless government queues, and approval delays, and launch within days, not weeks, with One Nexuz! We handle all the paperwork, so you can start growing from day one. Launch a stone’s throw away from the Sharjah International Airport to streamline logistics and gain unrestricted access to international markets with our expert business consultants guiding you every step of the way."
+    },
+    "leftSection_1": {
+        "title": "Why Creatives Choose Sharjah Media City Free Zone",
+        "description": "Tap into a diverse 1B+ consumer base across the Middle East, GCC, Asia, and regions of Africa. Launch stress-free with no minimum deposit requirements, enticing tax incentives, and competitive SHAMS visa costs.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Get Unmatched Global Reach",
+                "subTitle": "Get Unmatched Global Reach",
+                "description": "Take advantage of Sharjah Media City's strategic location to gain easy access to the Sharjah and Dubai Airport for seamless global trade.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Secure Personal & Business Assets",
+                "subTitle": "Secure Personal & Business Assets",
+                "description": "Protect your personal assets against potential business debts and lawsuits with limited liability by structuring your company as a separate legal entity.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enjoy 0% Business Taxes",
+                "subTitle": "Enjoy 0% Business Taxes",
+                "description": "Maximise profitability with SHAMS's tax-friendly landscape, offering 100% exemption from capital, personal income, and import-export taxes and complete profits and capital repatriation.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Expand Your Professional Network",
+                "subTitle": "Expand Your Professional Network",
+                "description": "Boost visibility, polish your professional skills, and connect with like-minded professionals by staying up-to-date with the latest community sessions, workshops, and exhibitions.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Top SHAMS Business Activities",
+        "items": [
+            {
+                "id": 1,
+                "title": "Advertising"
+            },
+            {
+                "id": 2,
+                "title": "Audio Recordings Publishing"
+            },
+            {
+                "id": 3,
+                "title": "Publishing"
+            },
+            {
+                "id": 4,
+                "title": "Branding & Corporate Identity"
+            },
+            {
+                "id": 5,
+                "title": "Interactive Services"
+            },
+            {
+                "id": 6,
+                "title": "Mass Media Engineering Consultancy"
+            },
+            {
+                "id": 7,
+                "title": "Motion Picture, Video, & TV Programme Production"
+            },
+            {
+                "id": 8,
+                "title": "Photographic Activities"
+            },
+            {
+                "id": 9,
+                "title": "Printing"
+            },
+            {
+                "id": 10,
+                "title": "Specialised Design Activities"
+            },
+            {
+                "id": 11,
+                "title": "Sports Events Marketing"
+            },
+            {
+                "id": 12,
+                "title": "Social Events Management"
+            },
+            {
+                "id": 13,
+                "title": "Wired/Wireless Telecommunication"
+            }
+        ]
+    },
+    "leftSection_3": {
+        "title": "Find the Right Trade License for Your SHAMS Business",
+        "description": "Select the business license that best fits your activities to qualify for exciting tax benefits.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Light-Industrial License",
+                "description": "Fabricate, package, and assemble anywhere in SHAMS with a professional business plan."
+            },
+            {
+                "id": 2,
+                "title": "Service License",
+                "description": "Launch your design, media, or marketing consultancy by submitting a powerful resume."
+            },
+            {
+                "id": 3,
+                "title": "Trade License",
+                "description": "Buy, sell, and distribute physical or digital assets stress-free- zero inventory proof needed."
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/shamsSharjahMediaCityFreeZone/left4/1.webp",
+            "title": "Secure Your SHAMS License in 24-48 Hours",
+            "description": "Skip the delays and go live faster. SHAMS gives you the freedom to operate fully online with quick licensing and zero paperwork headaches.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/shamsSharjahMediaCityFreeZone/left4/2.webp",
+            "title": "Start Your SHAMS Free Zone Business without Breaking the Bank",
+            "description": "Pick your license, workspace, and visas—pay only for the services and space your business actually needs. Get a Free Zone licensing quote that reflects your budget and growth trajectory, and expand effortlessly.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Streamline SHAMS Company Formation",
+        "items": [
+            {
+                "id": 1,
+                "title": "Create a Trade Name",
+                "description": "We’ll start with a brief call to discuss your services or products and business goals to brainstorm, select, and register a trade name.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Select the Best-Fit Trade License",
+                "description": "Next, our experts will assist in choosing the ideal business activity and a corresponding license to unlock tax benefits.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Attest & Submit Documents",
+                "description": "We’ll provide you with a checklist to prepare and get the necessary documents attested by relevant government authorities.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Receive Your License & ID",
+                "description": "Once your application is approved, we’ll receive and send you the trade license and Emirates ID in 1-7 days.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Set Up a Bank Account",
+                "description": "Our experts offer post-licensing support, including opening a corporate account, applying for, and securing visas.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Choose  One Nexuz for Seamless SHAMS Business Setup",
+        "description": "Navigate Sharjah Free Zone's legal requirements and scale confidently by partnering with our seasoned business consultants.",
+        "items": [
+            {
+                "title": "Holistic Business Setup Solutions",
+                "description": "Choose from 120+ business activities, secure the best-fit license, create a corporate bank account, and expand worldwide with our all-in-one setup packages.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/bgImage/1.webp"
+            },
+            {
+                "title": "100% Remote Company Formation",
+                "description": "Skip the hassle with our seamless business setup solutions, empowering you to launch from any corner of the world.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/bgImage/2.webp"
+            },
+            {
+                "title": "Scale Your Creative Venture",
+                "description": "Bundle 5+ business activities under a single license and qualify for up to 12 visas on a shared desk to power business growth.",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/shamsSharjahMediaCityFreeZone/grid/1.webp",
+        "title": "Launch Your Business from a Globally Recognised Media Hub",
+        "description": "Scale your creative venture from the UAE's leading media hub to unlock tax incentives and international reach. We handle all the paperwork, so you can start growing from day one.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Setting up my business in Sharjah Media City was smooth and well-guided. The team made the entire process easy and efficient.",
+                "role": "Media Production Company Founder",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "The business setup process was clear, fast, and professional. I felt supported every step of the way.",
+                "role": "Business Consultancy Managing Director",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "Starting my e-commerce venture here was hassle-free. The licensing was quick, and the team responded to all queries promptly.",
+                "role": "E-commerce Brand Operations Manager",
+                "image": "/assets/shamsSharjahMediaCityFreeZone/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Beyond Sharjah Media City Free Zone",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Hamriyah Free Zone",
+                "description": "Take advantage of HFZ's strategic location to reach 1.4 billion consumers worldwide.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Sharjah Airport International Free Zone",
+                "description": "Launch at the crossroads of the East and West to drive business growth.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Sharjah Publishing City",
+                "description": "Capitalise on SPC’s access to cutting-edge printing and publishing facilities to scale globally.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Grow Limitless in Sharjah Media City Free Zone's Creative Ecosystem",
+        "description": "Kickstart your creative journey in Sharjah's #1 media Free Zone to unlock 100% foreign ownership, 0% taxes, and flexible licensing options.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/shamsSharjahMediaCityFreeZone/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "SPC - Sharjah Publishing City Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "HFZA - Hamriyah Free Zone",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "SAIF - Sharjah Airport International free zone",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What is Sharjah Media City?",
+                "answer": "Sharjah Media City (SHAMS) is a free zone located in Sharjah, UAE, boasting state-of-the-art facilities for creatives. The region offers numerous benefits, including full foreign ownership, tax exemptions, and strategic access to global markets."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What types of legal entities can I set up in SHAMS?",
+                "answer": "Sharjah Media City allows businesses to choose from 3 options: SHAMS LLC, a branch of a foreign company, or a branch of a local company."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Do I need to rent or lease a physical office to set up in SHAMS?",
+                "answer": "No, you can explore alternative options, such as flex-desk, virtual, or co-working spaces, or launch fully remote to slash overheads."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I need to set up a business in Sharjah Media City?",
+                "answer": "Generally, you’ll need copies of your passport, an incorporation certificate, and other identification documents, depending on your selected business structure and license."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Can I set up my SHAMS business fully remote?",
+                "answer": "Yes, our experts can help you launch your business in SHAMS without being physically present in the UAE."
+            }
+        ]
+    }
+}
