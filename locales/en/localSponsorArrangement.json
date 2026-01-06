@@ -1,0 +1,312 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/localSponsorArrangement.webp",
+        "title": "Launch, Grow, and Expand Your UAE Business with Our Trusted UAE Local Sponsor Services ",
+        "description": "Cut through red tape, simplify legal complexities, and tap into the UAE's fast-growing local markets with our verified local sponsorship solutions. At One Nexuz, our experts do all the heavy lifting, so you can focus on scaling your business stress-free. Gain instant access to cutting-edge UAE Mainland facilities, fast-track visas and permits, unlock exclusive local insights, and expand without legal or technical headaches."
+    },
+    "leftSection_1": {
+        "title": "Why Business Owners Need a Local Sponsor in the UAE",
+        "description": "Uncover exciting networking opportunities, simplify business setup, avoid legal complexities, and discover the latest industry trends with a local sponsor.",
+        "items": [
+            {
+                "id": 1,
+                "title": "From Mainland Market Access to Business Expansion—Scale Your Business  ",
+                "subTitle": "From Mainland Market Access to Business Expansion—Scale Your Business  ",
+                "description": "Trade freely across the UAE mainland, win high-value government contracts, unlock exclusive market insights, and expand your business across the Emirates and beyond restriction-free.",
+                "image": "/assets/localSponsorArrangement/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Stay Compliant and Avoid Legal Roadblocks, Every Step of the Way",
+                "subTitle": "Stay Compliant and Avoid Legal Roadblocks, Every Step of the Way",
+                "description": "Streamline trade licensing, registration, and approvals with a verified local sponsor, empowering you with full legal coverage and protecting you from operational hurdles.",
+                "image": "/assets/localSponsorArrangement/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Smooth Operations, Zero Bureaucracy — Let the Sponsor Handle It",
+                "subTitle": "Smooth Operations, Zero Bureaucracy — Let the Sponsor Handle It",
+                "description": "Enjoy 100% foreign ownership, unlock exciting tax advantages, and retain full control over strategic business decisions while minimising legal and administrative headaches. ",
+                "image": "/assets/localSponsorArrangement/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Impress Clients, Foster Trust,  Strengthen Partnerships, and Run Your Business With Confidence",
+                "subTitle": "Impress Clients, Foster Trust,  Strengthen Partnerships, and Run Your Business With Confidence",
+                "description": "Win instant investor confidence and build credibility with banks and government authorities, strengthening your business reputation and accelerating business setup. ",
+                "image": "/assets/localSponsorArrangement/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Simplify Compliance with Our End-to-End Local Sponsorship Solutions",
+        "description": "From licensing support to full corporate sponsorship, we offer flexible local sponsorship options tailored to your business needs. ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Individual Sponsor ",
+                "description": "Retain full operational control and profit rights with a trusted UAE national sponsor.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Corporate Sponsors",
+                "description": "Ensure business continuity and sustainable growth with a Dubai sponsorship company.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Local Sponsor Agreements",
+                "description": "Safeguard your investments with legally-binding agreements and Power of Attorneys.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "PRO & Administrative Support",
+                "description": "Simplify government liaison, license approvals, visa processing, and neverending paperwork. ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/localSponsorArrangement/left4/1.webp",
+            "title": "Local Know‑How, Legal Compliance  All in One Package",
+            "description": "Secure fast approvals, seamless licensing, and expert guidance with our trusted local sponsors, empowering you to tap into the UAE’s lucrative market.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/localSponsorArrangement/left4/2.webp",
+            "title": "Local Sponsor Arrangement — Trusted Partnerships, Transparent Pricing",
+            "description": "Clear agreements. Transparent fees. Zero surprises. From agreements to approvals, we manage all the complexities so you save time, money, and risk.",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How We Connect You with a Trustworthy Local Sponsor in 4 Easy Steps ",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Consultation ",
+                "description": "We’ll schedule a no-obligations call to discuss your business type, goals, and the sponsorship option that aligns with your needs. ",
+                "image": "/assets/localSponsorArrangement/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Choose Your Sponsor",
+                "description": "Next, we’ll suggest the ideal sponsorship structure, whether individual, corporate, or LSA, backed by legal agreements and safeguards.",
+                "image": "/assets/localSponsorArrangement/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Secure Your Sponsor Agreement",
+                "description": "Our experts then handle all paperwork, government approvals, and administrative overheads, ensuring compliance from day one. ",
+                "image": "/assets/localSponsorArrangement/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Launch, Comply, & Grow",
+                "description": "Finally, your business is fully operational with all sponsorship, licensing, and regulatory hurdles taken care of, driving business success. ",
+                "image": "/assets/localSponsorArrangement/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Trust One Nexuz for the Best UAE Sponsor Services",
+        "description": "Navigate sponsorship agreements and local regulations confidently with our expert consultants by your side. We connect you with reliable local sponsors in the UAE and simplify the setup process, so you can focus on taking your business to new heights.",
+        "items": [
+            {
+                "title": "Ensure 100% Legal Compliance ",
+                "description": "Save time, protect your business reputation, and maintain operational efficiency with UAE-compliant sponsorship agreements and powers of attorney.",
+                "image": "/assets/localSponsorArrangement/bgImage/1.webp"
+            },
+            {
+                "title": "Enjoy Complete Operational Freedom ",
+                "description": "Retain full control over your business decisions, finances, and profits while our trustworthy local sponsors handle all the legal and compliance requirements. ",
+                "image": "/assets/localSponsorArrangement/bgImage/2.webp"
+            },
+            {
+                "title": "Unlock End-to-End PRO Support",
+                "description": "From licensing and visa processing to government approvals, our experts do all the legwork, empowering you to launch, expand, and succeed hassle-free.",
+                "image": "/assets/localSponsorArrangement/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/localSponsorArrangement/grid/1.webp",
+        "title": "Operate with Instant Credibility in the UAE — Powered by One Nexuz ",
+        "description": "Gain an edge over competitors stuck in red tape and win instant credibility with banks, regulators, and partners — a difference that can mean first-to-market, first-to-contract, and first-to-scale.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz made setting up my Dubai mainland business effortless. Their team guided me through every step, from selecting the right sponsor to handling all the paperwork, so I could focus on growing my business.”",
+                "role": "Tech Startup Founder",
+                "image": "/assets/localSponsorArrangement/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“Thanks to One Nexuz, I was able to trade across Dubai mainland without any delays or compliance issues. Their corporate sponsorship solution gave me peace of mind and total control over my operations.”",
+                "role": "Finance Firm COO",
+                "image": "/assets/localSponsorArrangement/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "The team at One Nexuz handled everything from licensing to government approvals seamlessly. I now operate my professional services firm smoothly, knowing all legal requirements are fully managed.",
+                "role": "Consulting Firm Founder",
+                "image": "/assets/localSponsorArrangement/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Expand Your Reach with Our Full Suite of UAE Business Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "description": "Simplify fleet management, maximise ROI, and ensure RTA-compliance with company car registration services.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "description": "Secure funding, win investor trust, and unlock strategic growth opportunities with tailored business plans.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "description": "Book fully equipped meeting spaces to build a professional brand image and impress clients. ",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Importer/Exporter Code)",
+                "description": "Streamline cross-border trade and unlock tax benefits with a unique importer/exporter code.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "description": "Get hassle-free visa processing and travel arrangements for your team, ensuring compliance. ",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives ",
+                "description": "Preserve your privacy while maintaining full operational control with expert nominee solutions.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Nominee Services",
+                "description": "Ensure privacy while maintaining full operational and financial control with expert nominee support.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Local Agent/Partner Services",
+                "description": "Connect with trusted local agents to minimise administrative & technical overheads.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Need Mainland Access? Get a Trusted Local Sponsor Today",
+        "description": "We connect you with verified local sponsors, guaranteeing compliance, credibility, and a smooth business launch, so you can focus on growing, not bureaucracy.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/localSponsorArrangement/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Company Car Registration",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Business Plan Preparation",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Meeting Room Booking & Hosting",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Customs Registration (Imported/Exporter Code)",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Market Research & Feasibility Study",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Travel & Visa Support for Executives",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Local Agent/Partner",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Nominee Services",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "Do I lose operational control of my business with a local sponsor?",
+                "answer": "No! While local sponsors hold 51% of your company, you retain full operational, financial, and decision-making control. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "What is the difference between an individual and a corporate sponsor?",
+                "answer": "An individual sponsor is a UAE national, while a corporate sponsor is a UAE-owned company. A corporate sponsor generally offers more stability, continuity, and reduced long-term risk."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "How long does the company setup process take with a local sponsor?",
+                "answer": "Most mainland setups are completed within a few days to a couple of weeks, depending on your business activity and required approvals."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Can I start my business without a local sponsor in Dubai?",
+                "answer": "Yes, you can register and operate your Dubai-based business in designated Free Zones. However, most Mainland companies require a UAE national sponsor or agent."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "What type of businesses require a local sponsor?",
+                "answer": "Most mainland LLCs in the trading, construction, retail, manufacturing, and commercial sectors require sponsorship, whereas professional services may use an LSA instead."
+            }
+        ]
+    }
+}

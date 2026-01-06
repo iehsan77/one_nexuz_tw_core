@@ -1,0 +1,346 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/uaeResidenceVisa.webp",
+        "title": "From Documents to Visa Approvals- Fast-Track Your UAE Residence Visa and Unlock Full Benefits",
+        "description": "Planning to start a home in Dubai? Whether you want to bring your loved ones closer or unlock lucrative work opportunities, a residence visa is your first step to building a stable, fulfilling life in the UAE. With One Nexuz, cut the chase and get your residence visa in days, not months."
+    },
+    "leftSection_1": {
+        "title": "Why Do Businesses Need a UAE Residence Visa",
+        "description": "Securing a UAE residence visa is a gateway to smoother operations, reliable employee onboarding, and long-term stability.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Manage Multi-Currency Accounts, Secure Loans, and Grow Your Investments",
+                "subTitle": "Manage Multi-Currency Accounts, Secure Loans, and Grow Your Investments",
+                "description": "Ease bank account opening, unlock low interest rates, and gain instant access to worldwide banking. Secure competitive loans, credit, and financing to power personal and business growth.",
+                "image": "/assets/uaeResidenceVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Maximize Cash Flow and Minimize Costs- Retain Profits and Reinvest",
+                "subTitle": "Maximize Cash Flow and Minimize Costs- Retain Profits and Reinvest",
+                "description": "Live tax-free, maximise your income, and reinvest in core business activities to scale your business faster. With no tax on personal and corporate income, salaries, or bonuses, you retain more capital to expand, invest, and secure your future.",
+                "image": "/assets/uaeResidenceVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Enjoy World-Class Living- Secure Top Schools, Hospitals, and Lifestyle Amenities",
+                "subTitle": "Enjoy World-Class Living- Secure Top Schools, Hospitals, and Lifestyle Amenities",
+                "description": "Redefine your lifestyle with unrestricted access to top-tier amenities, including premium healthcare, tailored insurance plans, and world-class universities. Buy, rent, and live anywhere in the Emirates without the hassle of securing citizenship. ",
+                "image": "/assets/uaeResidenceVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Sponsor Your Loved Ones, Simplify Relocation, and Gain Total Peace of Mind",
+                "subTitle": "Sponsor Your Loved Ones, Simplify Relocation, and Gain Total Peace of Mind",
+                "description": "Keep loved ones by your side by sponsoring your spouse, children, and dependents, allowing them to enjoy the same security, benefits, and lifestyle privileges as you.",
+                "image": "/assets/uaeResidenceVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Business Owners Get with a UAE Residence Visa?",
+        "description": "When you get a UAE residence visa, you get:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/uaeResidenceVisa/iconTitleSec/1.svg",
+                "title": "A valid trade license, whether Mainland, Free Zone, or Offshore"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/uaeResidenceVisa/iconTitleSec/2.svg",
+                "title": "Proof of business ownership or investment"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/uaeResidenceVisa/iconTitleSec/3.svg",
+                "title": "Emirates ID"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/uaeResidenceVisa/iconTitleSec/4.svg",
+                "title": "Medical coverage"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/uaeResidenceVisa/left4/1.webp",
+            "title": "Cut Waiting Times by 30% with One Nexuz Visa Experts!",
+            "description": "Avoid rejections, reworks, and delays that stall your move. Our specialists ensure your application is submission-ready the first time.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/uaeResidenceVisa/left4/2.webp",
+            "title": "Clear Quotes for Every Step — UAE Residence Visa Costs Without the Guesswork",
+            "description": "No confusing packages, no hidden fees, and no surprise add-ons. From first-time visas to UAE residence renewal costs, you only pay for the services you actually need,  exactly when you need them.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "The UAE Residence Visas- Step-by-Step Guide",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Strategic Consultation",
+                "description": "In the first step, we take the time to assess your business structure, visa goals, and desired timeline, and suggest a custom route forward.",
+                "image": "/assets/uaeResidenceVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect All Relevant Documents",
+                "description": "We then help compile your required documents and paperwork, from Emirates ID to health insurance registration. ",
+                "image": "/assets/uaeResidenceVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Submit the Application",
+                "description": "Next, our expert consultants submit your visa application to the relevant UAE authority and expedite the approval process.",
+                "image": "/assets/uaeResidenceVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Get Your Residence Visa",
+                "description": "Once approved, you’ll receive your residence visa stamp and Emirates ID, empowering you to kickstart your journey in the UAE.",
+                "image": "/assets/uaeResidenceVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Enjoy 24/7 Support",
+                "description": "Lastly, we handle renewals, family sponsorships, and additional services like PRO support, compliance, and bank account setup post-issuance.",
+                "image": "/assets/uaeResidenceVisa/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "How to Cancel a UAE Residence Visa",
+                "description": "If you plan to leave the UAE or change your sponsor, our experts will help you compile, prepare, and submit the necessary paperwork, cancel your passport, and secure cancellations within days.",
+                "image": "/assets/uaeResidenceVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Choose One Nexuz to Secure Your UAE Residence Visa?",
+        "description": "Navigating the UAE visa process alone can be slow, confusing, and full of hidden surprises. At One Nexuz, our experts promise fast approvals, zero guesswork, and total support at every step, slashing errors, fast-tracking approvals, and cutting costs by 20%.",
+        "items": [
+            {
+                "title": "Access Holistic Solutions",
+                "description": "From compiling documents to securing your Emirates ID, our comprehensive Dubai residence visa services provide a hassle-free processing experience.",
+                "image": "/assets/uaeResidenceVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Zero Paper Chase or Delays",
+                "description": "Why wait weeks when our experts can do it in days? Our expert consultants in Dubai help streamline the process, cutting waiting times in half.",
+                "image": "/assets/uaeResidenceVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Enjoy Round-the-Clock Support",
+                "description": "Our 24/7 customer support makes your residence visa process stress-free. Our experts answer all your queries to ensure a seamless experience.",
+                "image": "/assets/uaeResidenceVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/uaeResidenceVisa/grid/1.webp",
+        "title": "Get UAE Residency in Just 7–14 Working Days",
+        "description": "Our end-to-end support shaves weeks off your timeline. From document prep to visa stamping, we manage every step, so you don’t lose time or miss opportunities.",
+        "btn": "Connect with Our Experts",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "“One Nexuz took care of everything—visa, license, bank account, even my family sponsorship. Super fast, professional, and zero stress.”",
+                "role": "Tech Entrepreneur",
+                "image": "/assets/uaeResidenceVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "“I wasted weeks on paperwork before One Nexuz stepped in. They handled my entire investor visa within days. Can’t recommend them enough.”",
+                "role": "Restaurant Owner",
+                "image": "/assets/uaeResidenceVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "“I got my UAE residence visa sorted in just 3 days. The team kept me updated at every step—no delays, no confusion, just solid service.”",
+                "role": " Freelance Consultant",
+                "image": "/assets/uaeResidenceVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "More Ways One Nexuz Helps You Grow in the UAE",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "PRO Services UAE",
+                "description": "Streamline approvals, simplify renewals, and shift visa status stress-free.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Bank Account Opening in the UAE",
+                "description": "Simplify banking, save time, and start transacting without the administrative headaches.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Partner Visa Services",
+                "description": "Sponsor your co-founder with tailored, hassle-free, and fully compliant partner visa solutions.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Investor Visa Processing",
+                "description": "Set up or invest in a business in the UAE and unlock competitive tax advantages with an investor visa.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Green Visa Processing",
+                "description": "Unlock a 5-year UAE residency and build sustainable economic growth with a Green Visa.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Golden Visa UAE",
+                "description": "Expand your business, own a home, and explore long-term residency with a golden visa.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Employment Visa Assistance",
+                "description": "Set up or invest in a business in the UAE and unlock competitive tax advantages with an investor visa.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Family Relocation Support",
+                "description": "Access 24/7 support to sponsor your loved ones without the delays or complexities.",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Courier and Logistics Services",
+                "description": "Protect your shipments, simplify deliveries, and receive packages globally.",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Visa Cancellation Services",
+                "description": "Avoid hidden fees and exit 100% compliant with our end-to-end visa cancellation support.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Get Your UAE Visa Smoothly with One Nexuz—No Delays, No Hidden Costs",
+        "description": "No delays. No confusion. Just fast, compliant, and fully supported visa solutions built around your goals. Let One Nexuz handle the hard part—so you can focus on growing, hiring, and living with confidence in the UAE.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/uaeResidenceVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa UAE",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Tourist Visa",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Family Relocation Support",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Maid Visa",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How can I get a UAE residence visa as a business owner or entrepreneur?",
+                "answer": "You can secure your UAE residence visa by setting up your company, whether in the mainland or a free zone, and follow up by applying for an investor or partner visa linked to your business license. "
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long does the UAE residence visa stay valid?",
+                "answer": "The UAE residence visa can stay valid for 2 to 10 years, depending on the selected location, investment, and business activity."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What documents do I need to apply for a residence visa?",
+                "answer": "You’ll need a valid trade license, passport copy, visa application form, medical fitness report, Emirates ID application, and tenancy contract. Our team ensures all paperwork is pre-checked and submission-ready. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What is the processing time for a UAE residence visa?",
+                "answer": "The full process for securing a UAE residence visa can take 7-10 working days, so long as no delays occur and all documents are in order. "
+            }
+        ]
+    }
+}

@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 const PUBLIC_FILE = /\.(.*)$/;
 
-export function middleware(request) {
+export function proxy(request) {
   const { pathname, search } = request.nextUrl;
 
   // Prepare headers for forwarding

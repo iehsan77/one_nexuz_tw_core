@@ -42,10 +42,10 @@ function Footer() {
           <Typography color="white" size="2xl" weight="bold">
             {t.footer.title}
           </Typography>
-          <LanguageAwareLink href="#" variant="rightIcon">
+          <LanguageAwareLink href="/contact-us" variant="rightIcon">
             {t.btn.contactUsNow}
           </LanguageAwareLink>
-          <div className="space-y-3 sm:block hidden">
+          <div className="space-y-5 sm:block hidden">
             <Typography color="white" size="base">
               {t.footer.social}
             </Typography>
@@ -85,7 +85,7 @@ function Footer() {
                         <LanguageAwareLink
                           key={tab?.id}
                           href={tab?.url || "#"}
-                          className={"w-fit"}
+                          className="block w-fit"
                         >
                           <Typography as="p" size="sm" color="white">
                             {tab?.title}
@@ -100,7 +100,7 @@ function Footer() {
                           <LanguageAwareLink href="#">
                             <LanguageAwareLink
                               href={i?.url || "#"}
-                              className={"block !w-fit"}
+                              className="block !w-fit"
                             >
                               <Typography as="p" size="sm" color="white">
                                 {i?.title}
@@ -110,7 +110,11 @@ function Footer() {
                           {i?.title === "" && (
                             <div className="flex flex-col gap-4">
                               {i?.links?.slice(0, 4)?.map((l) => (
-                                <LanguageAwareLink key={l?.id} href="#">
+                                <LanguageAwareLink
+                                  key={l?.id}
+                                  href={l?.url || "#"}
+                                  className="block !w-fit"
+                                >
                                   <Typography as="p" size="sm" color="white">
                                     {l?.title}
                                   </Typography>
@@ -123,7 +127,6 @@ function Footer() {
                     </div>
                   )}
                   <LanguageAwareLink
-                    // href="/services"
                     href={`/services?section=${item?.title
                       .toLowerCase()
                       .replace(/[^a-z0-9]+/g, "-")}`}
@@ -163,7 +166,11 @@ function Footer() {
                   </Typography>
                   <div className="flex flex-col gap-4">
                     {item?.items?.map((item) => (
-                      <LanguageAwareLink key={item?.id} href={item?.url || "#"}>
+                      <LanguageAwareLink
+                        className="w-fit"
+                        key={item?.id}
+                        href={item?.url || "#"}
+                      >
                         <Typography as="p" size="sm" color="white">
                           {item?.title}
                         </Typography>

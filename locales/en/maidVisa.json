@@ -1,0 +1,326 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/maidVisa.webp",
+        "title": "From Hiring to Residency Approvals, Secure Reliable Domestic Help & Family Peace of Mind with Hassle-Free UAE Maid Visa Services",
+        "description": "Struggling with time-consuming paperwork and endless approvals for maid visas? Reclaim valuable hours and eliminate household stress with seamless visa services from One Nexuz. Whether you require support for a single domestic helper or multiple staff members, our PRO specialists handle documentation, fast-track approvals, and ensure full compliance with UAE regulations. Focus on growing your business while we take care of the process, delivering a hassle-free experience every step of the way."
+    },
+    "leftSection_1": {
+        "title": "Why Do Entrepreneurs Need Maid Visa Services in Dubai?",
+        "description": "Hire the best cCare for your loved ones, prevent costly fines, and mitigate the risk of legal disputes with a GDFRA-approved maid visa.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Stay Fully Compliant, Avoid Heavy Penalties, & Hire International Domestic Staff in Days",
+                "subTitle": "Stay Fully Compliant, Avoid Heavy Penalties, & Hire International Domestic Staff in Days",
+                "description": "Save up to AED 50,000 in non-compliance with a maid visa 100% compliant with the UAE's labor laws, empowering your domestic help to access local banking services and facilities hassle-free.",
+                "image": "/assets/maidVisa/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Cut Household Stress, Free Up More Time, & Increase Productivity by Over 20%",
+                "subTitle": "Cut Household Stress, Free Up More Time, & Increase Productivity by Over 20%",
+                "description": "Create a clutter-free living space to minimise distractions, maximise focus, and improve team efficiency and productivity by nearly 20%.",
+                "image": "/assets/maidVisa/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Free Up Mental Bandwidth & Secure Reliable Home Support So You Can Focus Fully On Your Business",
+                "subTitle": "Free Up Mental Bandwidth & Secure Reliable Home Support So You Can Focus Fully On Your Business",
+                "description": "Focus on driving growth, winning clients, and seizing new opportunities with reliable household support. Reduce stress and ensure your loved ones are cared for while you scale your business.",
+                "image": "/assets/maidVisa/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Protect Your Investment, Retain Trusted Domestic Help, & Avoid Costly Turnover",
+                "subTitle": "Protect Your Investment, Retain Trusted Domestic Help, & Avoid Costly Turnover",
+                "description": "Boost retention rates by over 40% with MOHRE-registered contracts, protecting you and your domestic help. Save thousands of dirhams on rehiring or retraining with trustworthy, long-term help.",
+                "image": "/assets/maidVisa/left1/4.webp"
+            }
+        ]
+    },
+    "iconTitleSec": {
+        "title": "What Do You Get with a UAE Maid Visa?",
+        "description": "Once approved, you and your domestic worker will receive the following documents:",
+        "items": [
+            {
+                "id": 1,
+                "icon": "/assets/maidVisa/iconTitleSec/1.svg",
+                "title": "Entry Permit"
+            },
+            {
+                "id": 2,
+                "icon": "/assets/maidVisa/iconTitleSec/2.svg",
+                "title": "2-Year UAE Residence Visa"
+            },
+            {
+                "id": 3,
+                "icon": "/assets/maidVisa/iconTitleSec/3.svg",
+                "title": "Emirates ID"
+            },
+            {
+                "id": 4,
+                "icon": "/assets/maidVisa/iconTitleSec/4.svg",
+                "title": "MOHRE-Registered Work Contract"
+            },
+            {
+                "id": 5,
+                "icon": "/assets/maidVisa/iconTitleSec/5.svg",
+                "title": "Medical Fitness Certificate"
+            },
+            {
+                "id": 6,
+                "icon": "/assets/maidVisa/iconTitleSec/5.svg",
+                "title": "WPS Salary Account Setup"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/maidVisa/left4/1.webp",
+            "title": "Save 12+ Hours of Paperwork with Our PRO Specialists",
+            "description": "We fast-track your maid visa, preventing costly delays and reducing waiting periods, cutting wait times by 40% and offering total peace of mind.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/maidVisa/left4/2.webp",
+            "title": "Get Tailored Maid Visa Services without Breaking The Bank",
+            "description": "The cost of a maid visa in Dubai, UAE, can vary depending on the scope of services required, from application processing and medical testing to Emirates ID and residency stamping. At One Nexuz, we provide clear, customised quotes based on your exact needs—no hidden fees, no inflated charges. ",
+            "btn": "Get Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "How to Apply for a Maid Visa in Dubai with One Nexuz",
+        "items": [
+            {
+                "id": 1,
+                "title": "Conduct an Eligibility Check",
+                "description": "We'll start with a brief discovery call to discuss your unique domestic worker needs and confirm visa eligibility.",
+                "image": "/assets/maidVisa/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Get an Entry Permit",
+                "description": "Next, we'll ensure you meet Dubai’s maid visa requirements to secure an entry permit for your domestic help.",
+                "image": "/assets/maidVisa/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Complete Your Medical Test",
+                "description": "We’ll assist your maid in completing a medical fitness test and Emirates ID biometrics for a seamless application.",
+                "image": "/assets/maidVisa/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Register with the MOHRE",
+                "description": "Our expert consultants will register your employment contract with the MOHRE to protect you and your domestic help.",
+                "image": "/assets/maidVisa/left5/4.svg"
+            },
+            {
+                "id": 5,
+                "title": "Attest & Submit Your Application",
+                "description": "Next, we'll handle all the government coordination, secure visa stamps, and legalise your maid's employment status.",
+                "image": "/assets/maidVisa/left5/5.svg"
+            },
+            {
+                "id": 6,
+                "title": "Receive Your Visa",
+                "description": "Lastly, we'll set up a compliant WPS account and hand over all the documents, ensuring hassle-free processing.",
+                "image": "/assets/maidVisa/left5/5.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why One Nexuz is Your #1 Partner for Seamless Maid Visa Processing",
+        "description": "Navigate the UAE's complex labour laws and MOHRE requirements confidently with our expert PRO specialists by your side. ",
+        "items": [
+            {
+                "title": "Fast-Track Approvals",
+                "description": "Our experts streamline all the paperwork and government approvals to expedite visa processing, securing you a maid visa in under a week.",
+                "image": "/assets/maidVisa/bgImage/1.webp"
+            },
+            {
+                "title": "Ease Family Relocation",
+                "description": "Skip the hassle of administrative delays and enjoy a seamless transition to the UAE with our end-to-end visa processing and relocation support.",
+                "image": "/assets/maidVisa/bgImage/2.webp"
+            },
+            {
+                "title": "Simplify Renewals & Transfers",
+                "description": "Gain total peace of mind with our all-in-one visa processing solutions, allowing you to renew and transfer domestic help without lifting a single finger.",
+                "image": "/assets/maidVisa/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/maidVisa/grid/1.webp",
+        "title": "One Nexuz Improves Work-Life Balance to Drive Business Growth",
+        "description": "Delegate domestic work so every hour you invest goes into growing your business- all without the risk of burning out.",
+        "btn": "[Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "We were struggling with document clearances and government approvals until we started working with their PRO specialists. Everything was handled swiftly and without a single delay. It saved our team countless hours and allowed us to focus on growing our business.",
+                "role": " Logistics Company Operations Manager",
+                "image": "/assets/maidVisa/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "From visa processing to company paperwork, every step was smooth and stress-free. It’s rare to find a team that understands the urgency of business timelines like they do.",
+                "role": "Tech Startup Founder",
+                "image": "/assets/maidVisa/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "I’ve worked with other providers before, but none matched their level of efficiency and professionalism. Their attention to detail and proactive approach ensured all our legal requirements were met ahead of schedule.",
+                "role": "Retail Group HR Director",
+                "image": "/assets/maidVisa/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Scale Your Business Stress-Free with Our End-to-End Visa Processing Services",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa Assistance",
+                "description": "Build your team from scratch and foster retention rates with an employment visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Visa Cancellation Services",
+                "description": "Return to your homeland 100% compliant with our stress-free visa cancellation solutions.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "PRO Services UAE",
+                "description": "Fast-track visa approvals, trade name registration, and license renewals stress-free.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Bank Account Opening",
+                "description": "Streamline personal and corporate finances with guided documentation support. ",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Reclaim Your Time with One Nexuz Professional Maid Visa Assistance",
+        "description": "Bolster employee productivity, enhance focus, and gain total peace of mind with a 2-year maid visa. Retain reliable domestic help, delegate mundane tasks, and allocate resources more effectively with our skilled PRO specialists by your side.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/maidVisa/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "Employment Visa",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Free Zone Visa",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Golden Visa UAE",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Green Visa",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Investor Visa",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Mainland Visa",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Partner Visa",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Visa Cancellation ",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Tourist Visa",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Family Relocation Support",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "UAE Residence Visa",
+                "url": "#"
+            },
+            {
+                "id": 12,
+                "title": "Logistics & Courier Coordination",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "How long does a maid visa process take?",
+                "answer": "You can secure your maid visa within 1-14 days, depending on your selected jurisdiction and document readiness."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "Can I sponsor someone already in the UAE with a maid visa?",
+                "answer": "Yes, our expert PRO specialists can arrange a status change without requiring your domestic help to leave the country."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "What are the minimum requirements to sponsor a maid in the UAE?",
+                "answer": "To sponsor domestic help in the UAE, you'll have to ensure they're over 18, hold a valid work permit, and pass a medical fitness test. "
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "What documents do I and my domestic worker need to secure a maid visa?",
+                "answer": "Generally, you'll need your Emirates ID, tenancy contract, salary certificate, and passport copies of your maid to fast-track the maid visa process."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "How long does a maid visa stay valid in the UAE?",
+                "answer": "A maid visa stays valid for 2 years and can be renewed annually as long as you and your domestic help continue to meet the eligibility requirements."
+            }
+        ]
+    }
+}

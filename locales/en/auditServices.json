@@ -1,0 +1,287 @@
+{
+    "homeHeader": {
+        "getQuoteToday": "Get a Free Quote Today",
+        "bookConsultation": "Book Your Free Consultation",
+        "image": "/assets/header/auditServices.webp",
+        "title": "Streamline Your Audits, Stay Fully Compliant, & Win Investor Confidence with Our Strategic UAE Audit Services",
+        "description": "Spot financial risks, prevent regulatory penalties, and compliance gaps before they derail your business momentum with our expert audit coordination services across the UAE. Gain a competitive edge, ensure financial transparency, and optimise resource allocation in the UAE's stringent compliance landscape through comprehensive company auditing services."
+    },
+    "leftSection_1": {
+        "title": "Why Business Owners Need Audit and Assurance Services in Dubai",
+        "description": "Unlock in-depth insights into your business's operational performance to identify inefficiencies, manage risks, and strengthen financial stability.",
+        "items": [
+            {
+                "id": 1,
+                "title": "Avoid Fines Worth Over AED 10,000",
+                "subTitle": "Avoid Fines Worth Over AED 10,000",
+                "description": "Combat costly penalties and compliance setbacks with accurate, audit-ready financial reports. Gain total peace of mind and enhance your business’s reputation.",
+                "image": "/assets/auditServices/left1/1.webp"
+            },
+            {
+                "id": 2,
+                "title": "Foster Stakeholder Trust ",
+                "subTitle": "Foster Stakeholder Trust ",
+                "description": "When your books are spotless, it’s easier to attract investors, win over customers, and negotiate better terms with banks.",
+                "image": "/assets/auditServices/left1/2.webp"
+            },
+            {
+                "id": 3,
+                "title": "Optimise Financial Performance ",
+                "subTitle": "Optimise Financial Performance ",
+                "description": "Analyse, forecast, and budget confidently with holistic financial audits, empowering you to spot revenue leaks and bottlenecks to improve resource allocation and operational efficiency.",
+                "image": "/assets/auditServices/left1/3.webp"
+            },
+            {
+                "id": 4,
+                "title": "Strengthen Fraud Prevention ",
+                "subTitle": "Strengthen Fraud Prevention ",
+                "description": "Reclaim 5%+ of annual revenue with proactive risk assessments, revealing vulnerabilities, reinforcing internal controls, and securing your finances.",
+                "image": "/assets/auditServices/left1/4.webp"
+            }
+        ]
+    },
+    "leftSection_2": {
+        "title": "Explore Our Full Range of Financial and Compliance Audit",
+        "description": "Bolster your business’s integrity and optimise financial health with our comprehensive internal and external audit services in Dubai.",
+        "items": [
+            {
+                "id": 1,
+                "title": "External Audit",
+                "description": "Secure lucrative investments with insight-driven independent financial reviews.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Internal Audit",
+                "description": "Cut product wastes, eliminate inefficiencies, and capture eco-conscious clients with an ISO 14001 certification",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Forensic Audit",
+                "description": "Protect your company's reputation, prevent fraud, and budget confidently with comprehensive forensic audits.",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tax Audit Assistance",
+                "description": "Avoid hefty penalties, fines, and legal disputes with error-free, 100% FTA-compliant tax audits.",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Compliance Audit",
+                "description": "Enhance investor trust by staying up-to-date with the UAE's stringent regulatory environment.",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Liquidation Audit",
+                "description": "Ensure a seamless, stress-free business closure with accurate financial reporting.",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "RERA Audit",
+                "description": "Capture stakeholders with transparent project fund management and RERA-compliant transactions.",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "VAT Audit",
+                "description": "Ensure on-time, compliant, and error-free VAT submissions to optimise tax recovery and financial performance.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_4": {
+        "sec1": {
+            "image": "/assets/auditServices/left4/1.webp",
+            "title": "Turn Compliance Into a Competitive Advantage",
+            "description": "Cut penalty risk by nearly 80% with our insight-driven audits, including real-time monitoring, early detection, and proactive compliance.",
+            "btn": "Book a Free Call",
+            "url": "#"
+        },
+        "sec2": {
+            "image": "/assets/auditServices/left4/2.webp",
+            "title": "Stay Ahead, Stay Compliant — Get a Transparent Quote Tailored to Your Business",
+            "description": "No complicated packages. No hidden charges. Receive a personalised audit quote tailored to your business needs and scale effortlessly as your operations grow.",
+            "btn": "Get a Custom Quote",
+            "url": "#"
+        }
+    },
+    "leftSection_5": {
+        "title": "Navigate Compliance Audits in 4 Simple Steps",
+        "items": [
+            {
+                "id": 1,
+                "title": "Book a Consultation",
+                "description": "We kick off with a no-obligations call to understand your business’s nature and risk areas to map out a custom audit strategy.",
+                "image": "/assets/auditServices/left5/1.svg"
+            },
+            {
+                "id": 2,
+                "title": "Collect & Analyse Data",
+                "description": "Next, we assist you in gathering the relevant documents and records to perform a thorough compliance evaluation.",
+                "image": "/assets/auditServices/left5/2.svg"
+            },
+            {
+                "id": 3,
+                "title": "Conduct a Detailed Audit",
+                "description": "Next, we’ll analyse your legal, financial, and operational performance to spot risks and provide actionable recommendations.",
+                "image": "/assets/auditServices/left5/3.svg"
+            },
+            {
+                "id": 4,
+                "title": "Gain Ongoing Support",
+                "description": "Lastly, we provide a clear, investor-ready report and round-the-clock compliance support to ensure you stay audit-ready!",
+                "image": "/assets/auditServices/left5/4.svg"
+            }
+        ]
+    },
+    "leftSection_6": {
+        "title": "Why Thousands Trust One Nexuz for Reliable Financial Audits",
+        "description": "Without professional audits, you risk losing thousands of dirhams in fraud, costly errors, or non-compliance. Our seasoned auditors conduct in-depth compliance audits to put your operational weaknesses in the spotlight.",
+        "items": [
+            {
+                "title": "Industry-Tailored Audit Solutions",
+                "description": "Our skilled auditors proactively identify gaps, inefficiencies, and fraud risks with actionable audit strategies custom-built to meet your industry’s needs.",
+                "image": "/assets/auditServices/bgImage/1.webp"
+            },
+            {
+                "title": "End-to-End Post-Audit Support",
+                "description": "Our role doesn’t end at identifying issues. We help you implement corrective actions, train teams, and monitor improvements for lasting compliance.",
+                "image": "/assets/auditServices/bgImage/2.webp"
+            },
+            {
+                "title": "Make Data-Driven Decisions",
+                "description": "Gain insights into your business’s financial health, empowering informed decision-making and strategic compliance planning.",
+                "image": "/assets/auditServices/bgImage/3.webp"
+            }
+        ]
+    },
+    "leftSection_7": {
+        "image": "/assets/auditServices/grid/1.webp",
+        "title": "Stay 100% Compliant and Fine-Free",
+        "description": "UAE regulators issued AED 100M+ in compliance penalties last year. Our audits uncover hidden risks and close gaps, so you avoid costly fines and protect your business reputation.",
+        "btn": "Get a Free Consultation",
+        "url": "#"
+    },
+    "leftSection_8": {
+        "title": "What Customers Are Saying about ^One Nexuz^",
+        "description": "Learn what customers are saying about One Nexuz. ",
+        "items": [
+            {
+                "id": 1,
+                "quote": "Their audit team uncovered cost-saving opportunities I didn’t even know existed. Not only did we pass compliance checks, but our operations became more efficient too.",
+                "role": "Construction Startup Finance Director",
+                "image": "/assets/auditServices/client/1.webp"
+            },
+            {
+                "id": 2,
+                "quote": "Working with them gave me complete peace of mind. Every number was verified, every process documented, and we were ready for regulatory review without stress.",
+                "role": "Retail Business Owner",
+                "image": "/assets/auditServices/client/2.webp"
+            },
+            {
+                "id": 3,
+                "quote": "They handled our accounts and audits so seamlessly that I could focus entirely on scaling the business. It felt like having an in-house finance department without the overhead.",
+                "role": "Technology Startup Founder",
+                "image": "/assets/auditServices/client/3.webp"
+            }
+        ]
+    },
+    "leftSection_9": {},
+    "leftSection_10": {
+        "title": "Simplify Your Finances with Expert Accounting Support",
+        "btn": "Explore More",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "description": "Minimise financial risks and boost transparency with an AML certificate.",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Intellectual Property Rights",
+                "description": "Safeguard your creative assets and original work with IP protection in the UAE.",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "ISO Certification Assistance",
+                "description": "Win stakeholder confidence and build customer trust with the right ISO certificate",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Tax Residency Certificate Processing",
+                "description": "Create strategic taxation structures with an FTA-compliant TRC.",
+                "url": "#"
+            }
+        ]
+    },
+    "leftSection_11": {
+        "url": "#",
+        "title": "Protect Your Bottom Line with Strategic Company Auditing Services",
+        "description": "Our audit services don’t just check boxes, they uncover opportunities, reduce risks, and strengthen investor confidence. Trust our seasoned advisors to stay ahead of the curve and thrive in the UAE’s hyper-competitive market.",
+        "btn": "Connect with Our Experts",
+        "image": "/assets/auditServices/grid/2.webp"
+    },
+    "exploreIndustry": {
+        "title": "Explore Other Services",
+        "items": [
+            {
+                "id": 1,
+                "title": "AML Compliance Setup",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tax Residency Certificate",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Intellectual Property Rights Protection",
+                "url": "#"
+            }
+        ]
+    },
+    "faq": {
+        "title": "Clear Answers, Expert Insights, Hassle Free Consulting Experience",
+        "items": [
+            {
+                "id": 1,
+                "number": "01",
+                "question": "What are company auditing services?",
+                "answer": "Company auditing services provide UAE-based businesses with an unbiased opinion of their organisation's current financial health."
+            },
+            {
+                "id": 2,
+                "number": "02",
+                "question": "How long do company audits take in the UAE?",
+                "answer": "An audit can take anywhere between 2 and 8 weeks, depending on your jurisdiction's requirements, company size, and complexity."
+            },
+            {
+                "id": 3,
+                "number": "03",
+                "question": "Are compliance audits mandatory for UAE companies?",
+                "answer": "Yes, annual financial audits are essential for all-sized companies in the UAE Mainland to ensure transparency and compliance with the Emirate's stringent regulatory requirements."
+            },
+            {
+                "id": 4,
+                "number": "04",
+                "question": "Do audit firms assist with tax compliance too?",
+                "answer": "Yes, most professional audit firms, including One Nexuz, assist UAE-based businesses with accounting, tax, and VAT services to help streamline personal and corporate finances."
+            },
+            {
+                "id": 5,
+                "number": "05",
+                "question": "Does One Nexuz ensure the confidentiality of my audit reports?",
+                "answer": "Yes, all audit reports at One Nexuz are held in strict confidence, and only authorised personnel have access to the data."
+            }
+        ]
+    }
+}

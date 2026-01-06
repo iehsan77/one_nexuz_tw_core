@@ -1,11 +1,6 @@
-// /** @type {import('next').NextConfig} */
-// const nextConfig = {};
-
-// export default nextConfig;
-/** @type {import('next').NextConfig} */
-
 const nextConfig = {
   output: "standalone",
+
   experimental: {
     optimizePackageImports: ["my-lib"],
     serverActions: {
@@ -15,13 +10,16 @@ const nextConfig = {
 
   webpack: (config) => {
     config.resolve.alias.canvas = false;
-
     return config;
   },
-  skipMiddlewareUrlNormalize: true,
+
+  skipProxyUrlNormalize: true,
   skipTrailingSlashRedirect: true,
+
   reactStrictMode: false,
   compress: true,
+  trailingSlash: false,
+
   async headers() {
     return [
       {
@@ -30,21 +28,23 @@ const nextConfig = {
         headers: [
           {
             key: "Cache-Control",
-            value: "public, max-age=9999999999, immutable",
+            value: "public, max-age=31536000, immutable",
           },
         ],
       },
     ];
   },
-  trailingSlash: false,
-  eslint: {
-    ignoreDuringBuilds: false,
-  },
 
   images: {
     minimumCacheTTL: 60,
-    domains: ["jocdn.sfo3.cdn.digitaloceanspaces.com"],
     unoptimized: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "jocdn.sfo3.cdn.digitaloceanspaces.com",
+        pathname: "/**",
+      },
+    ],
   },
 };
 
