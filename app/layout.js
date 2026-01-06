@@ -39,6 +39,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          name="google-site-verification"
+          content="DU5OTwTqVc3M43HM_gzsfG9gjVr5cM3yebLj0jmNYA0"
+        />
+      </head>
       <body className={`${creato.className} antialiased`}>
         <Providers>
           <div className="sticky top-0 z-50 lg:hidden">
