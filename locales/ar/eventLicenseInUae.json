@@ -260,46 +260,46 @@
         "image": "/assets/eventLicenseInUae/grid/2.webp"
     },
     "exploreIndustry": {
-        "title": "",
+        "title": "استكشاف خدمات أخرى",
         "items": [
             {
                 "id": 1,
-                "title": "",
+                "title": "رخصة تجارية",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "",
+                "title": "رخصة عقارية",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "",
+                "title": "رخصة صناعية",
                 "url": "#"
             },
             {
                 "id": 4,
-                "title": "",
+                "title": "رخصة مهنية",
                 "url": "#"
             },
             {
                 "id": 5,
-                "title": "",
+                "title": "رخصة مزدوجة",
                 "url": "#"
             },
             {
                 "id": 6,
-                "title": "",
+                "title": "رخصة العملات الرقمية وويب 3",
                 "url": "#"
             },
             {
                 "id": 7,
-                "title": "",
+                "title": "رخصة التجارة الإلكترونية",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "",
+                "title": "تصريح مستقل",
                 "url": "#"
             }
         ]

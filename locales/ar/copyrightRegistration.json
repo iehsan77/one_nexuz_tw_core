@@ -64,17 +64,17 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/6.svg",
                 "title": "الأعمال الفنية"
             },
             {
                 "id": 7,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/7.svg",
                 "title": "الفيديوهات والرسوم المتحركة"
             },
             {
                 "id": 8,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/8.svg",
                 "title": "مواد التدريب والدورات"
             }
         ]
@@ -186,11 +186,6 @@
     "exploreIndustry": {
         "title": "استكشاف خدمات أخرى",
         "items": [
-            {
-                "id": 1,
-                "title": "تسجيل الشركة",
-                "url": "#"
-            },
             {
                 "id": 2,
                 "title": "حجز الاسم التجاري",

@@ -254,46 +254,46 @@
         "image": "/assets/industrialLicenseInUae/grid/2.webp"
     },
     "exploreIndustry": {
-        "title": "",
+        "title": "Explore Other Services",
         "items": [
             {
                 "id": 1,
-                "title": "",
+                "title": "Commercial License",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "",
+                "title": "Real Estate License",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "",
+                "title": "Professional License",
                 "url": "#"
             },
             {
                 "id": 4,
-                "title": "",
+                "title": "Dual License",
                 "url": "#"
             },
             {
                 "id": 5,
-                "title": "",
+                "title": "Crypto & Web3 License",
                 "url": "#"
             },
             {
                 "id": 6,
-                "title": "",
+                "title": "Event License",
                 "url": "#"
             },
             {
                 "id": 7,
-                "title": "",
+                "title": "E-commerce License",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "",
+                "title": "Freelance Permit",
                 "url": "#"
             }
         ]

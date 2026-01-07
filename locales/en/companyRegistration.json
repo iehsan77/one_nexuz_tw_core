@@ -64,17 +64,17 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/companyRegistration/iconTitleSec/6.svg",
                 "title": "Government Approvals & Registrations"
             },
             {
                 "id": 7,
-                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/companyRegistration/iconTitleSec/7.svg",
                 "title": "Visa & Immigration Support"
             },
             {
                 "id": 8,
-                "icon": "/assets/companyRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/companyRegistration/iconTitleSec/8.svg",
                 "title": "Banking & Financial Setup Assistance"
             }
         ]

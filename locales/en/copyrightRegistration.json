@@ -64,17 +64,17 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/4.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/6.svg",
                 "title": "Aristic Works"
             },
             {
                 "id": 7,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/7.svg",
                 "title": "Videos & Motion Graphics"
             },
             {
                 "id": 8,
-                "icon": "/assets/copyrightRegistration/iconTitleSec/5.svg",
+                "icon": "/assets/copyrightRegistration/iconTitleSec/8.svg",
                 "title": "Training Material & Courses"
             }
         ]
@@ -186,11 +186,6 @@
     "exploreIndustry": {
         "title": "Explore Other Services",
         "items": [
-            {
-                "id": 1,
-                "title": "Copyright Registration",
-                "url": "#"
-            },
             {
                 "id": 2,
                 "title": "Company Registration",

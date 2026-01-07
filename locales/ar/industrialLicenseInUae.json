@@ -254,46 +254,46 @@
         "image": "/assets/industrialLicenseInUae/grid/2.webp"
     },
     "exploreIndustry": {
-        "title": "",
+        "title": "استكشاف خدمات أخرى",
         "items": [
             {
                 "id": 1,
-                "title": "",
+                "title": "رخصة تجارية",
                 "url": "#"
             },
             {
                 "id": 2,
-                "title": "",
+                "title": "رخصة عقارية",
                 "url": "#"
             },
             {
                 "id": 3,
-                "title": "",
+                "title": "رخصة مهنية",
                 "url": "#"
             },
             {
                 "id": 4,
-                "title": "",
+                "title": "رخصة مزدوجة",
                 "url": "#"
             },
             {
                 "id": 5,
-                "title": "",
+                "title": "رخصة العملات الرقمية وويب 3",
                 "url": "#"
             },
             {
                 "id": 6,
-                "title": "",
+                "title": "رخصة حدث",
                 "url": "#"
             },
             {
                 "id": 7,
-                "title": "",
+                "title": "رخصة التجارة الإلكترونية",
                 "url": "#"
             },
             {
                 "id": 8,
-                "title": "",
+                "title": "تصريح مستقل",
                 "url": "#"
             }
         ]
@@ -330,37 +330,6 @@
                 "number": "05",
                 "question": "هل يمكنني التقدم للحصول على تأشيرات بموجب رخصة صناعية؟",
                 "answer": "نعم، يساعدك خبراؤنا في التقدم للحصول على التأشيرة المناسبة، اعتمادًا على موقعك وحجم المنشأة وإرشادات سعة المنطقة."
-            }
-        ]
-    },
-    "iconTitleSec": {
-        "title": "",
-        "description": "",
-        "items": [
-            {
-                "id": 1,
-                "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/1.svg",
-                "title": ""
-            },
-            {
-                "id": 2,
-                "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/2.svg",
-                "title": ""
-            },
-            {
-                "id": 3,
-                "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/3.svg",
-                "title": ""
-            },
-            {
-                "id": 4,
-                "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/4.svg",
-                "title": ""
-            },
-            {
-                "id": 5,
-                "icon": "/assets/corporateBankAccountOpeningAssistance/iconTitleSec/5.svg",
-                "title": ""
             }
         ]
     }

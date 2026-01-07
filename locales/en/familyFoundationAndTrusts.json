@@ -246,17 +246,42 @@
     "items": [
       {
         "id": 1,
-        "title": "Audit Services",
+        "title": "UAE Golden Visa",
         "url": "#"
       },
       {
         "id": 2,
-        "title": "Tax Residency Certificate",
+        "title": "Wealth Management",
         "url": "#"
       },
       {
         "id": 3,
-        "title": "ISO Certificate Assistance",
+        "title": "Will & Trust Preparation Services",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "title": "Family Office Setup",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "Asset Protection",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "Private Office",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Second Citizenship",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Escrow Account Assistance",
         "url": "#"
       }
     ]
