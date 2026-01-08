@@ -64,7 +64,7 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/5.svg",
+                "icon": "/assets/vatRegistrationAndFiling/iconTitleSec/6.svg",
                 "title": "Continuous Support & Updates"
             }
         ]
@@ -136,7 +136,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
+        "title": "What Customers Are Saying about ^One Nexuz^",
         "description": "Learn what customers are saying about One Nexuz. ",
         "items": [
             {

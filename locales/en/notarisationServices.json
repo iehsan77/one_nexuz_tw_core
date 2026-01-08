@@ -71,17 +71,17 @@
             },
             {
                 "id": 5,
-                "icon": "/assets/notarisationServices/iconTitleSec/2.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/6.svg",
                 "title": "Corporate Resolutions & Legal Documents"
             },
             {
                 "id": 6,
-                "icon": "/assets/notarisationServices/iconTitleSec/3.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/7.svg",
                 "title": "Sale & Purchase Agreements"
             },
             {
                 "id": 7,
-                "icon": "/assets/notarisationServices/iconTitleSec/4.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/8.svg",
                 "title": "Miscellaneous Notarisation Needs"
             }
         ]
@@ -153,7 +153,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
+        "title": "What Customers Are Saying about ^One Nexuz^",
         "description": "Learn what customers are saying about One Nexuz. ",
         "items": [
             {

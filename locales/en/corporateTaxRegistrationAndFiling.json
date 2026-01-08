@@ -39,32 +39,32 @@
         "items": [
             {
                 "id": 1,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/1.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/1.svg",
                 "title": "Corporate Tax Registration"
             },
             {
                 "id": 2,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/2.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/2.svg",
                 "title": "Corporate Tax Filing & Reporting"
             },
             {
                 "id": 3,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/3.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/3.svg",
                 "title": "Tax Planning & Advisory"
             },
             {
                 "id": 4,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/4.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/4.svg",
                 "title": "Free Zone & Mainland Compliance Support"
             },
             {
                 "id": 5,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/5.svg",
                 "title": "Audit & Risk Management Support"
             },
             {
                 "id": 6,
-                "icon": "/assets/corporateBankAccountOpeningInUae/iconTitleSec/5.svg",
+                "icon": "/assets/corporateTaxRegistrationAndFiling/iconTitleSec/6.svg",
                 "title": "Ongoing Corporate Tax Consultation"
             }
         ]
@@ -143,7 +143,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
+        "title": "What Customers Are Saying about ^One Nexuz^",
         "description": "Learn what customers are saying about One Nexuz.",
         "items": [
             {

@@ -64,7 +64,7 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/tradeNameReservation/iconTitleSec/2.svg",
+                "icon": "/assets/tradeNameReservation/iconTitleSec/6.svg",
                 "title": "استشارات واقتراحات لأسماء بديلة"
             }
         ]
@@ -136,7 +136,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "آراء العملاء حول ون نيكزوز",
+        "title": "آراء العملاء حول^ ون نيكزوز^",
         "description": "تعرف على ما يقوله العملاء عن One Nexuz.",
         "items": [
             {

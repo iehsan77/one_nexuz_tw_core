@@ -64,17 +64,17 @@
             },
             {
                 "id": 5,
-                "icon": "/assets/notarisationServices/iconTitleSec/2.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/6.svg",
                 "title": "قرارات الشركات والمستندات القانونية"
             },
             {
                 "id": 6,
-                "icon": "/assets/notarisationServices/iconTitleSec/3.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/7.svg",
                 "title": "عقود البيع والشراء"
             },
             {
                 "id": 7,
-                "icon": "/assets/notarisationServices/iconTitleSec/4.svg",
+                "icon": "/assets/notarisationServices/iconTitleSec/8.svg",
                 "title": "احتياجات التوثيق المتنوعة"
             }
         ]
@@ -146,7 +146,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "آراء العملاء حول ون نيكزوز",
+        "title": "آراء العملاء حول^ ون نيكزوز^",
         "description": "تعرف على ما يقوله العملاء عن ون نيكزوز.",
         "items": [
             {

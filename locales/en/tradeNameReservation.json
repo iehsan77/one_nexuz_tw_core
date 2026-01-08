@@ -100,7 +100,7 @@
         "url": "#"
     },
     "leftSection_8": {
-        "title": "What Customers Are Saying about One Nexuz",
+        "title": "What Customers Are Saying about ^One Nexuz^",
         "description": "Learn what customers are saying about One Nexuz. ",
         "items": [
             {
@@ -261,7 +261,7 @@
             },
             {
                 "id": 6,
-                "icon": "/assets/tradeNameReservation/iconTitleSec/5.svg",
+                "icon": "/assets/tradeNameReservation/iconTitleSec/6.svg",
                 "title": "Advisory & Alternative Naming Suggestions"
             }
         ]

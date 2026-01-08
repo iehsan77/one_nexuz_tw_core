@@ -9,7 +9,8 @@ function LeftSection5({ data, locale }) {
       <div
         className={`${
           locale ? "left-0" : "right-0"
-        } absolute z-5 top-0 opacity-10`}>
+        } absolute z-5 top-0 opacity-10`}
+      >
         <Image
           src={
             locale
@@ -24,7 +25,7 @@ function LeftSection5({ data, locale }) {
       </div>
       {/*  */}
       <div className="space-y-6 px-5 py-8">
-        <Typography size="3xl" weight="bold" as="p" className="max-w-[600px]">
+        <Typography size="3xl" weight="bold" as="p">
           {data?.title}
         </Typography>
         {/*  */}
