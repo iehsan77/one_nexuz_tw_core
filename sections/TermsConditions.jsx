@@ -463,7 +463,7 @@ export default TermsConditions;
 
 const Sidebar = ({ sections, activeId, onScrollTo, ar }) => {
   return (
-    <aside className="md:w-[400px]">
+    <aside className="md:w-[400px] pb-1">
       <div className="sticky top-36 overflow-hidden">
         {/* Header - Image jaisa Red Heading */}
         <div className="p-4">
@@ -479,9 +479,9 @@ const Sidebar = ({ sections, activeId, onScrollTo, ar }) => {
               key={item.id}
               onClick={() => onScrollTo(item.id)}
               className={`
-                flex items-center gap-3 px-4 py-3 text-left transition-all border border-gray-200 last:border-0
-                hover:bg-red-50 group
-                ${activeId === item.id ? "bg-red-50" : ""}
+                flex items-center gap-3 px-4 cursor-pointer py-3 text-left transition-all border border-primary
+                hover:bg-primary/8 group
+                ${activeId === item.id ? "bg-primary/8" : ""}
               `}
             >
               {/* Icon Container */}

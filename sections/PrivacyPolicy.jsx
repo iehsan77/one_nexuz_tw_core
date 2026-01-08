@@ -184,6 +184,13 @@ const privacySections = [
     footerText:
       'The "Last Updated" date at the top of the page will indicate when the most recent changes were made.',
   },
+  {
+    id: "12",
+    title: "Contact Information",
+    content:
+      "For questions, concerns, or requests regarding this Privacy Policy, please contact:",
+    list: ["Privacy Officer", "privacy@company.com", "+1 (234) 567-890"],
+  },
 ];
 
 const privacySectionsAr = [
@@ -355,6 +362,13 @@ const privacySectionsAr = [
     footerText:
       'سيشير تاريخ "آخر تحديث" في أعلى الصفحة إلى وقت إجراء أحدث التغييرات.',
   },
+  {
+    id: "12",
+    title: "معلومات الاتصال",
+    content:
+      "لأي أسئلة أو استفسارات أو طلبات بخصوص سياسة الخصوصية هذه، يرجى التواصل معنا:",
+    list: ["مسؤول الخصوصية لدينا", "privacy@company.com", "+1 (234) 567-890"],
+  },
 ];
 
 const icons = [
@@ -514,39 +528,6 @@ const PrivacyPolicy = () => {
               )}
             </section>
           ))}
-
-          {/* Section 12: Contact Information */}
-          <section id="section-12" className="pt-8 border-t">
-            <div className="flex items-center gap-4 mb-4">
-              <span className="bg-primary text-white font-bold min-w-[28px] h-7 flex items-center justify-center rounded-sm text-sm">
-                12
-              </span>
-              <Typography as="h2" size="2xl" weight="bold" color="black">
-                {ar ? "معلومات الاتصال" : "Contact Information"}
-              </Typography>
-            </div>
-            <Typography size="sm" color="gray" className="mb-4">
-              {ar
-                ? "لأي أسئلة أو استفسارات أو طلبات بخصوص سياسة الخصوصية هذه، يرجى التواصل معنا:"
-                : "For questions, concerns, or requests regarding this Privacy Policy, please contact:"}
-            </Typography>
-            <div className="space-y-1">
-              <Typography size="sm" weight="semibold" color="black">
-                {ar ? "مسؤول الخصوصية لدينا" : "Our Privacy Officer"}
-              </Typography>
-              <Typography
-                size="sm"
-                color="gray"
-                underline
-                className="cursor-pointer"
-              >
-                privacy@company.com
-              </Typography>
-              <Typography size="sm" color="gray">
-                +1 (234) 567-890
-              </Typography>
-            </div>
-          </section>
         </main>
       </div>
     </div>
@@ -557,7 +538,7 @@ export default PrivacyPolicy;
 
 const Sidebar = ({ sections, activeId, onScrollTo, ar }) => {
   return (
-    <aside className="md:w-[400px]">
+    <aside className="md:w-[400px] pb-1">
       <div className="sticky top-36 overflow-hidden">
         {/* Header - Image jaisa Red Heading */}
         <div className="p-4">
@@ -573,9 +554,9 @@ const Sidebar = ({ sections, activeId, onScrollTo, ar }) => {
               key={item.id}
               onClick={() => onScrollTo(item.id)}
               className={`
-                flex items-center gap-3 px-4 py-3 text-left transition-all border border-gray-200 last:border-0
-                hover:bg-red-50 group
-                ${activeId === item.id ? "bg-red-50" : ""}
+                flex items-center gap-3 px-4 cursor-pointer py-3 text-left transition-all border border-primary
+                hover:bg-primary/8 group
+                ${activeId === item.id ? "bg-primary/8" : ""}
               `}
             >
               {/* Icon Container */}
