@@ -48,19 +48,19 @@
         "id": 1,
         "title": "Legal Services",
         "description": "Preserve business momentum, avoid costly disputes, and regulatory surprises with proactive legal governance and tailored shareholder agreements.",
-        "url": "#"
+        "url": "/legal-services-in-uae"
       },
       {
         "id": 2,
         "title": "Compliance Services",
         "description": "Stay up-to-date with the UAE’s regulatory requirements, run audits, and implement fixes before they snowball to protect your business reputation.",
-        "url": "#"
+        "url": "/compliance-services-in-uae"
       },
       {
         "id": 3,
         "title": "Insurance Advisory & Coverage",
         "description": "Identify coverage gaps, negotiate favourable terms, and create a conducive working environment with custom-built insurance plans.",
-        "url": "#"
+        "url": "/insurance-advisory-and-coverage-in-uae"
       }
     ]
   },
@@ -73,19 +73,19 @@
         "id": 1,
         "title": "Accounting Services",
         "description": "Avoid fines, cashflow surprises, and compliance headaches with proactive tax structuring, payroll management, and bookkeeping solutions.",
-        "url": "#"
+        "url": "/accounting-services-in-uae"
       },
       {
         "id": 2,
         "title": "Operational Services",
         "description": "Eliminate repetitive tasks, reclaim 2+ hours per employee, and optimize workplace productivity with our full suite of operational and business management services.",
-        "url": "#"
+        "url": "/operational-services-in-uae"
       },
       {
         "id": 3,
         "title": "Business Solutions",
         "description": "Minimise the risk of cash burn, validate product ideas, and make data-driven business decisions with our comprehensive business solutions.",
-        "url": "#"
+        "url": "/business-solutions-in-uae"
       }
     ]
   },
@@ -201,31 +201,31 @@
         "id": 1,
         "title": "Business Setup Services",
         "description": "Streamline company formation in the UAE with our end-to-end business setup solutions.",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Millionaire & Billionaire",
         "description": "Preserve your legacy, amplify your wealth, and diversify your assets with our millionaire services.",
-        "url": "#"
+        "url": "/millionaire-and-billionaire-services-in-uae"
       },
       {
         "id": 3,
         "title": "Banking & Wealth",
         "description": "Hold, send, and transact in 40+ currencies with a trustworthy local or global UAE bank account.",
-        "url": "#"
+        "url": "/banking-and-wealth-services-in-uae"
       },
       {
         "id": 4,
         "title": "Logistics & Relocation Services",
         "description": "Live and thrive in the UAE alongside your loved ones with our seamless visa processing services.",
-        "url": "#"
+        "url": "/logistics-and-relocation-services-in-uae"
       },
       {
         "id": 5,
         "title": "Digital & Branding Solutions",
         "description": "Build your online presence and elevate your visibility with our digital and branding solutions.",
-        "url": "#"
+        "url": "/digital-and-branding-services-in-uae"
       }
     ]
   },
@@ -239,14 +239,46 @@
   "exploreIndustry": {
     "title": "Explore More Services",
     "items": [
-      { "id": 1, "title": "UAE Business Setup", "url": "#" },
-      { "id": 2, "title": "Free Zones", "url": "#" },
-      { "id": 3, "title": "Email", "url": "#" },
-      { "id": 4, "title": "Tax, Accounting & Finance", "url": "#" },
-      { "id": 5, "title": "UAE Visas", "url": "#" },
-      { "id": 6, "title": "UAE Legalities", "url": "#" },
-      { "id": 7, "title": "Executive growth", "url": "#" },
-      { "id": 8, "title": "Empowered leadership", "url": "#" }
+      {
+        "id": 1,
+        "title": "UAE Business Setup",
+        "url": "/business-setup-services-in-uae"
+      },
+      {
+        "id": 2,
+        "title": "Free Zones",
+        "url": "/uae-free-zone-company-formation"
+      },
+      {
+        "id": 3,
+        "title": "Email",
+        "url": "/hosted-exchange-mail"
+      },
+      {
+        "id": 4,
+        "title": "Tax, Accounting & Finance",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "title": "UAE Visas",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "title": "UAE Legalities",
+        "url": "#"
+      },
+      {
+        "id": 7,
+        "title": "Executive growth",
+        "url": "#"
+      },
+      {
+        "id": 8,
+        "title": "Empowered leadership",
+        "url": "#"
+      }
     ]
   },
   "faq": {

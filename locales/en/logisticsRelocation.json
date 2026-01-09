@@ -48,49 +48,49 @@
         "id": 1,
         "title": "UAE Golden Visa",
         "description": "Unlock the freedom to live, work, and invest in the UAE for 10+ years with a Golden Visa.",
-        "url": "#"
+        "url": "/uae-golden-visa"
       },
       {
         "id": 2,
         "title": "Green Visa",
         "description": "Gain unmatched flexibility to polish your skills and grow your professional career with a UAE Green Visa. ",
-        "url": "#"
+        "url": "/green-visa"
       },
       {
         "id": 3,
         "title": "Partner Visa",
         "description": "Discover seamless collaboration and growth opportunities with a UAE Partner Visa.",
-        "url": "#"
+        "url": "/partner-visa"
       },
       {
         "id": 4,
         "title": "Employment Visa ",
         "description": "Discover professional growth opportunities and enjoy labor rights, healthcare, and financial benefits.",
-        "url": "#"
+        "url": "/employment-visa"
       },
       {
         "id": 5,
         "title": "Investor Visa ",
         "description": "Amplify your wealth, diversify your assets, and build a powerful real estate portfolio with an Investor Visa.",
-        "url": "#"
+        "url": "/investor-visa"
       },
       {
         "id": 6,
         "title": "Tourist Visa",
         "description": "Scout business opportunities, test product fits, and expand your professional network with a Tourist Visa.",
-        "url": "#"
+        "url": "/tourist-visa"
       },
       {
         "id": 7,
         "title": "Maid Visa",
         "description": "Get reliable domestic help, care for your loved ones, and enjoy peace of mind with our Maid Visa solutions.",
-        "url": "#"
+        "url": "/maid-visa"
       },
       {
         "id": 8,
         "title": "Visa Cancellation",
         "description": "Safely terminate or transfer visas without administrative headaches with end-to-end visa cancellation support.",
-        "url": "#"
+        "url": "/visa-cancellation"
       }
     ]
   },
@@ -103,31 +103,31 @@
         "id": 1,
         "title": "UAE Residence Visa",
         "description": "Secure up to 5+ years of residency, premium healthcare and banking services, and exclusive real estate opportunities with a UAE Residence Visa.",
-        "url": "#"
+        "url": "/uae-residence-visa"
       },
       {
         "id": 2,
         "title": "Mainland Visa",
         "description": "Gain 2+ years of UAE residency, discover world-class local amenities, bid for lucrative local contracts, and expand your market reach with a Mainland Visa.",
-        "url": "#"
+        "url": "/mainland-visa"
       },
       {
         "id": 3,
         "title": "Free Zone Visa",
         "description": "Unlock long-term residency with business flexibility to secure your Emirates ID, build your dream lifestyle, and scale across borders.",
-        "url": "#"
+        "url": "/free-zone-visa"
       },
       {
         "id": 4,
         "title": "Family Relocation Support",
         "description": "Sponsor your loved ones, access top-notch schools and medical care, and settle seamlessly with our end-to-end relocation support.",
-        "url": "#"
+        "url": "/family-relocation-support"
       },
       {
         "id": 5,
         "title": "Courier & Logistics Services",
         "description": "Secure sensitive business documents, ensure timely delivery, and move items worldwide with our reliable courier and logistics services.",
-        "url": "#"
+        "url": "/logistics-and-courier-coordination"
       }
     ]
   },
@@ -243,31 +243,31 @@
         "id": 1,
         "title": "Business Setup Services",
         "description": "Launch, build, and expand your business in the UAE with expert guidance on licensing, registration, and more!",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Corporate Services",
         "description": "Streamline operations, optimise workplace productivity, and stay fully compliant with tailored corproate solutions.",
-        "url": "#"
+        "url": "/corporate-services-in-uae"
       },
       {
         "id": 3,
         "title": "Millionaire & Billionaire Services",
         "description": "Maximise after-tax returns, preserve your legacy, and diversify your income streams with our millionaire and billionaire services.",
-        "url": "#"
+        "url": "/millionaire-and-billionaire-services-in-uae"
       },
       {
         "id": 4,
         "title": "Banking & Wealth Management",
         "description": "Simplify personal and corporate finances, simplify banking, and amplify your wealth with expert financial support. ",
-        "url": "#"
+        "url": "/banking-and-wealth-services-in-uae"
       },
       {
         "id": 5,
         "title": "Digital & Branding Services",
         "description": "Elevate your online presence, reach your target audience, and boost conversions with our digital and branding solutions.",
-        "url": "#"
+        "url": "/digital-and-branding-services-in-uae"
       }
     ]
   },
@@ -281,11 +281,31 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Business Setup", "url": "#" },
-      { "id": 2, "title": "Corporate Services", "url": "#" },
-      { "id": 3, "title": "Banking & Wealth", "url": "#" },
-      { "id": 4, "title": "Digital & Branding Solutions", "url": "#" },
-      { "id": 5, "title": "Millionaire & Billionaire", "url": "#" }
+      {
+        "id": 1,
+        "title": "Business Setup",
+        "url": "/business-setup-services-in-uae"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "url": "/corporate-services-in-uae"
+      },
+      {
+        "id": 3,
+        "title": "Banking & Wealth",
+        "url": "/banking-and-wealth-services-in-uae"
+      },
+      {
+        "id": 4,
+        "title": "Digital & Branding Solutions",
+        "url": "/digital-and-branding-services-in-uae"
+      },
+      {
+        "id": 5,
+        "title": "Millionaire & Billionaire",
+        "url": "/millionaire-and-billionaire-services-in-uae"
+      }
     ]
   },
   "faq": {

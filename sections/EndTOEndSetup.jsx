@@ -64,7 +64,7 @@ function EndTOEndSetup({ data, t, locale }) {
               </Typography>
               <LanguageAwareLink
                 variant="rightIcon"
-                href="#"
+                href={activeDetail?.url}
                 className="!text-primary"
               >
                 {t.btn.exploreMore}
@@ -161,7 +161,7 @@ function EndTOEndSetup({ data, t, locale }) {
             <div className="flex items-center gap-3 flex-wrap lg:flex-nowrap">
               {filterData?.data?.map((item) => (
                 <Typography
-                key={item.id}
+                  key={item.id}
                   weight="medium"
                   align="center"
                   color={

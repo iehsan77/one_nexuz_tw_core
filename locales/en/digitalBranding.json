@@ -48,13 +48,13 @@
         "id": 1,
         "title": "Marketing & Branding",
         "description": "Build brand trust and credibility, drive visibility, and enhance your ROI with our creative corporate marketing and branding services.",
-        "url": "#"
+        "url": "/marketing-and-branding"
       },
       {
         "id": 2,
         "title": "Event Planning and Management",
         "description": "Connect with industry leaders, expand your reach, and discover new opportunities with expert event management solutions.",
-        "url": "#"
+        "url": "/event-planning-and-management-services"
       }
     ]
   },
@@ -67,13 +67,13 @@
         "id": 1,
         "title": "Digital Services",
         "description": "Bring your ideas to life, build a robust online presence, drive online traffic, and combat cyberattacks with HatchTech’s custom digital services.",
-        "url": "#"
+        "url": "/digital-services"
       },
       {
         "id": 2,
         "title": "Digital Products",
         "description": "Streamline your workflow, eliminate errors, and boost workplace productivity with Buzinessify’s full suite of digital products.",
-        "url": "#"
+        "url": "/digital-products"
       }
     ]
   },
@@ -189,31 +189,31 @@
         "id": 1,
         "title": "Business Setup Services",
         "description": "Set up, build, and scale your company in the UAE with end-to-end licensing, registration, ",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Corporate Services",
         "description": "Stay ahead of the curve, boost workplace productivity, and drive limitless growth with our holistic suite of corporate services. ",
-        "url": "#"
+        "url": "/corporate-services-in-uae"
       },
       {
         "id": 3,
         "title": "Millionaire & Billionaire Services",
         "description": "Preserve your legacy, diversify your assets, and safeguard your loved one’s future with millionaire and billionaire services.",
-        "url": "#"
+        "url": "/millionaire-and-billionaire-services-in-uae"
       },
       {
         "id": 4,
         "title": "Banking & Wealth Management",
         "description": "Hold, send, and transact in 20+ currencies, maximsie after-tax returns, and amplify your wealth with expert banking support.",
-        "url": "#"
+        "url": "/banking-and-wealth-services-in-uae"
       },
       {
         "id": 5,
         "title": "Logistics and Relocation Services ",
         "description": "Transition smoothly to the UAE, build your dream team, and sponsor loved one’s with end-to-end relocation support.",
-        "url": "#"
+        "url": "/logistics-and-relocation-services-in-uae"
       }
     ]
   },
@@ -230,27 +230,27 @@
       {
         "id": 1,
         "title": "Business Setup",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Corporate Services",
-        "url": "#"
+        "url": "/corporate-services-in-uae"
       },
       {
         "id": 3,
         "title": "Banking & Wealth",
-        "url": "#"
+        "url": "/banking-and-wealth-services-in-uae"
       },
       {
         "id": 4,
         "title": "Millionaire & Billionaire",
-        "url": "#"
+        "url": "/millionaire-and-billionaire-services-in-uae"
       },
       {
         "id": 5,
         "title": "Logistics & Relocation",
-        "url": "#"
+        "url": "/logistics-and-relocation-services-in-uae"
       }
     ]
   },

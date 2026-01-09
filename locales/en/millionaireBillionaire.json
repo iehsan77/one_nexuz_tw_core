@@ -48,37 +48,37 @@
         "id": 1,
         "title": "Wealth Management Services",
         "description": "Minimise risk exposure, maximise growth, and preserve your capital with bespoke wealth planning.",
-        "url": "#"
+        "url": "/wealth-management"
       },
       {
         "id": 2,
         "title": "Will & Trust Preparation Services",
         "description": "Secure guardianship for your dependents and ensure seamless wealth transfers with legally sound wills. ",
-        "url": "#"
+        "url": "/will-and-trust-preparation-services"
       },
       {
         "id": 3,
         "title": "Family Foundation & Trust",
         "description": "Diversify your assets, optimise taxation, and double your wealth with custom-tailored family foundations and trusts.",
-        "url": "#"
+        "url": "/family-foundation-and-trusts"
       },
       {
         "id": 4,
         "title": "Family Office Setup",
         "description": "Centralise governance, plan business succession, and boost your wealth with personalised UAE family offices.",
-        "url": "#"
+        "url": "/family-office-setup"
       },
       {
         "id": 5,
         "title": "Private Office ",
         "description": "Redefine workplace efficiency, boost team productivity, and maintain privacy with world-class private offices.",
-        "url": "#"
+        "url": "/private-office"
       },
       {
         "id": 6,
         "title": "Asset Protection",
         "description": "Build, hold, and manage your assets with DIFC and ADGM-compliant structures and tax-efficient estate plans",
-        "url": "#"
+        "url": "/asset-protection"
       }
     ]
   },
@@ -91,19 +91,19 @@
         "id": 1,
         "title": "Second Citizenship Programs ",
         "description": "Unlock exciting tax benefits, visa-free travel, and growth opportunities with tailored second passport solutions.",
-        "url": "#"
+        "url": "/second-citizenship"
       },
       {
         "id": 2,
         "title": "UAE Golden Visa",
         "description": "Live, work, and thrive in the UAE to take advantage of world-class local amenities with seamless visa processing.",
-        "url": "#"
+        "url": "/uae-golden-visa"
       },
       {
         "id": 3,
         "title": "Escrow Account Assistance",
         "description": "Secure high-value transactions, protect your funds, and win investor confidence with our expert escrow agents.",
-        "url": "#"
+        "url": "/escrow-account-assistance"
       }
     ]
   },
@@ -219,31 +219,31 @@
         "id": 1,
         "title": "Business Setup Services",
         "description": "Launch and scale your venture across the UAE and beyond with expert guidance.",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Corporate Services",
         "description": "Simplify compliance, governance, and operations with our trusted business consultants.",
-        "url": "#"
+        "url": "/corporate-services-in-uae"
       },
       {
         "id": 3,
         "title": "Banking & Wealth",
         "description": "Open personal and corporate accounts,  manage assets, and uncover exciting growth opportunities.",
-        "url": "#"
+        "url": "/banking-and-wealth-services-in-uae"
       },
       {
         "id": 4,
         "title": "Digital & Branding Solutions",
         "description": "Elevate your online visibility, win customer trust, and boost sales with our IT and marketing solutions",
-        "url": "#"
+        "url": "/digital-and-branding-services-in-uae"
       },
       {
         "id": 5,
         "title": "Logistics & Relocation Services",
         "description": "Ease relocation to the UAE with our end-to-end visa processing, renewal, and global logistics solutions.",
-        "url": "#"
+        "url": "/logistics-and-relocation-services-in-uae"
       }
     ]
   },
@@ -257,11 +257,31 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Business Setup", "url": "#" },
-      { "id": 2, "title": "Corporate Services", "url": "#" },
-      { "id": 3, "title": "Banking & Wealth", "url": "#" },
-      { "id": 4, "title": "Digital & Branding Solutions", "url": "#" },
-      { "id": 5, "title": "Logistics & Relocation", "url": "#" }
+      {
+        "id": 1,
+        "title": "Business Setup",
+        "url": "/business-setup-services-in-uae"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "url": "/corporate-services-in-uae"
+      },
+      {
+        "id": 3,
+        "title": "Banking & Wealth",
+        "url": "/banking-and-wealth-services-in-uae"
+      },
+      {
+        "id": 4,
+        "title": "Digital & Branding Solutions",
+        "url": "/digital-and-branding-services-in-uae"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation",
+        "url": "/logistics-and-relocation-services-in-uae"
+      }
     ]
   },
   "faq": {

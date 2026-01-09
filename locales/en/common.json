@@ -511,7 +511,8 @@
             "tabName": "UAE Free Zone",
             "image": "/assets/homeSetup/1.webp",
             "count": "1500+",
-            "cardDescription": "businesses launched across top Free Zones with stress-free approvals."
+            "cardDescription": "businesses launched across top Free Zones with stress-free approvals.",
+            "url": "/uae-free-zone-company-formation"
           },
           {
             "id": 2,
@@ -520,7 +521,8 @@
             "tabName": "UAE Mainland",
             "image": "/assets/homeSetup/2.webp",
             "count": "900+",
-            "cardDescription": "companies registered in the Mainland with seamless licensing and compliance."
+            "cardDescription": "companies registered in the Mainland with seamless licensing and compliance.",
+            "url": "/uae-mainland-company-formation"
           },
           {
             "id": 3,
@@ -529,7 +531,8 @@
             "tabName": "UAE Offshore",
             "image": "/assets/homeSetup/3.webp",
             "count": "500+",
-            "cardDescription": "offshore businesses structured with end-to-end licensing and visa processing."
+            "cardDescription": "offshore businesses structured with end-to-end licensing and visa processing.",
+            "url": "/uae-offshore-company-formation"
           },
           {
             "id": 4,
@@ -538,7 +541,8 @@
             "tabName": "Business/Trade Licenses",
             "image": "/assets/homeSetup/4.webp",
             "count": "2000+",
-            "cardDescription": "trade licenses issued across Free Zone, Mainland, and niche verticals with zero delays."
+            "cardDescription": "trade licenses issued across Free Zone, Mainland, and niche verticals with zero delays.",
+            "url": "/business-license-in-uae"
           }
         ]
       },
@@ -552,7 +556,8 @@
             "tabName": "Compliance Services",
             "image": "/assets/homeSetup/5.webp",
             "count": "1000+",
-            "cardDescription": "UAE businesses stay compliant through our integrated payroll and PRO solutions."
+            "cardDescription": "UAE businesses stay compliant through our integrated payroll and PRO solutions.",
+            "url": "/compliance-services-in-uae"
           },
           {
             "id": 2,
@@ -561,7 +566,8 @@
             "tabName": "Accounting Services",
             "image": "/assets/homeSetup/6.webp",
             "count": "AED 120K+",
-            "cardDescription": "saved yearly on average through proactive accounting and VAT compliance."
+            "cardDescription": "saved yearly on average through proactive accounting and VAT compliance.",
+            "url": "/accounting-services-in-uae"
           },
           {
             "id": 3,
@@ -570,7 +576,8 @@
             "tabName": "Insurance Advisory & Coverage",
             "image": "/assets/homeSetup/7.webp",
             "count": "700+",
-            "cardDescription": "businesses protected with tailored insurance plans covering health, assets, and liability risks."
+            "cardDescription": "businesses protected with tailored insurance plans covering health, assets, and liability risks.",
+            "url": "/insurance-advisory-and-coverage-in-uae"
           }
         ]
       },
@@ -578,22 +585,14 @@
         "id": 3,
         "data": [
           {
-            "id": 1,
-            "title": "Wealth Management",
-            "description": "Preserve your assets, safeguard your legacy, and secure your loved one’s future with our expert wealth management solutions.",
-            "tabName": "Wealth Management",
-            "image": "/assets/homeSetup/8.webp",
-            "count": "AED 2.4B+",
-            "cardDescription": "in client wealth structured and protected across private and institutional portfolios."
-          },
-          {
             "id": 2,
             "title": "Bank Account Opening in the UAE",
             "description": "Streamline your personal or business finances by tapping into our reliable network of local and global banking partners.",
             "tabName": "Bank Account Opening in the UAE",
             "image": "/assets/homeSetup/9.webp",
             "count": "1400+",
-            "cardDescription": "UAE local and global bank accounts set up to simplify personal & corporate finances."
+            "cardDescription": "UAE local and global bank accounts set up to simplify personal & corporate finances.",
+            "url": "/bank-account-opening-in-the-uae"
           },
           {
             "id": 3,
@@ -602,7 +601,8 @@
             "tabName": "Treasury Management",
             "image": "/assets/homeSetup/10.webp",
             "count": "AED 500M+",
-            "cardDescription": "in funds optimized through smart treasury strategies, mitigating financial risks."
+            "cardDescription": "in funds optimized through smart treasury strategies, mitigating financial risks.",
+            "url": "/treasury-management"
           }
         ]
       },
@@ -616,7 +616,8 @@
             "tabName": "Event Planning & Management Services",
             "image": "/assets/homeSetup/11.webp",
             "count": "300+",
-            "cardDescription": "corporate events executed flawlessly, from product launches to investor meetups."
+            "cardDescription": "corporate events executed flawlessly, from product launches to investor meetups.",
+            "url": "/event-planning-and-management-services"
           },
           {
             "id": 2,
@@ -625,16 +626,8 @@
             "tabName": "Marketing & Branding",
             "image": "/assets/homeSetup/12.webp",
             "count": "250+",
-            "cardDescription": "brands launched and scaled, driving online visibility, stronger engagement, and measurable ROI."
-          },
-          {
-            "id": 3,
-            "title": "IT Services",
-            "description": "Future-proof your business, protect your reputation, and secure confidential data with our proactive IT support",
-            "tabName": "IT Services",
-            "image": "/assets/homeSetup/13.webp",
-            "count": "1000+",
-            "cardDescription": "businesses empowered with secured infrastructure and proactive monitoring."
+            "cardDescription": "brands launched and scaled, driving online visibility, stronger engagement, and measurable ROI.",
+            "url": "/marketing-and-branding"
           }
         ]
       },
@@ -648,7 +641,8 @@
             "tabName": "UAE Golden Visa",
             "image": "/assets/homeSetup/14.webp",
             "count": "300+",
-            "cardDescription": "long-term residencies secured to live, work, and thrive in the UAE."
+            "cardDescription": "long-term residencies secured to live, work, and thrive in the UAE.",
+            "url": "/uae-golden-visa"
           },
           {
             "id": 2,
@@ -657,7 +651,8 @@
             "tabName": "Family Office Setup",
             "image": "/assets/homeSetup/15.webp",
             "count": "50+",
-            "cardDescription": "Private family offices established for cross-border planning and wealth management."
+            "cardDescription": "Private family offices established for cross-border planning and wealth management.",
+            "url": "/family-office-setup"
           },
           {
             "id": 3,
@@ -666,7 +661,8 @@
             "tabName": "Will & Trust Preparation Services",
             "image": "/assets/homeSetup/16.webp",
             "count": "100+",
-            "cardDescription": "DIFC-compliant wills and trusts created to protect wealth and secure succession."
+            "cardDescription": "DIFC-compliant wills and trusts created to protect wealth and secure succession.",
+            "url": "/will-and-trust-preparation-services"
           }
         ]
       },
@@ -680,7 +676,8 @@
             "tabName": "Tourist Visa",
             "image": "/assets/homeSetup/17.webp",
             "count": "4-Hour",
-            "cardDescription": "visa turnaround for short-term UAE entry to unlock business opportunities."
+            "cardDescription": "visa turnaround for short-term UAE entry to unlock business opportunities.",
+            "url": "/tourist-visa"
           },
           {
             "id": 2,
@@ -689,7 +686,8 @@
             "tabName": "Investor Visa",
             "image": "/assets/homeSetup/18.webp",
             "count": "500+",
-            "cardDescription": "investors secured UAE residency within 3 weeks to expedite time-to-market."
+            "cardDescription": "investors secured UAE residency within 3 weeks to expedite time-to-market.",
+            "url": "/investor-visa"
           },
           {
             "id": 3,
@@ -698,7 +696,8 @@
             "tabName": "Employment Visa",
             "image": "/assets/homeSetup/19.webp",
             "count": "700+",
-            "cardDescription": "businesses scaled operations faster with end-to-end employment visa solutions."
+            "cardDescription": "businesses scaled operations faster with end-to-end employment visa solutions.",
+            "url": "/employment-visa"
           },
           {
             "id": 4,
@@ -707,7 +706,8 @@
             "tabName": "Partner Visa",
             "image": "/assets/homeSetup/20.webp",
             "count": "3-Day",
-            "cardDescription": "average processing with full legal support and seamless paperwork."
+            "cardDescription": "average processing with full legal support and seamless paperwork.",
+            "url": "/partner-visa"
           }
         ]
       }

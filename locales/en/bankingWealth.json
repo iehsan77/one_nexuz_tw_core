@@ -48,13 +48,13 @@
         "id": 1,
         "title": "Wealth Management",
         "description": "Diversify your portfolio, simplify succession planning, and multiply your wealth with custom-built wealth management strategies.",
-        "url": "#"
+        "url": "/wealth-management"
       },
       {
         "id": 2,
         "title": "Treasury Management ",
         "description": "Protect your capital against FX risks and market volatility, optimise liquidity, and maximise your cash flow with treasury management solutions.",
-        "url": "#"
+        "url": "/treasury-management"
       }
     ]
   },
@@ -67,13 +67,13 @@
         "id": 1,
         "title": "Bank Account Opening Solutions in the UAE",
         "description": "Send, receive, and transact global payments anywhere, anytime with unrestricted access to the UAE’s world-class banking infrastructure.",
-        "url": "#"
+        "url": "/bank-account-opening-in-the-uae"
       },
       {
         "id": 2,
         "title": "Corporate Bank Account Opening Assistance",
         "description": "Overcome compliance roadblocks, simplify funds transfer, and protect your identity with end-to-end nominee services.",
-        "url": "#"
+        "url": "/corporate-bank-account-opening-assistance"
       }
     ]
   },
@@ -189,31 +189,31 @@
         "id": 1,
         "title": "Business Setup Services",
         "description": "Launch, build, and scale your business within and beyond the UAE with end-to-end business setup, licensing, and PRO support.",
-        "url": "#"
+        "url": "/business-setup-services-in-uae"
       },
       {
         "id": 2,
         "title": "Corporate Services",
         "description": "Spot internal inefficiencies, optimise workplace productivity, and ensure 100% complaince with our end-to-end corporate support.",
-        "url": "#"
+        "url": "/corporate-services-in-uae"
       },
       {
         "id": 3,
         "title": "Millionaire & Billionaire Services",
         "description": "Build your legacy, diversify your assets, and secure your loved one’s future with our tailored wealth and family structures.",
-        "url": "#"
+        "url": "/millionaire-and-billionaire-services-in-uae"
       },
       {
         "id": 4,
         "title": "Digital & Branding Solutions",
         "description": "Win customer trust and elevate your online presence with strategic branding and marketing services. ",
-        "url": "#"
+        "url": "/digital-and-branding-services-in-uae"
       },
       {
         "id": 5,
         "title": "Logistics & Relocation Services",
         "description": "Secure 2+ years of UAE residency, sponsor your family, and simplify your move with our relocation solutions.",
-        "url": "#"
+        "url": "/logistics-and-relocation-services-in-uae"
       }
     ]
   },
@@ -227,11 +227,31 @@
   "exploreIndustry": {
     "title": "Explore Other Services",
     "items": [
-      { "id": 1, "title": "Business Setup", "url": "#" },
-      { "id": 2, "title": "Corporate Services", "url": "#" },
-      { "id": 3, "title": "Digital & Branding Solutions", "url": "#" },
-      { "id": 4, "title": "Millionaire & Billionaire", "url": "#" },
-      { "id": 5, "title": "Logistics & Relocation", "url": "#" }
+      {
+        "id": 1,
+        "title": "Business Setup",
+        "url": "/business-setup-services-in-uae"
+      },
+      {
+        "id": 2,
+        "title": "Corporate Services",
+        "url": "/corporate-services-in-uae"
+      },
+      {
+        "id": 3,
+        "title": "Digital & Branding Solutions",
+        "url": "/digital-and-branding-services-in-uae"
+      },
+      {
+        "id": 4,
+        "title": "Millionaire & Billionaire",
+        "url": "/millionaire-and-billionaire-services-in-uae"
+      },
+      {
+        "id": 5,
+        "title": "Logistics & Relocation",
+        "url": "/logistics-and-relocation-services-in-uae"
+      }
     ]
   },
   "faq": {
